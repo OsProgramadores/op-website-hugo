@@ -1,25 +1,28 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
-languageCode = "en-us"
+title = "OsProgramadores"
+languageCode = "pt-br"
 theme = "hugo-elate-theme"
 
 [params]
-
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = "Marcelo"
-  description = ""
-  email = ""
+  author = "Marcelo Pinheiro"
+  description = "Site do grupo OsProgramadores do Telegram"
+  email = "mpinheir@gmail.com"
+
+  # google analytics tracking id
+  googleAnalytics = "UA-2841944-4"
+
   # Navigation
   [params.navigation]
     brand = "OsProgramadores"
-    home = "Home"
-    work = "Projetos"
-    testimonials = "Testimonials"
-    services = "Tutoriais"
-    about = "Sobre"
+    home = "Início"
+    work = "Tutoriais"
+    testimonials = "Empregos"
+    #services = "Tutoriais"
+    about = "Administradores"
     contact = "Contato"
 
     # You can add custom links before or after the default links
@@ -40,38 +43,38 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "Aprenda algo novo."
-    subtitle = 'Tudo que você sempre quis saber sobre programação e nunca teve coragem de perguntar aos seus pais'
+    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais. Participe do nosso grupo no <a href='https://telegram.org/'>Telegram</a>."
 
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "http://cnn.com"
-    button = "Get In Touch"
-    icon = "icon-bulb"
+    title = "Programação"
+    description = "Programação é o processo de escrita, teste e manutenção de um programa de computador."
+    url = "https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_de_computadores"
+    button = "Wikipedia"
+    icon = "icon-book-open"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
-    img = "img_8.jpg"
+    title = "Telegram"
+    description = "Para participar de nosso grupo faça o download do aplicativo Telegram."
+    url = "https://telegram.org/"
+    button = "Dowload Telegram"
+    icon = "icon-cloud-download"
+    img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
-    img = "img_10.jpg"
+    title = "Junte-se ao grupo"      description = "Uma vez instalado o Telegram, click no link abaixo para acessar o nosso grupo."
+    url = "https://web.telegram.org/#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dosprogramadores"
+    button = "Clique aqui"
+    icon = "icon-people"
+    img = "img_8.jpg"
 
   [params.intro.video]
-    enable = true
+  #posso habilitar um vídeo nessa sessão
+    enable = false
     title = "Watch the video"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
@@ -80,86 +83,138 @@ theme = "hugo-elate-theme"
   # Work section
   [params.work]
     enable = true
-    title = "Projetos"
-    description = "Exemplos de projetos criados pelos participantes do grupo."
-    footertext = '** Projetos do grupo <a href="https://t.me/osprogramadores" target="_blank">OsProgramadores</a> do Telegram'
+    title = "Tutoriais"
+    description = 'Alguns tutoriais e recomendações de sites para auxiliar no seu aprendizado.'
+    footertext = ''
 
     [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Projeto 1"
-      subtitle = "Branding"
+      img = "golang_mascot.png"
+      alt = "GoLang Mascot"
+      title = "Go"
+      url="https://go-tour-br.appspot.com/welcome/1"
+      subtitle = ""
+
 
     [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Projeto 2"
-      subtitle = "Design"
+      img = "python.png"
+      alt = "Python"
+      title = "Python"
+      url = "https://wiki.python.org.br/AprendaProgramar"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Projeto 3"
-      subtitle = "Design"
+      img = "js.jpg"
+      alt = "JavaScript"
+      title = "JavaScript"
+      url = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Projeto 4"
-      subtitle = "Design"
+      img = "java.png"
+      alt = "Java"
+      title = "Java"
+      url = "https://docs.oracle.com/javase/tutorial/"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Projeto 5"
-      subtitle = "Design"
+      img = "php.jpg"
+      alt = "php"
+      title = "PHP"
+      url = "http://php.net/manual/pt_BR/"
+      subtitle = ""
 
     [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Projeto 6"
-      subtitle = "Design"
+      img = "nodered.jpg"
+      alt = "Node Red"
+      title = "Node Red"
+      url = "http://noderedguide.com/"
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "git.png"
+      alt = "Git"
+      title = "Git"
+      url = "https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/"
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "swift.jpg"
+      alt = "iOS e Swift"
+      title = "iOS e Swift"
+      url = "https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/"
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "android.png"
+      alt = "Android e Java"
+      title = "Android e Java"
+      url = "https://developer.android.com/index.html"
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "nodejs.png"
+      alt = "Node.JS"
+      title = "Node.JS"
+      url = "https://github.com/ericdouglas/traduz-ai/blob/master/nodejs/001-guia-para-iniciantes-absolutos-em-nodejs.md"
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "mongodb.png"
+      alt = "mongoDB"
+      title = "mongoDB"
+      url = "https://developer.android.com/index.html"
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "mysql.png"
+      alt = "MySQL"
+      title = "MySQL"
+      url = "https://dev.mysql.com/doc/refman/8.0/en/"
+      subtitle = ""
 
   # Testimonials section
   [params.testimonials]
-    enable = true
-    title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    enable = false
+    title = "Empregos"
+    description = "Oportunidades de emprego. Corra atrás e chegue na frente."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      quote = '<a href="http://jobs.com/" target="_blank">Empresa X</a>'
+      person = '<a href="http://jobs.com/" target="_blank">Empresa X</a> <span class="subtext"></span>'
+      img = "golang_mascot.jpg"
+      alt = "Empresa X"
+
+    [[params.testimonials.item]]
+      quote = "Emprego 2"
+      person = '<a href="http://jobs.com/" target="_blank">Empresa Y</a> <span class="subtext"></span>'
       img = "person1.jpg"
-      alt = "Person1"
+      alt = "Empresa Y"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
-      alt = "Person2"
+      quote = "Emprego 3"
+      person = '<a href="http://jobs.com/" target="_blank">Empresa Z</a> <span class="subtext"></span>'
+      img = "person1.jpg"
+      alt = "Empresa Z"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
-      alt = "Person3"
-
-
-
+      quote = "Emprego 4"
+      person = '<a href="http://jobs.com/" target="_blank">Empresa T</a> <span class="subtext"></span>'
+      img = "person1.jpg"
+      alt = "Empresa T"
 
   # Services section
   [params.services]
-    enable = true
+    enable = false
     title = "Tutoriais"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Alguns tutoriais e recomendações de sites para auxiliar no seu aprendizado."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Aplicativos Móveis"
+      description = 'Far far <a href="http://cnn.com">away</a>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean'
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
+      title = "Aplicações Web"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
       icon = "icon-layers2"
     [[params.services.item]]
@@ -175,48 +230,48 @@ theme = "hugo-elate-theme"
   # About section
   [params.about]
     enable = true
-    title = "Sobre"
+    title = "Administradores"
     description = "Somos um grupo que tem por objetivo incentivar o aprendizado da progamação. Não importa sua idade, sexo, religão ou grau de entendimento."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person1.jpg"
-      alt = "Person1"
+      name = "Bernardino Campos"
+      position = "Engenheiro"
+      description = "Eng. Eletrônico de formação; Radio Amador por hobby; Desenvolvedor de sistemas com mais de 30 anos de experiência, programa ativamente em C, C++, Python, PHP e Java; Atualmente é diretor e proprietário das empresas Smartsafe Net Solutions, SafetyMails e Email2b. Ultimamente tem se envolvido bastante com programação de sistemas embarcados. Totalmente Geek."
+      img = "bernardino.jpg"
+      alt = "Bernardino Campos"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-twitter", "https://twitter.com/PY1BJC"],
+        ["icon-linkedin", "https://www.linkedin.com/in/bernardinocampos/"],
+        ["icon-github", "https://github.com/BernardinoCampos"]
       ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
-      alt = "Person2"
+      name = "Marcelo Pinheiro"
+      position = "Consultor"
+      description = "Bacharel em Matemática e Computação e Mestre em Ciência da Computação com mais de 30 anos de experiência em Projetos de Infraestrutura de TI e construção de grandes redes de fibra ótica. Proprietário da PELWARE, empresa de consultoria baseada em Vancouver, no Canada. Já programou desde de BASIC em um TIMEX Sinclair 1000 até Objective-C em um Mac."
+      img = "marcelo.jpg"
+      alt = "Marcelo Pinheiro"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
+        ["icon-twitter", "http://twitter.com/mpinheir"],
+        ["icon-facebook", "http://facebook.com/mpinheiro"],
+        ["icon-github", "https://github.com/mpinheir"]
       ]
 
     [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
+      name = "Marco Paganini"
+      position = "Master of the digital realm"
+      description = "Bacharel em Administração de empresas, computer geek desde jovem, mais de 30 anos de experiencia em infraestrutura e design/impementação de sistemas diversos. Linguagens: C, C++, Python, golang, assembler e outras. Larga experiência em administração de sistemas e redes. Atualmente trabalhando como Site Reliability Engineer de sistemas de ultra larga escala."
+      img = "paganini.jpg"
+      alt = "Marco Paganini"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
+        ["icon-twitter", "http://twitter.com/donpaganini"],
+        # ["icon-facebook", "#"],
+        ["icon-github", "https://github.com/marcopaganini"]
       ]
 
   # Counters section
   [params.counters]
-    enable = true
+    enable = false
     title = "Stats"
     background = "full_image_1.jpg"
 
@@ -261,10 +316,10 @@ theme = "hugo-elate-theme"
 
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "Estamos na nuvem"],
+        ["icon-phone", "+1(305) 981-6207"],
+        ["icon-envelope", "<a href='mailto:info@osprogramadores.com'>info@osprogramadores.com</a>"],
+        ["icon-globe", '<a href="http://OsProgramadores.com" target="_blank">OsProgramadores.com</a>']
       ]
 
     name = "Nome"
@@ -277,3 +332,5 @@ theme = "hugo-elate-theme"
   [params.footer]
     enable = true
     copyright = '&copy; Os Programadores. Todos os direitos reservados. <br>Criado por <a href="http://twitter.com/mpinheir" target="_blank">@mpinheir</a> '
+    twitter = 'http://twitter.com/osprogramadores'
+    facebook = 'http://facebook.com/osprogramadores1'
