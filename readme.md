@@ -13,6 +13,6 @@ Teste de Alteração de BCampos
 Email: samramox@gmail.com  
 GitHub: https://github.com/samuelramox 
 
-- Valdinei Ferreira
-Email: valdinei_vof@hotmail.com
-GitHub: https://github.com/valdinei11
+- Valdinei Ferreira  
+Email: valdinei_vof@hotmail.com  
+GitHub: https://github.com/valdinei11  
