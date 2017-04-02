@@ -12,3 +12,7 @@ Teste de Alteração de BCampos
 - Samuel Ramos  
 Email: samramox@gmail.com  
 GitHub: https://github.com/samuelramox 
+
+- David GesRob
+Email: david81br@gmail.com
+GitHub: https://github.com/david81brs 
