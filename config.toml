@@ -21,7 +21,7 @@ theme = "hugo-elate-theme"
     home = "Início"
     work = "Tutoriais"
     testimonials = "Empregos"
-    #services = "Tutoriais"
+    services = "Desafios"
     about = "Administradores"
     contact = "Contato"
 
@@ -205,13 +205,18 @@ theme = "hugo-elate-theme"
   # Services section
   [params.services]
     enable = false
-    title = "Tutoriais"
+    title = "Desafios"
     description = "Alguns tutoriais e recomendações de sites para auxiliar no seu aprendizado."
 
     [[params.services.item]]
-      title = "Aplicativos Móveis"
+      title = "Crie uma conta no Github"
       description = 'Far far <a href="http://cnn.com">away</a>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean'
       icon = "icon-anchor"
+
+    [[params.services.item]]
+        title = "Crie uma conta no Github"
+        description = 'Far far <a href="http://cnn.com">away</a>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean'
+        icon = "icon-anchor"
 
     [[params.services.item]]
       title = "Aplicações Web"
