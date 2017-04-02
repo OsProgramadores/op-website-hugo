@@ -10,7 +10,7 @@ theme = "hugo-elate-theme"
   # Meta
   author = "Marcelo Pinheiro"
   description = "Site do grupo OsProgramadores do Telegram"
-  email = "mpinheir@gmail.com"
+  email = "info@osprogramadores.com"
 
   # google analytics tracking id
   googleAnalytics = "UA-2841944-4"
