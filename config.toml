@@ -204,33 +204,22 @@ theme = "hugo-elate-theme"
 
   # Services section
   [params.services]
-    enable = false
+    enable = true
     title = "Desafios"
-    description = "Alguns tutoriais e recomendações de sites para auxiliar no seu aprendizado."
+    description = "Alguns desafios para auxiliar no aprendizado da programação:"
 
     [[params.services.item]]
-      title = "Crie uma conta no Github"
-      description = 'Far far <a href="http://cnn.com">away</a>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean'
-      icon = "icon-anchor"
+      title = "Adicione o seu nome a lista de participantes do grupo"
+      description = "Leia o tutorial sobre <a href='https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/'>Git</a> e crie sua conta no <a href='https//gihub.com'>GitHub</a>. <p>Acesse o <a href='https://github.com/OsProgramadores/OsProgramadores-ProjetodoSite'>projeto do site do grupo</a> e faça o fork e clone do projeto para sua máquina.<p>Adicione os seus dados ao arquivo readme.md e submeta um pull request para aprovação."
+      icon = "icon-social-github"
 
     [[params.services.item]]
-        title = "Crie uma conta no Github"
-        description = 'Far far <a href="http://cnn.com">away</a>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean'
-        icon = "icon-anchor"
+        title = "Programa para listar números primos."
+        description = "Crie uma conta no <a href='https://repl.it'>repl.it</a>. <p>Escreva um programa, usando <a href='https://repl.it/languages/python3'>Python</a>, para listar todos os números primos entre 1 e 10000.<p>Compartilhe o link para o programa no grupo no Telegram"
+        icon = "icon-screen-desktop"
 
-    [[params.services.item]]
-      title = "Aplicações Web"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
-    [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
 
-      [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-monitor"
+
 
   # About section
   [params.about]
