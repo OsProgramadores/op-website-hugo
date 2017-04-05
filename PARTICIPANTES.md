@@ -1,4 +1,4 @@
-#### Participantes do grupo do Telegram que deram fork no projeto:
+#Participantes do grupo do Telegram que deram fork no projeto:
 - Samuel Ramos  
 Email: samramox@gmail.com  
 GitHub: https://github.com/samuelramox
