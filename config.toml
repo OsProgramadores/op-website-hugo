@@ -226,7 +226,7 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "Administradores"
-    description = "Somos um grupo que tem por objetivo incentivar o aprendizado da progamação. Não importa sua idade, sexo, religão ou grau de entendimento."
+    description = "Somos um grupo que tem por objetivo incentivar o aprendizado da programação. Não importa sua idade, sexo, religão ou grau de entendimento."
 
     [[params.about.item]]
       name = "Bernardino Campos"
