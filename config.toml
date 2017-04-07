@@ -1,331 +1,124 @@
-# Page settings
-baseurl = "localhost:1313"
+baseurl = "http://localhost"
 title = "OsProgramadores"
+theme = "hugo-universal-theme"
 languageCode = "pt-br"
-theme = "hugo-elate-theme"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "pt"
+# Enable comments by entering your Disqus shortname
+# disqusShortname = "devcows"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+[[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Artigos"
+    url  = "/artigos/"
+    weight = 2
+
+[[menu.main]]
+    name = "Desafios"
+    identifier = "desafios"
+    url  = "/desafios/"
+    weight = 3
+
+[[menu.main]]
+    name = "Administradores"
+    url  = "/admins/"
+    weight = 4
 
 [params]
-  custom_css = ["css/custom1.css", "css/custom2.css"]
+    viewMorePostLink = "/blog/"
+    author = "mpinheir"
+    defaultKeywords = ["programacao", "programas", "coding"]
+    defaultDescription = "Template criado por osprogramadores usando o hugo"
 
-  # Meta
-  author = "Marcelo Pinheiro"
-  description = "Site do grupo OsProgramadores do Telegram"
-  email = "info@osprogramadores.com"
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
 
-  # google analytics tracking id
-  googleAnalytics = "UA-2841944-4"
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
 
-  # Navigation
-  [params.navigation]
-    brand = "OsProgramadores"
-    home = "Início"
-    work = "Tutoriais"
-    testimonials = "Empregos"
-    services = "Desafios"
-    about = "Administradores"
-    contact = "Contato"
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "mpinheir@gmail.com"
 
-    # You can add custom links before or after the default links
-    # Assign a weight to define the order
+    about_us = "<p>O nosso grupo não tem fins lucrativos. O nosso objetivo é disseminar conhecimento em várias áreas da ciência da computação</p>"
+    copyright = "Copyright (c) 2015 - 2017, osprogramadores.com."
 
-    # prepended links
-    #[[menu.prepend]]
-    #  url = "http://gohugo.io"
-    #  name = "Hugo"
-    #  weight = 10
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
 
-    # postpended links
-    #[[menu.postpend]]
-    #  url = "http://gohugo.io"
-    #  name = "External link"
-    #  weight = 10
+    logo = "img/logo.png"
+    #address = ""
+    latitude = "-12.043333"
+    longitude = "-77.028333"
 
-  # Hero section
-  [params.hero]
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-file-code-o"
     title = "Aprenda algo novo."
-    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais. Participe do nosso grupo no <a href='https://telegram.org/'>Telegram</a>."
+    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais."
+    link_url = "https://web.telegram.org/#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dosprogramadores"
+    link_text = "Junte se a nós no Telegram"
 
-  # Intro section
-  # Available icons: http://simplelineicons.com/
-  [params.intro]
-
-  [[params.intro.item]]
-    title = "Programação"
-    description = "Programação é o processo de escrita, teste e manutenção de um programa de computador."
-    url = "https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_de_computadores"
-    button = "Wikipedia"
-    icon = "icon-book-open"
-    img = "img_7.jpg"
-
-  [[params.intro.item]]
-    title = "Telegram"
-    description = "Para participar de nosso grupo faça o download do aplicativo Telegram."
-    url = "https://telegram.org/"
-    button = "Dowload Telegram"
-    icon = "icon-cloud-download"
-    img = "img_7.jpg"
-
-  [[params.intro.item]]
-    title = "Junte-se ao grupo"
-    description = "Uma vez instalado o Telegram, click no link abaixo para acessar o nosso grupo."
-    url = "https://web.telegram.org/#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dosprogramadores"
-    button = "Clique aqui"
-    icon = "icon-people"
-    img = "img_8.jpg"
-
-  [params.intro.video]
-  #posso habilitar um vídeo nessa sessão
-    enable = false
-    title = "Watch the video"
-    icon = "icon-play2"
-    url = "https://vimeo.com/channels/staffpicks/93951774"
-
-
-  # Work section
-  [params.work]
+[params.clients]
     enable = true
-    title = "Tutoriais"
-    description = 'Alguns tutoriais e recomendações de sites para auxiliar no seu aprendizado.'
-    footertext = ''
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
 
-    [[params.work.row]]
-      img = "golang_mascot.png"
-      alt = "GoLang Mascot"
-      title = "Go"
-      url="https://go-tour-br.appspot.com/welcome/1"
-      subtitle = ""
-
-
-    [[params.work.row]]
-      img = "python.png"
-      alt = "Python"
-      title = "Python"
-      url = "https://wiki.python.org.br/AprendaProgramar"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "js.jpg"
-      alt = "JavaScript"
-      title = "JavaScript"
-      url = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "java.png"
-      alt = "Java"
-      title = "Java"
-      url = "https://docs.oracle.com/javase/tutorial/"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "php.jpg"
-      alt = "php"
-      title = "PHP"
-      url = "http://php.net/manual/pt_BR/"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "nodered.jpg"
-      alt = "Node Red"
-      title = "Node Red"
-      url = "http://noderedguide.com/"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "git.png"
-      alt = "Git"
-      title = "Git"
-      url = "https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "swift.jpg"
-      alt = "iOS e Swift"
-      title = "iOS e Swift"
-      url = "https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "android.png"
-      alt = "Android e Java"
-      title = "Android e Java"
-      url = "https://developer.android.com/index.html"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "nodejs.png"
-      alt = "Node.JS"
-      title = "Node.JS"
-      url = "https://github.com/ericdouglas/traduz-ai/blob/master/nodejs/001-guia-para-iniciantes-absolutos-em-nodejs.md"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "mongodb.png"
-      alt = "mongoDB"
-      title = "mongoDB"
-      url = "https://developer.android.com/index.html"
-      subtitle = ""
-
-    [[params.work.row]]
-      img = "mysql.png"
-      alt = "MySQL"
-      title = "MySQL"
-      url = "https://dev.mysql.com/doc/refman/8.0/en/"
-      subtitle = ""
-
-  # Testimonials section
-  [params.testimonials]
-    enable = false
-    title = "Empregos"
-    description = "Oportunidades de emprego. Corra atrás e chegue na frente."
-
-    [[params.testimonials.item]]
-      quote = '<a href="http://jobs.com/" target="_blank">Empresa X</a>'
-      person = '<a href="http://jobs.com/" target="_blank">Empresa X</a> <span class="subtext"></span>'
-      img = "golang_mascot.jpg"
-      alt = "Empresa X"
-
-    [[params.testimonials.item]]
-      quote = "Emprego 2"
-      person = '<a href="http://jobs.com/" target="_blank">Empresa Y</a> <span class="subtext"></span>'
-      img = "person1.jpg"
-      alt = "Empresa Y"
-
-    [[params.testimonials.item]]
-      quote = "Emprego 3"
-      person = '<a href="http://jobs.com/" target="_blank">Empresa Z</a> <span class="subtext"></span>'
-      img = "person1.jpg"
-      alt = "Empresa Z"
-
-    [[params.testimonials.item]]
-      quote = "Emprego 4"
-      person = '<a href="http://jobs.com/" target="_blank">Empresa T</a> <span class="subtext"></span>'
-      img = "person1.jpg"
-      alt = "Empresa T"
-
-  # Services section
-  [params.services]
+[params.recent_posts]
     enable = true
-    title = "Desafios"
-    description = "Alguns desafios para auxiliar no aprendizado da programação:"
-
-    [[params.services.item]]
-      title = "Adicione o seu nome a lista de participantes do grupo"
-      description = "Leia o tutorial sobre <a href='https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/'>Git</a> e crie sua conta no <a href='https//gihub.com'>GitHub</a>. <p>Acesse o <a href='https://github.com/OsProgramadores/OsProgramadores-ProjetodoSite'>projeto do site do grupo</a> e faça o fork e clone do projeto para sua máquina.<p>Adicione os seus dados ao arquivo readme.md e submeta um pull request para aprovação."
-      icon = "icon-social-github"
-
-    [[params.services.item]]
-        title = "Programa para listar números primos."
-        description = "Crie uma conta no <a href='https://repl.it'>repl.it</a>. <p>Escreva um programa, usando <a href='https://repl.it/languages/python3'>Python</a>, para listar todos os números primos entre 1 e 10000.<p>Compartilhe o link para o programa no grupo no Telegram"
-        icon = "icon-screen-desktop"
-
-
-
-
-  # About section
-  [params.about]
-    enable = true
-    title = "Administradores"
-    description = "Somos um grupo que tem por objetivo incentivar o aprendizado da programação. Não importa sua idade, sexo, religão ou grau de entendimento."
-
-    [[params.about.item]]
-      name = "Bernardino Campos"
-      position = "Engenheiro"
-      description = "Eng. Eletrônico de formação; Radio Amador por hobby; Desenvolvedor de sistemas com mais de 30 anos de experiência, programa ativamente em C, C++, Python, PHP e Java; Atualmente é diretor e proprietário das empresas Smartsafe Net Solutions, SafetyMails e Email2b. Ultimamente tem se envolvido bastante com programação de sistemas embarcados. Totalmente Geek."
-      img = "bernardino.jpg"
-      alt = "Bernardino Campos"
-      social = [
-        ["icon-twitter", "https://twitter.com/PY1BJC"],
-        ["icon-linkedin", "https://www.linkedin.com/in/bernardinocampos/"],
-        ["icon-github", "https://github.com/BernardinoCampos"]
-      ]
-
-    [[params.about.item]]
-      name = "Marcelo Pinheiro"
-      position = "Consultor"
-      description = "Bacharel em Matemática e Computação e Mestre em Ciência da Computação com mais de 30 anos de experiência em Projetos de Infraestrutura de TI e construção de grandes redes de fibra ótica. Proprietário da PELWARE, empresa de consultoria baseada em Vancouver, no Canada. Já programou desde de BASIC em um TIMEX Sinclair 1000 até Objective-C em um Mac."
-      img = "marcelo.jpg"
-      alt = "Marcelo Pinheiro"
-      social = [
-        ["icon-twitter", "http://twitter.com/mpinheir"],
-        ["icon-facebook", "http://facebook.com/mpinheiro"],
-        ["icon-github", "https://github.com/mpinheir"]
-      ]
-
-    [[params.about.item]]
-      name = "Marco Paganini"
-      position = "Master of the digital realm"
-      description = "Bacharel em Administração de empresas, computer geek desde jovem, mais de 30 anos de experiencia em infraestrutura e design/impementação de sistemas diversos. Linguagens: C, C++, Python, golang, assembler e outras. Larga experiência em administração de sistemas e redes. Atualmente trabalhando como Site Reliability Engineer de sistemas de ultra larga escala."
-      img = "paganini.jpg"
-      alt = "Marco Paganini"
-      social = [
-        ["icon-twitter", "http://twitter.com/donpaganini"],
-        # ["icon-facebook", "#"],
-        ["icon-github", "https://github.com/marcopaganini"]
-      ]
-
-  # Counters section
-  [params.counters]
-    enable = false
-    title = "Stats"
-    background = "full_image_1.jpg"
-
-    [[params.counters.item]]
-      description = "Finished projects"
-      icon = "icon-briefcase"
-      from = 0
-      to = 89
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Lines of code"
-      icon = "icon-code"
-      from = 0
-      to = 2343409
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Cups of coffee"
-      icon = "icon-cup"
-      from = 0
-      to = 1302
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Happy clients"
-      icon = "icon-people"
-      from = 0
-      to = 52
-      interval = 50
-      speed = 5000
-
-  # Contact section
-  [params.contact]
-    enable = true
-    map = true
-    title = "Entre em contato"
-    description = "Envie sua sugestão, pedido ou comentário."
-
-    # Available icons: http://simplelineicons.com/
-    details = [
-        ["icon-home", "Estamos na nuvem"],
-        ["icon-phone", "+1(305) 981-6207"],
-        ["icon-envelope", "<a href='mailto:info@osprogramadores.com'>info@osprogramadores.com</a>"],
-        ["icon-globe", '<a href="http://OsProgramadores.com" target="_blank">OsProgramadores.com</a>']
-      ]
-
-    name = "Nome"
-    email = "Email"
-    phone = "Telefone"
-    message = "Mensagem"
-    button = "Envie Mensagem"
-
-  # Footer section
-  [params.footer]
-    enable = true
-    copyright = '&copy; Os Programadores. Todos os direitos reservados. <br>Criado por <a href="http://twitter.com/mpinheir" target="_blank">@mpinheir</a> '
-    twitter = 'http://twitter.com/osprogramadores'
-    facebook = 'http://facebook.com/osprogramadores1'
+    title = "Quem Somos"
+    subtitle = "O nosso grupo é formado por pessoas de todas as idades e níveis de experiência. Nosso objetivo é disseminar o conhecimento de programaçao e assuntos ligados a computadores em geral, além de formar um grupo onde todas as opiniões e perguntas sejam bem vindas. Não ha exigências ou pre-requisitos. Sua presença será sempre bem vinda."
