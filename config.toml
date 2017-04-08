@@ -118,6 +118,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "Artigos Recentes"
     subtitle = ""
