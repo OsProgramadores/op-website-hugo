@@ -25,14 +25,13 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Desafios"
-    identifier = "desafios"
-    url  = "/desafios/"
+    name = "Tutoriais"
+    url  = "/tutoriais/"
     weight = 3
 
 [[menu.main]]
-    name = "Administradores"
-    url  = "/admins/"
+    name = "Desafios"
+    url  = "/desafios/"
     weight = 4
 
 [params]
@@ -99,8 +98,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Quem somos"
+    subtitle = "O nosso grupo é formado por pessoas de todas as idades e níveis de experiência. Nosso objetivo é disseminar o conhecimento de programaçao e assuntos ligados a computadores em geral, além de formar um grupo onde todas as opiniões e perguntas sejam bem vindas. Não ha exigências ou pre-requisitos. Sua presença será sempre bem vinda.<div class='heading text-center'><h2>Administradores</h2></div>"
 
 [params.see_more]
     enable = true
@@ -111,7 +110,7 @@ paginate = 10
     link_text = "Junte se a nós no Telegram"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -119,6 +118,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
-    title = "Quem Somos"
-    subtitle = "O nosso grupo é formado por pessoas de todas as idades e níveis de experiência. Nosso objetivo é disseminar o conhecimento de programaçao e assuntos ligados a computadores em geral, além de formar um grupo onde todas as opiniões e perguntas sejam bem vindas. Não ha exigências ou pre-requisitos. Sua presença será sempre bem vinda."
+    enable = false
+    title = "Artigos Recentes"
+    subtitle = ""
