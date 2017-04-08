@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-2841944-4"
 
 # Define the number of posts per page
 paginate = 10
@@ -59,7 +59,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "mpinheir@gmail.com"
+    email = "info@osprogramadores.com"
 
     about_us = "<p>O nosso grupo não tem fins lucrativos. O nosso objetivo é disseminar conhecimento em várias áreas da ciência da computação</p>"
     copyright = "Copyright (c) 2015 - 2017, osprogramadores.com."
