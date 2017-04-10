@@ -1,2 +1,3 @@
 #ignora o conteúdeo do diretório public que é gerado pelo hugo
 public/*
+*.swp
