@@ -1,4 +1,4 @@
-baseurl = "http://localhost"
+baseurl = "/"
 title = "OsProgramadores"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
