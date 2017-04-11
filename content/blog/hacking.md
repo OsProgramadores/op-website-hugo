@@ -14,4 +14,4 @@ grupo não tolera qualquer forma de comportamento ilegal**.  Nosso objetivo
 primário é disseminar o conhecimento de programação e assuntos construtivos em
 geral.
 
-Pedimos aqueles interessados nessas atividades que procurem outra comunidade.
+Pedimos aos interessados nessas atividades que procurem outra comunidade.

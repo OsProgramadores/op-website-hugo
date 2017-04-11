@@ -11,18 +11,18 @@ banner = "img/banners/languages.jpg"
 Uma das perguntas comuns no estudo de programação e ciência da computação em
 geral é "Que linguagem devo usar?". Particularmente, acreditamos que **o
 aprendizado de qualquer linguagem de programação é imensamente útil** pois
-aumenta o grau de exposição a maneiras diferentes de resolver problemas. Um
-outro fato relevante é que quanto mais linguagens alguem sabe, mais fácil é o
+aumenta o grau de exposição às maneiras diferentes de resolver problemas. Um
+outro fato relevante é que quanto mais linguagens alguém sabe, mais fácil é o
 aprendizado de novas linguagens, já que todas apresentam vários conceitos
 comuns.
 
-Se você está começando, a informação abaixo pode ser de alguma ajuda para saber
+Se você está começando, as informações abaixo podem ser de alguma ajuda para saber
 por onde começar.
 
 ## C
 
 C é possivelmente linguagem de mais baixo nível em uso atualmente. Excelente
-para criar sistemas "embedded" (ou "embarcados" como alguns preferem chamar),
+para criar sistemas _embedded_ (ou "embarcados" como alguns preferem chamar),
 drivers e outras partes básicas do sistema operacional. Aprender C proporciona
 um excelente nível de conhecimento de computadores e arquitetura em geral, mas
 grande parte das aplicações tem que ser escritas "do zero", o que pode ser
@@ -40,17 +40,17 @@ objeto seja um requerimento.
 ## Java
 
 Bem divulgada e conhecida. É uma linguagem um pouco "burocrática", mas com
-bastante suporte em termos de bibliotecas e frameworks. Junto com C++, dá uma
-boa fundação para a escrita de backends. Apesar de não ser compilada
-(bytecode), a maturidade dos runtimes garante boa performance (abaixo do C++ na
+bastante suporte em termos de bibliotecas e _frameworks_. Junto com C++, dá uma
+boa fundação para a escrita de _backends_. Apesar de não ser compilada
+(_bytecode_), a maturidade dos runtimes garante boa performance (abaixo do C++ na
 maioria dos casos).
 
 ## Javascript
 
 Apesar de ter "Java" no nome, não é relacionada àquela linguagem. É a linguagem
-primária (e basicamente a única escolha) para quem quer escrever frontends que
-rodem em browsers. Como linguagem inicial, pode não ser uma boa opção por ser
-complexa, requerer o uso de frameworks (para qualquer utilização razoavelmente
+primária (e basicamente a única escolha) para quem quer escrever _frontends_ que
+rodem em _browsers_. Como linguagem inicial, pode não ser uma boa opção por ser
+complexa, requerer o uso de _frameworks_ (para qualquer utilização razoavelmente
 prática) e apresentar inconsistências sintáticas e semânticas.
 
 ## Python
@@ -64,7 +64,7 @@ comparada com as alternativas.
 
 ## Golang
 
-Também conhecida como "Go". É uma linguagem nova, que pode ser usada para sistemas médios
+Também conhecida como "_Go_". É uma linguagem nova, que pode ser usada para sistemas médios
 e grandes. Compilada e com tipagem forte. A linguagem em si vem com um estilo de
-escrita forte (formatação, como delinear o código, etc). Produz codigo compilado e
+escrita forte (formatação, como delinear o código, etc). Produz código compilado e
 eficiente. Especialmente útil para aplicações de multiprocessamento.

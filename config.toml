@@ -61,8 +61,8 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@osprogramadores.com"
 
-    about_us = "<p>O nosso grupo não tem fins lucrativos. O nosso objetivo é disseminar conhecimento em várias áreas da ciência da computação</p>"
-    copyright = "Copyright (c) 2015 - 2017, osprogramadores.com."
+    about_us = "<p>O nosso grupo não tem fins lucrativos. O nosso objetivo é disseminar conhecimento em várias áreas da ciência da computação.</p>"
+    copyright = "Copyright (c) 2015 - 2017, osprogramadores.com"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -99,7 +99,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Quem somos"
-    subtitle = "O nosso grupo é formado por pessoas de todas as idades e níveis de experiência. Nosso objetivo é disseminar o conhecimento de programaçao e assuntos ligados a computadores em geral, além de formar um grupo onde todas as opiniões e perguntas sejam bem vindas. Não ha exigências ou pre-requisitos. Sua presença será sempre bem vinda.<div class='heading text-center'><h2>Administradores</h2></div>"
+    subtitle = "O nosso grupo é formado por pessoas de todas as idades e níveis de experiência. Nosso objetivo é disseminar o conhecimento de programação e assuntos ligados aos computadores em geral, além de formar um grupo onde todas as opiniões e perguntas sejam bem-vindas. Não há exigências ou pré-requisitos. Sua presença será sempre bem-vinda!<div class='heading text-center'><h2>Administradores</h2></div>"
 
 [params.see_more]
     enable = true
@@ -107,7 +107,7 @@ paginate = 10
     title = "Aprenda algo novo."
     subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais."
     link_url = "https://web.telegram.org/#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dosprogramadores"
-    link_text = "Junte se a nós no Telegram"
+    link_text = "Junte-se a nós no Telegram"
 
 [params.clients]
     enable = false
