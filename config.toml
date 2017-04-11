@@ -105,7 +105,7 @@ paginate = 10
     enable = true
     icon = "fa fa-file-code-o"
     title = "Aprenda algo novo."
-    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar."
+    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais."
     link_url = "https://web.telegram.org/#/im?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dosprogramadores"
     link_text = "Junte-se à nós no Telegram"
 
