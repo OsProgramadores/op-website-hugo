@@ -14,7 +14,7 @@ A página do grupo foi criada usando o [Hugo](https://gohugo.io/) e o tema [Univ
 
 ## Instruções para re-criar o website
 
-Esse repositório contem o "fonte" do website, que é baseado num gerador de websites a partir de templates chamado Hugo. Para re-gerar o website ou submeter alterações, siga as isntruções abaixo:
+Esse repositório contém o "fonte" do website, que é baseado num gerador de websites a partir de templates chamado Hugo. Para re-gerar o website ou submeter alterações, siga as instruções abaixo:
 
   1. Instale o [Hugo](https://gohugo.io/) (gerador de websites). Faça o download da versão apropriada para o seu sistema na [Página de Releases](https://github.com/spf13/hugo/releases) do Hugo.
   2. Siga as instruções de instalação na página do Hugo.
