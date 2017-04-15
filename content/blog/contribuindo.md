@@ -31,6 +31,13 @@ Em todos os exemplos nesse artigo, troque "USUÁRIO" pelo seu usuário no github
 
 2. Instale o [git](http://git-scm.com) no seu computador.
 
+3. Configure o seu email e usuário no git com os comandos abaixo:
+
+```
+git config --global user.name "Seu Nome e Sobrenome
+git config --global user.email "seuemail@domain"
+```
+
 Apesar de várias GUIs existirem para o git, esse artigo foca no uso de linha
 de comando.
 
