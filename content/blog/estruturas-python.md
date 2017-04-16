@@ -1,7 +1,7 @@
 +++
-title = "Estruturas de dados em Python #Matrizes"
+title = "Estruturas de dados em Python"
 categories = ["linguagens"]
-tags = ["python","estruturas de dados"]
+tags = ["python", "estruturas de dados", "matrizes"]
 date = "2017-04-14T10:22:25-03:00"
 banner = "img/banners/math-matrix-800px.png"
 
