@@ -29,10 +29,10 @@ paginate = 10
     url  = "/tutoriais/"
     weight = 3
 
-[[menu.main]]
-    name = "Desafios"
-    url  = "/desafios/"
-    weight = 4
+#[[menu.main]]
+#    name = "Desafios"
+#    url  = "/desafios/"
+#    weight = 4
 
 [params]
     viewMorePostLink = "/blog/"
