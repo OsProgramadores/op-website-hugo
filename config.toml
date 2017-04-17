@@ -69,8 +69,8 @@ paginate = 10
 
     logo = "img/logo.png"
     #address = ""
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "-15.7213868"
+    longitude = "-48.0786626"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
