@@ -14,3 +14,7 @@ GitHub: https://github.com/valdinei11
 - David GesRob
 Email: david81br@gmail.com
 GitHub: https://github.com/david81brs
+
+- Giovanni Martins
+Email: giovannimartins2000@gmail.com
+GitHub: https://github.com/GiovanniSM20
