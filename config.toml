@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://osprogramadores.com/"
 title = "OsProgramadores"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
