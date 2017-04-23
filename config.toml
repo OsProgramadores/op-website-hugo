@@ -1,9 +1,9 @@
 baseurl = "https://osprogramadores.com/"
 title = "OsProgramadores"
 theme = "hugo-universal-theme"
-languageCode = "en-us"
+languageCode = "pt_BR"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "osprogramadores-com"
 # Enable Google Analytics by entering your tracking code
