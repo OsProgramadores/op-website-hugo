@@ -34,6 +34,11 @@ paginate = 10
     url  = "/desafios/"
     weight = 3
 
+[[menu.main]]
+    name = "Contato"
+    url = "/contato/"
+    weight = 4
+
 [params]
     viewMorePostLink = "/blog/"
     author = "mpinheir"
