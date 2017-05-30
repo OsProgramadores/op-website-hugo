@@ -10,10 +10,10 @@ banner = "img/banners/telegram.png"
 
 **Contribuição Marcel Carvalho
 
-[Assembly Brasil](http://telegram.me/assemblybr)  
+[Assembly Brasil](http://t.me/assemblybr)  
 Grupo sobre Assembly.
 
-[C/C++ Brasil](http://telegram.me/ccppbrasil)  
+[C/C++ Brasil](http://t.me/ccppbrasil)  
 Grupo sobre C, C++ e outros assuntos.
 
 [ElectronJS Brasil](https://t.me/electronJs_BR)  
@@ -22,7 +22,7 @@ Grupo sobre Electron
 [Frontend Brasil](https://t.me/frontendbrasil)  
 Grupo sobre programação front end.
 
-[GopheLia](http://telegram.me/gopheliacoding)  
+[GopheLia](http://t.me/gopheliacoding)  
 Grupo sobre Golang, Perl, Julia e todas as "pequenas grandes langs"
 
 [Ionic Brasil](https://t.me/ionicbrasil)  
@@ -34,31 +34,31 @@ Grupo sobre JavaScript.
 [Node.js Brasil](https://t.me/NodejsBR)  
 Grupo sobre Node.js
 
-[Os Programadores](http://telegram.me/osprogramadores)  
+[Os Programadores](http://t.me/osprogramadores)  
 Grupo que tem como objetivo incentivar o aprendizado de programação. É aberto a conversas sobre programação em geral, de todos os níveis.
 
-[Perl Brasil](http://telegram.me/perlbrasil)  
+[Perl Brasil](http://t.me/perlbrasil)  
 Grupo sobre Perl e outros assuntos
 
-[PHP Brasil](http://telegram.me/phpbrasil)  
+[PHP Brasil](http://t.me/phpbrasil)  
 Grupo sobre PHP
 
-[Programação Funcional Brasil](http://telegram.me/programacaofuncionalbrasil)  
+[Programação Funcional Brasil](http://t.me/programacaofuncionalbrasil)  
 Grupo voltado à programação funcional em geral
 
-[Programeiros](http://telegram.me/programeiros)  
+[Programeiros](http://t.me/programeiros)  
 Grupo destinado a desenvolvedores iniciantes ou experientes, com foco em programação mas aberto também a Linux.
 
-[PyCoding](http://telegram.me/pyCoding)  
+[PyCoding](http://t.me/pyCoding)  
 Maior grupo sobre Python no Telegram (em inglês)
 
-[PythonBr](http://telegram.me/pythonbr)  
+[PythonBr](http://t.me/pythonbr)  
 Grupo Brasileiro sobre desenvolvimento em Python
 
 [PythonRio](https://t.me/PythonRio)  
 Grupo da comunidade Python do Rio de Janeiro
 
-[The Art of Programming](http://telegram.me/theprogrammingartgroup)  
+[The Art of Programming](http://t.me/theprogrammingartgroup)  
 Grupo, em inglês, sobre programação em geral
 
 [Vala - Linguagem de Programação](https://t.me/Vala_BR)  
