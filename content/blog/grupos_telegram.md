@@ -13,6 +13,9 @@ banner = "img/banners/telegram.png"
 [Assembly Brasil](http://t.me/assemblybr)  
 Grupo sobre Assembly.
 
+[Angular Brasil](https://t.me/angularJSBrasil)  
+Grupo AngularJS.
+
 [C/C++ Brasil](http://t.me/ccppbrasil)  
 Grupo sobre C, C++ e outros assuntos.
 
