@@ -1,7 +1,7 @@
 #Participantes do grupo do Telegram que deram fork no projeto:
 
 - Danrley Senegalha Pires
-Email: dansenpir@protonmail.com
+Email: dansenpir@protonmail.com  
 GitHub: https://github.com/dansenpir
 
 - Samuel Ramos  
