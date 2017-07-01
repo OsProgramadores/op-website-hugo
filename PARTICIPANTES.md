@@ -23,3 +23,8 @@ GitHub: https://github.com/david81brs
 - Giovanni Martins
 Email: giovannimartins2000@gmail.com
 GitHub: https://github.com/GiovanniSM20
+
+- Marcos Teruo Ouchi
+Email: marcos.teruo.ouchi@gmail.com
+GitHub: https://github.com/nixware
+
