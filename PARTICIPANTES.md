@@ -28,3 +28,6 @@ GitHub: https://github.com/GiovanniSM20
 Email: marcos.teruo.ouchi@gmail.com  
 GitHub: https://github.com/nixware  
 
+- Victor Eduardo Santos Soares
+Email: v_eduardo@live.com
+GitHub: https://github.com/veduardo93
