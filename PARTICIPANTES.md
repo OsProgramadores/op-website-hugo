@@ -31,3 +31,7 @@ GitHub: https://github.com/nixware
 - Victor Eduardo Santos Soares
 Email: v_eduardo@live.com
 GitHub: https://github.com/veduardo93
+
+- Diogo Fernandes de Queiroz
+Email: diogoqueirooz1212@gmail.com
+GitHub: https://github.com/Diogo-Queiroz
