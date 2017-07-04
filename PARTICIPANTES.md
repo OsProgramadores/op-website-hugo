@@ -1,4 +1,7 @@
 #Participantes do grupo do Telegram que deram fork no projeto:
+- Kaiocampos
+Email:kaiocamposti@gmail.com
+Github:http://github.com/kaiocampos
 
 - Danrley Senegalha Pires  
 Email: dansenpir@protonmail.com  
