@@ -38,3 +38,11 @@ GitHub: https://github.com/veduardo93
 - Diogo Fernandes de Queiroz
 Email: diogoqueirooz1212@gmail.com
 GitHub: https://github.com/Diogo-Queiroz
+
+- Lucas Cegielkowski Guimarães
+Email: Cegielkowski@icloud.com	
+GitHub: https://github.com/Cegielkowski
+
+
+
+
