@@ -35,9 +35,14 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
+    name = "Heatmap"
+    url  = "/heatmap/"
+    weight = 4
+
+[[menu.main]]
     name = "Contato"
     url = "/contato/"
-    weight = 4
+    weight = 5
 
 [params]
     viewMorePostLink = "/blog/"
@@ -46,7 +51,7 @@ paginate = 10
     defaultDescription = "Site do grupo OsProgramadores do Telegram."
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
+    googleMapsApiKey = "AIzaSyDC2Q3c05UPOaGH-Shg6bbnTQvRbMWOR5c"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
