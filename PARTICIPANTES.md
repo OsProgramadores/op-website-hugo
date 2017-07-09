@@ -1,4 +1,4 @@
-#Participantes do grupo do Telegram que deram fork no projeto:
+﻿#Participantes do grupo do Telegram que deram fork no projeto:
 - Kaiocampos  
 Email:kaiocamposti@gmail.com  
 Github:http://github.com/kaiocampos
@@ -42,3 +42,7 @@ GitHub: https://github.com/Diogo-Queiroz
 - Lucas Cegielkowski Guimarães  
 Email: Cegielkowski@icloud.com  
 GitHub: https://github.com/Cegielkowski
+
+- William da Rosa Garcia  
+Email: william.rosa.garcia@gmail.com  
+GitHub: https://github.com/phewill
