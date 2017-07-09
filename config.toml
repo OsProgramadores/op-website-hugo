@@ -36,7 +36,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Participantes"
-    url  = "/heatmap/"
+    url  = "/participantes/"
     weight = 4
 
 [[menu.main]]
