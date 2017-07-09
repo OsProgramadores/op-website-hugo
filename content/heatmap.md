@@ -1,5 +1,5 @@
 +++
-title = "Heatmap"
+title = "Participantes"
 id = "heatmap"
 +++
 
