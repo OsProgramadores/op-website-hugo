@@ -1,52 +1,66 @@
-﻿#Participantes do grupo do Telegram que deram fork no projeto:
-- Kaiocampos  
-Email:kaiocamposti@gmail.com  
-Github:http://github.com/kaiocampos
+# Participantes do grupo do Telegram que deram fork no projeto:
+
+
+- Clederson Cruz  
+Email: cledersonbc@live.com  
+GitHub: https://github.com/Cledersonbc  
+
 
 - Danrley Senegalha Pires  
 Email: dansenpir@protonmail.com  
-GitHub: https://github.com/dansenpir
+GitHub: https://github.com/dansenpir  
 
-- Samuel Ramos  
-Email: samramox@gmail.com  
-GitHub: https://github.com/samuelramox
-
-- Fábio Oliveira  
-Email: fabio20rj@gmail.com  
-GitHub: https://github.com/ffabiorj
-
-- Valdinei Ferreira  
-Email: valdinei_vof@hotmail.com  
-GitHub: https://github.com/valdinei11  
 
 - David GesRob  
 Email: david81br@gmail.com  
-GitHub: https://github.com/david81brs
+GitHub: https://github.com/david81brs  
+
+
+- Diogo Fernandes de Queiroz  
+Email: diogoqueirooz1212@gmail.com  
+GitHub: https://github.com/Diogo-Queiroz  
+
+
+- Fábio Oliveira  
+Email: fabio20rj@gmail.com  
+GitHub: https://github.com/ffabiorj  
+
 
 - Giovanni Martins  
 Email: giovannimartins2000@gmail.com  
 GitHub: https://github.com/GiovanniSM20
 
-- Marcos Teruo Ouchi  
-Email: marcos.teruo.ouchi@gmail.com  
-GitHub: https://github.com/nixware  
 
-- Victor Eduardo Santos Soares  
-Email: v_eduardo@live.com  
-GitHub: https://github.com/veduardo93
+- Kaiocampos  
+Email:kaiocamposti@gmail.com  
+GitHub: http://github.com/kaiocampos  
 
-- Diogo Fernandes de Queiroz  
-Email: diogoqueirooz1212@gmail.com  
-GitHub: https://github.com/Diogo-Queiroz
 
 - Lucas Cegielkowski Guimarães  
 Email: Cegielkowski@icloud.com  
 GitHub: https://github.com/Cegielkowski
 
+
+- Marcos Teruo Ouchi  
+Email: marcos.teruo.ouchi@gmail.com  
+GitHub: https://github.com/nixware  
+
+
+- Samuel Ramos  
+Email: samramox@gmail.com  
+GitHub: https://github.com/samuelramox  
+
+
+- Valdinei Ferreira  
+Email: valdinei_vof@hotmail.com  
+GitHub: https://github.com/valdinei11  
+
+
+- Victor Eduardo Santos Soares  
+Email: v_eduardo@live.com  
+GitHub: https://github.com/veduardo93
+
+
 - William da Rosa Garcia  
 Email: william.rosa.garcia@gmail.com  
-GitHub: https://github.com/phewill
-
-- Clederson Cruz
-Email: cledersonbc@live.com
-Github: https://github.com/Cledersonbc
+GitHub: https://github.com/phewill  
