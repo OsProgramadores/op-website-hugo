@@ -46,3 +46,7 @@ GitHub: https://github.com/Cegielkowski
 - William da Rosa Garcia  
 Email: william.rosa.garcia@gmail.com  
 GitHub: https://github.com/phewill
+
+- Clederson Cruz
+Email: cledersonbc@live.com
+Github: https://github.com/Cledersonbc
