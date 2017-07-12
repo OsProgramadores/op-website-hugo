@@ -63,4 +63,8 @@ GitHub: https://github.com/veduardo93
 
 - William da Rosa Garcia  
 Email: william.rosa.garcia@gmail.com  
-GitHub: https://github.com/phewill  
+GitHub: https://github.com/phewill
+
+- Alexsandro Felix
+Email: felix at ffelix.eti.br
+GitHub: https://github.com/asfelix
