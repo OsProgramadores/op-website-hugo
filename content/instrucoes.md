@@ -7,7 +7,7 @@ categories = ["instruções"]
 
 # Instruções para o envio de Localização
 
-Utilizando o telegram pelo seu celular, envie uma mensagem private para o nosso bot @osprogramadores_bot com a sua localização.
+Utilizando o telegram pelo seu celular, envie uma mensagem private para o nosso bot [@osprogramadores_bot](https://www.telegram.me/osprogramadores_bot) com a sua localização.
 
 ## iPhone
 
