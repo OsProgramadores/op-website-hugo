@@ -1,13 +1,72 @@
 +++
 title = "Instruções"
-date = "2017-07-12T14:00:00-03:00"
+date = "2017-07-12T23:47:00-07:00"
 tags = ["instruções"]
 categories = ["instruções"]
 +++
 
 # Instruções para o envio de Localização
 
-Utilizando o telegram pelo seu celular, envie uma mensagem private para o nosso bot [@osprogramadores_bot](https://www.telegram.me/osprogramadores_bot) com a sua localização.
+Para se registrar no mapa de participantes, envie a sua localização geográfica
+para o nosso bot ([@osprogramadores_bot](https://t.me/osprogramadores_bot)).  O
+envio de localização depende do uso de GPS, e apenas os clientes mobile do
+Telegram (Android e iPhone) suportam o envio de coordenadas. Não é possivel,
+neste momento, registrar a sua localização através de um cliente telegram
+desktop ou web.
+
+É importante enviar uma mensagem privada **diretamente para o nosso bot**
+[@osprogramadores_bot](https://t.me/osprogramadores_bot) com a sua localização.
+Não envie a sua localização para o canal!
+
+Abaixo seguem instruções mais específicas por plataforma (Android e iPhone).
+
+## Android
+
+Nota: As mensagens podem variar de acordo com a linguagem configurada no
+telefone e versão do sistema operacional.
+
+Na caixa de busca do Telegram, procure por
+[@osprogramadores_bot](https://t.me/osprogramadores_bot) e inicie uma conversa
+privada com o bot. Clique no botão `Start` para iniciar o bot.
+
+![Chat Privado Iniciado](/img/instrucoes/android-01.jpg)
+
+---
+
+Ao clicar no botão `Start`, a conversa com o bot iniciará. Em seguida, clique
+no "clip" do lado inferior direito da tela (attachment) para enviar a sua
+localização:
+
+![Conversa com o Bot](/img/instrucoes/android-02.jpg)
+
+---
+
+Na proxima tela, escolha `Location` para enviar a sua localização para o bot:
+
+![Clique no clip](/img/instrucoes/android-03.jpg)
+
+---
+
+O GPS será ativado e a sua localização determinada. Esse processo pode levar alguns segundos.
+Quando a localização estiver correta na tela (ou próxima ao correto), pressione `Send selected location`.
+
+Nota: A localização é propositalmente modificada pelo bot para evitar problemas de privacidade.
+A sua localização exata não será disponibilizada no mapa.
+
+![Send Location](/img/instrucoes/android-04.jpg)
+
+---
+
+O bot enviará uma mensagem indicando que as suas coordenadas foram atualizadas:
+
+![Mapa Atualizado](/img/instrucoes/android-05.jpg)
+
+---
+
+Se for necessário re-enviar a sua localização, repita o processo acima.
+
+---
+
 
 ## iPhone
 
