@@ -70,7 +70,7 @@ Se for necessário re-enviar a sua localização, repita o processo acima.
 
 ## iPhone
 
-**Tenha a certeza de estar enviando em privado para o bot @osprogramadores_bot, preste atenção ao cabeçalho**
+**Tenha a certeza de estar enviando em privado para o bot [@osprogramadores_bot](https://t.me/osprogramadores_bot), preste atenção ao cabeçalho**
 
 ![Menu](/img/instrucoes/iPhone1.jpg)
 
