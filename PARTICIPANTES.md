@@ -1,4 +1,4 @@
-# Participantes do grupo do Telegram que deram fork no projeto:
+﻿# Participantes do grupo do Telegram que deram fork no projeto:
 
 
 - Clederson Cruz  
@@ -28,7 +28,7 @@ GitHub: https://github.com/ffabiorj
 
 - Giovanni Martins  
 Email: giovannimartins2000@gmail.com  
-GitHub: https://github.com/GiovanniSM20
+GitHub: https://github.com/GiovanniSM20  
 
 
 - Kaiocampos  
@@ -38,7 +38,7 @@ GitHub: http://github.com/kaiocampos
 
 - Lucas Cegielkowski Guimarães  
 Email: Cegielkowski@icloud.com  
-GitHub: https://github.com/Cegielkowski
+GitHub: https://github.com/Cegielkowski  
 
 
 - Marcos Teruo Ouchi  
@@ -58,17 +58,17 @@ GitHub: https://github.com/valdinei11
 
 - Victor Eduardo Santos Soares  
 Email: v_eduardo@live.com  
-GitHub: https://github.com/veduardo93
+GitHub: https://github.com/veduardo93  
 
 
 - William da Rosa Garcia  
 Email: william.rosa.garcia@gmail.com  
-GitHub: https://github.com/phewill
+GitHub: https://github.com/phewill  
 
-- Alexsandro Felix
-Email: felix at ffelix.eti.br
+- Alexsandro Felix  
+Email: felix at ffelix.eti.br  
 GitHub: https://github.com/asfelix
 
-- Antonio Gabriel
-Email: 
-GitHub:  https://github.com/presstart
+- Antonio Gabriel  
+Email:  
+GitHub: https://github.com/presstart  
