@@ -8,7 +8,7 @@ banner = "img/banners/telegram.png"
 
 ## Grupos sobre programação no Telegram
 
-**Contribuição Marcel Carvalho; Danrley;
+**Contribuição Marcel Carvalho; Danrley;  
 
 [Assembly Brasil](http://t.me/assemblybr)  
 Grupo sobre Assembly.
@@ -16,22 +16,22 @@ Grupo sobre Assembly.
 [Angular Brasil](https://t.me/angularJSBrasil)  
 Grupo AngularJS.
 
-[BotCaverna] (https://t.me/joinchat/AAAAAENNXyU9OWfSTzD8DQ)
+[BotCaverna](https://t.me/joinchat/AAAAAENNXyU9OWfSTzD8DQ)  
 Grupo sobre desenvolvimento de bots.
 
-[C is LOVE] (https://t.me/c_user)
+[C is LOVE](https://t.me/c_user)  
 Grupo destinado a assuntos relacionados a Linguagem "C"
 
 [C/C++ Brasil](http://t.me/ccppbrasil)  
 Grupo sobre C, C++ e outros assuntos.
 
-[CSS Brasil] (https://t.me/cssbr)
+[CSS Brasil](https://t.me/cssbr)  
 Grupo técnico sobre Cascading Style Sheets.
 
-[DBA BRASIL] (https://t.me/DbaBrasil)
+[DBA BRASIL](https://t.me/DbaBrasil)  
 Grupo sobre DBA.
 
-[Django Brasil] (https://t.me/djangobrasil)
+[Django Brasil](https://t.me/djangobrasil)  
 Grupo sobre Django (Python)
 
 [ElectronJS Brasil](https://t.me/electronJs_BR)  
@@ -40,13 +40,13 @@ Grupo sobre Electron
 [Frontend Brasil](https://t.me/frontendbrasil)  
 Grupo sobre programação front end.
 
-[Git Brasil] (https://t.me/GitBrasil)
+[Git Brasil](https://t.me/GitBrasil)  
 Grupo brasileiro sobre Git.
 
 [GopheLia](http://t.me/gopheliacoding)  
 Grupo sobre Golang, Perl, Julia e todas as "pequenas grandes langs"
 
-[HTML Brasil] (https://t.me/htmlbr)
+[HTML Brasil](https://t.me/htmlbr)  
 Grupo técnico sobre Hyper Text Markup Language.
 
 [Ionic Brasil](https://t.me/ionicbrasil)  
@@ -76,10 +76,10 @@ Grupo destinado a desenvolvedores iniciantes ou experientes, com foco em projeto
 [PyCoding](http://t.me/pyCoding)  
 Maior grupo sobre Python no Telegram (em inglês)
 
-[Pygrameiros] (https://t.me/joinchat/CxaN0EOnjcK6j6Xh_TD8Vg)
+[Pygrameiros](https://t.me/joinchat/CxaN0EOnjcK6j6Xh_TD8Vg)  
 Grupo sobre Python e seus ambientes com foco em projetos.
 
-[PyKivy - pt_BR] (https://t.me/pykivy)
+[PyKivy - pt_BR](https://t.me/pykivy)  
 Grupo destinado ao desenvolvimento de apps com o framework Kivy (Python)
 
 [PythonBr](http://t.me/pythonbr)  
@@ -88,7 +88,7 @@ Grupo Brasileiro sobre desenvolvimento em Python
 [PythonRio](https://t.me/PythonRio)  
 Grupo da comunidade Python do Rio de Janeiro
 
-[Ruby Brasil] (https://t.me/rubybrasil)
+[Ruby Brasil](https://t.me/rubybrasil)  
 Grupo sobre a linguagem Ruby
 
 [The Art of Programming](http://t.me/theprogrammingartgroup)  
@@ -97,6 +97,6 @@ Grupo, em inglês, sobre programação em geral
 [Vala - Linguagem de Programação](https://t.me/Vala_BR)  
 Grupo sobre a Linguagem de Programação Vala
 
-[VIM-BR] (https://t.me/vimbr)
+[VIM-BR](https://t.me/vimbr)  
 Grupo sobre VIM.
 
