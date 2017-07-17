@@ -49,11 +49,14 @@ Grupo sobre PHP
 [Programação Funcional Brasil](http://t.me/programacaofuncionalbrasil)  
 Grupo voltado à programação funcional em geral
 
-[Programeiros](http://t.me/programeiros)  
-Grupo destinado a desenvolvedores iniciantes ou experientes, com foco em programação mas aberto também a Linux.
+[Programeiros](https://t.me/joinchat/CxaN0D-xLVriZgVzWBM2Fw)  
+Grupo destinado a desenvolvedores iniciantes ou experientes, com foco em projetos.
 
 [PyCoding](http://t.me/pyCoding)  
 Maior grupo sobre Python no Telegram (em inglês)
+
+[Pygrameiros] (https://t.me/joinchat/CxaN0EOnjcK6j6Xh_TD8Vg)
+Grupo sobre Python e seus ambientes com foco em projetos.
 
 [PythonBr](http://t.me/pythonbr)  
 Grupo Brasileiro sobre desenvolvimento em Python
