@@ -16,7 +16,7 @@ Grupo sobre Assembly.
 [Angular Brasil](https://t.me/angularJSBrasil)  
 Grupo AngularJS.
 
-[Bot Caverna] (https://t.me/joinchat/AAAAAENNXyU9OWfSTzD8DQ)
+[BotCaverna] (https://t.me/joinchat/AAAAAENNXyU9OWfSTzD8DQ)
 Grupo sobre desenvolvimento de bots.
 
 [C is LOVE] (https://t.me/c_user)
