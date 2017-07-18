@@ -72,3 +72,7 @@ GitHub: https://github.com/samuelramox
 - Victor Eduardo Santos Soares  
 Email: v_eduardo@live.com  
 GitHub: https://github.com/veduardo93  
+
+- Allan Lima
+Email: allancslima@gmail.com
+GitHub: https://github.com/allancslima
