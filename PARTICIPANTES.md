@@ -65,6 +65,10 @@ GitHub: https://github.com/dansenpir
 Email: diogoqueirooz1212@gmail.com  
 GitHub: https://github.com/Diogo-Queiroz  
 
+- Valdir Rospirski  
+Email: valdir.rospirski@gmail.com  
+GitHub: https://github.com/valdirrospirski  
+
 - Samuel Ramos  
 Email: samramox@gmail.com  
 GitHub: https://github.com/samuelramox  
