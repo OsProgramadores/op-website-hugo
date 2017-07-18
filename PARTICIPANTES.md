@@ -27,7 +27,7 @@ GitHub: https://github.com/valdinei11
 
 - Antonio Gabriel  
 Email:  
-GitHub:  https://github.com/presstart  
+GitHub: https://github.com/presstart  
 
 - William da Rosa Garcia  
 Email: william.rosa.garcia@gmail.com  
@@ -40,6 +40,10 @@ GitHub: https://github.com/david81brs
 - Lucas Cegielkowski Guimarães  
 Email: Cegielkowski@icloud.com  
 GitHub: https://github.com/Cegielkowski  
+
+- Ruhan Macedo  
+Email: ruhanmacedo@outlook.com  
+GitHub: https://github.com/ruhanmacedo  
 
 - Giovanni Martins  
 Email: giovannimartins2000@gmail.com  
@@ -68,8 +72,3 @@ GitHub: https://github.com/samuelramox
 - Victor Eduardo Santos Soares  
 Email: v_eduardo@live.com  
 GitHub: https://github.com/veduardo93  
-
-- Ruhan Macedo  
-Email: ruhanmacedo@outlook.com  
-GitHub: https://github.com/ruhanmacedo  
-
