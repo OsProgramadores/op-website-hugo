@@ -8,7 +8,7 @@ banner = "img/banners/telegram.png"
 
 ## Grupos sobre programação no Telegram
 
-**Contribuição Marcel Carvalho; Danrley;  
+**Contribuição Marcel Carvalho; Danrley;**  
 
 [Assembly Brasil](http://t.me/assemblybr)  
 Grupo sobre Assembly.
