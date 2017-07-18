@@ -17,21 +17,21 @@ GitHub: http://github.com/kaiocampos
 Email: cledersonbc@live.com  
 GitHub: https://github.com/Cledersonbc  
 
-- Alexsandro Felix
-Email: felix at ffelix.eti.br
-GitHub: https://github.com/asfelix
+- Alexsandro Felix  
+Email: felix at ffelix.eti.br  
+GitHub: https://github.com/asfelix  
 
 - Valdinei Ferreira  
 Email: valdinei_vof@hotmail.com  
 GitHub: https://github.com/valdinei11  
 
-- Antonio Gabriel
-Email: 
-GitHub:  https://github.com/presstart
+- Antonio Gabriel  
+Email:  
+GitHub: https://github.com/presstart  
 
 - William da Rosa Garcia  
 Email: william.rosa.garcia@gmail.com  
-GitHub: https://github.com/phewill
+GitHub: https://github.com/phewill  
 
 - David GesRob  
 Email: david81br@gmail.com  
@@ -39,11 +39,15 @@ GitHub: https://github.com/david81brs
 
 - Lucas Cegielkowski Guimarães  
 Email: Cegielkowski@icloud.com  
-GitHub: https://github.com/Cegielkowski
+GitHub: https://github.com/Cegielkowski  
+
+- Ruhan Macedo  
+Email: ruhanmacedo@outlook.com  
+GitHub: https://github.com/ruhanmacedo  
 
 - Giovanni Martins  
 Email: giovannimartins2000@gmail.com  
-GitHub: https://github.com/GiovanniSM20
+GitHub: https://github.com/GiovanniSM20  
 
 - Fábio Oliveira  
 Email: fabio20rj@gmail.com  
@@ -68,4 +72,3 @@ GitHub: https://github.com/samuelramox
 - Victor Eduardo Santos Soares  
 Email: v_eduardo@live.com  
 GitHub: https://github.com/veduardo93  
-
