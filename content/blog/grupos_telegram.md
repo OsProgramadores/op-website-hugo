@@ -20,7 +20,7 @@ Grupo AngularJS.
 Grupo sobre desenvolvimento de bots.
 
 [C is LOVE](https://t.me/c_user)  
-Grupo destinado a assuntos relacionados a Linguagem "C"
+Grupo destinado a assuntos relacionados a Linguagem "C".
 
 [C/C++ Brasil](http://t.me/ccppbrasil)  
 Grupo sobre C, C++ e outros assuntos.
