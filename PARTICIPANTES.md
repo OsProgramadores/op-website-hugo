@@ -39,14 +39,18 @@ GitHub: https://github.com/david81brs
 
 - Lucas Cegielkowski Guimarães  
 Email: Cegielkowski@icloud.com  
-GitHub: https://github.com/Cegielkowski  
+GitHub: https://github.com/Cegielkowski
+
+- Eduardo Henrique  
+Email: eduardosatrini@gmail.com 
+GitHub: https://github.com/satrini    
 
 - Ruhan Macedo  
 Email: ruhanmacedo@outlook.com  
 GitHub: https://github.com/ruhanmacedo  
 
 - Giovanni Martins  
-Email: giovannimartins2000@gmail.com  
+Email: giovannimartins2000@gmail.com    
 GitHub: https://github.com/GiovanniSM20  
 
 - Fábio Oliveira  
@@ -73,7 +77,4 @@ GitHub: https://github.com/samuelramox
 Email: v_eduardo@live.com  
 GitHub: https://github.com/veduardo93
 
-- Eduardo Henrique  
-Email: eduardosatrini@gmail.com 
-GitHub: https://github.com/satrini
 
