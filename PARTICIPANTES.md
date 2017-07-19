@@ -41,7 +41,7 @@ GitHub: https://github.com/david81brs
 Email: Cegielkowski@icloud.com  
 GitHub: https://github.com/Cegielkowski
 
-- Eduardo Henrique 
+- Eduardo Henrique   
 Email: eduardosatrini@gmail.com    
 GitHub: https://github.com/satrini  
 
