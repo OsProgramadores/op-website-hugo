@@ -71,4 +71,9 @@ GitHub: https://github.com/samuelramox
 
 - Victor Eduardo Santos Soares  
 Email: v_eduardo@live.com  
-GitHub: https://github.com/veduardo93  
+GitHub: https://github.com/veduardo93
+
+- Eduardo Henrique  
+Email: eduardosatrini@gmail.com 
+GitHub: https://github.com/satrini
+
