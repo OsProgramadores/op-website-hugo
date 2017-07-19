@@ -43,11 +43,11 @@ GitHub: https://github.com/Cegielkowski
 
 - Eduardo Henrique  
 Email: eduardosatrini@gmail.com 
-GitHub: https://github.com/satrini    
+GitHub: https://github.com/satrini        
 
 - Ruhan Macedo  
 Email: ruhanmacedo@outlook.com  
-GitHub: https://github.com/ruhanmacedo  
+GitHub: https://github.com/ruhanmacedo    
 
 - Giovanni Martins  
 Email: giovannimartins2000@gmail.com    
