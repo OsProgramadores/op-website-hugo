@@ -39,7 +39,11 @@ GitHub: https://github.com/david81brs
 
 - Lucas Cegielkowski Guimarães  
 Email: Cegielkowski@icloud.com  
-GitHub: https://github.com/Cegielkowski  
+GitHub: https://github.com/Cegielkowski
+
+- Eduardo Henrique 
+Email: eduardosatrini@gmail.com    
+GitHub: https://github.com/satrini  
 
 - Ruhan Macedo  
 Email: ruhanmacedo@outlook.com  
