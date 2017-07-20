@@ -16,6 +16,7 @@ Ao adicionar o seu nome, por favor observe:
 | William da Rosa Garcia       | william.rosa.garcia@gmail.com       | https://github.com/phewill        |
 | David GesRob                 | david81br@gmail.com                 | https://github.com/david81brs     |
 | Lucas Cegielkowski Guimarães | Cegielkowski@icloud.com             | https://github.com/Cegielkowski   |
+| Eduardo Henrique             | eduardosatrini@gmail.com            | https://github.com/satrini        |
 | Ruhan Macedo                 | ruhanmacedo@outlook.com             | https://github.com/ruhanmacedo    |
 | Giovanni Martins             | giovannimartins2000@gmail.com       | https://github.com/GiovanniSM20   |
 | Fábio Oliveira               | fabio20rj@gmail.com                 | https://github.com/ffabiorj       |
