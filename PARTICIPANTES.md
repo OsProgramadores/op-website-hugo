@@ -25,3 +25,4 @@ Ao adicionar o seu nome, por favor observe:
 | Diogo Fernandes de Queiroz   | diogoqueirooz1212@gmail.com         | https://github.com/Diogo-Queiroz  |
 | Samuel Ramos                 | samramox@gmail.com                  | https://github.com/samuelramox    |
 | Victor Eduardo Santos Soares | v_eduardo@live.com                  | https://github.com/veduardo93     |
+| Geovane Silva                | geosilva696@gmail.com               | https://github.com/geovanens      |
