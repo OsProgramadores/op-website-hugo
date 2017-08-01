@@ -1,4 +1,4 @@
-# Participantes do grupo do Telegram que deram fork no projeto:
+﻿# Participantes do grupo do Telegram que deram fork no projeto:
 
 Ao adicionar o seu nome, por favor observe:
 
@@ -24,4 +24,5 @@ Ao adicionar o seu nome, por favor observe:
 | Danrley Senegalha Pires      | dansenpir@protonmail.com            | https://github.com/dansenpir      |
 | Diogo Fernandes de Queiroz   | diogoqueirooz1212@gmail.com         | https://github.com/Diogo-Queiroz  |
 | Samuel Ramos                 | samramox@gmail.com                  | https://github.com/samuelramox    |
+| Ligia Salzano                | ligiasalzano@gmail.com             | https://github.com/ligiasalzano           |
 | Victor Eduardo Santos Soares | v_eduardo@live.com                  | https://github.com/veduardo93     |
