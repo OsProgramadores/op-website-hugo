@@ -40,9 +40,14 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
+    name = "Links"
+    url  = "/links/"
+    weight = 5
+
+[[menu.main]]
     name = "Contato"
     url = "/contato/"
-    weight = 5
+    weight = 6
 
 [params]
     viewMorePostLink = "/blog/"
