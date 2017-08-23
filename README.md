@@ -23,3 +23,4 @@ Esse repositório contem o "fonte" do website, que é baseado num gerador de web
   5. Opcional: O Hugo também permite visualização instantânea do site gerado. Para isso, use `hugo server -wv` e aponte o browser para http://localhost:1313.
 
 Envie seus comentários para info@osprogramadores.com ou participe de nosso [grupo no Telegram](https://github.com/spf13/hugo/releases).
+
