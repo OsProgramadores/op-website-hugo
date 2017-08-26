@@ -25,5 +25,5 @@ Ao adicionar o seu nome, por favor observe:
 | Diogo Fernandes de Queiroz   | diogoqueirooz1212@gmail.com         | https://github.com/Diogo-Queiroz  |
 | Samuel Ramos                 | samramox@gmail.com                  | https://github.com/samuelramox    |
 | Marco Antonio Rocha          |                                     | https://github.com/mrcrch         |
-| Ligia Salzano                | ligiasalzano@gmail.com             | https://github.com/ligiasalzano           |
+| Ligia Salzano                | ligiasalzano@gmail.com              | https://github.com/ligiasalzano   |
 | Victor Eduardo Santos Soares | v_eduardo@live.com                  | https://github.com/veduardo93     |
