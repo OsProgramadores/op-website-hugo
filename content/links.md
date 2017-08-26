@@ -27,11 +27,13 @@ tags = ["links"]
 					</tr>
 				</thead>
 				<tbody>
+					<!-- Para add novo curso basta copiar essa Tr até o seu fechamento e colocar os dados-->
 					<tr>
 						<td><a href="https://www.nodestudio.com.br/home" target="_blank">NodeStudio</a></td>
 						<td>Cursos de HTML5, CSS3, Design reponsivo, totalmente gratuitos e de qualidade com certificado.</td>
 						<td>HTML5, CSS3</td>
 					</tr>
+					<!-- Fim da tr-->
 					<tr>
 						<td><a href="http://www.learn-c.org/" target="_blank">Learn-C</a></td>
 						<td>Aprenda C de forma interativa sem precisar de IDE.</td>
@@ -264,7 +266,19 @@ tags = ["links"]
 							<a href="http://www.trico-tech.com/" class="btn btn-primary">Ouvir</a>
 						</div>
 					</div>			
-				</div>				
+				</div>
+				<!-- Para add novos podcasts basta repetir essa parte e add os dados do podcast-->
+				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
+					<div class="thumbnail">
+						<img src="https://www.lambda3.com.br/wp-content/uploads//2017/05/castalio-podcast-8x5.png">
+						<div class="caption">
+							<h3>Castalio</h3>
+							<p>O Castálio é um podcast semanal publicado todas as segundas às 11 horas. Og, Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens de programação e o mundo do Open Source!.</p>
+							<a href="http://castalio.info/" class="btn btn-primary">Ouvir</a>
+						</div>
+					</div>			
+				</div>	
+				<!-- Fim da div onde fica cara thumbnail para os podcasts-->				
 			</div>
 		</div>
 	</div>
