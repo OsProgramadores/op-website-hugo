@@ -27,3 +27,4 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Antonio Rocha          | mrcrch@marcoantoniorocha.33mail.com | https://github.com/mrcrch         |
 | Ligia Salzano                | ligiasalzano@gmail.com              | https://github.com/ligiasalzano   |
 | Victor Eduardo Santos Soares | v_eduardo@live.com                  | https://github.com/veduardo93     |
+| Gabriel Dos Santos           | gabriel.santosti01@gmail.com        | https://github.com/GabrielDS      |
