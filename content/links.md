@@ -10,20 +10,21 @@ tags = ["links"]
 
 .margin-bottom {  margin-bottom: 20px; }
 
-.texto-podcast { overflow: auto; }
 .texto-podcast>h3 { text-align: center; }
 
 .tabLinks {
-  border: 0px;
+  margin: 10px;
   padding: 0;
   padding-top: 15px;
-  overflow: auto;
+  border: 0;
+  overflow-x: auto;
 }
 
 @media screen and (max-width: 767px){
   .font-size-page {
     font-size: 12px;    
   }
+
   .texto-podcast>h3 {
     font-size: 26px;
     text-align: center;
@@ -283,7 +284,7 @@ tags = ["links"]
             <img class="img-responsive" src="https://www.lambda3.com.br/wp-content/uploads//2017/03/lambda3_logo_200x41.png">
             <div class="caption texto-podcast">
               <h3>Lambda3</h3>
-              <p>O Podcast da Lambda3 é um programa feito pelas pessoas que trabalham na Lambda3. Ele é feito 100% de acordo com os desejos das pessoas, sem viés tecnologico, sem viés de mercado, pensando em levar o melhor das discussões que ocorrem no dia-a-dia do desenvolvimento da Lambda3 para a comunidade técnica..</p>
+              <p>O Podcast da Lambda3 é um programa feito pelas pessoas que trabalham na Lambda3. Ele é feito 100% de acordo com os desejos das pessoas, sem viés tecnologico, sem viés de mercado, pensando em levar o melhor das discussões que ocorrem no dia-a-dia do desenvolvimento da Lambda3 para a comunidade técnica.</p>
               <a href="https://www.lambda3.com.br/lambda3-podcast/" class="btn btn-primary">Ouvir</a>
             </div>
           </div>      
