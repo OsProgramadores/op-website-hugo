@@ -3,9 +3,23 @@ title = "Links"
 date = "2017-08-03T18:15:00-03:00"
 tags = ["links"]
 +++
+<!-- Espaço entre a tabela e o rodapé -->
+<style type="text/css">
+.espacamento
+{ margin-bottom: 20px;
+  font-size: 18px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.texto-podcast
+{
+	font-size: 14px;
+	overflow: auto;
+}
+</style>
 
 
-<div class="container">
+<div class="container espacamento">
 	<!-- Criação das Abas-->
 	<ul class="nav nav-tabs" role="tablist">
 		<li class="active"><a href="#cursos" role="tab" data-toggle="tab">Cursos Gratuitos</a></li>
@@ -27,13 +41,11 @@ tags = ["links"]
 					</tr>
 				</thead>
 				<tbody>
-					<!-- Para add novo curso basta copiar essa Tr até o seu fechamento e colocar os dados-->
 					<tr>
 						<td><a href="https://www.nodestudio.com.br/home" target="_blank">NodeStudio</a></td>
 						<td>Cursos de HTML5, CSS3, Design reponsivo, totalmente gratuitos e de qualidade com certificado.</td>
 						<td>HTML5, CSS3</td>
 					</tr>
-					<!-- Fim da tr-->
 					<tr>
 						<td><a href="http://www.learn-c.org/" target="_blank">Learn-C</a></td>
 						<td>Aprenda C de forma interativa sem precisar de IDE.</td>
@@ -182,22 +194,22 @@ tags = ["links"]
 			</table>
 		</div>
 <!-- Aba dos PodCasts-->
-		<div class="tab-pane" role="tabpanel" id="podcasts">
+		<div class="tab-pane overFlowPodcast" role="tabpanel" id="podcasts">
 			<div class="row">
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="https://jovemnerd.com.br/wp-content/uploads/2016/07/logo-jn.png">
-						<div class="caption">
+						<img class="img-responsive" src="https://jovemnerd.com.br/wp-content/uploads/2016/07/logo-jn.png">
+						<div class="caption texto-podcast">
 							<h3>Jovem-nerd</h3>
-							<p>Podcast de nerds em geral, separei só os sobre tecnologias.</p>
+							<p>O Nerdcast completou 10 anos em 2016 com 1 milhão de downloads por episódio e como primeiro lugar de audiência em podcasts no Brasil.</p>
 							<a href="https://jovemnerd.com.br/nerdcast/?search=&theme=tecnologia&page=1" class="btn btn-primary">Ouvir</a>
 						</div>
 					</div>			
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg">
-						<div class="caption">
+						<img class="img-responsive" src="https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg">
+						<div class="caption texto-podcast">
 							<h3>Hipsters-Tech</h3>
 							<p>O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões sobre programação, design, ux, startups e as últimas modinhas em tecnologia. Ah! E sempre com convidados especiais.</p>
 							<a href="http://hipsters.tech/" class="btn btn-primary">Ouvir</a>
@@ -206,8 +218,8 @@ tags = ["links"]
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="http://labs.bluesoft.com.br/wp-content/uploads/2014/08/LogoTopo.png">
-						<div class="caption">
+						<img class="img-responsive" src="http://labs.bluesoft.com.br/wp-content/uploads/2014/08/LogoTopo.png">
+						<div class="caption texto-podcast">
 							<h3>BlueSoft</h3>
 							<p>Podcast sobre desenvolvimento ágil, software e tecnologia apresentado por André Faria e Luiz Faias Jr, e toda a equipe da Bluesoft.</p>
 							<a href="http://labs.bluesoft.com.br/category/podcast/" class="btn btn-primary">Ouvir</a>
@@ -216,8 +228,8 @@ tags = ["links"]
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="https://images.fireside.fm/podcasts/images/5/5b523b2c-c7d6-4b0c-b823-2e5d5409cf35/cover_thumb.jpg">
-						<div class="caption">
+						<img class="img-responsive" src="https://images.fireside.fm/podcasts/images/5/5b523b2c-c7d6-4b0c-b823-2e5d5409cf35/cover_thumb.jpg">
+						<div class="caption texto-podcast">
 							<h3>Área de Transferência</h3>
 							<p>Um podcast semanal sobre tecnologia, feito por 3 podcasters que já respiram o assunto diariamente.</p>
 							<a href="http://areadetransferencia.com.br/episodes" class="btn btn-primary">Ouvir</a>
@@ -229,8 +241,8 @@ tags = ["links"]
 			<div class="row">
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="http://lh3.googleusercontent.com/-6K43UjBCZy4/V3Km49RupxI/AAAAAAAAOBk/jjaLDlXL_NAv-SuRXGfnTj2F7M3moekFgCCo/s1000/social.png">
-						<div class="caption">
+						<img class="img-responsive" src="http://lh3.googleusercontent.com/-6K43UjBCZy4/V3Km49RupxI/AAAAAAAAOBk/jjaLDlXL_NAv-SuRXGfnTj2F7M3moekFgCCo/s1000/social.png">
+						<div class="caption texto-podcast">
 							<h3>PodProgramar</h3>
 							<p>Podcast apresentado por desenvolvedoras focado em programação, notícias e histórias, tudo com o toque feminino numa área dominada por homens.</p>
 							<a href="https://mundopodcast.com.br/podprogramar/" class="btn btn-primary">Ouvir</a>
@@ -239,8 +251,8 @@ tags = ["links"]
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="https://www.lambda3.com.br/wp-content/uploads//2017/03/lambda3_logo_200x41.png">
-						<div class="caption">
+						<img class="img-responsive" src="https://www.lambda3.com.br/wp-content/uploads//2017/03/lambda3_logo_200x41.png">
+						<div class="caption texto-podcast">
 							<h3>Lambda3</h3>
 							<p>O Podcast da Lambda3 é um programa feito pelas pessoas que trabalham na Lambda3. Ele é feito 100% de acordo com os desejos das pessoas, sem viés tecnologico, sem viés de mercado, pensando em levar o melhor das discussões que ocorrem no dia-a-dia do desenvolvimento da Lambda3 para a comunidade técnica..</p>
 							<a href="https://www.lambda3.com.br/lambda3-podcast/" class="btn btn-primary">Ouvir</a>
@@ -249,8 +261,8 @@ tags = ["links"]
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="http://agregarium.com.br/wp-content/uploads/2017/06/logo500A404-300x300.png">
-						<div class="caption">
+						<img class="img-responsive" src="http://agregarium.com.br/wp-content/uploads/2016/03/logo-agg-p-cover3.png">
+						<div class="caption texto-podcast">
 							<h3>Área404</h3>
 							<p>Podcast de discussão sobre as principais notícias da semana no mundo da tecnologia!</p>
 							<a href="http://agregarium.com.br/conteudos/area404/" class="btn btn-primary">Ouvir</a>
@@ -259,38 +271,31 @@ tags = ["links"]
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
 					<div class="thumbnail">
-						<img src="http://www.trico-tech.com/wp-content/uploads/2017/05/Copy-of-trico-1.png">
-						<div class="caption">
+						<img class="img-responsive" src="http://www.trico-tech.com/wp-content/uploads/2017/05/Copy-of-trico-1.png">
+						<div class="caption texto-podcast">
 							<h3>Trico-Tech</h3>
 							<p>Um podcast sobre tudo o que as mulheres curtem: vida digital, inteligência artificial, futorologia, robótica, genética e, é claro, games.</p>
 							<a href="http://www.trico-tech.com/" class="btn btn-primary">Ouvir</a>
 						</div>
 					</div>			
 				</div>
-				<!-- Para add novos podcasts basta repetir essa parte e add os dados do podcast-->
-				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
-					<div class="thumbnail">
-						<img src="https://www.lambda3.com.br/wp-content/uploads//2017/05/castalio-podcast-8x5.png">
-						<div class="caption">
-							<h3>Castalio</h3>
-							<p>O Castálio é um podcast semanal publicado todas as segundas às 11 horas. Og, Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens de programação e o mundo do Open Source!.</p>
-							<a href="http://castalio.info/" class="btn btn-primary">Ouvir</a>
-						</div>
-					</div>			
-				</div>	
-				<!-- Fim da div onde fica cara thumbnail para os podcasts-->				
+			</div>
+			<div class="row">
+				<!-- Para add novos podcasts basta repetir essa parte e add os dados do podcast-->		
+				<div class="col-xs-12 col-sm-6 col-md-3 img-podcast">		
+					<div class="thumbnail">		
+						<img class="img-responsive" src="https://www.lambda3.com.br/wp-content/uploads//2017/05/castalio-podcast-8x5.png">		
+						<div class="caption texto-podcast">		
+							<h3>Castalio</h3>		
+							<p>O Castálio é um podcast semanal publicado todas as segundas às 11 horas. Og, Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens de programação e o mundo do Open Source!.</p>	
+							<a href="http://castalio.info/" class="btn btn-primary">Ouvir</a>		
+						</div>		
+					</div>					
+				</div>			
+				<!-- Fim da div onde fica cara thumbnail para os podcasts-->					
 			</div>
 		</div>
 	</div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
