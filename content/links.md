@@ -7,10 +7,8 @@ tags = ["links"]
 <style type="text/css">
 
 .font-size-page { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
-
-.margin-bottom {  margin-bottom: 20px; }
-
 .texto-podcast>h3 { text-align: center; }
+.podcast {  overflow-x: hidden; }
 
 .tabLinks {
   margin: 10px;
@@ -18,6 +16,11 @@ tags = ["links"]
   padding-top: 15px;
   border: 0;
   overflow-x: auto;
+}
+
+.margin-bottom {
+  padding: 0;
+  margin-bottom: 20px;
 }
 
 @media screen and (max-width: 767px){
@@ -45,10 +48,14 @@ tags = ["links"]
   .font.size-podcast > p{
     font-size: 14px;
   }
+  .tabLinks {
+    overflow-x: hidden;
+  }
 }
+
 </style>
 
-<div class="container font-size-page ">
+<div class="container font-size-page margin-bottom">
   <!-- Criação das Abas-->
   <ul class="nav nav-tabs" role="tablist">
     <li class="active"><a href="#cursos" role="tab" data-toggle="tab">Cursos Gratuitos</a></li>
@@ -223,7 +230,7 @@ tags = ["links"]
       </table>
     </div>
 <!-- Aba dos PodCasts-->
-    <div class="tab-pane font-size-podcast" role="tabpanel" id="podcasts">
+    <div class="tab-pane podcast" role="tabpanel" id="podcasts">
       <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
           <div class="thumbnail">
