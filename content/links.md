@@ -46,7 +46,6 @@ tags = ["links"]
     font-size: 14px;
   }
 }
-
 </style>
 
 <div class="container font-size-page ">
