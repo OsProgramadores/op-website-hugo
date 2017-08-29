@@ -23,41 +23,37 @@ Considere um algoritmo de vetor em _c++_ com "_n_" elementos:
 using namespace std;
 
 int main() {
-
   int vet[]={3,0,1,8,7,2,5,4,6,9};
-
   int len = sizeof(vet)/sizeof(*vet);
-  
-  // O número de unidades do vertor foi obtido pelo tamanho 4 bytes para cada elemento inteiro no array = 40 bytes / 4 bytes
-  // ref. ao tamanho do dereferenciamento do endereço do vetor = 10 unidades. Assim sabemos o limite "len" do vetor "vet".
+
+  // O número de unidades do vetor foi obtido pela fórmula:
+  // 4 bytes para cada elemento inteiro no array = 40 bytes / 4 bytes
+  // ref. ao tamanho do dereferenciamento do endereço do vetor = 10 unidades.
+  // Assim sabemos o limite "len" do vetor "vet".
 
   int j, i, n, aux, count1=0, count2=0;
 
   for(n = 0; n < len; n++)
     cout << vet[n] << " ";
-
   cout << "\n";
 
   // Do maior para o menor
 
-  for(i = 0; i < len; i++)
+  for(i = 0; i < len; i++) {
     for(j = 0; j < len-1; j++) {
-
-	  count2+=1;
+      count2++;
 
       if(vet[j] < vet[j + 1]) {
-
-		count1+=1;
-
+        count1++;
         aux = vet[j];
-
         vet[j] = vet[j + 1];
-
         vet[j + 1] = aux;
       }
     }
-	cout << "\nQuantas vezes no \"for\": " << count2 << endl;
-	cout << "Quantas vezes no \"if\": " << count1 << endl;
+  }
+
+  cout << "\nQuantas vezes no \"for\": " << count2 << endl;
+  cout << "Quantas vezes no \"if\": " << count1 << endl;
 
   for(n = 0; n < len; n++)
     cout << vet[n] << " ";
@@ -68,31 +64,24 @@ int main() {
   count2=0;
 
   // Do menor para o maior
-  
-  for(i = 0; i < len; i++)
-    for(j = 0; j < len-1; j++) {
 
-      count2+=1;
+  for(i = 0; i < len; i++) {
+    for(j = 0; j < len-1; j++) {
+      count2++;
 
       if(vet[j + 1] < vet[j]) { // Aqui troca a avaliação lógica.
-
-	count1+=1;
-
+        count1++;
         aux = vet[j];
-
         vet[j] = vet[j + 1];
-
         vet[j + 1] = aux;
       }
-
     }
-	cout << "\nQuantas vezes no \"for\": " << count2 << endl;
-	cout << "Quantas vezes no \"if\": " << count1 << endl;
-
+  }
+  cout << "\nQuantas vezes no \"for\": " << count2 << endl;
+  cout << "Quantas vezes no \"if\": " << count1 << endl;
 
   for(n = 0; n < len; n++)
-	cout << vet[n] << " ";
-
+    cout << vet[n] << " ";
   cout << "\n";
 
   return 0;
@@ -113,18 +102,17 @@ Ao executar, temos a seguinte saída para o vetor desordenado _vet_:
 
 Quantas vezes no "for": 90
 Quantas  vezes no "if": 32
-9 8 7 6 5 4 3 2 1 0 
+9 8 7 6 5 4 3 2 1 0
 
 Quantas vezes no "for": 90
 Quantos vezes no "if": 45
-0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 9
 
 ```
 
 A complexidade é (O) = N², isto é, tivemos 10 iterações do _loop_ externo  e 9 do _loop_ interno. Tivemos 32 trocas para ordenador do vetor desordenado para ordem decrescente, enquanto tivemos 45 trocas para ordenador do vetor desordenado para ordem crescente.
 
-De maneira mais lúdica, a ordenação será uma dança das cadeiras entre pares de números. 
-Veja uma demonstração neste vídeo:
+De maneira mais lúdica, a ordenação será uma dança das cadeiras entre pares de números. Veja uma demonstração neste vídeo:
 
 {{< youtube  lyZQPjUT5B4 >}}
 
