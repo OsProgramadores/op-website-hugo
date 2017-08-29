@@ -136,3 +136,223 @@ paginate = 10
     enable = true
     title = "Artigos Recentes"
     subtitle = ""
+
+# Links section.
+[params.links]
+    enable = true
+
+# Courses.
+[params.links.courses]
+    enable = true
+
+# List of courses.
+[[params.links.course]]
+    name = "NodeStudio"
+    url = "https://www.nodestudio.com.br/home"
+    description = "Cursos de HTML5, CSS3, Design reponsivo, totalmente gratuitos e de qualidade com certificado."
+    languages = "HTML5, CSS3"
+
+[[params.links.course]]
+    name = "Learn-C"
+    url = "http://www.learn-c.org/"
+    description = "Aprenda C de forma interativa sem precisar de IDE."
+    languages = "C"
+
+[[params.links.course]]
+    name = "Course-Fast"
+    url = "http://course.fast.ai/index.html"
+    description = "Aprenda DeepLearning em vários tópicos."
+    languages = "Várias"
+
+[[params.links.course]]
+    name = "Bootstrap Total"
+    url = "http://www.bootstraptotal.com.br/rwd-aula-01/"
+    description = "Curso de bootstrap gratuito com certificado."
+    languages = "Framework Bootstrap, HTML5, CSS3"
+
+[[params.links.course]]
+    name = "FreeCodeCamp"
+    url = "https://www.freecodecamp.org/"
+    description = "Curso gratuito de Front e Back-end mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado."
+    languages = "HTML5, CSS3, Javascript, Jquery, Bootstrap, Node.js, Git, MongoDB, etc."
+
+[[params.links.course]]
+    name = "CEV - Cursos em Video"
+    url = "https://www.cursoemvideo.com/"
+    description = "Cursos de Front e Back-end, Markting Digital, Banco de Dados, cursos de excelente qualidade e totalmente gratuitos."
+    languages = "HTML5, CSS3, Java, Php, MySQL."
+
+
+# Tools.
+[params.links.tools]
+    enable = true
+
+# List of tools.
+[[params.links.tool]]
+    name = "Regex101"
+    url = "https://regex101.com/"
+    description = "Ferramenta para testas suas expressões regulares em Php, Python, Javascript e Go."
+
+[[params.links.tool]]
+    name = "StackOverFlow"
+    url = "https://pt.stackoverflow.com/"
+    description = "Melhor fórum do mundo para programadores; use com moderação."
+
+[[params.links.tool]]
+    name = "Regex Pal"
+    url = "http://www.regexpal.com/"
+    description = "Outro site para testar expressões regulares."
+
+[[params.links.tool]]
+    name = "RexTester"
+    url = "http://rextester.com/l/pascal_online_compiler"
+    description = "Compilador online de Java, C, C#, C++, Javascript, Lua, Php, Python, Ruby, Scala entre outros."
+
+[[params.links.tool]]
+    name = "Guj"
+    url = "http://www.guj.com.br/"
+    description = "Fórum brasileiro para programadores."
+
+[[params.links.tool]]
+    name = "JpegMini"
+    url = "http://www.jpegmini.com/"
+    description = "Compacta imagens de <strong>JPEG</strong> sem perder qualidade. Excelente para deixar seu site mais leve."
+
+[[params.links.tool]]
+    name = "TinyPng"
+    url = "https://tinypng.com/"
+    description = "Compacte imagens de <strong>PNG</strong> sem perder qualidade. Excelente para deixar seu site mais leve."
+
+[[params.links.tool]]
+    name = "GitHub"
+    url = "https://github.com/"
+    description = "Se vai ser programador, essa ferramenta é essencial para hospedar seus códigos. Muitas empresas costumam pedir seu Github para analisar seus códigos. Temos um <a href='/desafios/d01/'>desafio</a> no site com tutorial ensinando a utilizá-lo."
+
+
+# Docs.
+[params.links.docs]
+    enable = true
+
+# List of docs.
+[[params.links.doc]]
+    name = "DevDocs"
+    url = "http://devdocs.io/"
+    description = "DevDocs é um site que disponibiliza a documentação de centenas de linguagens."
+
+[[params.links.doc]]
+    name = "HTML, CSS, Javascript"
+    url = "https://www.w3schools.com/default.asp"
+    description = "Documentação front-end e back-end com muitos tutoriais."
+
+[[params.links.doc]]
+    name = "PHP"
+    url = "http://php.net/manual/pt_BR/index.php"
+    description = "Tudo que precisar saber sobre PHP tem nesse site, que agrega toda documentação com tutoriais em português."
+
+[[params.links.doc]]
+    name = "PHP do jeito certo"
+    url = "http://br.phptherightway.com/"
+    description = "Site com as melhores práticas para programadores PHP desenvolverem software dentro dos padrões adotados pela comunidade."
+
+[[params.links.doc]]
+    name = "Python"
+    url = "https://wiki.python.org.br/DocumentacaoPython"
+    description = "Site com link para documentação do Python, além de vários artigos e dicas de como e por onde começar com Python."
+
+
+# Ebooks.
+[params.links.ebooks]
+    enable = true
+
+# List of ebooks.
+[[params.links.ebook]]
+    name = "Java OO"
+    url = "https://www.caelum.com.br/apostila-java-orientacao-objetos/"
+    description = "Apostila online de Java Orientado a Objetos. Também pode ser baixada no site gratuitamente."
+
+[[params.links.ebook]]
+    name = "C#"
+    url = "https://www.caelum.com.br/apostila-csharp-orientacao-objetos/"
+    description = "Apostila de C#, totalmente gratuita."
+
+[[params.links.ebook]]
+    name = "Front-End"
+    url = "https://www.caelum.com.br/apostila-html-css-javascript/"
+    description = "Apostila de HTML, CSS e Javascript, distribuída pela Caelum de forma gratuita."
+
+[[params.links.ebook]]
+    name = "UX e Usabilidade"
+    url = "https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/"
+    description = "Apostila de Usabilidade mobile e Web e User Experience."
+
+[[params.links.ebook]]
+    name = "Expressões Regulares"
+    url = "http://piazinho.com.br/download/expressoes-regulares-3-tabelas.pdf"
+    description = "Uma tabela com um super resumo de expressões regulares, disponibilizado gratuitamente pelo autor em seu site."
+
+[[params.links.ebook]]
+    name = "Java para Web"
+    url = "https://www.caelum.com.br/apostila-java-web/"
+    description = "Apostila de Java para Web."
+
+
+# Podcasts.
+[params.links.podcasts]
+    enable = true
+
+# List of podcasts.
+[[params.links.podcast]]
+    name = "Jovem Nerd"
+    url = "https://jovemnerd.com.br/nerdcast/?search=&theme=tecnologia&page=1"
+    description  = "O Nerdcast completou 10 anos em 2016 com 1 milhão de downloads por episódio e como primeiro lugar de audiência em podcasts no Brasil."
+    thumbnail = "/img/podcasts/jovemnerd.png"
+
+[[params.links.podcast]]
+    name = "Hipsters Tech"
+    url = "http://hipsters.tech/"
+    description  = ">O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entram em discussões sobre programação, design, UX, startups e as últimas modinhas em tecnologia. Ah! E sempre, com convidados especiais."
+    thumbnail = "/img/podcasts/hipsters.png"
+
+[[params.links.podcast]]
+    name = "BlueSoft"
+    url = "http://labs.bluesoft.com.br/category/podcast/"
+    description  = "Podcast sobre desenvolvimento ágil, software e tecnologia, apresentado por André Faria, Luiz Farias Jr, e toda a equipe da Bluesoft"
+    thumbnail = "/img/podcasts/bluesoft.png"
+
+[[params.links.podcast]]
+    name = "Área de Transferência"
+    url = "http://areadetransferencia.com.br/episodes"
+    description  = "Um podcast semanal sobre tecnologia, feito por 3 podcasters que já respiram o assunto diariamente."
+    thumbnail = "/img/podcasts/areatransferencia.jpg"
+
+[[params.links.podcast]]
+    name = "PodProgramar"
+    url = "https://mundopodcast.com.br/podprogramar/"
+    description  = "Podcast apresentado por desenvolvedoras focado em programação, notícias e histórias, tudo com o toque feminino numa área dominada por homens."
+    thumbnail = "/img/podcasts/podprogramar.png"
+
+[[params.links.podcast]]
+    name = "Lambda3"
+    url = "https://www.lambda3.com.br/lambda3-podcast/"
+    description  = "O Podcast da Lambda3 é um programa feito pelas pessoas que trabalham na Lambda3. Ele é feito 100% de acordo com os desejos das pessoas, sem viés tecnologico, sem viés de mercado, pensando em levar o melhor das discussões que ocorrem no dia-a-dia do desenvolvimento da Lambda3 para a comunidade técnica."
+    thumbnail = "/img/podcasts/lambda3.png"
+
+[[params.links.podcast]]
+    name = "Área404"
+    url = "http://agregarium.com.br/conteudos/area404/"
+    description  = "Podcast de discussão sobre as principais notícias da semana no mundo da tecnologia."
+    thumbnail = "/img/podcasts/area404.png"
+
+[[params.links.podcast]]
+    name = "Trico-Tech"
+    url = "http://www.trico-tech.com/"
+    description  = "Um podcast sobre tudo o que as mulheres curtem: vida digital, inteligência artificial, futurologia, robótica, genética e, é claro, games."
+    thumbnail = "/img/podcasts/trico.png"
+
+[[params.links.podcast]]
+    name = "Castalio"
+    url = "http://castalio.info/"
+    description  = "O Castálio é um podcast semanal, publicado todas as segundas às 11 horas. Og, Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens de programação e o mundo do Open Source!"
+    thumbnail = "/img/podcasts/castalio.png"
+
+
