@@ -310,7 +310,7 @@ paginate = 10
 [[params.links.podcast]]
     name = "Hipsters Tech"
     url = "http://hipsters.tech/"
-    description  = ">O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entram em discussões sobre programação, design, UX, startups e as últimas modinhas em tecnologia. Ah! E sempre, com convidados especiais."
+    description  = "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entram em discussões sobre programação, design, UX, startups e as últimas modinhas em tecnologia. Ah! E sempre, com convidados especiais."
     thumbnail = "/img/podcasts/hipsters.png"
 
 [[params.links.podcast]]
