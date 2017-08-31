@@ -3,21 +3,58 @@
 
 <!-- Espaço entre a tabela e o rodapé -->
 <style type="text/css">
-.espacamento
-{ margin-bottom: 20px;
-  font-size: 18px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+.font-size-page { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+.texto-podcast>h3 { text-align: center; }
+.podcast {  overflow-x: hidden; }
+
+.tabLinks {
+  margin: 10px;
+  padding: 0;
+  padding-top: 15px;
+  border: 0;
+  overflow-x: auto;
 }
 
-.texto-podcast
-{
-    font-size: 14px;
-    overflow: auto;
+.margin-bottom {
+  padding: 0;
+  margin-bottom: 20px;
 }
+
+@media screen and (max-width: 767px){
+  .font-size-page {
+    font-size: 12px;    
+  }
+
+  .texto-podcast>h3 {
+    font-size: 26px;
+    text-align: center;
+  }
+  .texto-podcast>h3>p{
+    font-size: 12px;
+    text-align: left;
+  }
+}
+
+@media screen and (min-width: 768px){
+  .font-size-page {
+    font-size: 16px;    
+  }
+  .font.size-podcast > h3 {
+    font-size: 30px;
+  }
+  .font.size-podcast > p{
+    font-size: 14px;
+  }
+  .tabLinks {
+    overflow-x: hidden;
+  }
+}
+
 </style>
 
 
-<div class="container espacamento">
+<div class="container font-size-page margin-bottom">
     <!-- Criação das Abas-->
     <ul class="nav nav-tabs" role="tablist">
         {{ if .Site.Params.links.courses.enable }}
@@ -37,7 +74,7 @@
         {{ end }}
     </ul>
     <!-- Conteúdo das abas-->
-    <div class="tab-content">
+    <div class="tab-content tabLinks">
 
         {{ if .Site.Params.links.courses.enable }}
         <!-- Aba dos Cursos-->
@@ -131,7 +168,7 @@
 
         {{ if .Site.Params.links.podcasts.enable }}
         <!-- Aba dos PodCasts-->
-        <div class="tab-pane overFlowPodcast" role="tabpanel" id="podcasts">
+        <div class="tab-pane podcast" role="tabpanel" id="podcasts">
             <div class="row">
                {{ range .Site.Params.links.podcast }}
                 <div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
