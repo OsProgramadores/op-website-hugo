@@ -26,3 +26,4 @@ Ao adicionar o seu nome, por favor observe:
 | Samuel Ramos                 | samramox@gmail.com                  | https://github.com/samuelramox    |
 | Ligia Salzano                | ligiasalzano@gmail.com             | https://github.com/ligiasalzano           |
 | Victor Eduardo Santos Soares | v_eduardo@live.com                  | https://github.com/veduardo93     |
+| Eduardo Stephan              | eduardo.stephan@outlook.com         | https://github.com/edustephan     |
