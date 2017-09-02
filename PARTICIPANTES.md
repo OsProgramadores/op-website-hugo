@@ -24,6 +24,8 @@ Ao adicionar o seu nome, por favor observe:
 | Danrley Senegalha Pires      | dansenpir@protonmail.com            | https://github.com/dansenpir      |
 | Diogo Fernandes de Queiroz   | diogoqueirooz1212@gmail.com         | https://github.com/Diogo-Queiroz  |
 | Samuel Ramos                 | samramox@gmail.com                  | https://github.com/samuelramox    |
-| Ligia Salzano                | ligiasalzano@gmail.com             | https://github.com/ligiasalzano           |
+| Marco Antonio Rocha          | mrcrch@marcoantoniorocha.33mail.com | https://github.com/mrcrch         |
+| Ligia Salzano                | ligiasalzano@gmail.com              | https://github.com/ligiasalzano   |
 | Victor Eduardo Santos Soares | v_eduardo@live.com                  | https://github.com/veduardo93     |
+| Gabriel Dos Santos           | gabriel.santosti01@gmail.com        | https://github.com/GabrielDS      |
 | Eduardo Stephan              | eduardo.stephan@outlook.com         | https://github.com/edustephan     |
