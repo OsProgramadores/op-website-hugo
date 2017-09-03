@@ -34,7 +34,7 @@ Em todos os exemplos nesse artigo, troque "USUÁRIO" pelo seu usuário no github
 3. Configure o seu email e usuário no git com os comandos abaixo:
 
 ```
-git config --global user.name "Seu Nome e Sobrenome
+git config --global user.name "Seu Nome e Sobrenome"
 git config --global user.email "seuemail@domain"
 ```
 

@@ -49,6 +49,11 @@ paginate = 10
     url = "/contato/"
     weight = 6
 
+[[menu.main]]
+    name = "Colabore"
+    url = "/blog/2017/04/14/contribuindo/"
+    weight = 7
+
 [params]
     viewMorePostLink = "/blog/"
     author = "mpinheir"
@@ -354,5 +359,3 @@ paginate = 10
     url = "http://castalio.info/"
     description  = "O Castálio é um podcast semanal, publicado todas as segundas às 11 horas. Og, Elyézer e Bruno falam sobre tecnologia, desenvolvimento de software, linguagens de programação e o mundo do Open Source!"
     thumbnail = "/img/podcasts/castalio.png"
-
-
