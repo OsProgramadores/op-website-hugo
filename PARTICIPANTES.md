@@ -3,7 +3,7 @@
 Ao adicionar o seu nome, por favor observe:
 
 * Adicione o seu nome, email e página do github na lista abaixo.
-* A lista é ordenada por *sobrenome*.
+* A lista é ordenada por *sobrenome*, seguida de *nome* e *prenome*.
 * Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
 
 | Nome                          | Email                                 | Github Page                       |
@@ -15,8 +15,8 @@ Ao adicionar o seu nome, por favor observe:
 | Antonio Gabriel               | No Email                              | https://github.com/presstart      |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill        |
 | David GesRob                  | david81br@gmail.com                   | https://github.com/david81brs     |
-| Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski   |
 | Cleverton Fernandes Guimarães | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes    |
+| Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski   |
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini        |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo    |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20   |
