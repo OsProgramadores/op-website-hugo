@@ -70,7 +70,7 @@ Crie um diretório no seu computador onde o repositório será clonado. Entre no
 diretório criado e digite:
 
 ```
-$ git clone git@github.com:USUÁRIO/op-website-hugo.git
+$ git clone --recursive git@github.com:USUÁRIO/op-website-hugo.git
 
 Cloning into 'op-website-hugo'...
 remote: Counting objects: 418, done.
