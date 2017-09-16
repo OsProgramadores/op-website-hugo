@@ -1,3 +1,10 @@
++++
+categories = ["algoritmo"]
+date = "2017-09-10T19:42:00-03:00"
+tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
+title = "Estrutura de dados: pilha"
++++
+
 # Estruturas de dados: Pilha.
 Como já vimos aqui no blog o método de ordenação [buble sort](https://osprogramadores.com/blog/2017/08/24/estrutura-bubblesort/) e pudemos vislumbrar a sua implementação, veremos nesse post a implementação da estrutura de dados pilha.
 
