@@ -3,6 +3,7 @@ categories = ["algoritmo"]
 date = "2017-09-10T19:42:00-03:00"
 tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
 title = "Estrutura de dados: pilha"
+banner = "img/banners/pilha-pratos.jpg"
 +++
 
 # Estruturas de dados: Pilha.
@@ -13,8 +14,10 @@ A utilização dessa estrutura é natural onde temos cenários que a ultima oper
 
 Um exemplo prático é a utilização em logística de produtos que não tem vencimento, isso traz algumas vantagens para essas empresas pois geralmente as empresas que operam com esse modelo de negócio precificam a mercadoria com base na última compra, isso faz com que os produtos mais antigos em estoque que porventura fossem comprados com custo menor tenham margem de lucro maior, pois serão vendidos com preço de venda maior baseado na compra mais recente.
 
+Um uso prático desse algoritmo é para inverter listas.
+
 ### Conceitos
-Vamos comparar nossa estrutura a uma pilha de pratos. Cada item na pilha conhece tanto o de cima quanto o abaixo **imediatamente** a esse. Com isso em mente podemos fazer uma analogia e programaticamente definir um algoritmo empilhe e desempilhe os pratos.
+Vamos comparar nossa estrutura a uma pilha de pratos. Cada item na pilha conhece tanto o de cima quanto o abaixo **imediatamente** a esse. Com isso em mente podemos fazer uma analogia e programaticamente definir um algoritmo que empilhe e desempilhe os pratos.
 
 Se estivermos em um restaurante e formos preparar nosso buffet teremos que empilhar os pratos para otimizar o espaço e permitir que os clientes comam. Para empilhar precisamos saber duas coisas
 
@@ -125,6 +128,6 @@ Ao analisarmos a implementação dos métodos Push e Pop veremos como é feito o
 
 Ao acrescentar um item criamos um tipo `StackItem` e se a nossa lista estiver vazia podemos colocar o prato em qualquer lugar, se a nossa mesa já tiver pratos temos que ter o cuidado de posicionar o prato sob o anterior, para isso obtemos o `StackItem` anterior, que até então é o topo, fazemos ele se vincular ao novo prato que será empilhado e definimos que o item será o novo topo.
 
-Para que o cliente se sirva é necessário haver pratos na pilha, então verificamos se temos algum prato, e se tivermos armazenamos o prato temporariamente até definirmos o novo topo, após isso entregamos o prato que estava em uma das mãos para o cliente se servir.
+Para que o cliente se sirva é necessário haver pratos na pilha, então verificamos se temos algum prato, e se tivermos armazenamos o prato temporariamente até definirmos o novo topo, após isso entregamos o prato que estava em uma das mãos para o cliente possa se servir.
 
 O código funcional pode ser baixado através do [link](https://gist.github.com/cfguimaraes/ea97ed1030ca319bb19289afe5c9b8c2)
