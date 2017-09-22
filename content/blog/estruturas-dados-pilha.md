@@ -1,20 +1,26 @@
 +++
-categories = ["algoritmo"]
-date = "2017-09-10T19:42:00-03:00"
-tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
-title = "Estrutura de dados: pilha"
-banner = "img/banners/pilha-pratos.jpg"
+ categories = ["algoritmo"]
+ date = "2017-09-10T19:42:00-03:00"
+ tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
+ title = "Estrutura de dados: pilha"
+ banner = "img/banners/pilha-pratos.jpg"
 +++
 
 # Estruturas de dados: Pilha.
-Como já vimos aqui no blog o método de ordenação [buble sort](https://osprogramadores.com/blog/2017/08/24/estrutura-bubblesort/) e pudemos vislumbrar a sua implementação, veremos nesse post a implementação da estrutura de dados pilha.
 
-### LIFO: Last In First Out
+Pilha é uma estrutura de dados muito comum em sistemas computacionais. Dentre as várias soluções possíveis que a pilha permite podemos citar: inversão de listas; armazenar dados; implementar LIFOs.
+
+
+### LIFO (Last In First Out, Último a entrar, primeiro a sair).
+Um **LIFO** é um conceito computacional simples, quer dizer os mais recentes primeiro. Em uma pilha de pratos por exemplo, ao adicionarmos um prato à pilha o colocamos no topo, e ao retirar sai o do topo também.
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Lifo_stack.png#/media/File:Lifo_stack.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png" height="300" alt="Lifo stack.png"></a><br>Por Maxtremus, <span class="int-own-work" lang="pt">Obra do próprio</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=44458752">Ligação</a></p>
+
 A utilização dessa estrutura é natural onde temos cenários que a ultima operação empilhada seja a primeira a ser processada, em outras palavras, as mais recentes primeiro.
 
 Um exemplo prático é a utilização em logística de produtos que não tem vencimento, isso traz algumas vantagens para essas empresas pois geralmente as empresas que operam com esse modelo de negócio precificam a mercadoria com base na última compra, isso faz com que os produtos mais antigos em estoque que porventura fossem comprados com custo menor tenham margem de lucro maior, pois serão vendidos com preço de venda maior baseado na compra mais recente.
 
-Um uso prático desse algoritmo é para inverter listas.
+Outro uso é a inversão de outras estruturas de dados, como pilhas, listas e *arrays*. Como os mais recentes saem primeiro, se processarmos a estrutura desejada desde o primeiro elemento o último será o mais recente na pilha, só precisamos então desempilhar todos os elementos que nossa estrutura alvo estará invertida.
 
 ### Conceitos
 Vamos comparar nossa estrutura a uma pilha de pratos. Cada item na pilha conhece tanto o de cima quanto o abaixo **imediatamente** a esse. Com isso em mente podemos fazer uma analogia e programaticamente definir um algoritmo que empilhe e desempilhe os pratos.
@@ -41,53 +47,61 @@ O código a seguir é uma implementação simples e efetiva de uma estrutura de 
 ```csharp
 public class Stack<T>
     {
-        private StackItem<T> topo;
+	//Esse é elemento responsável por linkar os itens da pilha
+	private StackItem<T> topo;
         private bool isListaVazia
         {
             get { return this.Count == 0; }
         }
         public int Count;
 
-
+        //Método que adiciona itens à pilha
         public void Push(T item)
         {
             if (isListaVazia)
+                //Cria uma pilha com um único elemento
                 this.topo = new StackItem<T>(item);
             else
             {
                 var temp = topo;
+                //Faz um link entre o elemento empilhado com o do topo
                 var stackItem = new StackItem<T>(temp, item);
+                //Define que o elemento empilhado será o novo topo
                 this.topo = stackItem;
             }
             this.Count++;
         }
 
+        //Método que desempilha, observe o retorno.
         public T Pop()
         {
-            if (isListaVazia)
+            if (isListaVazia) 
                 throw new IndexOutOfRangeException();
             else 
             {
-                var item = this.topo.item;
-                this.topo = this.topo.anterior;
+                var item = this.topo.item; //Obtem o valor armazenado no topo
+                this.topo = this.topo.anterior; //Define que o topo será o item anterior, ou nulo.
 
                 this.Count--;
-                return item;
+                return item; //Retorna um objeto do tipo genérico T
             }
         }
-
+ 
+        //Inner Class para dar suporte à pilha e ajudar na abstração
         private class StackItem<T>
         {
-            public T item;
-            public StackItem<T> anterior;
+            public T item; //Armazena o valor
+            public StackItem<T> anterior; //Link com o objeto anterior
 
             public StackItem(T item)
             {
+		//Cria uma pilha sem vínculo
                 this.item = item;
             }
 
             public StackItem(StackItem<T> anterior, T item)
             {
+                //Faz um link entre o topo e o item
                 this.anterior = anterior;
                 this.item = item;
             }
@@ -104,6 +118,7 @@ class Program
     public static void Main()
     {
         var stack = new Stack<object>();
+        //Adicionando 2 objetos anônimos a pilha
         stack.Push(new
         {
             a = 1,
@@ -116,7 +131,8 @@ class Program
             B = 28
         });
 		
-		Console.WriteLine(stack.Pop());
+	//Desempilhando itens
+	Console.WriteLine(stack.Pop());
         Console.WriteLine(stack.Pop());
 	}
 }
