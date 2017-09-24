@@ -155,4 +155,7 @@ Ao acrescentar um item criamos um tipo `StackItem` e se a nossa lista estiver va
 
 Para que o cliente se sirva é necessário haver pratos na pilha, então verificamos se temos algum prato, e se tivermos armazenamos o prato temporariamente até definirmos o novo topo, após isso entregamos o prato que estava em uma das mãos para o cliente possa se servir.
 
-O código funcional pode ser baixado através do [link](https:// gist.github.com/cfguimaraes/ea97ed1030ca319bb19289afe5c9b8c2)
+### Referências
+Autor: Cleverton Fernandes Guimarães, clevertonfernandesguimaraes@gmail.com
+
+[Faça o donwload do código através desse link](https://gist.github.com/cfguimaraes/4a286c64b0194e668b9e6fd86ae1f7a4)
