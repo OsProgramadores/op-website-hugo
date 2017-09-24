@@ -6,15 +6,21 @@
  banner = "img/banners/pilha-pratos.jpg"
 +++
 
-# Estruturas de dados: Pilha.
+# Estruturas de dados: Pilha
 
-Pilha é uma estrutura de dados muito comum em sistemas computacionais. Dentre as várias soluções possíveis que a pilha permite podemos citar: inversão de listas; armazenar dados; implementar LIFOs.
+Pilha é uma estrutura de dados muito comum em sistemas computacionais. Dentre as várias soluções possíveis que a pilha permite podemos citar:
+
+- Inversão de listas
+- Armazenar dados
+- Implementar LIFOs.
 
 
-### LIFO (Last In First Out, Último a entrar, primeiro a sair).
-Um **LIFO** é um conceito computacional simples, quer dizer os mais recentes primeiro. Em uma pilha de pratos por exemplo, ao adicionarmos um prato à pilha o colocamos no topo, e ao retirar sai o do topo também.
+### LIFO (Last In First Out, Último a entrar, primeiro a sair)
+Um **LIFO** é um conceito computacional simples, significa que os elementos adicionados mais recentemente ao LIFO serão os primeiros a serem removidos. Em outras palavras, os mais recentes primeiro.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Lifo_stack.png#/media/File:Lifo_stack.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png" height="300" alt="Lifo stack.png"></a><br>Por Maxtremus, <span class="int-own-work" lang="pt">Obra do próprio</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=44458752">Ligação</a></p>
+Em uma pilha sempre adicionamos um item ao seu topo, e sempre que retiramos também é o do topo, em meios normais claro. Uma pilha é naturalmente um **LIFO**
+
+![Exemplificação de LIFO](/img/conteudos-de-artigos/lifo_stack.png)
 
 A utilização dessa estrutura é natural onde temos cenários que a ultima operação empilhada seja a primeira a ser processada, em outras palavras, as mais recentes primeiro.
 
@@ -32,7 +38,10 @@ Se estivermos em um restaurante e formos preparar nosso buffet teremos que empil
 
 Como o segundo item é uma preocupação que pode ser relaxada, afinal, a quantidade de itens que podemos empilhar é definida pela quantidade de memória disponível não vamos nos ater a esse detalhe na implementação.
 
-A preocupação principal que devemos ter está então no item 1, onde está o prato anterior, temos 2 cenários possíveis, não existe pratos na pilha, e já existem pratos na pilha.
+A preocupação principal que devemos ter está então no item 1, onde está o prato anterior, temos 2 cenários possíveis:
+
+- Não existe pratos na pilha
+- Já existem pratos na pilha.
 
 ### Implementação
 Vamos criar 2 tipos para auxiliar na abstração da estrutura.
@@ -45,96 +54,96 @@ A razão dos tipos serem genéricos é permitir uma implementação mais simples
 O código a seguir é uma implementação simples e efetiva de uma estrutura de dados do tipo pilha.
 
 ```csharp
+using System;
+
 public class Stack<T>
+{
+    private StackItem<T> topo; // Utilizado para vincular os elementos
+    private bool isPilhaVazia
     {
-	//Esse é elemento responsável por linkar os itens da pilha
-	private StackItem<T> topo;
-        private bool isListaVazia
+        get { return this.Count == 0; } // Determina se temos itens na pilha
+    }
+    public int Count;
+
+    // Método que empilha
+    public void Push(T item)
+    {
+        if (isPilhaVazia)
+            this.topo = new StackItem<T>(item); // Pilha contém um único elemento
+        else
         {
-            get { return this.Count == 0; }
+            var stackItem = new StackItem<T>(topo, item); // Inserimos um novo topo vinculado ao antigo
+            this.topo = stackItem; // Declaramos o novo topo
         }
-        public int Count;
+        this.Count++;
+    }
 
-        //Método que adiciona itens à pilha
-        public void Push(T item)
+    // Método que desempilha
+    public T Pop()
+    {
+        if (isPilhaVazia)
+            throw new IndexOutOfRangeException(); // Não é possível remover itens de uma pilha vazia
+        else
         {
-            if (isListaVazia)
-                //Cria uma pilha com um único elemento
-                this.topo = new StackItem<T>(item);
-            else
-            {
-                var temp = topo;
-                //Faz um link entre o elemento empilhado com o do topo
-                var stackItem = new StackItem<T>(temp, item);
-                //Define que o elemento empilhado será o novo topo
-                this.topo = stackItem;
-            }
-            this.Count++;
-        }
+            T item = this.topo.item; // Obtemos o valor armazenado no topo
+            this.topo = this.topo.anterior; // Movemos o ponteiro do topo para o item anterior
 
-        //Método que desempilha, observe o retorno.
-        public T Pop()
-        {
-            if (isListaVazia) 
-                throw new IndexOutOfRangeException();
-            else 
-            {
-                var item = this.topo.item; //Obtem o valor armazenado no topo
-                this.topo = this.topo.anterior; //Define que o topo será o item anterior, ou nulo.
-
-                this.Count--;
-                return item; //Retorna um objeto do tipo genérico T
-            }
-        }
- 
-        //Inner Class para dar suporte à pilha e ajudar na abstração
-        private class StackItem<T>
-        {
-            public T item; //Armazena o valor
-            public StackItem<T> anterior; //Link com o objeto anterior
-
-            public StackItem(T item)
-            {
-		//Cria uma pilha sem vínculo
-                this.item = item;
-            }
-
-            public StackItem(StackItem<T> anterior, T item)
-            {
-                //Faz um link entre o topo e o item
-                this.anterior = anterior;
-                this.item = item;
-            }
+            this.Count--;
+            return item; //Retornamos o valor armazenado
         }
     }
+
+    //Classe de suporte as operações da pilha, responsável por vincular os elementos e armazenar valores
+    private class StackItem<T>
+    {
+        public T item; // Valor, genérico
+        public StackItem<T> anterior; // Vinculo com o item anterior ou abaixo da pilha
+
+        public StackItem(T item)
+        { // Constructor de uma pilha vazia
+            this.item = item;
+        }
+
+        public StackItem(StackItem<T> anterior, T item)
+        { // Constructor de uma pilha com elementos
+            this.anterior = anterior; // Vincula o atual com o anterior
+            this.item = item; // Armazena o valor
+        }
+    }
+}
 ```
 
 O método Push geralmente é utilizado para acrescentar um item a pilha, e o método Pop é utilizado para remover um item da pilha.
 
 ```csharp
 using System;
+
 class Program
 {
     public static void Main()
     {
         var stack = new Stack<object>();
-        //Adicionando 2 objetos anônimos a pilha
         stack.Push(new
         {
             a = 1,
             b = 2
         });
-        
+
+        stack.Push(@"Como a pilha é genérica, podemos inserir quaisquer elementos,
+                     até objetos heterogêneos");
+
         stack.Push(new
         {
-            A = 27,
-            B = 28
+            MadeIn = "Brazil"
         });
-		
-	//Desempilhando itens
-	Console.WriteLine(stack.Pop());
-        Console.WriteLine(stack.Pop());
-	}
+
+        stack.Push("Execute esse código para ver a pilha ser invertida");
+
+        while (stack.Count > 0)
+        {
+            Console.WriteLine(stack.Pop());
+        }
+    }
 }
 ```
 
@@ -146,4 +155,4 @@ Ao acrescentar um item criamos um tipo `StackItem` e se a nossa lista estiver va
 
 Para que o cliente se sirva é necessário haver pratos na pilha, então verificamos se temos algum prato, e se tivermos armazenamos o prato temporariamente até definirmos o novo topo, após isso entregamos o prato que estava em uma das mãos para o cliente possa se servir.
 
-O código funcional pode ser baixado através do [link](https://gist.github.com/cfguimaraes/ea97ed1030ca319bb19289afe5c9b8c2)
+O código funcional pode ser baixado através do [link](https:// gist.github.com/cfguimaraes/ea97ed1030ca319bb19289afe5c9b8c2)
