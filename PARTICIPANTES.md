@@ -8,6 +8,7 @@ Ao adicionar o seu nome, por favor observe:
 
 | Nome                          | Email                                 | Github Page                         |
 | ----------------------------- | ------------------------------------- | ----------------------------------- |
+| Alex Almeida                  | alex.aldr@gmail.com                   | https://github.com/alexaldr         |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos       |
 | Clederson Cruz                | cledersonbc@live.com                  | https://github.com/Cledersonbc      |
