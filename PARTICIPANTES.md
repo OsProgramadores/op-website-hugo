@@ -20,6 +20,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini        |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo    |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20   |
+| Thiago Morette                | thiagomorette@gmail.com               | https://github.com/Morette        |
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj       |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware        |
 | Danrley Senegalha Pires       | dansenpir@protonmail.com              | https://github.com/dansenpir      |
@@ -30,4 +31,3 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93     |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS      |
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan     |
-| Thiago Morette                | thiagomorette@gmail.com               | https://github.com/Morette        |
