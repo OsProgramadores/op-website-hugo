@@ -8,7 +8,7 @@ os:
 
 install:
   - go get -t ./...
-  - pushd travis/checkparticipantes && go build && popd
+  - pushd travis && go build && popd
 
 script:
   - ./travis/checkparticipantes PARTICIPANTES.md
