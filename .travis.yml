@@ -11,5 +11,5 @@ install:
   - pushd travis && go build && popd
 
 script:
-  - ./travis/checkparticipantes PARTICIPANTES.md
+  - travis/checkparticipantes PARTICIPANTES.md
 
