@@ -32,4 +32,3 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93       |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS        |
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan       |
-  
