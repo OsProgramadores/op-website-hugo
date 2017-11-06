@@ -30,5 +30,5 @@ Ao adicionar o seu nome, por favor observe:
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox      |
 | Valdinei Ferreira             | valdinei_vof@hotmail.com              | https://github.com/valdinei11       |
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93       |
-| Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos |
+| Washington Araújo Ramos       | Sem Email                             | https://github.com/WashingtonARamos |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill          |
