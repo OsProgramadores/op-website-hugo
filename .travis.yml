@@ -1,0 +1,15 @@
+language: go
+
+go:
+  - 1.x
+
+os:
+  - linux
+
+install:
+  - go get -t ./...
+  - pushd travis/checkparticipantes && go build && popd
+
+script:
+  - ./travis/checkparticipantes PARTICIPANTES.md
+
