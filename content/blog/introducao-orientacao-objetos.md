@@ -10,12 +10,11 @@
 
 ## Proposito
 
-O proposito desse artigo é servir como material de estudo sobre questões relativas ao aprendizado do paradigma orientado a objetos, o objetivo é que seja utilizado como fonte de consulta sobre problema corriqueiros de novatos e como respostas a perguntas simples sobre como resolver algum problema.
-Não serão abordados contextos históricos sobre fundações, referências fortes como nomes de personagens importantes para a definição do que conhecemos hoje como OOP.
+Esse artigo foi construído para introduzir alguns tópicos de programação orientada a objetos, seu propósito é servir como material de consulta para novatos.
+
+A divisão do artigo segue um conceito lógico, tende a avançar de conceitos e práticas simples para mais complexas, no decorrer do texto também haverá progessão sobre o conteúdo, dessa forma o leitor poderá avançar junto e assimilar o conteúdo.
 
 ### Estrutura do artigo
-
-A divisão do artigo segue um conceito lógico, como visa servir de referência para consulta e também para iniciação tende a avançar de conceitos e práticas simples para mais complexas.
 
 - Pilares de OOP
  1. Abstração
@@ -39,23 +38,28 @@ A divisão do artigo segue um conceito lógico, como visa servir de referência 
 
 ## Pilares da programação orientada a objetos
 
-Toda linguagem orientada a objetos lhe permitirá obrigatoriamente essas 4 formas de manipulação, é o que define uma linguagem como orientada a objetos, essas são:  
+Programação Orientada a Objetos, ou do inglês Object Oriented Programming (OOP) é uma forma de escrever programas, são criadas estruturas para programaticamente imitar o comportamento das coisas (objetos) do mundo real, as coisas importantes para o programa
 
-  -  Abstração
+Toda linguagem orientada a objetos deve implementar 4 conceitos, é o que define uma linguagem como orientada a objetos, essas são:  
+
+  - Abstração
   - Encapsulamento
   - Herança
   - Polimorfismo
 
 Uma característica comum é que as instâncias de objetos podem ser tratados como objetos do mais baixo até o mais alto nível, inclusive para os tipos base da linguagem, como inteiros, pontos flutuantes e caracteres até a mais complexa classe de um sistema.
 
+Em outras palavras, em uma linguagem orientada a objetos tudo deriva de objetos, geralmente do tipo `Object`  por **herança implícita**, e **tudo é conversível a objetos**.
+
 ### 1. Abstração
-Em uma definição própria:
-> Abstração é a capacidade de delimitar um objeto, suas propriedades e comportamentos, ou seja, o que o define, de forma que seja uma representação fiel à realidade ao qual está inserido.
 
 Do site [dicio](https://www.dicio.com.br/abstracao/), com grifo próprio
-> Operação do espírito, que isola de uma noção um elemento, negligenciando os outros.
+> Operação do espírito, que isola de uma noção um elemento, **negligenciando** os outros.
 
-Chegamos a importante conclusão: Para OOP devemos definir de forma muita clara o que o objeto representa
+Em uma definição própria:
+> Abstração é a capacidade de delimitar um objeto, suas propriedades e comportamentos naquilo que ele representa, somente.
+
+Chegamos a importante conclusão: Para OOP devemos definir de forma muita clara o que o objeto representa, para o programa.
 
 Um sistema desenvolvido utilizando o paradigma orientado a objetos é formado por estruturas que representam os objetos da vida real, que estarão presentes no sistema, representados através dessas abstrações.
 
@@ -72,7 +76,7 @@ Podemos enumerar várias:
 
 É um erro comum descrever todas as propriedades que compõem o objeto, contudo a abstração é um exercício, devemos nos ater àquilo que é importante para o domínio da aplicação, e podemos e devemos progredir nesse exercício.
 
-> O Domínio da aplicação é delimitado pelo problema que ela visa resolver
+> O Domínio de uma aplicação é a definição do problema que ela visa resolver, e quais não.
 
 ```csharp
 Class Automovel {
@@ -89,24 +93,29 @@ Class Automovel {
 ```
 <small>Listagem 1: Classe automóvel</small>
 
-Dessa forma escrevemos uma classe Automovel que tem como propriedades DataDeFabricacao, CodigoDeReferenciaDoFabricante e Modelo, ela também apresenta os comportamentos para Acelerar e Frear. 
+Dessa forma escrevemos uma classe Automovel que tem como propriedades DataDeFabricacao, CodigoDeReferenciaDoFabricante e Modelo, ela também apresenta os comportamentos para Acelerar e Frear.
+
+Classe é a forma mais comum de abstrair um objeto nas linguagens modernas, elas são as estruturas utilizadas para definir os comportamentos e propriedades dos objetos que podemos interagir em um programa.
+
+Quando precisarmos de um objeto com aquele comportamento específico, nesse caso, quando precisarmos interagir com um `Automovel` não poderemos utilizar a classe, devemos criar um objeto que se comporta daquela forma, isso é o que chamamos de uma instância de classe.
 
 Note que existe um comportamento representado pela assinatura Colidiu, contudo colidir não é um comportamento do carro. O que é então? Um evento, algo que acontece com o Automovel através de uma casualidade, ou imprevisto, geralmente são as exceções.
-
-Agora que temos uma estrutura responsável por representar um automóvel no nosso domínio podemos apresentar o conceito de encapsulamento.
 
 ### Encapsulamento
 
 Podemos pensar em encapsulamento na forma mais fácil de associação possível: Uma capsula de remédio.
 
-Dentro de uma capsula gelatinosa estão todos os componentes que contribuem para a melhoria, todos os ingredientes est
+Dentro de uma capsula gelatinosa estão todos os componentes que contribuem para a melhoria, todos os ingredientes estão contídos dentro da capsula, o remédio é a mistura de ingredientes, mas só ingerimos a capsula.
 
-Dicio
-Abstração
-Significado de Abstração no Dicionário Online de Português. O que é abstração: s.f. Operação do espírito, que isola de uma noção um elemento, negligen...
- ão contidos dentro da capsula.
+No enscapsulamento definimos as formas de manipulação da classe, através dos métodos publicos disponíveis, estes métodos são responsáveis por alterar o estado do objeto, realizar alguma ação, ou ainda responder a uma evento ocorrido.
 
-Encapsulamento em OOP é nada mais que definir uma API (Application Interface) pública através de uma abstração que entrega o comportamento especificado ao que consome tal API.
+Quando desejamos que o objeto se comporte de forma condicional de forma que seu comportamento aconteça em virtude do seu estado, encapsulamos esse comportamento, assim podemos validar programáticamente e aceitar ou não a manipulação.
+
+Como exemplo, para frear um Automóvel só iremos reduzir a velocidade se essa for maior que zero, afinal não é possível para um veículo ter velocidades negativas, já para acelerar poderemos enquanto o motor tiver potẽncia.
+
+Outra coisa importante do encapsulamento é abraçar as origens do paradigma, segundo Kay objetos devem se comunicar enviando e recebendo mensagens, portanto o estado de um objeto deve ser alterado através de um método definido na classe, isso é encapsulamento.
+
+Algumas linguagens não permitem o acesso direto aos valores (propriedades) de uma classe, **Smalltalk** por exemplo só permite acesso através de troca de mensagens, **Java** te obrigará a implementar o mesmo princípio, são os *Getters* e *Setters*, C# apésar de não ser obrigatório implementar métodos getter/setter para as propriedades há implicitamente um método para esse propósito.
 
 #### Exemplo
 
@@ -120,7 +129,7 @@ public Class Palio : Automovel {
  this.Modelo => "Fire";
 
  Acelerar(){ 
- Velocidade = Velocidade + 6.52;
+ Velocidade = Velocidade + 6.52;e
  //Aceleração média por segundo tomando como base velocidade 0-100 Km/h em 15s
  }
  Frear(){ 
@@ -162,46 +171,33 @@ Class Program {
 ```
 <small>Listagem 3: Programa para teste de aceleração</small>
 
-O encapsulamento foi descrito como: a espera do comportamento especificado para o consumidor da API. Nesse caso o programa utiliza uma instância de um Veiculo, nesse caso uma classe Palio que implementa a API. 
-
 De acordo com a especificação do próprio pálio, a classe Palio abstraí as informações do veículo em algo que faça sentido ao domínio da aplicação e encapsula o comportamento de aceleração e frenagem, assim o consumidor pode utilizar a API e não se preocupar em implementar o comportamento de aceleração e frenagem do pálio.
 
 Para mudar o comportamento do programa para outro veículo é muito fácil, basta criar uma nova herança e através do polimorfismo fazer as chamadas a API disponível na classe Automovel e nosso programa pode se beneficiar do encapsulamento proporcionado e já se adequar a uma ferrari.
 
 ### Herança e Polimorfismo
 
-O conceito de herança é algo muito forte na literatura do paradigma orientado a objetos, surgiu como forma de centralização e reuso de propriedades e comportamentos.
+Herança em OOP é a capacidade de uma estrutura (podem ser classes; interfaces; prototypes e até outros objetos) herdar algo de seus ancestrais, é uma forma de centralização e reuso.
 
-Herança em OOP é a capacidade de uma estrutura ter os mesmos comportamentos de suas estruturas bases. Ou analogamente, é a capacidade de herdar algo dos ancestrais.
+Polimorfismo é a capacidade de uma estrutura descendente assumir a forma de um ancestral em um contexto, sem que isso interfira no resultado, é também a possibilidade de utilizar algo em diferentes contextos com outro significado.
 
-Mas porquê ancestrais?
+Como podemos acompanhar na listagem 2 a classe Palio tem uma sintaxe que determina herança na linguagem Java `class Palio extends Automovel`, essa sintaxe torna Palio herança de Automovel, logo herda as propriedades e comportamentos de Veiculo.
 
-Pois precisamos ter o contrato (contrato é o mesmo que API) da estrutura antes de fazer uma estrutura descendente, ou herança.
-
-E Polimorfismo?
-
-É a capacidade de uma estrutura descendente assumir a forma de um ancestral em um contexto, sem que isso interfira no resultado.
-
-Como podemos acompanhar na listagem 2 a classe Palio tem uma sintaxe que determina herança na linguagem C# Class Palio : Automovel, essa sintaxe torna Palio herança de Automovel, logo herda as propriedades e comportamentos de Veiculo.
-
-Na listagem 3 podemos verificar o comportamento de polimorfismo na execução da instrução Automovel veiculo = new Palio( ). Nesse momento estamos atribuindo através de polimorfismo uma instância de Palio a um tipo Automovel.
+Na listagem 3 podemos verificar o comportamento de polimorfismo na execução da instrução `Automovel veiculo = new Palio( )`. Nesse momento estamos atribuindo através de polimorfismo uma instância de Palio a um tipo Automovel.
 
 O polimorfismo de Palio só é possível pois na construção da classe houve a declaração da herança. 
 
-Em linguagens fortemente tipadas é comum haver restrição quanto a alguma marcação es
- pecial para determinar a herança, e logo, o polimorfismo. Em linguagens dinâmicas não há restrição para polimorfismo, qualquer coisa que implemente a API pode ser consumida por um cliente. Geralmente linguagens prototipadas tornam clara a implementação de uma herança, mas nem sempre é necessário para polimorfismo, logo, uma implementação a API é suficiente para o cliente fazer o consumo.
+Em linguagens fortemente tipadas é comum haver restrição quanto a alguma marcação especial para determinar a herança, e logo, o polimorfismo. Em linguagens dinâmicas não há restrição para polimorfismo, qualquer coisa que implemente a API pode ser consumida por um cliente. Geralmente linguagens prototipadas tornam clara a implementação de uma herança, mas nem sempre é necessário para polimorfismo, logo, uma implementação a API é suficiente para o cliente fazer o consumo.
 
 ### Conclusão
 
-Após percorrer os pilares de uma linguagem orientada a objetos podemos facilmente utilizar esse conceito em qualquer linguagem que apresente o paradigma, citemos C++, C#, Java, JavaScript e Python como as linguagens mais famosas e comuns do paradigma orientado a objetos.
-
-Percebemos também que esses pilares são a sustentação da linguagem e se algum deles for removido ou mal implementado com certeza a estrutura base de qualquer aplicação ficará danificada.
+Após percorrer os pilares de uma linguagem orientada a objetos podemos facilmente utilizar esse conceito em qualquer linguagem que apresente o paradigma, citemos C++, C#, Java, JavaScript, Smalltalk e Python como as linguagens mais famosas e comuns do paradigma orientado a objetos.
 
 Aprendemos que:
 
--  Abstração é a capacidade de delimitar o escopo de um objeto do mundo real através de uma estrutura de define propriedades, comportamentos e eventos ocorridos ao objeto
-- Encapsulamento é uma forma de centralizar a implementação de algum comportamento, deixando o exterior sem conhecimento da implementação e suas dependências e fazendo com que os consumidores se baseiem no contrato para seguir com seus próprios fluxos
-- Herança é a capacidade de reutilizar os comportamentos e propriedades previamente observados e definidos em outra estrutura e que Polimorfismo é a capacidade de uma estrutura descendente substituir seu ascendente no fluxo do programa
+- Abstração é a capacidade de delimitar o escopo de um objeto do mundo real através de uma estrutura de define propriedades, comportamentos e eventos ocorridos ao objeto
+- Encapsulamento é uma forma de centralizar a implementação de algum comportamento, deixando o exterior sem conhecimento da implementação e suas dependências, seu propósito é definir um canal de mensagens para uma classe permitindo o controle de alteração e proporcionando simplicidade.
+- Herança é a capacidade de reutilizar os comportamentos e propriedades previamente observados e definidos em outra estrutura e que Polimorfismo é a capacidade de uma estrutura alterar seu comportamento em outros contextos, ou assumir a responsabilidade de seus ancestrais.
 
 
 ## Conceitos de OOP
@@ -365,17 +361,19 @@ Como esse é também um assunto extenso não vamos abordá-lo em mais detalhes, 
 
 ## Referências bibliográficas e materiais para consulta
 
-[Acrônimos que todo desenvolvedor deveria conhecer e aplicar](https://thefullstack.xyz/dry-yagni-kiss-tdd-soc-bdfu/)
+1. [Acrônimos que todo desenvolvedor deveria conhecer e aplicar](https://thefullstack.xyz/dry-yagni-kiss-tdd-soc-bdfu/)
 
-[Introdução a orientação a objetos](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep#Encapsulation )
+2. [Introdução a orientação a objetos](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep#Encapsulation )
 
-[Página da wikipedia sobre OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)
+3. [Página da wikipedia sobre OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
-[SOLID (em inglês)](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+4. [SOLID (em inglês)](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-[SOLID (em português)](http://www.eduardopires.net.br/2013/04/orientacao-a-objeto-solid/)
+5. [SOLID (em português)](http://www.eduardopires.net.br/2013/04/orientacao-a-objeto-solid/)
 
-[Guia prático para TDD](https://mva.microsoft.com/en-us/training-courses/testdriven-development-16458)
+6. [Guia prático para TDD](https://mva.microsoft.com/en-us/training-courses/testdriven-development-16458)
+
+7. [Definições para OOP por Alan Kay](http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented)
 
 ### Autor
 Cleverton Fernandes Guimarães, clevertonfernandesguimaraes@gmail.com
