@@ -1,3 +1,9 @@
++++
+title = "Regras da nossa comunidade"
+date = "2017-12-06T18:00:00-07:00"
+markup = "markdown"
++++
+
 # Introdução
 
 [OsProgramadores](http://osprogramadores.com) é uma entidade formada por um grupo de profissionais experientes na área de computação com o objetivo de promover a discussão de temas relacionados ao desenvolvimento de software (algoritmos, ferramentas, linguagens, etc).
@@ -60,11 +66,11 @@ Se a sua linguagem não é uma linguagem aceita pelo repl.it, recomendamos o htt
 
 Áudio clips não são tolerados no grupo por qualquer razão e serão imediatamente removidos.
 
-### Não chame outros membros no privado para dúvidas comuns
+## Não chame outros membros no privado para dúvidas comuns
 
 Salvo casos especiais, discuta as suas dúvidas em público, no grupo. Isso permite que mais de uma pessoa o ajude.
 
-## Problemas frequentes com a linguagem C
+# Problemas frequentes com a linguagem C
 
 ## Indente o seu programa corretamente
 
@@ -97,8 +103,6 @@ Alguns problemas comuns em programas C feitos para Windows:
 Existem várias alternativas a ter um desktop Linux para testar o seu programa. Algumas:
 
 * http://repl.it - permite o uso imediato de várias linguagens de programação, com ou sem uma conta. Altamente recomendado pelo grupo.
-
-* http://c9.io - Ambiente completo de programação gratuito.
 
 * http://codenvy.io - Outro Cloud IDE completo e gratuito.
 
