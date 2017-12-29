@@ -11,12 +11,13 @@ Ao adicionar o seu nome, por favor observe:
 | Alex Almeida                  | alex.aldr@gmail.com                   | https://github.com/alexaldr         |
 | Alexsandro Felix              | felix at ffelix.eti.br                | https://github.com/asfelix          |
 | Antonio Gabriel               | No Email                              | https://github.com/presstart        |
+| Augusto da Silva Costa        | contato@guto.pro.br                   | https://github.com/gutocosta        |
 | Clederson Cruz                | cledersonbc@live.com                  | https://github.com/Cledersonbc      |
 | Cleverton Fernandes Guimarães | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes      |
 | Danrley Senegalha Pires       | dansenpir@protonmail.com              | https://github.com/dansenpir        |
 | David GesRob                  | david81br@gmail.com                   | https://github.com/david81brs       |
 | Diogo Fernandes de Queiroz    | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz    |
-| Eduardo Felipe Lopes		| edufelopes@hotmail.com		| https://github.com/raikon55         |
+| Eduardo Felipe Lopes          | edufelopes@hotmail.com                | https://github.com/raikon55         |
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini          |
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan       |
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj         |
