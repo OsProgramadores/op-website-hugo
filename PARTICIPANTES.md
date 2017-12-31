@@ -23,6 +23,7 @@ Ao adicionar o seu nome, por favor observe:
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj         |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS        |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20     |
+| Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova     |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos       |
 | Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano     |
 | Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski     |
