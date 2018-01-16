@@ -32,6 +32,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware          |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo      |
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox      |
+| Thiago Morette de Oliveira    | thiagomorette@gmail.com               | https://github.com/Morette          |
 | Valdinei Ferreira             | valdinei_vof@hotmail.com              | https://github.com/valdinei11       |
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93       |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos |
