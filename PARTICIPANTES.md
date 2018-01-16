@@ -36,4 +36,7 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93       |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill          |
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1d624967bc44ea71603dd08c0f0c9aba30ff12b2
