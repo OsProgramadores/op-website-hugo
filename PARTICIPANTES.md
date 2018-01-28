@@ -26,6 +26,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20     |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova     |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos       |
+| Letícia Freire                | leticiafcs4@gmail.com                 | https://github.com/leticia-freire   |
 | Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano     |
 | Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski     |
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch           |
