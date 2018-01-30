@@ -9,6 +9,9 @@ import (
 	"log"
 	"os"
 	"strings"
+
+	"golang.org/x/text/collate"
+	"golang.org/x/text/language"
 )
 
 // Processfile Loads PARTICIPANTES file and returns slice names containing PARTICIPANTES' names.
@@ -70,11 +73,17 @@ func main() {
 		log.Fatalf("File: %q does not appear to contain any participant names.\n", os.Args[1])
 	}
 
+	// Now let's sort the names.
+	expected := names
+	// Loose sets the collator to ignore diacritics, case and weight.
+	cl := collate.New(language.English, collate.Loose)
+	cl.SortStrings(expected)
+
 	// Checks if names are listed in the proper order.
 	for i := 0; i < len(names)-1; i++ {
-		if names[i] > names[i+1] {
+		if names[i] != expected[i] {
 			// Prints error message and exits in case a given name is not in the proper order.
-			log.Fatalf("Names not sorted properly: %q > %q\n", names[i], names[i+1])
+			log.Fatalf("Names not sorted properly: %q is in the wrong location; should be %q instead.\n", names[i], expected[i])
 		}
 	}
 

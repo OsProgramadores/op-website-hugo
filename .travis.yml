@@ -16,6 +16,8 @@ os:
 
 install:
   - go get -t ./...
+  - go get -u golang.org/x/text/collate
+  - go get -u golang.org/x/text/language
   - pushd travis && go build -o checkparticipantes && popd
 
 script:
