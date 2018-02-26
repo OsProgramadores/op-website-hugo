@@ -33,6 +33,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr     |
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch           |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware          |
+| Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr           |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo      |
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox      |
 | Thiago Morette de Oliveira    | thiagomorette@gmail.com               | https://github.com/Morette          |
