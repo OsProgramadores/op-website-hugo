@@ -23,8 +23,9 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini          |
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan       |
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj         |
-| Gabriel dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS        |
-| Gabriel Lampa da Cunha	      | gabriellampa@gmail.com	            	| https://github.com/icaroraci/	      |
+| Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS        |
+| Gabriel Lampa da Cunha	      | gabriellampa@gmail.com		            | https://github.com/icaroraci/	      |
+| Gabriel Peixoto               | gpeixoto at gmail                     | https://github.com/neuraman         |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20     |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova     |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos       |
@@ -34,6 +35,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr     |
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch           |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware          |
+| Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr           |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo      |
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox      |
 | Thiago Morette de Oliveira    | thiagomorette@gmail.com               | https://github.com/Morette          |
