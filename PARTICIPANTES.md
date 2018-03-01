@@ -23,7 +23,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan       |
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj         |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS        |
-| Gabriel Lampa da Cunha	| gabriellampa@gmail.com		| https://github.com/icaroraci/	      |
+| Gabriel Lampa da Cunha	      | gabriellampa@gmail.com	            	| https://github.com/icaroraci/	      |
 | Gabriel Peixoto               | gpeixoto at gmail                     | https://github.com/neuraman         |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20     |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova     |
@@ -42,3 +42,4 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93       |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill          |
+| Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7   |
