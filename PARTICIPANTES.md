@@ -8,6 +8,7 @@ Ao adicionar o seu nome, por favor observe:
 
 | Nome                          | Email                                 | Github Page                         |
 | ----------------------------- | ------------------------------------- | ----------------------------------- |
+| Adilson Boson Almeida Junior  | adboson@gmail.com                     | https://github.com/adboson          |
 | Alex Almeida                  | alex.aldr@gmail.com                   | https://github.com/alexaldr         |
 | Alexsandro Felix              | felix at ffelix.eti.br                | https://github.com/asfelix          |
 | Antonio Gabriel               | No Email                              | https://github.com/presstart        |
@@ -23,7 +24,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan       |
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj         |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS        |
-| Gabriel Lampa da Cunha	| gabriellampa@gmail.com		| https://github.com/icaroraci/	      |
+| Gabriel Lampa da Cunha	      | gabriellampa@gmail.com		            | https://github.com/icaroraci/	      |
 | Gabriel Peixoto               | gpeixoto at gmail                     | https://github.com/neuraman         |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20     |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova     |
