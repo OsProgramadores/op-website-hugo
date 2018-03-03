@@ -6,85 +6,107 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"io"
 	"log"
 	"os"
+	"regexp"
 	"strings"
 
 	"golang.org/x/text/collate"
 	"golang.org/x/text/language"
 )
 
-// Processfile Loads PARTICIPANTES file and returns slice names containing PARTICIPANTES' names.
-func processfile(fileName string) (participantes []string, err error) {
-	file, err := os.Open(fileName)
-	if err != nil {
-		return nil, err
-	}
+// checkParticipantes checks the PARTICIPANTES.md file for common errors.
+func checkParticipantes(r io.Reader) error {
+	const (
+		githubPrefix    = "https://github.com/"
+		separatorPrefix = "| ----"
+	)
 
-	defer file.Close()
+	// We need a collator to compare order, or accents will break comparison.
+	// Loose sets the collator to ignore diacritics, case and weight.
+	cl := collate.New(language.English, collate.Loose)
 
-	// names slice will hold participant names that were read from file from file PARTICIPANTES.md.
-	names := []string{}
+	scanner := bufio.NewScanner(r)
 
-	// Reads file line by line and process each line to extract participant's name.
-	scanner := bufio.NewScanner(file)
+	var (
+		prevName  string
+		inData    bool
+		partcount int
+		mailRegex = regexp.MustCompile(`(?i)[a-z0-9.-_%]+@.+\..*`)
+	)
 
 	for linecounter := 1; scanner.Scan(); linecounter++ {
 		line := scanner.Text()
 
-		// Ignores first 10 lines.
-		if linecounter < 11 {
+		// Ignore everything until we find a line starting with separatorPrefix.
+		// This indicates the end of our headers (start processing next line).
+		if strings.HasPrefix(line, separatorPrefix) {
+			inData = true
+			continue
+		}
+		if !inData {
 			continue
 		}
 
-		// Splits line contents into hopefully three columns.
 		columns := strings.Split(line, "|")
 
-		// Checks if line contains expected number of columns.
+		// Must have five columns
 		if len(columns) != 5 {
-			return []string{}, fmt.Errorf("Line # %d, incorrect number of rows. Want 5, got %d", linecounter, len(columns))
+			return fmt.Errorf("line %d: incorrect number of rows. Want 5, got %d", linecounter, len(columns))
 		}
 
-		// Appends participant name to list of names.
-		names = append(names, strings.TrimSpace(columns[1]))
+		name := strings.TrimSpace(columns[1])
+		email := strings.TrimSpace(columns[2])
+		github := strings.TrimSpace(columns[3])
+
+		if prevName == "" {
+			prevName = name
+		}
+
+		// Name must be alphabetically above or equal to the last one.
+		if cl.CompareString(name, prevName) < 0 {
+			return fmt.Errorf("line %d: names not sorted properly: %q is in the wrong location; should be %q instead", linecounter, name, prevName)
+		}
+
+		// Email must match foo@bar.something or be "No Email"
+		if !mailRegex.MatchString(email) && email != "No Email" {
+			return fmt.Errorf("line %d: invalid email: %q", linecounter, email)
+		}
+
+		// Github page must start with https://github.com/ and have something after the slash.
+		if !strings.HasPrefix(github, githubPrefix) || strings.HasSuffix(github, githubPrefix) {
+			return fmt.Errorf("line %d: inconsistent github url: %q", linecounter, github)
+		}
+
+		partcount++
+		prevName = name
+	}
+
+	// Make sure we have at least one valid participant.
+	if partcount == 0 {
+		return fmt.Errorf("no valid participant lines found in input file")
 	}
 
 	if err := scanner.Err(); err != nil {
-		return []string{}, err
+		return err
 	}
 
-	return names, nil
+	return nil
 }
 
 func main() {
-	// Checks if name of file to be processed was passed as a parameter.
 	if len(os.Args) != 2 {
 		log.Fatalf("Usage: checkparticipantes <file_name>")
 	}
 
-	// Extracts names of participants from PARTICIPANTES.MD file and checks err for potential error.
-	names, err := processfile(os.Args[1])
+	file, err := os.Open(os.Args[1])
 	if err != nil {
+		log.Fatalf("Error opening input file %q: %v\n", os.Args[1], err)
+	}
+	defer file.Close()
+
+	if err := checkParticipantes(file); err != nil {
 		log.Fatalln(err)
 	}
-
-	// Checks if there are names to process in slice names.
-	if len(names) < 1 {
-		log.Fatalf("File: %q does not appear to contain any participant names.\n", os.Args[1])
-	}
-
-	// Now let's sort the names.
-	expected := names
-	// Loose sets the collator to ignore diacritics, case and weight.
-	cl := collate.New(language.English, collate.Loose)
-	cl.SortStrings(expected)
-
-	// Checks if names are listed in the proper order.
-	for i := 0; i < len(names)-1; i++ {
-		if names[i] != expected[i] {
-			// Prints error message and exits in case a given name is not in the proper order.
-			log.Fatalf("Names not sorted properly: %q is in the wrong location; should be %q instead.\n", names[i], expected[i])
-		}
-	}
-
 }
