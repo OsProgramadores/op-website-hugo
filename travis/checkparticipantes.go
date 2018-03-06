@@ -33,16 +33,23 @@ func checkParticipantes(r io.Reader) error {
 		prevName  string
 		inData    bool
 		partcount int
+		colindex  []int
 		mailRegex = regexp.MustCompile(`(?i)[a-z0-9.-_%]+@.+\..*`)
 	)
 
 	for linecounter := 1; scanner.Scan(); linecounter++ {
 		line := scanner.Text()
 
+		// Reject tabs anywhere in the file.
+		if strings.ContainsRune(line, '\x09') {
+			return fmt.Errorf("line %d: Found tab characters. Only spaces allowed: %q", linecounter, line)
+		}
+
 		// Ignore everything until we find a line starting with separatorPrefix.
 		// This indicates the end of our headers (start processing next line).
 		if strings.HasPrefix(line, separatorPrefix) {
 			inData = true
+			colindex = indexall(line, '|')
 			continue
 		}
 		if !inData {
@@ -56,12 +63,25 @@ func checkParticipantes(r io.Reader) error {
 			return fmt.Errorf("line %d: incorrect number of rows. Want 5, got %d", linecounter, len(columns))
 		}
 
+		// Make sure columns align. This is UTF-8 aware.
+		lr := []rune(line)
+		for _, i := range colindex {
+			if lr[i] != '|' {
+				return fmt.Errorf("line %d: Column markers are not aligned: %q", linecounter, line)
+			}
+		}
+
 		name := strings.TrimSpace(columns[1])
 		email := strings.TrimSpace(columns[2])
 		github := strings.TrimSpace(columns[3])
 
 		if prevName == "" {
 			prevName = name
+		}
+
+		// Name cannot be blank.
+		if name == "" {
+			return fmt.Errorf("line %d: name cannot be blank: %q", linecounter, line)
 		}
 
 		// Name must be alphabetically above or equal to the last one.
@@ -93,6 +113,17 @@ func checkParticipantes(r io.Reader) error {
 	}
 
 	return nil
+}
+
+// indexall returns a slice of ints containing all indices of a rune in a string.
+func indexall(str string, rch rune) []int {
+	var ret []int
+	for i, r := range str {
+		if r == rch {
+			ret = append(ret, i)
+		}
+	}
+	return ret
 }
 
 func main() {
