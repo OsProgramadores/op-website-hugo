@@ -40,6 +40,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch           |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware          |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr           |
+| Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba          |
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7   |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo      |
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox      |
