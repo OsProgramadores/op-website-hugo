@@ -6,7 +6,7 @@
  banner = "img/banners/pilha-pratos.jpg"
 +++
 
-# Estruturas de dados: Pilha
+## Estruturas de dados: Pilha
 
 Pilha é uma estrutura de dados muito comum em sistemas computacionais. Dentre as várias soluções possíveis que a pilha permite podemos citar:
 
@@ -14,8 +14,7 @@ Pilha é uma estrutura de dados muito comum em sistemas computacionais. Dentre a
 - Armazenar dados
 - Implementar LIFOs.
 
-
-### LIFO (Last In First Out, Último a entrar, primeiro a sair)
+## LIFO (Last In First Out, Último a entrar, primeiro a sair)
 Um **LIFO** é um conceito computacional simples, significa que os elementos adicionados mais recentemente ao LIFO serão os primeiros a serem removidos. Em outras palavras, os mais recentes primeiro.
 
 Em uma pilha sempre adicionamos um item ao seu topo, e sempre que retiramos também é o do topo, em meios normais claro. Uma pilha é naturalmente um **LIFO**
@@ -28,12 +27,12 @@ Um exemplo prático é a utilização em logística de produtos que não tem ven
 
 Outro uso é a inversão de outras estruturas de dados, como pilhas, listas e *arrays*. Como os mais recentes saem primeiro, se processarmos a estrutura desejada desde o primeiro elemento o último será o mais recente na pilha, só precisamos então desempilhar todos os elementos que nossa estrutura alvo estará invertida.
 
-### Conceitos
+## Conceitos
 Vamos comparar nossa estrutura a uma pilha de pratos. Cada item na pilha conhece tanto o de cima quanto o abaixo **imediatamente** a esse. Com isso em mente podemos fazer uma analogia e programaticamente definir um algoritmo que empilhe e desempilhe os pratos.
 
 Se estivermos em um restaurante e formos preparar nosso buffet teremos que empilhar os pratos para otimizar o espaço e permitir que os clientes comam. Para empilhar precisamos saber duas coisas
 
-1. Onde está o prato anterior 
+1. Onde está o prato anterior
 2. Quantos pratos nossa pilha suporta
 
 Como o segundo item é uma preocupação que pode ser relaxada, afinal, a quantidade de itens que podemos empilhar é definida pela quantidade de memória disponível não vamos nos ater a esse detalhe na implementação.
@@ -43,7 +42,7 @@ A preocupação principal que devemos ter está então no item 1, onde está o p
 - Não existe pratos na pilha
 - Já existem pratos na pilha.
 
-### Implementação
+## Implementação
 Vamos criar 2 tipos para auxiliar na abstração da estrutura.
 
 1.  Tipo `Stack` genérico
@@ -155,7 +154,7 @@ Ao acrescentar um item criamos um tipo `StackItem` e se a nossa lista estiver va
 
 Para que o cliente se sirva é necessário haver pratos na pilha, então verificamos se temos algum prato, e se tivermos armazenamos o prato temporariamente até definirmos o novo topo, após isso entregamos o prato que estava em uma das mãos para o cliente possa se servir.
 
-### Referências
+## Referências
 Autor: Cleverton Fernandes Guimarães, clevertonfernandesguimaraes@gmail.com
 
 [Faça o donwload do código através desse link](https://gist.github.com/cfguimaraes/4a286c64b0194e668b9e6fd86ae1f7a4)

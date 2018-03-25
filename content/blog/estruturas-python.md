@@ -15,14 +15,13 @@ A estrutura de dados _list_ representa um vetor, que no nosso exemplo abaixo cri
 
 ```sh
 Python 3.4.3 (default, Nov 17 2016, 01:08:31)
-[GCC 4.8.4] on linux 
+[GCC 4.8.4] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> notas = list()
 >>>
 ```
 
 Assim, inicializamos um vetor. Isso também poderia ser feito já com alguns valores, dependendo do problema a ser resolvido. Por exemplo, uma _list_ com as notas de matemática de uma turma de 5 (cinco) estudantes:
- 
 
 ```sh
 >>> notas_matematica = [8.5, 9.5, 10, 6.5, 8.0]
@@ -40,11 +39,11 @@ E se fosse necessário representar mais de uma disciplina? Para representar mais
 >>> notas_lingu_port = [9.5, 3.4, 10, 5.5, 7.5]
 ```
 
-Note que agora temos dois vetores, porém eles ainda não constituem uma matriz. Por enquanto, eles são vetores distintos. Então precisamos juntar esses dois vetores de maneira a formar nossa matriz _notas_. 
- 
-### Métodos de uma _list_
+Note que agora temos dois vetores, porém eles ainda não constituem uma matriz. Por enquanto, eles são vetores distintos. Então precisamos juntar esses dois vetores de maneira a formar nossa matriz _notas_.
 
-Para juntar esses vetores, vamos utilizar o método _append_. Considere no início desse artigo que inicializamos a matriz _notas_ como uma _list_ vazia. Para consultar os métodos disponíveis podemos utilizar a função _dir(notas)_. Esse comando retorna uma _list_, representada por informações entre os sinais _[ ]_. 
+## Métodos de uma _list_
+
+Para juntar esses vetores, vamos utilizar o método _append_. Considere no início desse artigo que inicializamos a matriz _notas_ como uma _list_ vazia. Para consultar os métodos disponíveis podemos utilizar a função _dir(notas)_. Esse comando retorna uma _list_, representada por informações entre os sinais _[ ]_.
 
 ```sh
 >>> dir(notas)
@@ -60,7 +59,7 @@ Então, ao utilizar esse método, vamos juntar esses dois vetores.
 
 Assim temos uma _list_ contendo duas _list_. Isso pode ser verificado com a função _len()_. Para verificar a quantidade de elementos em cada vetor dessa matriz _notas_, o que deve ser feito?
 
-### Funções _len()_ e _type()_
+## Funções _len()_ e _type()_
 
 ```sh
 >>> len(notas)
@@ -72,21 +71,21 @@ Mais um conceito deve ser aprendido. Nessa matriz _notas_, a primeira _list_, qu
 ```sh
 >>>
 >>> notas[0]
-[8.5, 9.5, 10, 6.5, 8.0] 
+[8.5, 9.5, 10, 6.5, 8.0]
 >>>
 >>>
 >>> notas[1]
-[9.5, 3.4, 10, 5.5, 7.5] 
->>> 
+[9.5, 3.4, 10, 5.5, 7.5]
+>>>
 ```
 Respondendo à nossa pergunta anterior, podemos verificar que cada um desses vetores é uma _list_. Confirma-se usando a função _type()_. Isto significa que sendo do mesmo tipo, possui os mesmos métodos verificados.
 
 ```sh
 >>> type(notas[0])
-<class 'list'> 
+<class 'list'>
 ```
 
-### Acesso aos elementos da matriz _notas_
+## Acesso aos elementos da matriz _notas_
 
 Assim, depois dessa introdução finalmente vamos trabalhar efetivamente com a matriz. Vamos efetuar as seguintes operações:
 
@@ -94,9 +93,7 @@ Assim, depois dessa introdução finalmente vamos trabalhar efetivamente com a m
 - Calcular a média de notas de língua portuguesa; e
 - Calcular a média de notas de todas as disciplinas.
 
-
-
-#### Média das notas de matemática ou língua portuguesa
+## Média das notas de matemática ou língua portuguesa
 
 Consideremos para o aprendizado que vamos utilizar variáveis auxiliares. À medida que o tempo de treino se estenda, elas poderão ser deixadas de lado.
 
@@ -125,10 +122,10 @@ A média pode ser verificada com a manipulação dos resultados prévios:
 ```sh
 >>> media_matematica=soma_matematica/len(notas[0])
 >>> print(media_matematica)
-8.5 
+8.5
 ```
 
-#### Média de todas as notas
+## Média de todas as notas
 
 O acesso aos elementos de ambos os vetores pode ser realizado com um laço duplo:
 
@@ -159,4 +156,4 @@ A matriz como estrutura de dados pode resolver diversos problemas. Muitas aplica
 
 [^fa]: David Gesrob: [E-mail david81br@gmail.com](mailto: david81br@gmail.com);
 [^f1]: Imagem do Banner: https://openclipart.org/detail/108619/math-matrix
-[^ff]: Referências de Matrizes: https://pt.wikipedia.org/wiki/Matriz_(matem%C3%A1tica)#Matriz_sim.C3.A9trica 
+[^ff]: Referências de Matrizes: https://pt.wikipedia.org/wiki/Matriz_(matem%C3%A1tica)#Matriz_sim.C3.A9trica

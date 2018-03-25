@@ -6,8 +6,6 @@ categories = ["linguagens"]
 banner = "img/banners/languages.jpg"
 +++
 
-## Qual linguagem devo usar?
-
 Uma das perguntas comuns no estudo de programação e ciência da computação em
 geral é "Que linguagem devo usar?". Particularmente, acreditamos que **o
 aprendizado de qualquer linguagem de programação é imensamente útil** pois

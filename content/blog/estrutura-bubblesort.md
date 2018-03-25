@@ -13,7 +13,7 @@ Os dados de um programa podem ser armazenados na memória, porém para que passe
 
 Neste artigo vamos aprender um dos mecanismos de ordenação mais simples para quem está estudando estruturas de dados. O _bubble sort_ é um dos algoritmos menos eficientes, contudo mais fáceis de implementar. O termo _bubble_ advém da forma como o vetor é ordenado, como bolhas[^f1] que vão buscando seu lugar emergindo na ordenação desejada do vetor.
 
-### Demonstração
+## Demonstração
 
 Considere um algoritmo de vetor em _c++_ com "_n_" elementos:
 
