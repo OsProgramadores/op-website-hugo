@@ -29,6 +29,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS        |
 | Gabriel Lampa da Cunha        | gabriellampa@gmail.com                | https://github.com/icaroraci/       |
 | Gabriel Peixoto               | gpeixoto@gmail.com                    | https://github.com/neuraman         |
+| Giovane Da Silva Sobrinho     | giovane.sobrinho@gmail.com            | https://github.com/eu447            |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20     |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova     |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo    |
