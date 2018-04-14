@@ -39,7 +39,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski       |
 | Lucas Matheus Gonçalves       | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
 | Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
-| Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             | 
+| Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
@@ -53,4 +53,3 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93         |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-
