@@ -8,7 +8,6 @@ Ao adicionar o seu nome, por favor observe:
 * URLs do github deverão ser no formato: https://github.com/seu_usuario
 * Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
 
-<<<<<<< HEAD
 | Nome                          | Email                                 | Github Page                           |
 | ----------------------------- | ------------------------------------- | ------------------------------------- |
 | Adilson Boson Almeida Junior  | adboson@gmail.com                     | https://github.com/adboson            |
@@ -54,5 +53,4 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93         |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-=======
->>>>>>> 925e4c7ba0f80b0c62ae704f9cd99713c014dca0
+
