@@ -6,8 +6,6 @@ categories = ["linguagens"]
 banner = "img/banners/languages.jpg"
 +++
 
-## Qual linguagem devo usar?
-
 Uma das perguntas comuns no estudo de programação e ciência da computação em
 geral é "Que linguagem devo usar?". Particularmente, acreditamos que **o
 aprendizado de qualquer linguagem de programação é imensamente útil** pois
@@ -62,7 +60,7 @@ em sistemas de produção. Boa linguagem para ser usada como "cola" entre
 sistemas maiores. É uma linguagem interpretada e relativamente lenta se
 comparada com as alternativas.
 
-## Golang
+## Go
 
 Também conhecida como "_Go_". É uma linguagem nova, que pode ser usada para sistemas médios
 e grandes. Compilada e com tipagem forte. A linguagem em si vem com um estilo de

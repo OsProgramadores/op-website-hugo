@@ -44,7 +44,7 @@ Grupo sobre programação front end.
 Grupo brasileiro sobre Git.
 
 [GopheLia](http://t.me/gopheliacoding)  
-Grupo sobre Golang, Perl, Julia e todas as "pequenas grandes langs"
+Grupo sobre Go, Perl, Julia e todas as "pequenas grandes langs"
 
 [HTML Brasil](https://t.me/htmlbr)  
 Grupo técnico sobre Hyper Text Markup Language.
