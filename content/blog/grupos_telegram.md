@@ -88,8 +88,11 @@ Grupo da comunidade Python do Rio de Janeiro
 [Ruby Brasil](https://t.me/rubybrasil)  
 Grupo sobre a linguagem Ruby
 
-[The Art of Programming](http://t.me/theprogrammingartgroup)  
+[The Art of Programming](https://t.me/theprogrammingartgroup)  
 Grupo, em inglês, sobre programação em geral
+
+[TI no Canadá](https://t.me/tinocanada)  
+TI no Canadá é um grupo com Dicas e Informações sobre Como Trabalhar com TI no Canadá.
 
 [Vala - Linguagem de Programação](https://t.me/Vala_BR)  
 Grupo sobre a Linguagem de Programação Vala
