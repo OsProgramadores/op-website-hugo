@@ -76,9 +76,6 @@ Grupo destinado a desenvolvedores iniciantes ou experientes, com foco em projeto
 [PyCoding](http://t.me/pyCoding)  
 Maior grupo sobre Python no Telegram (em inglês)
 
-[Pygrameiros](https://t.me/joinchat/CxaN0EOnjcK6j6Xh_TD8Vg)  
-Grupo sobre Python e seus ambientes com foco em projetos.
-
 [PyKivy - pt_BR](https://t.me/pykivy)  
 Grupo destinado ao desenvolvimento de apps com o framework Kivy (Python)
 
@@ -99,4 +96,3 @@ Grupo sobre a Linguagem de Programação Vala
 
 [VIM-BR](https://t.me/vimbr)  
 Grupo sobre VIM.
-
