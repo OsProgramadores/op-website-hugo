@@ -35,8 +35,14 @@ Grupo sobre desenvolvimento Cordova.
 [CSS Brasil](https://t.me/cssbr)  
 Grupo técnico sobre Cascading Style Sheets.
 
+[Dart Brasil](https://t.me/dartbrasil)  
+Grupo brasileiro de programadores e entusiastas da linguagem de programação Dart e do Framework Mobile Flutter.
+
 [DBA BRASIL](https://t.me/DbaBrasil)  
 Grupo sobre DBA.
+
+[Delphi](https://t.me/joinchat/DtwgRkCKYHU30rzuoJpPrg)  
+Grupo direcionado aos programadores Delphi.
 
 [DevCodeBr - Android/Java/Kotlin](https://t.me/devcodebr_android)  
 Grupo sobre desenvolvimento Android/Java/Kotlin.
@@ -49,6 +55,9 @@ Grupo de discussões sobre .NET, ASP.NET, Mono, .NET Core, Xamarin, etc.
 
 [ElectronJS Brasil](https://t.me/electronJs_BR)  
 Grupo sobre Electron.
+
+[Elm Brasil](https://t.me/elmbrasil)  
+Grupo sobre Elm.
 
 [EthereumBR](https://t.me/etherbr)  
 Grupo sobre Ethereum, Solidity, e tecnologias relacionadas.
