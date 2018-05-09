@@ -13,6 +13,7 @@ Ao adicionar o seu nome, por favor observe:
 | Adilson Boson Almeida Junior  | adboson@gmail.com                     | https://github.com/adboson            |
 | Alex Almeida                  | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
 | Alexsandro Felix              | felix@ffelix.eti.br                   | https://github.com/asfelix            |
+| Anthony Louis G. Ferreira     | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
 | Antonio Gabriel               | No Email                              | https://github.com/presstart          |
 | Augusto da Silva Costa        | contato@guto.pro.br                   | https://github.com/gutocosta          |
 | Áxel Crispim                  | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
