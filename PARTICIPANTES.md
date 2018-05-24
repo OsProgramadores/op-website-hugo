@@ -45,10 +45,10 @@ Ao adicionar o seu nome, por favor observe:
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
+| Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
-| Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox        |
 | Thiago Morette de Oliveira    | thiagomorette@gmail.com               | https://github.com/Morette            |
 | Valdinei Ferreira             | valdinei_vof@hotmail.com              | https://github.com/valdinei11         |
