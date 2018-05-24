@@ -196,13 +196,13 @@ paginate = 10
 [[params.links.course]]
     name = "School of Net"
     url = "https://www.schoolofnet.com"
-    description = "Cursos gratuitos de várias areas de programação"
+    description = "Cursos gratuitos de várias áreas de programação."
     languages = "Várias."
 
 [[params.links.course]]
     name = "Code Academy"
     url = "https://www.codecademy.com"
-    description = "Cursos gratuitos de Desenvolvimento web, Programação e Data Science"
+    description = "Cursos gratuitos de Desenvolvimento web, Programação e Data Science."
     languages = "HTML, CSS, javascript, java, SQL, Ruby e outros"
 
 
@@ -254,7 +254,7 @@ paginate = 10
 [[params.links.tool]]
     name = "Github educacional"
     url = "https://education.github.com/pack"
-    description = "Assinatura de ferramentas, creditos em sites de armazenamento ou hosting, repositorios privados gratis e muito mais no pack do github para estudantes."
+    description = "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do github para estudantes."
 
 
 # Docs.
