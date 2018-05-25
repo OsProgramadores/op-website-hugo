@@ -187,6 +187,24 @@ paginate = 10
     description = "Cursos de Front e Back-end, Markting Digital, Banco de Dados, cursos de excelente qualidade e totalmente gratuitos."
     languages = "HTML5, CSS3, Java, Php, MySQL."
 
+[[params.links.course]]
+    name = "SoloLearn"
+    url = "https://www.sololearn.com/"
+    description = "Cursos introdutórios para várias linguagens de programação."
+    languages = "C++, C#, Java, Python, Swift, HTML, CSS, Javascript, PHP, Ruby e SQL."
+
+[[params.links.course]]
+    name = "School of Net"
+    url = "https://www.schoolofnet.com"
+    description = "Cursos gratuitos de várias áreas de programação."
+    languages = "Várias."
+
+[[params.links.course]]
+    name = "Code Academy"
+    url = "https://www.codecademy.com"
+    description = "Cursos gratuitos de Desenvolvimento web, Programação e Data Science."
+    languages = "HTML, CSS, javascript, java, SQL, Ruby e outros"
+
 
 # Tools.
 [params.links.tools]
@@ -232,6 +250,11 @@ paginate = 10
     name = "GitHub"
     url = "https://github.com/"
     description = "Se vai ser programador, essa ferramenta é essencial para hospedar seus códigos. Muitas empresas costumam pedir seu Github para analisar seus códigos. Temos um <a href='/desafios/d01/'>desafio</a> no site com tutorial ensinando a utilizá-lo."
+
+[[params.links.tool]]
+    name = "Github educacional"
+    url = "https://education.github.com/pack"
+    description = "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do github para estudantes."
 
 
 # Docs.
