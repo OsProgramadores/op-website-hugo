@@ -34,6 +34,8 @@ Ao adicionar o seu nome, por favor observe:
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
+| Jovennan Thomaz Ramalho       | jovennan@gmail.com                    |
+https://github.com/jovennan           |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
 | Letícia Freire                | leticiafcs4@gmail.com                 | https://github.com/leticia-freire     |
 | Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano       |
