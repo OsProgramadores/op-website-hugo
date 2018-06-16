@@ -38,6 +38,7 @@ Ao adicionar o seu nome, por favor observe:
 | Letícia Freire                | leticiafcs4@gmail.com                 | https://github.com/leticia-freire     |
 | Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano       |
 | Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski       |
+| Lucas Dantas de Oliveira      | ldantasdev@gmail.com                  | https://github.com/lucantas           |
 | Lucas Matheus Gonçalves       | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
 | Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
@@ -55,4 +56,3 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93         |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| Lucas Dantas de Oliveira      | ldantasdev@gmail.com                  | https://github.com/lucantas           |
