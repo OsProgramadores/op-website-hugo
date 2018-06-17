@@ -42,6 +42,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Matheus Gonçalves       | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
 | Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
+| Marco Túlio R. Zuquim Alves   | tulio@century.net.br                  | https://github.com/Zuquim             |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
