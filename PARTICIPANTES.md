@@ -19,6 +19,7 @@ Ao adicionar o seu nome, por favor observe:
 | Áxel Crispim                  | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
 | Clederson Cruz                | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
 | Cleverton Fernandes Guimarães | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes        |
+| Daniel Carvalho               | codecodic7@gmail.com                  | https://github.com/KDEboy             |
 | Danrley Senegalha Pires       | dansenpir@protonmail.com              | https://github.com/dansenpir          |
 | David GesRob                  | david81br@gmail.com                   | https://github.com/david81brs         |
 | Denis Almeida                 | denis.meida@gmail.com                 | https://github.com/denisvba           |
