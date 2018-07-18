@@ -37,6 +37,7 @@ Ao adicionar o seu nome, por favor observe:
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
+| Leo Silva Souza               | leovano@protonmail.com                | https://github.com/leovano            |
 | Letícia Freire                | leticiafcs4@gmail.com                 | https://github.com/leticia-freire     |
 | Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano       |
 | Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski       |
