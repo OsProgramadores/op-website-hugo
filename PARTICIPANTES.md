@@ -43,6 +43,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski       |
 | Lucas Dantas de Oliveira      | ldantasdev@gmail.com                  | https://github.com/lucantas           |
 | Lucas Matheus Gonçalves       | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
+| Luiz Carlos Martins Filho     | lcmartinsfilho@gmail.com              | https://github.com/luizcmf            |
 | Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
 | Marco Túlio R. Zuquim Alves   | tulio@century.net.br                  | https://github.com/Zuquim             |
