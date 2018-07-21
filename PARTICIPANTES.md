@@ -59,4 +59,5 @@ Ao adicionar o seu nome, por favor observe:
 | Valdinei Ferreira             | valdinei_vof@hotmail.com              | https://github.com/valdinei11         |
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93         |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
+| Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
