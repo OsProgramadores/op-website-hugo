@@ -55,6 +55,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox        |
+| Thiago Amadeu Nardi           | thnardi@gmail.com                     | https://github.com/thnardi            |
 | Thiago Morette de Oliveira    | thiagomorette@gmail.com               | https://github.com/Morette            |
 | Valdinei Ferreira             | valdinei_vof@hotmail.com              | https://github.com/valdinei11         |
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93         |
