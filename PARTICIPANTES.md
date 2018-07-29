@@ -49,6 +49,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
 | Marco Túlio R. Zuquim Alves   | tulio@century.net.br                  | https://github.com/Zuquim             |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
+| Matheus Ferreira              | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
