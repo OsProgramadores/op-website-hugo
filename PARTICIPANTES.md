@@ -15,6 +15,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexsandro Felix              | felix@ffelix.eti.br                   | https://github.com/asfelix            |
 | Anthony Louis G. Ferreira     | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
 | Antonio Gabriel               | No Email                              | https://github.com/presstart          |
+| Antonio Lisbôa de Melo Neto   | antonion.2048@gmail.com               | https://github.com/Note45             |
 | Augusto da Silva Costa        | contato@guto.pro.br                   | https://github.com/gutocosta          |
 | Áxel Crispim                  | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
 | Clederson Cruz                | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
