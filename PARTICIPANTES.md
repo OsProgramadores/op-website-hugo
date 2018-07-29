@@ -50,6 +50,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Túlio R. Zuquim Alves   | tulio@century.net.br                  | https://github.com/Zuquim             |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
+| Matheus Ferreira              | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
 | Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
