@@ -15,6 +15,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexsandro Felix              | felix@ffelix.eti.br                   | https://github.com/asfelix            |
 | Anthony Louis G. Ferreira     | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
 | Antonio Gabriel               | No Email                              | https://github.com/presstart          |
+| Antonio Lisbôa de Melo Neto   | antonion.2048@gmail.com               | https://github.com/Note45             |
 | Augusto da Silva Costa        | contato@guto.pro.br                   | https://github.com/gutocosta          |
 | Áxel Crispim                  | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
 | Clederson Cruz                | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
@@ -64,4 +65,3 @@ Ao adicionar o seu nome, por favor observe:
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| Antonio Lisbôa de Melo Neto   | antonion.2048@gmail.com               | https://github.com/Note45             |
