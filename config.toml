@@ -279,6 +279,11 @@ paginate = 10
     description = "Documentação front-end e back-end com muitos tutoriais."
 
 [[params.links.doc]]
+    name = "Kotlin"
+    url = "https://kotlinlang.org/"
+    description = "Documentação da Linguagem Kotlin."
+
+[[params.links.doc]]
     name = "PHP"
     url = "http://php.net/manual/pt_BR/index.php"
     description = "Tudo que precisar saber sobre PHP tem nesse site, que agrega toda documentação com tutoriais em português."
