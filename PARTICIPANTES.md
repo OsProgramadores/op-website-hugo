@@ -29,7 +29,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Felipe Lopes          | edufelopes@hotmail.com                | https://github.com/raikon55           |
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini            |
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan         |
-| Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
+| Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabio rj           |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS          |
 | Gabriel Lampa da Cunha        | gabriellampa@gmail.com                | https://github.com/icaroraci/         |
 | Gabriel Peixoto               | gpeixoto@gmail.com                    | https://github.com/neuraman           |
@@ -66,4 +66,4 @@ Ao adicionar o seu nome, por favor observe:
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| Guilherme Corrêa Torquato     | guitor4@outlook.com                   | https://github.com/guilherme-tor4  
+| Guilherme Corrêa Torquato     | guitor4@outlook.com                   | https://github.com/guilherme-tor4     |
