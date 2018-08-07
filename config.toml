@@ -205,6 +205,12 @@ paginate = 10
     description = "Cursos gratuitos de Desenvolvimento web, Programação e Data Science."
     languages = "HTML, CSS, javascript, java, SQL, Ruby e outros"
 
+[[params.links.course]]
+    name = "Um tour por Go"
+    url = "https://go-tour-br.appspot.com/welcome/1"
+    description = "Um tour pela linguagem de Programação Go."
+    languages = "Go"
+
 
 # Tools.
 [params.links.tools]
