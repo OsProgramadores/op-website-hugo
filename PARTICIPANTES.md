@@ -18,6 +18,7 @@ Ao adicionar o seu nome, por favor observe:
 | Antonio Lisbôa de Melo Neto   | antonion.2048@gmail.com               | https://github.com/Note45             |
 | Augusto da Silva Costa        | contato@guto.pro.br                   | https://github.com/gutocosta          |
 | Áxel Crispim                  | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
+| Bassam Basil Junior           | bassambjg5@gmail.com                  | https://github.com/Bassambj           |
 | Clederson Cruz                | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
 | Cleverton Fernandes Guimarães | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes        |
 | Daniel Carvalho               | codecodic7@gmail.com                  | https://github.com/KDEboy             |
