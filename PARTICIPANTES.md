@@ -40,6 +40,7 @@ Ao adicionar o seu nome, por favor observe:
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
 | Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
+| Lauro Silveira Neto           | laurosn@gmail.com                     | https://github.com/laurosn            |
 | Leo Silva Souza               | leovano@protonmail.com                | https://github.com/leovano            |
 | Letícia Freire                | leticiafcs4@gmail.com                 | https://github.com/leticia-freire     |
 | Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano       |
