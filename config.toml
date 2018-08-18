@@ -205,6 +205,12 @@ paginate = 10
     description = "Cursos gratuitos de Desenvolvimento web, Programação e Data Science."
     languages = "HTML, CSS, javascript, java, SQL, Ruby e outros"
 
+[[params.links.course]]
+    name = "Um tour por Go"
+    url = "https://go-tour-br.appspot.com/welcome/1"
+    description = "Um tour pela linguagem de Programação Go."
+    languages = "Go"
+
 
 # Tools.
 [params.links.tools]
@@ -271,6 +277,11 @@ paginate = 10
     name = "HTML, CSS, Javascript"
     url = "https://www.w3schools.com/default.asp"
     description = "Documentação front-end e back-end com muitos tutoriais."
+
+[[params.links.doc]]
+    name = "Kotlin"
+    url = "https://kotlinlang.org/"
+    description = "Documentação da Linguagem Kotlin."
 
 [[params.links.doc]]
     name = "PHP"
