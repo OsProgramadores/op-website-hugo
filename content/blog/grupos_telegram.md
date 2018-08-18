@@ -87,7 +87,7 @@ Grupo sobre desenvolvimento nativo para iOS.
 Grupo sobre JavaScript.
 
 [Lua Programming Language Brasil](https://t.me/lualanguagebrasil)  
-Grupo sobra a Linguagem Lua
+Grupo sobre a Linguagem Lua
 
 [Node.js Brasil](https://t.me/NodejsBR)  
 Grupo sobre Node.js.
