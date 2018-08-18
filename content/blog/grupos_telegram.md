@@ -86,7 +86,7 @@ Grupo sobre desenvolvimento nativo para iOS.
 [JavaScript Brasil](https://t.me/javascriptbrasil)  
 Grupo sobre JavaScript.
 
-[Lua Programming Language Brasil] (https://t.me/lualanguagebrasil)
+[Lua Programming Language Brasil](https://t.me/lualanguagebrasil)  
 Grupo sobra a Linguagem Lua
 
 [Node.js Brasil](https://t.me/NodejsBR)  
@@ -149,5 +149,5 @@ Grupo sobre a Linguagem de Programação Vala.
 [VIM-BR](https://t.me/vimbr)  
 Grupo sobre VIM.
 
-[Web2py](https://t.me/web2pybrasil)
+[Web2py](https://t.me/web2pybrasil)  
 Grupo sobre Framework Web2py (Python)
