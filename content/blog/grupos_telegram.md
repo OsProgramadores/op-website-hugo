@@ -148,3 +148,6 @@ Grupo sobre a Linguagem de Programação Vala.
 
 [VIM-BR](https://t.me/vimbr)  
 Grupo sobre VIM.
+
+[Web2py] (https://t.me/web2pybrasil)
+Grupo sobre Framework Web2py
