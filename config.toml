@@ -15,44 +15,44 @@ paginate = 10
 [menu]
 
 [[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
-
-[[menu.main]]
     name = "Regras"
     url  = "/regras/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Desafios"
     url  = "/desafios/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "Participantes"
     url  = "/participantes/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Links"
     url  = "/links/"
+    weight = 5
+
+[[menu.main]]
+    name = "FAQ"
+    url  = "/faq/"
+    weight = 5
+
+[[menu.main]]
+    name = "Colabore"
+    url = "/blog/2017/04/14/contribuindo/"
     weight = 6
 
 [[menu.main]]
     name = "Contato"
     url = "/contato/"
     weight = 7
-
-[[menu.main]]
-    name = "Colabore"
-    url = "/blog/2017/04/14/contribuindo/"
-    weight = 8
 
 [params]
     viewMorePostLink = "/blog/"
