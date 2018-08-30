@@ -71,4 +71,3 @@ Ao adicionar o seu nome, por favor observe:
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| Elaine Saith Martins          | elainesaith@hotmail.com               | https://github.com/elainesaith        |
