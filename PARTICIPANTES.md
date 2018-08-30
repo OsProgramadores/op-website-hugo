@@ -32,6 +32,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Felipe Lopes          | edufelopes@hotmail.com                | https://github.com/raikon55           |
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini            |
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan         |
+| Elaine Saith Martins          | elainesaith@hotmail.com               | https://github.com/elainesaith        |
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS          |
 | Gabriel Lampa da Cunha        | gabriellampa@gmail.com                | https://github.com/icaroraci/         |
