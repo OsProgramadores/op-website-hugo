@@ -57,6 +57,7 @@ Ao adicionar o seu nome, por favor observe:
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
 | Matheus Ferreira              | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
+| Moises Maia Gomes             | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
 | Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
@@ -71,4 +72,3 @@ Ao adicionar o seu nome, por favor observe:
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| Moises Maia Gomes             | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
