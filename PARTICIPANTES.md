@@ -35,6 +35,7 @@ Ao adicionar o seu nome, por favor observe:
 | Elaine Saith Martins          | elainesaith@hotmail.com               | https://github.com/elainesaith        |
 | Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
 | Fabrício Henrique da Silva    | fnhs27@outlook.com                    | https://github.com/Fabricio967        |
+| Felipe Ceglia                 | felipe@dxwatch.com                    | https://github.com/mehale             |
 | Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS          |
 | Gabriel Lampa da Cunha        | gabriellampa@gmail.com                | https://github.com/icaroraci/         |
 | Gabriel Peixoto               | gpeixoto@gmail.com                    | https://github.com/neuraman           |
