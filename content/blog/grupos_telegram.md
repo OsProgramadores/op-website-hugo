@@ -151,3 +151,6 @@ Grupo sobre VIM.
 
 [Web2py](https://t.me/web2pybrasil)  
 Grupo sobre Framework Web2py (Python)
+
+[Eletrônica e Automação BR](https://t.me/Eletronica_em_foco)
+Grupo com foco em eletrônica, automação, arduíno etc, destinado a iniciantes, hobbysta, tecnicos e amantes da eletrônica.
