@@ -65,6 +65,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
+| Ronaldo Ferreira de Oliveira  | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira       |
 | Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
 | Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox        |
 | Sávio S. Gusmão               | saviosg@outlook.com                   | https://github.com/saviosg            |
