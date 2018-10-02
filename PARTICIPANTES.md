@@ -62,6 +62,7 @@ Ao adicionar o seu nome, por favor observe:
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
 | Moises Maia Gomes             | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
+| Paulo Henrique R. Pinheiro    | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro    |
 | Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
