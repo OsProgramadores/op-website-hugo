@@ -19,3 +19,9 @@ h5:hover .header-link,
 h6:hover .header-link {
   opacity: 1;
 }
+
+code {
+  color: #000000;
+  background-color: #d5f1f1;
+  font-family: Menlo, Monaco, Consolas, monospace, "Courier New";
+}
