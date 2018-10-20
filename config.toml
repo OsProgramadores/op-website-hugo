@@ -262,6 +262,11 @@ paginate = 10
     url = "https://education.github.com/pack"
     description = "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do github para estudantes."
 
+[[params.links.tool]]
+    name = "Ferramentas RAD"
+    url = "https://www.evernote.com/l/ADp4Rny9_ClBGIrl1Kat24TvDsg1Yrrysvo"
+    description = "Pesquisa sobre ferramentas RAD (Rapid Application Development) para desenvolvimento de frontend."
+
 
 # Docs.
 [params.links.docs]
