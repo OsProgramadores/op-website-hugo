@@ -74,7 +74,7 @@ Ao adicionar o seu nome, por favor observe:
 | Sávio S. Gusmão               | saviosg@outlook.com                   | https://github.com/saviosg            |
 | Thiago Amadeu Nardi           | thnardi@gmail.com                     | https://github.com/thnardi            |
 | Thiago Morette de Oliveira    | thiagomorette@gmail.com               | https://github.com/Morette            |
-| Valdinei Ferreira             | valdinei_vof@hotmail.com              | https://github.com/valdinei11         |
+| Valdinei Ferreira             | valdineifer@outlook.com               | https://github.com/valdineifer        |
 | Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93         |
 | Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
