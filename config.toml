@@ -210,6 +210,12 @@ paginate = 10
     url = "https://go-tour-br.appspot.com/welcome/1"
     description = "Um tour pela linguagem de Programação Go."
     languages = "Go"
+    
+[[params.links.course]]
+    name = "Rocketseat"
+    url = "https://rocketseat.com.br"
+    description = "Cursos básicos gratuitos de JavaScript, ECMAScript 6 e React."
+    languages = "JavaScript"
 
 
 # Tools.
@@ -266,6 +272,31 @@ paginate = 10
     name = "Ferramentas RAD"
     url = "https://www.evernote.com/l/ADp4Rny9_ClBGIrl1Kat24TvDsg1Yrrysvo"
     description = "Pesquisa sobre ferramentas RAD (Rapid Application Development) para desenvolvimento de frontend."
+
+[[params.links.tool]]
+    name = "Codepen"
+    url = "https://codepen.io/"
+    description = "Editor online para HTML, CSS e JavaScript, com suporte para fontes externas e pré-processadores, como Bootstrap, SASS, Babel."
+
+[[params.links.tool]]
+    name = "W3 HTML Validator"
+    url = "https://validator.w3.org/"
+    description = "Ferramenta para validação de documentos web, como HTML, XHTML, etc."
+
+[[params.links.tool]]
+    name = "W3 CSS Validator"
+    url = "http://jigsaw.w3.org/css-validator/"
+    description = "Ferramenta para validação de CSS"
+
+[[params.links.tool]]
+    name = "Can I Use"
+    url = "https://caniuse.com/"
+    description = "Site para verificar a compatibilidade e funcionalidade de recursos web, tais como elementos do HTML e propriedades CSS"
+
+[[params.links.tool]]
+    name = "Learn Git Branching"
+    url = "https://learngitbranching.js.org/"
+    description = "Aprendendo intuitivamente como funciona os comandos de branching, como 'checkout', 'merge' e 'rebase'."
 
 
 # Docs.
@@ -338,6 +369,16 @@ paginate = 10
     name = "Java para Web"
     url = "https://www.caelum.com.br/apostila-java-web/"
     description = "Apostila de Java para Web."
+
+[[params.links.ebook]]
+    name = "Docker para Desenvolvedores"
+    url = "https://leanpub.com/dockerparadesenvolvedores"
+    description = "Ebook focado nas necessidades do desenvolvedor que se interessar pelo Docker."
+
+[[params.links.ebook]]
+    name = "Syncfusion Ebooks"
+    url = "https://www.syncfusion.com/ebooks/"
+    description = "Dezenas de ebooks sobre várias tecnologias, com a proposta de serem sucintos, como já diz no título. Há diversos, por exemplo: Bootstrap, .NET, Java, HTTP. (necessário cadastro para alguns)"
 
 
 # Podcasts.
