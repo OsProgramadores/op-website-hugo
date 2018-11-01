@@ -60,6 +60,7 @@ Ao adicionar o seu nome, por favor observe:
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
 | Matheus Dourado               | matheusdouradobr@gmail.com            | https://github.com/matheusdouradobr   | 
 | Matheus Ferreira              | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
+| Mattheus Couto                | matius.couto@gmail.com                | https://github.com/Matiusco           |
 | Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
 | Moises Maia Gomes             | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
 | Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
