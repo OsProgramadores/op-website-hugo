@@ -67,6 +67,7 @@ Ao adicionar o seu nome, por favor observe:
 | Paulo Henrique R. Pinheiro    | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro    |
 | Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Ricardo Severo                | ricardosilva.official@outlook.com     | https://github.com/ricardosevero      |
+| Rodinei Costa                 | rodineicosta@physistec.com.br         | https://github.com/rodineicosta       |
 | Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
 | Ronaldo Ferreira de Oliveira  | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira       |
