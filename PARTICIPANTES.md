@@ -43,6 +43,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
+| Igor Tuag Andrade de Freitas  | igortuag@gmail.com                    | https://github.com/igortuag           |
 | Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
 | Lauro Silveira Neto           | laurosn@gmail.com                     | https://github.com/laurosn            |
