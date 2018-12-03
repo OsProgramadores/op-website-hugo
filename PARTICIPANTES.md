@@ -42,6 +42,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giovane Da Silva Sobrinho     | giovane.sobrinho@gmail.com            | https://github.com/eu447              |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
+| Helio Loureiro                | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
 | Igor Tuag Andrade de Freitas  | igortuag@gmail.com                    | https://github.com/igortuag           |
 | Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
