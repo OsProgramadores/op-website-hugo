@@ -45,6 +45,7 @@ Ao adicionar o seu nome, por favor observe:
 | Helio Loureiro                | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
 | Igor Tuag Andrade de Freitas  | igortuag@gmail.com                    | https://github.com/igortuag           |
+| Jackson Osvaldo da Silva Braga| jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo     |
 | Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
 | Lauro Silveira Neto           | laurosn@gmail.com                     | https://github.com/laurosn            |
