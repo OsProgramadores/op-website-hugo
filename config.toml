@@ -54,6 +54,11 @@ paginate = 10
     url = "/contato/"
     weight = 7
 
+[[menu.main]]
+    name = "Hi-Scores"
+    url = "/scores/"
+    weight = 7
+
 [params]
     viewMorePostLink = "/blog/"
     author = "mpinheir"
