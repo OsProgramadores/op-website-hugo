@@ -10,6 +10,7 @@ Ao adicionar o seu nome, por favor observe:
 
 | Nome                          | Email                                 | Github Page                           |
 | ----------------------------- | ------------------------------------- | ------------------------------------- |
+| Nomefora						| invalido@invalido.au 					| https://github.comn/notarealuser		|	
 | Adilson Boson Almeida Junior  | adboson@gmail.com                     | https://github.com/adboson            |
 | Alex Almeida                  | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
 | Alexsandro Felix              | felix@ffelix.eti.br                   | https://github.com/asfelix            |
