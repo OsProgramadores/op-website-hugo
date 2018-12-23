@@ -42,22 +42,17 @@ paginate = 10
 [[menu.main]]
     name = "FAQ"
     url  = "/faq/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Colabore"
     url = "/blog/2017/04/14/contribuindo/"
-    weight = 6
-
-[[menu.main]]
-    name = "Contato"
-    url = "/contato/"
     weight = 7
 
 [[menu.main]]
     name = "Hi-Scores"
     url = "/scores/"
-    weight = 7
+    weight = 8
 
 [params]
     viewMorePostLink = "/blog/"
@@ -215,7 +210,7 @@ paginate = 10
     url = "https://go-tour-br.appspot.com/welcome/1"
     description = "Um tour pela linguagem de Programação Go."
     languages = "Go"
-    
+
 [[params.links.course]]
     name = "Rocketseat"
     url = "https://rocketseat.com.br"
