@@ -55,6 +55,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano       |
 | Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski       |
 | Lucas Dantas de Oliveira      | ldantasdev@gmail.com                  | https://github.com/lucantas           |
+| Lucas Harrison Silva          | lucas.harrison@certto.com.br          | https://github.com/Harrisoned         |
 | Lucas Matheus Gonçalves       | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
 | Luiz Carlos Martins Filho     | lcmartinsfilho@gmail.com              | https://github.com/luizcmf            |
 | Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
