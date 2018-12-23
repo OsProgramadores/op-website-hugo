@@ -1,11 +1,3 @@
-notifications:
-  email:
-    recipients:
-      - mpinheir@gmail.comm
-      - paganini+travis@paganini.net
-    on_success: change
-    on_failure: always
-
 language: go
 
 go:
