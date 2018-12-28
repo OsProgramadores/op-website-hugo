@@ -1,11 +1,3 @@
-+++
-title = "Contribuindo para o site"
-date = "2017-04-14T23:40:00-07:00"
-tags = ["osprogramadores"]
-categories = ["git"]
-banner = "img/banners/octocat.png"
-+++
-
 ## Como contribuir para o site?
 
 A melhor maneira de contribuir com um artigo ou correção para o site é criar um

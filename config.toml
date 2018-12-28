@@ -45,14 +45,9 @@ paginate = 10
     weight = 6
 
 [[menu.main]]
-    name = "Colabore"
-    url = "/blog/2017/04/14/contribuindo/"
-    weight = 7
-
-[[menu.main]]
     name = "Hi-Scores"
     url = "/scores/"
-    weight = 8
+    weight = 7
 
 [params]
     viewMorePostLink = "/blog/"
