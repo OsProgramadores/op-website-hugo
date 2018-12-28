@@ -147,34 +147,10 @@ paginate = 10
 
 # List of courses.
 [[params.links.course]]
-    name = "NodeStudio"
-    url = "https://www.nodestudio.com.br/home"
-    description = "Cursos de HTML5, CSS3, Design reponsivo, totalmente gratuitos e de qualidade com certificado."
-    languages = "HTML5, CSS3"
-
-[[params.links.course]]
-    name = "Learn-C"
-    url = "http://www.learn-c.org/"
-    description = "Aprenda C de forma interativa sem precisar de IDE."
-    languages = "C"
-
-[[params.links.course]]
-    name = "Course-Fast"
-    url = "http://course.fast.ai/index.html"
-    description = "Aprenda DeepLearning em vários tópicos."
-    languages = "Várias"
-
-[[params.links.course]]
     name = "Bootstrap Total"
     url = "http://www.bootstraptotal.com.br/rwd-aula-01/"
     description = "Curso de bootstrap gratuito com certificado."
     languages = "Framework Bootstrap, HTML5, CSS3"
-
-[[params.links.course]]
-    name = "FreeCodeCamp"
-    url = "https://www.freecodecamp.org/"
-    description = "Curso gratuito de Front e Back-end mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado."
-    languages = "HTML5, CSS3, Javascript, Jquery, Bootstrap, Node.js, Git, MongoDB, etc."
 
 [[params.links.course]]
     name = "CEV - Cursos em Video"
@@ -183,10 +159,58 @@ paginate = 10
     languages = "HTML5, CSS3, Java, Php, MySQL."
 
 [[params.links.course]]
-    name = "SoloLearn"
-    url = "https://www.sololearn.com/"
-    description = "Cursos introdutórios para várias linguagens de programação."
-    languages = "C++, C#, Java, Python, Swift, HTML, CSS, Javascript, PHP, Ruby e SQL."
+    name = "Code Academy"
+    url = "https://www.codecademy.com"
+    description = "Cursos gratuitos de Desenvolvimento web, Programação e Data Science."
+    languages = "HTML, CSS, javascript, java, SQL, Ruby e outros"
+
+[[params.links.course]]
+    name = "Course-Fast"
+    url = "http://course.fast.ai/index.html"
+    description = "Aprenda DeepLearning em vários tópicos."
+    languages = "Várias"
+
+[[params.links.course]]
+    name = "FreeCodeCamp"
+    url = "https://www.freecodecamp.org/"
+    description = "Curso gratuito de Front e Back-end mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado."
+    languages = "HTML5, CSS3, Javascript, Jquery, Bootstrap, Node.js, Git, MongoDB, etc."
+
+[[params.links.course]]
+    name = "Learn-C"
+    url = "http://www.learn-c.org/"
+    description = "Aprenda C de forma interativa sem precisar de IDE."
+    languages = "C"
+
+[[params.links.course]]
+    name = "Lua"
+    url = "https://www.lua.org/portugues.html"
+    description = "Linguagem de programação Lua."
+    languages = "Lua"
+
+[[params.links.course]]
+    name = "NodeStudio"
+    url = "https://www.nodestudio.com.br/home"
+    description = "Cursos de HTML5, CSS3, Design reponsivo, totalmente gratuitos e de qualidade com certificado."
+    languages = "HTML5, CSS3"
+
+[[params.links.course]]
+    name = "Python para Zumbis"
+    url = "https://www.pycursos.com/python-para-zumbis/"
+    description = "Curso sobre a linguagem de programacao Python"
+    languages = "Python"
+
+[[params.links.course]]
+    name = "Rocketseat"
+    url = "https://rocketseat.com.br"
+    description = "Cursos básicos gratuitos de JavaScript, ECMAScript 6 e React."
+    languages = "JavaScript"
+
+[[params.links.course]]
+    name = "Rust"
+    url = "https://www.rust-lang.org/learn"
+    description = "Curso, em inglês sobre a linguaem de programação Rust."
+    languages = "Rust"
 
 [[params.links.course]]
     name = "School of Net"
@@ -195,23 +219,16 @@ paginate = 10
     languages = "Várias."
 
 [[params.links.course]]
-    name = "Code Academy"
-    url = "https://www.codecademy.com"
-    description = "Cursos gratuitos de Desenvolvimento web, Programação e Data Science."
-    languages = "HTML, CSS, javascript, java, SQL, Ruby e outros"
+    name = "SoloLearn"
+    url = "https://www.sololearn.com/"
+    description = "Cursos introdutórios para várias linguagens de programação."
+    languages = "C++, C#, Java, Python, Swift, HTML, CSS, Javascript, PHP, Ruby e SQL."
 
 [[params.links.course]]
     name = "Um tour por Go"
     url = "https://go-tour-br.appspot.com/welcome/1"
     description = "Um tour pela linguagem de Programação Go."
     languages = "Go"
-
-[[params.links.course]]
-    name = "Rocketseat"
-    url = "https://rocketseat.com.br"
-    description = "Cursos básicos gratuitos de JavaScript, ECMAScript 6 e React."
-    languages = "JavaScript"
-
 
 # Tools.
 [params.links.tools]
