@@ -1,4 +1,3 @@
-
 ## Como contribuir para o site?
 
 A melhor maneira de contribuir com um artigo ou correção para o site é criar um
