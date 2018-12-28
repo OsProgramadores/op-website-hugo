@@ -147,9 +147,9 @@ paginate = 10
 
 # List of courses.
 [[params.links.course]]
-    name = "Bootstrap Total"
-    url = "http://www.bootstraptotal.com.br/rwd-aula-01/"
-    description = "Curso de bootstrap gratuito com certificado."
+    name = "Bootstrap 4"
+    url = "https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33"
+    description = "Bootstrap 4 (em inglês)"
     languages = "Framework Bootstrap, HTML5, CSS3"
 
 [[params.links.course]]
