@@ -30,6 +30,7 @@ Ao adicionar o seu nome, por favor observe:
 | Danrley Senegalha Pires       | dansenpir@protonmail.com              | https://github.com/dansenpir          |
 | David GesRob                  | david81br@gmail.com                   | https://github.com/david81brs         |
 | Denis Almeida                 | denis.meida@gmail.com                 | https://github.com/denisvba           |
+| Diego Roberto Silva Nonato    | nonatodiego@hotmail.com               | https://github.com/nonatodiego        |
 | Diogo Fernandes de Queiroz    | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz      |
 | Eduardo Felipe Lopes          | edufelopes@hotmail.com                | https://github.com/raikon55           |
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini            |
