@@ -34,6 +34,7 @@ Ao adicionar o seu nome, por favor observe:
 | Diego Roberto Silva Nonato    | nonatodiego@hotmail.com               | https://github.com/nonatodiego        |
 | Diogo Fernandes de Queiroz    | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz      |
 | Eduardo Felipe Lopes          | edufelopes@hotmail.com                | https://github.com/raikon55           |
+| Eduardo Figueiredo Gonçalves  | goncalves.ef@gmail.com                | https://github.com/eduardofg87        |
 | Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini            |
 | Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan         |
 | Elaine Saith Martins          | elainesaith@hotmail.com               | https://github.com/elainesaith        |
