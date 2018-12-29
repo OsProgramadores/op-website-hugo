@@ -52,6 +52,7 @@ Ao adicionar o seu nome, por favor observe:
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
 | Igor Tuag Andrade de Freitas  | igortuag@gmail.com                    | https://github.com/igortuag           |
 | Jackson Osvaldo da Silva Braga| jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo     |
+| Jéssica Zanelato Soares       | jessizanelato@gmail.com               | https://github.com/jessizanelato      |
 | Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
 | Lauro Silveira Neto           | laurosn@gmail.com                     | https://github.com/laurosn            |
@@ -68,7 +69,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Túlio R. Zuquim Alves   | tulio@century.net.br                  | https://github.com/Zuquim             |
 | Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
 | Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
-| Matheus Dias Vieira           | matheuspvh13@gmail.com                | https://github.com/koalapvh13         |         
+| Matheus Dias Vieira           | matheuspvh13@gmail.com                | https://github.com/koalapvh13         |
 | Matheus Dourado               | matheusdouradobr@gmail.com            | https://github.com/matheusdouradobr   | 
 | Matheus Ferreira              | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
 | Mattheus Couto                | matius.couto@gmail.com                | https://github.com/Matiusco           |
