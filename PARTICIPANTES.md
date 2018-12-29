@@ -46,6 +46,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Peixoto               | gpeixoto@gmail.com                    | https://github.com/neuraman           |
 | Giovane Da Silva Sobrinho     | giovane.sobrinho@gmail.com            | https://github.com/eu447              |
 | Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
+| Giuseppe Varriale             | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale   |
 | Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Helio Loureiro                | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
 | Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
