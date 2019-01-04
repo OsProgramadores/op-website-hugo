@@ -5,97 +5,97 @@ Ao adicionar o seu nome, por favor observe:
 * Adicione o seu nome, email e página do github na lista abaixo.
 * A lista é ordenada por *nome*, seguida de *prenome* e *sobrenome*.
 * Emails inválidos serão rejeitados automaticamente.
-* URLs do github deverão ser no formato: https://github.com/seu_usuario
+* URLs do github deverão ser no formato: `https://github.com/seu_usuario`
 * Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
 
-| Nome                          | Email                                 | Github Page                           |
-| ----------------------------- | ------------------------------------- | ------------------------------------- |
-| Adilson Boson Almeida Junior  | adboson@gmail.com                     | https://github.com/adboson            |
-| Adriano Roberto de Lima       | adriano.lima@arlima.com.br            | https://github.com/arlima             |
-| Alex Almeida                  | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
-| Alexsandro Felix              | felix@ffelix.eti.br                   | https://github.com/asfelix            |
-| Anderson Unsonst              | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
-| Anthony Louis G. Ferreira     | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
-| Antonio Gabriel               | No Email                              | https://github.com/presstart          |
-| Antonio Lisbôa de Melo Neto   | antonion.2048@gmail.com               | https://github.com/Note45             |
-| Arthur Flavio de Abreu Tavares| arthurabreu00@gmail.com               | https://github.com/arthurabreu00      |
-| Augusto da Silva Costa        | contato@guto.pro.br                   | https://github.com/gutocosta          |
-| Áxel Crispim                  | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
-| Bassam Basil Junior           | bassambjg5@gmail.com                  | https://github.com/Bassambj           |
-| Celina Uemura                 | celina.uemura@gmail.com               | https://github.com/cezinha            |
-| Clederson Cruz                | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
-| Cleverton Fernandes Guimarães | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes        |
-| Daniel Carvalho               | codecodic7@gmail.com                  | https://github.com/KDEboy             |
-| Daniel Ferraz dos santos      | danielferraz.contato@gmail.com        | https://github.com/danielferraz-git   |
-| Daniel Samper                 | dr.hongo@gmail.com                    | https://github.com/daniel-samper      |
-| Danrley Senegalha Pires       | dansenpir@protonmail.com              | https://github.com/dansenpir          |
-| David GesRob                  | david81br@gmail.com                   | https://github.com/david81brs         |
-| Denis Almeida                 | denis.meida@gmail.com                 | https://github.com/denisvba           |
-| Diego Roberto Silva Nonato    | nonatodiego@hotmail.com               | https://github.com/nonatodiego        |
-| Diogo Fernandes de Queiroz    | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz      |
-| Eduardo Felipe Lopes          | edufelopes@hotmail.com                | https://github.com/raikon55           |
-| Eduardo Figueiredo Gonçalves  | goncalves.ef@gmail.com                | https://github.com/eduardofg87        |
-| Eduardo Henrique              | eduardosatrini@gmail.com              | https://github.com/satrini            |
-| Eduardo Stephan               | eduardo.stephan@outlook.com           | https://github.com/edustephan         |
-| Elaine Saith Martins          | elainesaith@hotmail.com               | https://github.com/elainesaith        |
-| Fábio Oliveira                | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
-| Fabrício Henrique da Silva    | fnhs27@outlook.com                    | https://github.com/Fabricio967        |
-| Felipe Ceglia                 | felipe@dxwatch.com                    | https://github.com/mehale             |
-| Gabriel Dos Santos            | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS          |
-| Gabriel Lampa da Cunha        | gabriellampa@gmail.com                | https://github.com/icaroraci/         |
-| Gabriel Peixoto               | gpeixoto@gmail.com                    | https://github.com/neuraman           |
-| Giovane Da Silva Sobrinho     | giovane.sobrinho@gmail.com            | https://github.com/eu447              |
-| Giovanni Martins              | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
-| Giuseppe Varriale             | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale   |
-| Hamon de Córdova Jorge        | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
-| Helio Loureiro                | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
-| Hemílio Lauro de Araújo Melo  | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
-| Igor Tuag Andrade de Freitas  | igortuag@gmail.com                    | https://github.com/igortuag           |
-| Jackson Osvaldo da Silva Braga| jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo     |
-| Jéssica Zanelato Soares       | jessizanelato@gmail.com               | https://github.com/jessizanelato      |
-| Joabe Guimaraes Q. Kachorroski|joabejbk@gmail.com                     | https://github.com/kernelkill         |
-| Juliano da Silva Silva        | juliano.sil6@gmail.com                | https://github.com/ojulianos          |
-| Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
-| Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
-| Lauro Silveira Neto           | laurosn@gmail.com                     | https://github.com/laurosn            |
-| Leo Silva Souza               | leovano@protonmail.com                | https://github.com/leovano            |
-| Letícia Freire                | leticiafcs4@gmail.com                 | https://github.com/leticia-freire     |
-| Ligia Salzano                 | ligiasalzano@gmail.com                | https://github.com/ligiasalzano       |
-| Lucas Cegielkowski Guimarães  | Cegielkowski@icloud.com               | https://github.com/Cegielkowski       |
-| Lucas Dantas de Oliveira      | ldantasdev@gmail.com                  | https://github.com/lucantas           |
-| Lucas Harrison Silva          | lucas.harrison@certto.com.br          | https://github.com/Harrisoned         |
-| Lucas Matheus Gonçalves       | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
-| Luiz Carlos Martins Filho     | lcmartinsfilho@gmail.com              | https://github.com/luizcmf            |
-| Luiz Torres Junior            | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
-| Marco Antonio Rocha           | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
-| Marco Túlio R. Zuquim Alves   | tulio@century.net.br                  | https://github.com/Zuquim             |
-| Marcos Teruo Ouchi            | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
-| Mário Idival Gomes Duarte     | marioidival@gmail.com                 | https://github.com/marioidival        |
-| Matheus Dias Vieira           | matheuspvh13@gmail.com                | https://github.com/koalapvh13         |
-| Matheus Dourado               | matheusdouradobr@gmail.com            | https://github.com/matheusdouradobr   | 
-| Matheus Ferreira              | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
-| Mattheus Couto                | matius.couto@gmail.com                | https://github.com/Matiusco           |
-| Max Sylver                    | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
-| Moises Maia Gomes             | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
-| Nicholas Borba                | nicholasborba@gmail.com               | https://github.com/nkborba            |
-| Paulo Henrique R. Pinheiro    | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro    |
-| Pedro de Barros Veríssimo     | pedver96@gmail.com                    | https://github.com/pbv2               |
-| Pedro Igor Oliveira Silva     | pedroigor@aluno.unb.br                | https://github.com/pedroeagle         |
-| Rafael De Souza Santos        | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
-| Ricardo Severo                | ricardosilva.official@outlook.com     | https://github.com/ricardosevero      |
-| Rodinei Costa                 | rodineicosta@physistec.com.br         | https://github.com/rodineicosta       |
-| Rodrigo Duarte de O. Toledo   | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
-| Rodrigo Vaz De Oliveira       | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
-| Ronaldo Ferreira de Oliveira  | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira       |
-| Ruhan Macedo                  | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
-| Samuel Ramos                  | samramox@gmail.com                    | https://github.com/samuelramox        |
-| Sávio S. Gusmão               | saviosg@outlook.com                   | https://github.com/saviosg            |
-| Thiago Amadeu Nardi           | thnardi@gmail.com                     | https://github.com/thnardi            |
-| Thiago Morette de Oliveira    | thiagomorette@gmail.com               | https://github.com/Morette            |
-| Valdinei Ferreira             | valdineifer@outlook.com               | https://github.com/valdineifer        |
-| Victor Eduardo Santos Soares  | v_eduardo@live.com                    | https://github.com/veduardo93         |
-| Victor Hugo Santana dos Anjos | victorhsanjos@gmail.com               | https://github.com/victorhsanjos      |
-| Washington Araújo Ramos       | No Email                              | https://github.com/WashingtonARamos   |
-| Wesley de Assis               | wesleyassis455@gmail.com              | https://github.com/Choco02            |
-| William da Rosa Garcia        | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
-| Wilque Muriel                 | wilque.m1234@gmail.com                | https://github.com/Wilque             |
+| Nome                           | Email                                 | Github Page                           |
+| ------------------------------ | ------------------------------------- | ------------------------------------- |
+| Adilson Boson Almeida Junior   | adboson@gmail.com                     | https://github.com/adboson            |
+| Adriano Roberto de Lima        | adriano.lima@arlima.com.br            | https://github.com/arlima             |
+| Alex Almeida                   | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
+| Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix            |
+| Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
+| Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
+| Antonio Gabriel                | No Email                              | https://github.com/presstart          |
+| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com               | https://github.com/Note45             |
+| Arthur Flavio de Abreu Tavares | arthurabreu00@gmail.com               | https://github.com/arthurabreu00      |
+| Augusto da Silva Costa         | contato@guto.pro.br                   | https://github.com/gutocosta          |
+| Áxel Crispim                   | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
+| Bassam Basil Junior            | bassambjg5@gmail.com                  | https://github.com/Bassambj           |
+| Celina Uemura                  | celina.uemura@gmail.com               | https://github.com/cezinha            |
+| Clederson Cruz                 | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
+| Cleverton Fernandes Guimarães  | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes        |
+| Daniel Carvalho                | codecodic7@gmail.com                  | https://github.com/KDEboy             |
+| Daniel Ferraz dos santos       | danielferraz.contato@gmail.com        | https://github.com/danielferraz-git   |
+| Daniel Samper                  | dr.hongo@gmail.com                    | https://github.com/daniel-samper      |
+| Danrley Senegalha Pires        | dansenpir@protonmail.com              | https://github.com/dansenpir          |
+| David GesRob                   | david81br@gmail.com                   | https://github.com/david81brs         |
+| Denis Almeida                  | denis.meida@gmail.com                 | https://github.com/denisvba           |
+| Diego Roberto Silva Nonato     | nonatodiego@hotmail.com               | https://github.com/nonatodiego        |
+| Diogo Fernandes de Queiroz     | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz      |
+| Eduardo Felipe Lopes           | edufelopes@hotmail.com                | https://github.com/raikon55           |
+| Eduardo Figueiredo Gonçalves   | goncalves.ef@gmail.com                | https://github.com/eduardofg87        |
+| Eduardo Henrique               | eduardosatrini@gmail.com              | https://github.com/satrini            |
+| Eduardo Stephan                | eduardo.stephan@outlook.com           | https://github.com/edustephan         |
+| Elaine Saith Martins           | elainesaith@hotmail.com               | https://github.com/elainesaith        |
+| Fábio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
+| Fabrício Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967        |
+| Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale             |
+| Gabriel Dos Santos             | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS          |
+| Gabriel Lampa da Cunha         | gabriellampa@gmail.com                | https://github.com/icaroraci/         |
+| Gabriel Peixoto                | gpeixoto@gmail.com                    | https://github.com/neuraman           |
+| Giovane Da Silva Sobrinho      | giovane.sobrinho@gmail.com            | https://github.com/eu447              |
+| Giovanni Martins               | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
+| Giuseppe Varriale              | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale   |
+| Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
+| Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
+| Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
+| Igor Tuag Andrade de Freitas   | igortuag@gmail.com                    | https://github.com/igortuag           |
+| Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo     |
+| Jéssica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato      |
+| Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill         |
+| Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos          |
+| Júlio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst           |
+| Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
+| Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn            |
+| Leo Silva Souza                | leovano@protonmail.com                | https://github.com/leovano            |
+| Letícia Freire                 | leticiafcs4@gmail.com                 | https://github.com/leticia-freire     |
+| Ligia Salzano                  | ligiasalzano@gmail.com                | https://github.com/ligiasalzano       |
+| Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com               | https://github.com/Cegielkowski       |
+| Lucas Dantas de Oliveira       | ldantasdev@gmail.com                  | https://github.com/lucantas           |
+| Lucas Harrison Silva           | lucas.harrison@certto.com.br          | https://github.com/Harrisoned         |
+| Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
+| Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com              | https://github.com/luizcmf            |
+| Luiz Torres Junior             | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
+| Marco Antonio Rocha            | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
+| Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim             |
+| Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
+| Mário Idival Gomes Duarte      | marioidival@gmail.com                 | https://github.com/marioidival        |
+| Matheus Dias Vieira            | matheuspvh13@gmail.com                | https://github.com/koalapvh13         |
+| Matheus Dourado                | matheusdouradobr@gmail.com            | https://github.com/matheusdouradobr   |
+| Matheus Ferreira               | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
+| Mattheus Couto                 | matius.couto@gmail.com                | https://github.com/Matiusco           |
+| Max Sylver                     | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
+| Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
+| Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba            |
+| Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro    |
+| Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2               |
+| Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle         |
+| Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
+| Ricardo Severo                 | ricardosilva.official@outlook.com     | https://github.com/ricardosevero      |
+| Rodinei Costa                  | rodineicosta@physistec.com.br         | https://github.com/rodineicosta       |
+| Rodrigo Duarte de O. Toledo    | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
+| Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
+| Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira       |
+| Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
+| Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox        |
+| Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg            |
+| Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi            |
+| Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette            |
+| Valdinei Ferreira              | valdineifer@outlook.com               | https://github.com/valdineifer        |
+| Victor Eduardo Santos Soares   | v_eduardo@live.com                    | https://github.com/veduardo93         |
+| Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com               | https://github.com/victorhsanjos      |
+| Washington Araújo Ramos        | No Email                              | https://github.com/WashingtonARamos   |
+| Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02            |
+| William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
+| Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque             |

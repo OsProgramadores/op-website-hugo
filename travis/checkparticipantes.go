@@ -45,6 +45,11 @@ func checkParticipantes(r io.Reader) error {
 			return fmt.Errorf("line %d: Found tab characters. Only spaces allowed: %q", linecounter, line)
 		}
 
+		// Reject lines ending in spaces.
+		if strings.HasSuffix(line, " ") {
+			return fmt.Errorf("line %d: Extra space at end of line: %q", linecounter, line)
+		}
+
 		// Ignore everything until we find a line starting with separatorPrefix.
 		// This indicates the end of our headers (start processing next line).
 		if strings.HasPrefix(line, separatorPrefix) {
@@ -58,7 +63,7 @@ func checkParticipantes(r io.Reader) error {
 
 		columns := strings.Split(line, "|")
 
-		// Must have five columns
+		// Must have five columns.
 		if len(columns) != 5 {
 			return fmt.Errorf("line %d: incorrect number of rows. Want 5, got %d", linecounter, len(columns))
 		}
@@ -68,6 +73,19 @@ func checkParticipantes(r io.Reader) error {
 		for _, i := range colindex {
 			if lr[i] != '|' {
 				return fmt.Errorf("line %d: Column markers are not aligned: %q", linecounter, line)
+			}
+		}
+
+		// Name, email, and github page must start and end with a space (padding
+		// between column contents and column separator). We skip the first and
+		// last columns, as they're always blank (our table starts and ends
+		// with the separator.)
+		for _, v := range columns[1 : len(columns)-1] {
+			if !strings.HasPrefix(v, " ") {
+				return fmt.Errorf("line %d: need a space between %q and the left column separator", linecounter, v)
+			}
+			if !strings.HasSuffix(v, " ") {
+				return fmt.Errorf("line %d: need a space between %q and the right column separator", linecounter, v)
 			}
 		}
 
