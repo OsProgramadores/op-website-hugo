@@ -53,6 +53,7 @@ Ao adicionar o seu nome, por favor observe:
 | Igor Tuag Andrade de Freitas  | igortuag@gmail.com                    | https://github.com/igortuag           |
 | Jackson Osvaldo da Silva Braga| jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo     |
 | Jéssica Zanelato Soares       | jessizanelato@gmail.com               | https://github.com/jessizanelato      |
+| Joabe Guimaraes Q. Kachorroski|joabejbk@gmail.com                     | https://github.com/kernelkill         |
 | Juliano da Silva Silva        | juliano.sil6@gmail.com                | https://github.com/ojulianos          |
 | Júlio César Santos            | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                   | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
