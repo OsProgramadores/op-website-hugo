@@ -5,8 +5,7 @@ date = "2017-08-03T18:15:00-03:00"
 tags = ["links"]
 +++
 
-
-# Cursos
+## Cursos
 <table class="table table-striped">
   <thead>
     <tr>
@@ -63,9 +62,7 @@ tags = ["links"]
   </tbody>
 </table>
 
-
-# Ferramentas
-
+## Ferramentas
 <table class="table table-striped">
   <thead>
     <tr>
@@ -99,16 +96,20 @@ tags = ["links"]
       <td>Fórum brasileiro para programadores</td>
     </tr>
     <tr>
+      <td><a href="https://learngitbranching.js.org/">Learn Git Branching</a></td>
+      <td>Aprendendo intuitivamente como funcionam os comandos de branching, como 'checkout', 'merge' e 'rebase'</td>
+    </tr>
+    <tr>
+      <td><a href="https://repl.it">Repl.it</a></td>
+      <td>Um IDE no web browser. Suporte para diversas linguagens. Compartilhamento de código com terceiros</td>
+    </tr>
+    <tr>
       <td><a href="https://regex101.com/">Regex101</a></td>
       <td>Ferramenta para testar suas expressões regulares em Php, Python, Javascript e Go</td>
     </tr>
     <tr>
       <td><a href="http://www.regexpal.com/">Regex Pal</a></td>
       <td>Outro site para testar expressões regulares</td>
-    </tr>
-    <tr>
-      <td><a href="https://learngitbranching.js.org/">Learn Git Branching</a></td>
-      <td>Aprendendo intuitivamente como funcionam os comandos de branching, como 'checkout', 'merge' e 'rebase'</td>
     </tr>
     <tr>
       <td><a href="http://rextester.com/l/pascal_online_compiler">RexTester</a></td>
@@ -123,19 +124,17 @@ tags = ["links"]
       <td>Compacte imagens de <strong>PNG</strong> sem perder qualidade. Excelente para deixar seu site mais leve</td>
     </tr>
     <tr>
-      <td><a href="https://validator.w3.org/">W3 HTML Validator</a></td>
-      <td>Ferramenta para validação de documentos web, como HTML, XHTML, etc</td>
-    </tr>
-    <tr>
       <td><a href="http://jigsaw.w3.org/css-validator/">W3 CSS Validator</a></td>
       <td>Ferramenta para validação de CSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://validator.w3.org/">W3 HTML Validator</a></td>
+      <td>Ferramenta para validação de documentos web, como HTML, XHTML, etc</td>
     </tr>
   </tbody>
 </table>
 
-
-# Documentação
-
+## Documentação
 <table class="table table-striped">
   <thead>
     <tr>
@@ -158,7 +157,7 @@ tags = ["links"]
     </tr>
     <tr>
       <td><a href="http://php.net/manual/pt_BR/index.php">PHP</a></td>
-      <td>Tudo que precisar saber sobre PHP tem nesse site, que agrega toda documentação com tutoriais em portuguêss</td>
+      <td>Tudo que precisar saber sobre PHP tem nesse site, que agrega toda documentação com tutoriais em português</td>
     </tr>
     <tr>
       <td><a href="http://br.phptherightway.com/">PHP do jeito certo</a></td>
@@ -171,8 +170,7 @@ tags = ["links"]
   </tbody>
 </table>
 
-# Livros digitais
-
+## Livros digitais
 <table class="table table-striped">
   <thead>
     <tr>
@@ -212,9 +210,7 @@ tags = ["links"]
   </tbody>
 </table>
 
-
-# Podcasts
-
+## Podcasts
 <table class="table table-striped">
   <thead>
     <tr>
@@ -253,6 +249,3 @@ tags = ["links"]
     </tr>
   </tbody>
 </table>
-   
-    
-    
