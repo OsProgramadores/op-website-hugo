@@ -1,194 +1,50 @@
-{{ if .Site.Params.links.enable }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
 
+  {{ partial "head.html" . }}
 
-<!-- Espaço entre a tabela e o rodapé -->
-<style type="text/css">
+  <body>
 
-.font-size-page { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
-.texto-podcast>h3 { text-align: center; }
-.podcast {  overflow-x: hidden; }
+    <div id="all">
 
-.tabLinks {
-  margin: 10px;
-  padding: 0;
-  padding-top: 15px;
-  border: 0;
-  overflow-x: auto;
-}
+        <div id="content">
+            <div class="container">
 
-.margin-bottom {
-  padding: 0;
-  margin-bottom: 20px;
-}
+                <div class="row">
 
-@media screen and (max-width: 767px){
-  .font-size-page {
-    font-size: 12px;    
-  }
+                    <!-- *** LEFT COLUMN *** -->
 
-  .texto-podcast>h3 {
-    font-size: 26px;
-    text-align: center;
-  }
-  .texto-podcast>h3>p{
-    font-size: 12px;
-    text-align: left;
-  }
-}
+                    <div class="col-md-9 prose" id="blog-post">
 
-@media screen and (min-width: 768px){
-  .font-size-page {
-    font-size: 16px;    
-  }
-  .font.size-podcast > h3 {
-    font-size: 30px;
-  }
-  .font.size-podcast > p{
-    font-size: 14px;
-  }
-  .tabLinks {
-    overflow-x: hidden;
-  }
-}
+                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}</p>
 
-</style>
-
-
-<div class="container font-size-page margin-bottom">
-    <!-- Criação das Abas-->
-    <ul class="nav nav-tabs" role="tablist">
-        {{ if .Site.Params.links.courses.enable }}
-        <li class="active"><a href="#cursos" role="tab" data-toggle="tab">Cursos Gratuitos</a></li>
-        {{ end }}
-        {{ if .Site.Params.links.tools.enable }}
-        <li><a href="#ferramentas" role="tab" data-toggle="tab">Ferramentas</a></li>
-        {{ end }}
-        {{ if .Site.Params.links.docs.enable }}
-        <li><a href="#documentacoes" role="tab" data-toggle="tab">Documentações</a></li>
-        {{ end }}
-        {{ if .Site.Params.links.ebooks.enable }}
-        <li><a href="#ebooks" role="tab" data-toggle="tab">Livros/Ebooks</a></li>
-        {{ end }}
-        {{ if .Site.Params.links.podcasts.enable }}
-        <li><a href="#podcasts" role="tab" data-toggle="tab">PodCasts</a></li>
-        {{ end }}
-    </ul>
-    <!-- Conteúdo das abas-->
-    <div class="tab-content tabLinks">
-
-        {{ if .Site.Params.links.courses.enable }}
-        <!-- Aba dos Cursos-->
-        <div class="tab-pane active" role="tabpanel" id="cursos">
-            <table class="table table-striped table-bordered table-hover">
-                <thead>
-                    <tr class="success">
-                        <th>Curso</th>
-                        <th>Resumo</th>
-                        <th>Linguagem</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {{ range .Site.Params.links.course }}
-                    <tr>
-                        <td><a href="{{ .url }}" target="_blank">{{ .name }}</a></td>
-                        <td>{{ safeHTML .description }}</td>
-                        <td>{{ .languages }}</td>
-                    </tr>
-                    {{ end }}
-                </tbody>
-            </table>
-        </div>
-        {{ end }}
-
-        {{ if .Site.Params.links.tools.enable }}
-        <!-- Aba das Ferramentas-->
-        <div class="tab-pane" role="tabpanel" id="ferramentas">
-            <table class="table table-striped table-bordered table-hover">
-                <thead>
-                    <tr class="success">
-                        <th>Ferramenta</th>
-                        <th>Descrição</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {{ range .Site.Params.links.tool }}
-                    <tr>
-                        <td><a href="{{ .url }}" target="_blank">{{ .name }}</a></td>
-                        <td>{{ safeHTML .description }}</td>
-                    </tr>
-                    {{ end }}
-                </tbody>
-            </table>
-        </div>
-        {{ end }}
-
-        {{ if .Site.Params.links.docs.enable }}
-        <!-- Aba das Documentações-->
-        <div class="tab-pane" role="tabpanel" id="documentacoes">
-            <table class="table table-striped table-bordered table-hover">
-                <thead>
-                    <tr class="success">
-                        <th>Linguagem</th>
-                        <th>Descrição</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {{ range .Site.Params.links.doc }}
-                    <tr>
-                        <td><a href="{{ .url }}" target="_blank">{{ .name }}</a></td>
-                        <td>{{ safeHTML .description }}</td>
-                    </tr>
-                    {{ end }}
-                </tbody>
-            </table>
-        </div>
-        {{ end }}
-
-        {{ if .Site.Params.links.ebooks.enable }}
-        <!-- Aba dos Ebooks-->
-        <div class="tab-pane" role="tabpanel" id="ebooks">
-            <table class="table table-striped table-bordered table-hover">
-                <thead>
-                    <tr class="success">
-                        <th>Linguagem</th>
-                        <th>Descrição</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {{ range .Site.Params.links.ebook }}
-                    <tr>
-                        <td><a href="{{ .url }}" target="_blank">{{ .name }}</a></td>
-                        <td>{{ safeHTML .description }}</td>
-                    </tr>
-                    {{ end }}
-                </tbody>
-            </table>
-        </div>
-        {{ end }}
-
-        {{ if .Site.Params.links.podcasts.enable }}
-        <!-- Aba dos PodCasts-->
-        <div class="tab-pane podcast" role="tabpanel" id="podcasts">
-            <div class="row">
-               {{ range .Site.Params.links.podcast }}
-                <div class="col-xs-12 col-sm-6 col-md-3 img-podcast">
-                    <div class="thumbnail">
-                        <img class="img-responsive" src="{{ .thumbnail }}">
-                        <div class="caption texto-podcast">
-                            <h3>{{ .name }}</h3>
-                            <p>{{ safeHTML .description }}</p>
-                            <a href="{{ .url }}" class="btn btn-primary">Ouvir</a>
+                        <div id="post-content">
+                          {{ .Content }}
                         </div>
+                        <!-- /#post-content -->
+                        {{ if .Site.DisqusShortname }}
+                        <div id="comments">
+                            {{ template "_internal/disqus.html" . }}
+                        </div>
+                        {{ end }}
+
                     </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
                 </div>
-                {{ end }}
+                <!-- /.row -->
+
             </div>
+            <!-- /.container -->
         </div>
-        {{ end }}
+        <!-- /#content -->
 
     </div>
-</div>
+    <!-- /#all -->
 
+    {{ partial "scripts.html" . }}
 
-
-{{ end }}
+  </body>
+</html>
