@@ -99,3 +99,4 @@ Ao adicionar o seu nome, por favor observe:
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque             |
+| Yago de Matos                  | No Email                              | https://github.com/yagodematos        |
