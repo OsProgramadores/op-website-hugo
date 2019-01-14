@@ -95,6 +95,7 @@ Ao adicionar o seu nome, por favor observe:
 | Valdinei Ferreira              | valdineifer@outlook.com               | https://github.com/valdineifer        |
 | Victor Eduardo Santos Soares   | v_eduardo@live.com                    | https://github.com/veduardo93         |
 | Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com               | https://github.com/victorhsanjos      |
+| Victor Hugo Gomes Nascimento   | labatata101@linuxmail.org             | https://github.com/LaBatata101        |
 | Washington Araújo Ramos        | No Email                              | https://github.com/WashingtonARamos   |
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
