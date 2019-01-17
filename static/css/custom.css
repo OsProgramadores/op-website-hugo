@@ -1,4 +1,4 @@
-// Custom CSS
+/* Custom CSS */
 
 .header-link:after {
   position: relative;
@@ -24,4 +24,25 @@ code {
   color: #000000;
   background-color: #d5f1f1;
   font-family: Menlo, Monaco, Consolas, monospace, "Courier New";
+}
+
+/* Cards for desafios */
+.desafio-cards {
+  min-height: 280px;
+  /*border:1px solid #eeeeee;*/
+  margin-bottom: 24px;
+  padding-top: 24px;
+  background-color: #e2f0f7;
+}
+
+.desafio-cards-title {
+  text-align: center;
+}
+
+.desafio-intro {
+  text-align: center !important;
+}
+
+.desafio-difficulty {
+  text-align: center;
 }

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    {{ partial "head.html" . }}
+
+    <body>
+
+    <div id="all">
+        <header>
+          {{ partial "nav.html" . }}
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+        <div id="content">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-9" id="blog-listing-medium">
+                        <div class="row">
+                            {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+                            {{ range $paginator.Pages }}
+                            <div class="col-md-6">
+                                <!-- New col-md-12 containers provides margin between columns -->
+                                <div class="col-md-12 desafio-cards">
+                                    <!-- Font Awesome Icon -->
+                                    {{ if .Params.fa_icon }}
+                                        <i class="{{ .Params.fa_icon }}" style="font-size:36px"></i>
+                                    {{ end }}
+                                    <section class="post">
+                                        <h2 class="desafio-cards-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                                        {{ if .Description }}
+                                        <p class="intro desafio-intro">{{ .Description }}</p>
+                                        {{ else }}
+                                        <p class="intro desafio-intro">{{ .Summary }}</p>
+                                        {{ end }}
+
+                                        <!-- Difficulty (1 to 5)-->
+                                        {{ if .Params.difficulty }}
+                                        <br/>
+                                        <div class="col-md-12 text-center">
+                                            {{ if eq .Params.difficulty 1 }}
+                                                <a href="{{ .Permalink }}" class="btn btn-success">Fácil ({{ .Params.points }} pontos)</a>
+                                            {{ end }}
+                                            {{ if eq .Params.difficulty 2 }}
+                                                <a href="{{ .Permalink }}" class="btn btn-success">Fácil/Médio ({{ .Params.points }} pontos)</a>
+                                            {{ end }}
+                                            {{ if eq .Params.difficulty 3 }}
+                                                <a href="{{ .Permalink }}" class="btn btn-warning">Médio ({{ .Params.points }} pontos)</a>
+                                            {{ end }}
+                                            {{ if eq .Params.difficulty 4 }}
+                                                <a href="{{ .Permalink }}" class="btn btn-warning">Médio/Difícil ({{ .Params.points }} pontos)</a>
+                                            {{ end }}
+                                            {{ if eq .Params.difficulty 5 }}
+                                                <a href="{{ .Permalink }}" class="btn btn-danger">Difícil ({{ .Params.points }} pontos)</a>
+                                            {{ end }}
+                                        </div>
+                                        {{ end }}
+                                    </section>
+                                </div>
+                              </div>
+                            {{ end }}
+                        </div> <!-- row after cards -->
+
+                        <ul class="pager">
+                            {{ if .Paginator.HasPrev }}
+                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; {{ i18n "newer" }}</a></li>
+                            {{ else }}
+                            <li class="previous disabled"><a href="#">&larr; {{ i18n "newer" }}</a></li>
+                            {{ end }}
+                            {{ if .Paginator.HasNext }}
+                            <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">{{ i18n "older" }} &rarr;</a></li>
+                            {{ else }}
+                            <li class="next disabled"><a href="#">{{ i18n "older" }} &rarr;</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                    <!-- /.col-md-9 -->
+                    <!-- *** LEFT COLUMN END *** -->
+                    <!-- *** RIGHT COLUMN ***
+       _________________________________________________________ -->
+
+                    <div class="col-md-3">
+                        <!-- *** MENUS AND WIDGETS *** -->
+                        {{ partial "sidebar.html" . }}
+                        <!-- *** MENUS AND FILTERS END *** -->
+                    </div>
+                    <!-- /.col-md-3 -->
+                    <!-- *** RIGHT COLUMN END *** -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+    </body>
+</html>
+
+<!--
+vim: ts=4:sw=4:smarttab:expandtab
+-->
