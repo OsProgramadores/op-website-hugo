@@ -247,5 +247,17 @@ tags = ["links"]
       <td><a href="https://quebradev.com.br/">QUEBRADEV</a></td>
       <td>Um podcast de origem periférica e com destino voltado à origem</td>
     </tr>
+    <tr>
+      <td><a href="https://www.lambda3.com.br/lambda3-podcast/">LAMBDA3</a></td>
+      <td>Podcast sobre assuntos técnicos e não técnicos criado pela empresa Lambda3</td>
+    </tr>
+    <tr>
+      <td><a href="https://soundcloud.com/concretebr">PRODCAST</a></td>
+      <td>Prodcast é o podcast da empresa concrete com vários assuntos técnicos, agilidade, cloud e soft skills</td>
+    </tr>
+    <tr>
+      <td><a href="https://jovemnerd.com.br/playlist/nerdtech/">NERD TECH</a></td>
+      <td>Podcast fruto da parceria entre o Nerdcast e o pessoal da Alura</td>
+    </tr>
   </tbody>
 </table>
