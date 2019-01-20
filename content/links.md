@@ -236,6 +236,18 @@ tags = ["links"]
       <td>Debates sobre temas relacionados a programação e computação</td>
     </tr>
     <tr>
+      <td><a href="https://www.lambda3.com.br/lambda3-podcast/">Lambda3</a></td>
+      <td>Podcast sobre assuntos técnicos e não técnicos criado pela empresa Lambda3</td>
+    </tr>
+     <tr>
+      <td><a href="https://jovemnerd.com.br/playlist/nerdtech/">Nerd Tech</a></td>
+      <td>Podcast fruto da parceria entre o Nerdcast e o pessoal da Alura</td>
+    </tr>
+    <tr>
+      <td><a href="https://soundcloud.com/concretebr">Prodcast</a></td>
+      <td>Prodcast é o podcast da empresa concrete com vários assuntos técnicos, agilidade, cloud e soft skills</td>
+    </tr>
+    <tr>
       <td><a href="https://mundopodcast.com.br/podprogramar/">PodProgramar</a></td>
       <td>Podcast apresentado por desenvolvedoras focado em programação, notícias e histórias, tudo com o toque feminino numa área dominada por homens.</td>
     </tr>
