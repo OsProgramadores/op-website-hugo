@@ -77,7 +77,7 @@ paginate = 10
     email = "info@osprogramadores.com"
 
     about_us = "<p>O nosso grupo não tem fins lucrativos. O nosso objetivo é disseminar conhecimento em várias áreas da ciência da computação.</p>"
-    copyright = "Copyright (c) 2015 - 2017, osprogramadores.com"
+    copyright = "Copyright (c) 2015 - %YEAR%, osprogramadores.com"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
