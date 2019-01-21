@@ -27,12 +27,16 @@ tags = ["links"]
       <td>Cursos gratuitos de Desenvolvimento web, Programação e Data Science</td>
     </tr>
     <tr>
+      <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/">C# Tutorials</a></td>
+      <td>Tutoriais da Microsoft sobre C#</td>
+    </tr>
+    <tr>
       <td><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></td>
       <td>Curso gratuito de Front e Back-end mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado</td>
     </tr>
     <tr>
-      <td><a href="https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/">C# Tutorials</a></td>
-      <td>Tutoriais da Microsoft sobre C#</td>
+      <td><a href="http://jstherightway.org/pt-br/">JavaScript The Right Way</a></td>
+      <td>Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas</td>
     </tr>
     <tr>
       <td><a href="https://www.lua.org/portugues.html">Lua</a></td>
