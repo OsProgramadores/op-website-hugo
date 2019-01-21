@@ -71,6 +71,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim             |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
 | Mário Idival Gomes Duarte      | marioidival@gmail.com                 | https://github.com/marioidival        |
+| Matheus Barbosa Souza          | mbscbsjbs@gmail.com                   | https://github.com/WhoisBsa           |
 | Matheus Dias Vieira            | matheuspvh13@gmail.com                | https://github.com/koalapvh13         |
 | Matheus Dourado                | matheusdouradobr@gmail.com            | https://github.com/matheusdouradobr   |
 | Matheus Ferreira               | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
