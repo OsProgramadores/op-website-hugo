@@ -25,39 +25,34 @@
                                 <!-- New col-md-12 containers provides margin between columns -->
                                 <div class="col-md-12 desafio-cards">
                                     <!-- Font Awesome Icon -->
-                                    {{ if .Params.fa_icon }}
-                                        <i class="{{ .Params.fa_icon }}" style="font-size:36px"></i>
-                                    {{ end }}
-                                    <section class="post">
-                                        <h2 class="desafio-cards-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                                        {{ if .Description }}
-                                        <p class="intro desafio-intro">{{ .Description }}</p>
-                                        {{ else }}
-                                        <p class="intro desafio-intro">{{ .Summary }}</p>
+                                    <div class="col-xs-3">
+                                        {{ if .Params.fa_icon }}
+                                            <i class="{{ .Params.fa_icon }} desafio-icon"></i>
                                         {{ end }}
-
-                                        <!-- Difficulty (1 to 5)-->
-                                        {{ if .Params.difficulty }}
-                                        <br/>
-                                        <div class="col-md-12 text-center">
-                                            {{ if eq .Params.difficulty 1 }}
-                                                <a href="{{ .Permalink }}" class="btn btn-success">Fácil ({{ .Params.points }} pontos)</a>
+                                    </div>
+                                    <div class="col-xs-9">
+                                        <section class="desafio-post">
+                                            <a class="desafio-cards-title" href="{{ .Permalink }}">{{ .Title }}</a>
+                                            <!-- Difficulty (1 to 5)-->
+                                            {{ if .Params.difficulty }}
+                                                {{ if eq .Params.difficulty 1 }}
+                                                    <p class="desafio-label">Fácil ({{ .Params.points }} pontos)</p>
+                                                {{ end }}
+                                                {{ if eq .Params.difficulty 2 }}
+                                                    <p class="desafio-label">Fácil/Médio ({{ .Params.points }} pontos)</p>
+                                                {{ end }}
+                                                {{ if eq .Params.difficulty 3 }}
+                                                    <p class="desafio-label">Médio ({{ .Params.points }} pontos)</p>
+                                                {{ end }}
+                                                {{ if eq .Params.difficulty 4 }}
+                                                    <p class="desafio-label">Médio/Difícil ({{ .Params.points }} pontos)</p>
+                                                {{ end }}
+                                                {{ if eq .Params.difficulty 5 }}
+                                                    <p class="desafio-label">Difícil ({{ .Params.points }} pontos)</p>
+                                                {{ end }}
                                             {{ end }}
-                                            {{ if eq .Params.difficulty 2 }}
-                                                <a href="{{ .Permalink }}" class="btn btn-success">Fácil/Médio ({{ .Params.points }} pontos)</a>
-                                            {{ end }}
-                                            {{ if eq .Params.difficulty 3 }}
-                                                <a href="{{ .Permalink }}" class="btn btn-warning">Médio ({{ .Params.points }} pontos)</a>
-                                            {{ end }}
-                                            {{ if eq .Params.difficulty 4 }}
-                                                <a href="{{ .Permalink }}" class="btn btn-warning">Médio/Difícil ({{ .Params.points }} pontos)</a>
-                                            {{ end }}
-                                            {{ if eq .Params.difficulty 5 }}
-                                                <a href="{{ .Permalink }}" class="btn btn-danger">Difícil ({{ .Params.points }} pontos)</a>
-                                            {{ end }}
-                                        </div>
-                                        {{ end }}
-                                    </section>
+                                        </section>
+                                    </div>
                                 </div>
                               </div>
                             {{ end }}
