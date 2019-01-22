@@ -28,21 +28,34 @@ code {
 
 /* Cards for desafios */
 .desafio-cards {
-  min-height: 280px;
-  /*border:1px solid #eeeeee;*/
+  min-height: 96px;
+  border:1px solid #38a7bb;
   margin-bottom: 24px;
-  padding-top: 24px;
-  background-color: #e2f0f7;
+  padding-top: 20px;
+  background-color: #f8f8f8;
 }
 
 .desafio-cards-title {
-  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: 500;
+  font-size: 22px;
+  color: #606060;
 }
 
-.desafio-intro {
-  text-align: center !important;
+.desafio-label {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: #a0a0a0;
+  font-weight: 600;
 }
 
-.desafio-difficulty {
-  text-align: center;
+.desafio-post {
+  margin-bottom: 24px;
+}
+
+.desafio-icon {
+  font-size:52px;
+  color: #38a7bb;
 }
