@@ -77,6 +77,7 @@ Ao adicionar o seu nome, por favor observe:
 | Matheus Ferreira               | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10       |
 | Mattheus Couto                 | matius.couto@gmail.com                | https://github.com/Matiusco           |
 | Max Sylver                     | maxsylver@outlook.com                 | https://github.com/MaxTgr             |
+| Mayrlon Carlos                 | mayrloncarlos@gmail.com               | https://github.com/mayrloncarlos      |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba            |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro    |
