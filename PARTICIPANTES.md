@@ -86,6 +86,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle         |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Ricardo Severo                 | ricardosilva.official@outlook.com     | https://github.com/ricardosevero      |
+| Roberto Arruda                 | roberto0arruda@hotmail.com            | https://github.com/roberto0arruda     |
 | Rodinei Costa                  | rodineicosta@physistec.com.br         | https://github.com/rodineicosta       |
 | Rodrigo Duarte de O. Toledo    | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
