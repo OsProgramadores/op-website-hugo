@@ -50,6 +50,7 @@ Ao adicionar o seu nome, por favor observe:
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
 | Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
+| Higor Carneiro Passos          | higorcpassos@gmail.com                | https://github.com/hcpassos           |
 | Igor Tuag Andrade de Freitas   | igortuag@gmail.com                    | https://github.com/igortuag           |
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena         |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo     |
