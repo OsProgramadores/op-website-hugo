@@ -97,6 +97,7 @@ Ao adicionar o seu nome, por favor observe:
 | Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg            |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi            |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette            |
+| Vagner Cavalcante da silva     | vagnermasked@gmail.com                | https://github.com/vagnerzt           |
 | Valdinei Ferreira              | valdineifer@outlook.com               | https://github.com/valdineifer        |
 | Victor Eduardo Santos Soares   | v_eduardo@live.com                    | https://github.com/veduardo93         |
 | Victor Hugo Gomes Nascimento   | labatata101@linuxmail.org             | https://github.com/LaBatata101        |
