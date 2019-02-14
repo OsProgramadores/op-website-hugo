@@ -15,3 +15,5 @@ install:
 script:
   - travis/checkparticipantes PARTICIPANTES.md
 
+notifications:
+  webhooks: https://www.travisbuddy.com
