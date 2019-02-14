@@ -22,6 +22,7 @@ Ao adicionar o seu nome, por favor observe:
 | Augusto da Silva Costa         | contato@guto.pro.br                   | https://github.com/gutocosta          |
 | Áxel Crispim                   | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
 | Bassam Basil Junior            | bassambjg5@gmail.com                  | https://github.com/Bassambj           |
+| Carlos Barauna                 | carloss.barauna@gmail.com             | https://github.com/cbarauna  
 | Celina Uemura                  | celina.uemura@gmail.com               | https://github.com/cezinha            |
 | Clederson Cruz                 | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
 | Cleverton Fernandes Guimarães  | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes        |
