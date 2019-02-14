@@ -38,6 +38,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Henrique               | eduardosatrini@gmail.com              | https://github.com/satrini            |
 | Eduardo Stephan                | eduardo.stephan@outlook.com           | https://github.com/edustephan         |
 | Elaine Saith Martins           | elainesaith@hotmail.com               | https://github.com/elainesaith        |
+| Elder Louzada                  | elder_louzada@outlook.com             | https://github.com/reedlex98          |
 | Fábio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
 | Fabrício Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967        |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale             |
