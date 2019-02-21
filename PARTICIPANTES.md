@@ -23,6 +23,7 @@ Ao adicionar o seu nome, por favor observe:
 | Áxel Crispim                   | axel.cris2011@gmail.com               | https://github.com/ZartRock           |
 | Bassam Basil Junior            | bassambjg5@gmail.com                  | https://github.com/Bassambj           |
 | Celina Uemura                  | celina.uemura@gmail.com               | https://github.com/cezinha            |
+| Claudenir Ferreira de Assis    | devaspirerklaus@gmail.com             | https://github.com/DevAspirerKlaus    |
 | Clederson Cruz                 | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
 | Cleverton Fernandes Guimarães  | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes        |
 | Daniel Carvalho                | codecodic7@gmail.com                  | https://github.com/KDEboy             |
