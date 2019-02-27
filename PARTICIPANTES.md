@@ -101,6 +101,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
 | Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox        |
 | Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg            |
+| Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr          |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi            |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette            |
 | Vagner Cavalcante da silva     | vagnermasked@gmail.com                | https://github.com/vagnerzt           |
