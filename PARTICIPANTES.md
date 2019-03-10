@@ -112,6 +112,7 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com               | https://github.com/victorhsanjos      |
 | Vinicius Oliveira Queiroz      | viniciusqueiroz.voq@gmail.com         | https://github.com/ViniciusQueiroz-VQ |
 | Washington Araújo Ramos        | No Email                              | https://github.com/WashingtonARamos   |
+| Wellington Domiciano           | wldomiciano@gmail.com                 | https://github.com/wldomiciano        |
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02            |
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque             |
