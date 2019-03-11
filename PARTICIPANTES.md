@@ -28,6 +28,7 @@ Ao adicionar o seu nome, por favor observe:
 | Cleverton Fernandes Guimarães  | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes        |
 | Daniel Carvalho                | codecodic7@gmail.com                  | https://github.com/KDEboy             |
 | Daniel Ferraz dos santos       | danielferraz.contato@gmail.com        | https://github.com/danielferraz-git   |
+| Daniel Mascarenhas R. da Silva | daniel.mascr@gmail.com                | https://github.com/danielmascarenhas  |
 | Daniel Samper                  | dr.hongo@gmail.com                    | https://github.com/daniel-samper      |
 | Danrley Senegalha Pires        | dansenpir@protonmail.com              | https://github.com/dansenpir          |
 | David GesRob                   | david81br@gmail.com                   | https://github.com/david81brs         |
