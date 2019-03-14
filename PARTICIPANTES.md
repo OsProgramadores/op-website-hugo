@@ -45,6 +45,7 @@ Ao adicionar o seu nome, por favor observe:
 | Fábio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
 | Fabrício Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967        |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale             |
+| Francisco Jose de Assis Cunha  | fjacunha@gmail.com                    | https://github.com/fjoseacunha        |
 | Gabriel Dos Santos             | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS          |
 | Gabriel Lampa da Cunha         | gabriellampa@gmail.com                | https://github.com/icaroraci/         |
 | Gabriel Peixoto                | gpeixoto@gmail.com                    | https://github.com/neuraman           |
