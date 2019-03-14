@@ -24,36 +24,36 @@ Vamos começar a programar?
 
 Comece criando um programinha conhecido tradicionalmente como "Olá Mundo". Imprima uma mensagem simples. Veja um exemplo do programa Hello World em Python abaixo.
 
-~~~~
+```python
 print("Olá Mundo.")
-~~~~
+```
 
 Uma vez entendido o funcionamentp do programa "Olá Mundo" você criar um programa com duas instruções conforme exemplo abaixo:
 
-~~~~
+```python
 print("Olá Mundo.")
 print("Escreva algo aqui.")
-~~~~
+```
 
 Uma vez entendido o conceito de sequência de instruções, pesquise o que é uma variável. Crie um programa, conforme o exemplo abaixo. e atribua o valor 0 (zero) a uma variável chamada A e exiba o valor de A na tela do seu computador.
 
-~~~~
+```python
 A = 1
 print(A)
-~~~~
+```
 
 Após a execução do programa anterior, pesquise como você pode adicionar 1 ao valor da variável A e exiba o novo valor de A na tela do seu computador. 
 
-~~~~
+```python
 A = 0
 print(A)
 A = A + 1
 print(A)
-~~~~
+```
 
 A seguir, insira uma segunda variável, chamada B, no seu programa e imprima o valor de A + B. 
 
-~~~~
+```python
 A = 0
 print(A)
 A = A + 1
@@ -61,29 +61,28 @@ print(A)
 B = 35
 A = A + B
 print(A)
-~~~~
+```
 
 O próximo passo seria usar o comando 'for' para repetir uma sequência de linhas do seu programa várias vezes. Sugestão: Imprima uma mensagem com o seu nome 10 vezes.
 
 Exemplo:
 
-~~~~
+```python
 for x in range(10):
   print("Escreva o seu nome aqui")
-~~~~
+```
 
 A seguir vamos usar o comando IF para tomar uma decisão. Pesquise o que é decisão e como funcionam comandos do tipo IF THEN ELSE. Faça um programa simples usando IF THEN ELSE e procure entender como funciona. 
 
 ex:
 
-~~~~
+```python
 A = 5
 if A == 5:
     print ("O valor de A = 5")
 else:
     print ("Jamais executarei esta linha neste programa")
-~~~~
-
+```
 
 Uma vez esta parte básica entendida, você pode partir para projetos mais complexos pois o que foi descfito acima é o básico de qualquer programa.
 
