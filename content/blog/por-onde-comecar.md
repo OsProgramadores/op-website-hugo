@@ -35,7 +35,7 @@ print("Olá Mundo.")
 print("Escreva algo aqui.")
 ```
 
-Uma vez entendido o conceito de sequência de instruções, o próximo passo é usar variáveis. Crie um programa, conforme o exemplo abaixo. e atribua o valor 0 (zero) a uma variável chamada a e exiba o valor de A na tela do seu computador.
+Uma vez entendido o conceito de sequência de instruções, o próximo passo é usar variáveis. Crie um programa, conforme o exemplo abaixo. e atribua o valor 0 (zero) a uma variável chamada a e exiba o valor de a na tela do seu computador.
 
 ```python
 a = 1
