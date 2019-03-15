@@ -64,6 +64,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto          |
 | Jéssica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato      |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill         |
+| José Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria          |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos          |
 | Júlio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
