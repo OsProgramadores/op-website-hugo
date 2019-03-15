@@ -6,7 +6,7 @@ categories = ["linguagens"]
 banner = "img/banners/background-code.jpg"
 +++
 
-Uma pergunta frequente de vários participantes do [OsProgramadores no Telegram](https://t.me/osprogramadores) é: "Por onde eu começo" e como posso me preparar para conseguir o primeiro estágio ou o primeiro emprego na área de programação. 
+Uma pergunta frequente de vários participantes do [OsProgramadores no Telegram](https://t.me/osprogramadores) é: "Por onde eu começo?" e "como posso me preparar para conseguir o primeiro estágio ou o primeiro emprego na área de programação?" 
 
 Para começar com programação é recomendável usar um computador para criar e testar programas. A prática é essential para reforçar o que foi aprendido através de vídeos e livros. 
 
@@ -28,42 +28,42 @@ Comece criando um programinha conhecido tradicionalmente como "Olá Mundo". Impr
 print("Olá Mundo.")
 ```
 
-Uma vez entendido o funcionamentp do programa "Olá Mundo" você criar um programa com duas instruções conforme exemplo abaixo:
+Uma vez entendido o funcionamento do programa "Olá Mundo" você criar um programa com duas instruções conforme exemplo abaixo:
 
 ```python
 print("Olá Mundo.")
 print("Escreva algo aqui.")
 ```
 
-Uma vez entendido o conceito de sequência de instruções, pesquise o que é uma variável. Crie um programa, conforme o exemplo abaixo. e atribua o valor 0 (zero) a uma variável chamada A e exiba o valor de A na tela do seu computador.
+Uma vez entendido o conceito de sequência de instruções, o próximo passo é usar variáveis. Crie um programa, conforme o exemplo abaixo. e atribua o valor 0 (zero) a uma variável chamada a e exiba o valor de A na tela do seu computador.
 
 ```python
-A = 1
-print(A)
+a = 1
+print(a)
 ```
 
-Após a execução do programa anterior, pesquise como você pode adicionar 1 ao valor da variável A e exiba o novo valor de A na tela do seu computador. 
+Após a execução do programa anterior, pesquise como você pode adicionar 1 ao valor da variável a e exiba o novo valor de a na tela do seu computador. 
 
 ```python
-A = 0
+a = 0
 print(A)
-A = A + 1
-print(A)
+a = a + 1
+print(a)
 ```
 
-A seguir, insira uma segunda variável, chamada B, no seu programa e imprima o valor de A + B. 
+A seguir, insira uma segunda variável, chamada b, no seu programa e imprima o valor de a + b. 
 
 ```python
-A = 0
-print(A)
-A = A + 1
-print(A)
-B = 35
-A = A + B
-print(A)
+a = 0
+print(a)
+a = a + 1
+print(a)
+b = 35
+a = a + b
+print(a)
 ```
 
-O próximo passo seria usar o comando 'for' para repetir uma sequência de linhas do seu programa várias vezes. Sugestão: Imprima uma mensagem com o seu nome 10 vezes.
+O próximo passo seria usar o comando `for` para repetir uma sequência de linhas do seu programa várias vezes. Sugestão: Imprima uma mensagem com o seu nome 10 vezes.
 
 Exemplo:
 
@@ -77,9 +77,9 @@ A seguir vamos usar o comando IF para tomar uma decisão. Pesquise o que é deci
 ex:
 
 ```python
-A = 5
-if A == 5:
-    print ("O valor de A = 5")
+a = 5
+if a == 5:
+    print ("O valor de a = 5")
 else:
     print ("Jamais executarei esta linha neste programa")
 ```
