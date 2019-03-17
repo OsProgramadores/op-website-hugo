@@ -118,6 +118,7 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Hugo Gomes Nascimento   | labatata101@linuxmail.org             | https://github.com/LaBatata101        |
 | Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com               | https://github.com/victorhsanjos      |
 | Vinicius Oliveira Queiroz      | viniciusqueiroz.voq@gmail.com         | https://github.com/ViniciusQueiroz-VQ |
+| Wanderley Caloni               | wanderley.caloni@bitforge.com.br      | https://github.com/Caloni             |
 | Washington Araújo Ramos        | No Email                              | https://github.com/WashingtonARamos   |
 | Wellington Domiciano           | wldomiciano@gmail.com                 | https://github.com/wldomiciano        |
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02            |
