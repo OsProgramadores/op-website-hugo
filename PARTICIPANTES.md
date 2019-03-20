@@ -79,6 +79,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br         | https://github.com/lucassilvagc       |
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br          | https://github.com/Harrisoned         |
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/LucasGon7          |
+| Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br               | https://github.com/viniborges         |
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com              | https://github.com/luizcmf            |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr       |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol           |
