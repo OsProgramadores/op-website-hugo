@@ -11,8 +11,8 @@ Ao adicionar o seu nome, por favor observe:
 | Nome                           | Email                                 | Github Page                           |
 | ------------------------------ | ------------------------------------- | ------------------------------------- |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                     | https://github.com/adboson            |
-| Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com             | https://github.com/TeijIW             |
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br            | https://github.com/arlima             |
+| Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com             | https://github.com/TeijIW             |
 | Alex Almeida                   | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix            |
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
