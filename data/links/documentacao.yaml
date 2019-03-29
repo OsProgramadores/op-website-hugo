@@ -1,0 +1,26 @@
+title: Documentação
+
+sources:
+- url: "http://devdocs.io/"
+  title: "DevDocs"
+  description: "DevDocs é um site que disponibiliza a documentação de centenas de linguagens"
+
+- url: "https://www.w3schools.com/default.asp"
+  title: "HTML, CSS, Javascript"
+  description: "Documentação Front-End e Back-End com muitos tutoriais"
+
+- url: "https://kotlinlang.org/"
+  title: "Kotlin"
+  description: "Documentação da Linguagem Kotlin"
+
+- url: "http://php.net/manual/pt_BR/index.php"
+  title: "PHP"
+  description: "Tudo que precisar saber sobre PHP tem nesse site, que agrega toda documentação com tutoriais em português"
+
+- url: "http://br.phptherightway.com/"
+  title: "PHP do jeito certo"
+  description: "Site com as melhores práticas para programadores PHP desenvolverem software dentro dos padrões adotados pela comunidade"
+
+- url: "https://wiki.python.org.br/DocumentacaoPython"
+  title: "Python"
+  description: "Site com links para documentação do Python, além de vários artigos e dicas de como e por onde começar com Python"

@@ -1,0 +1,50 @@
+title: "Cursos"
+
+sources:
+- url: "https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33"
+  title: "Bootstrap 4"
+  description: "Framework Bootstrap, HTML5, CSS3"
+
+- url: "https://www.cursoemvideo.com/"
+  title: "Cursos em Video"
+  description: "Cursos de Front-End e Back-End, Marketing Digital, Banco de Dados"
+
+- url: "https://www.codecademy.com"
+  title: "Code Academy"
+  description: "Cursos gratuitos de Desenvolvimento Web, Programação e Data Science"
+
+- url: "https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/"
+  title: "C# Tutorials"
+  description: "Tutoriais da Microsoft sobre C#"
+
+- url: "https://www.freecodecamp.org/"
+  title: "FreeCodeCamp"
+  description: "Curso gratuito de Front-End e Back-End mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado"
+
+- url: "http://jstherightway.org/pt-br/"
+  title: "JavaScript The Right Way"
+  description: "Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas"
+
+- url: "https://www.lua.org/portugues.html"
+  title: "Lua"
+  description: "Linguagem de programação Lua"
+
+- url: "https://nodeschool.io/pt-br/"
+  title: "NODESCHOOL"
+  description: "Workshops Open Source construídos em Node e que rodam no seu terminal. Rode-os em casa ou em um workshop mais próximo"
+
+- url: "https://www.pycursos.com/python-para-zumbis/"
+  title: "Python para Zumbis"
+  description: "Curso sobre a linguagem de programacao Python"
+
+- url: "https://www.rust-lang.org/learn"
+  title: "Rust"
+  description: "Curso sobre a linguagem de programação Rust (em inglês)"
+
+- url: "https://www.sololearn.com/"
+  title: "SoloLearn"
+  description: "Cursos introdutórios para várias linguagens de programação"
+
+- url: "https://go-tour-br.appspot.com/welcome/1"
+  title: "Um tour por Go"
+  description: "Um tour pela linguagem de Programação Go"
