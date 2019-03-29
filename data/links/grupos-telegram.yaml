@@ -1,0 +1,754 @@
+title: "Grupos sobre programação no Telegram"
+
+sources:
+- url: "https://t.me//arquiteturadotnet"
+  title: "Arquitetura de Software | .NET"
+  description: "Grupo sobre Arquitetura de Software | .NET"
+
+- url: "https://t.me//assemblybr"
+  title: "Assembly Brasil"
+  description: "Grupo sobre Assembly"
+
+- url: "https://t.me//android_drops"
+  title: "Android Dev Drops"
+  description: "Grupo sobre desenvolvimento nativo para Android"
+
+- url: "https://t.me//AngularBrasil"
+  title: "Angular Brasil"
+  description: "Grupo sobre Angular"
+
+- url: "https://t.me//c_user"
+  title: "C is LOVE"
+  description: "Grupo destinado a assuntos relacionados a Linguagem C"
+
+- url: "https://t.me//ccppbrasil"
+  title: "C/C++ Brasil"
+  description: "Grupo sobre C, C++ e outros assuntos"
+
+- url: "https://t.me//devcordova"
+  title: "Cordova developers"
+  description: "Grupo sobre desenvolvimento Cordova"
+
+- url: "https://t.me//cssbr"
+  title: "CSS Brasil"
+  description: "Grupo técnico sobre Cascading Style Sheets"
+
+- url: "https://t.me//dartbrasil"
+  title: "Dart Brasil"
+  description: "Grupo brasileiro de programadores e entusiastas da linguagem de programação Dart e do Framework Mobile Flutter"
+
+- url: "https://t.me//DbaBrasil"
+  title: "DBA BRASIL"
+  description: "Grupo sobre DBA"
+
+- url: "https://t.me//devcodebr_android"
+  title: "DevCodeBr - Android/Java/Kotlin"
+  description: "Grupo sobre desenvolvimento Android/Java/Kotlin"
+
+- url: "https://t.me//djangobrasil"
+  title: "Django Brasil"
+  description: "Grupo sobre Django (Python)"
+
+- url: "https://t.me//dotnetbr"
+  title: "DotNet Brasil"
+  description: "Grupo de discussões sobre .NET, ASP.NET, Mono, .NET Core, Xamarin, etc"
+
+- url: "https://t.me//electronJs_BR"
+  title: "ElectronJS Brasil"
+  description: "Grupo sobre Electron"
+
+- url: "https://t.me//elmbrasil"
+  title: "Elm Brasil"
+  description: "Grupo sobre Elm"
+
+- url: "https://t.me//etherbr"
+  title: "EthereumBR"
+  description: "Grupo sobre Ethereum, Solidity, e tecnologias relacionadas"
+
+- url: "https://t.me//flutterbr"
+  title: "Flutter Brasil"
+  description: "Grupo sobre desenvolvimento mobile com Flutter"
+
+- url: "https://t.me//frontendbrasil"
+  title: "Frontend Brasil"
+  description: "Grupo sobre programação front end"
+
+- url: "https://t.me//GitBrasil"
+  title: "Git Brasil"
+  description: "Grupo brasileiro sobre Git"
+
+- url: "https://t.me//gopheliacoding"
+  title: "GopheLia"
+  description: "Grupo sobre Go, Perl, Julia e todas as 'pequenas grandes langs'"
+
+- url: "https://t.me//htmlbr"
+  title: "HTML Brasil"
+  description: "Grupo técnico sobre Hyper Text Markup Language"
+
+- url: "https://t.me//ionicbrasil"
+  title: "Ionic Brasil"
+  description: "Grupo sobre programação Ionic"
+
+- url: "https://t.me//iosdrops"
+  title: "iOS Dev Drops"
+  description: "Grupo sobre desenvolvimento nativo para iOS"
+
+- url: "https://t.me//javascriptbrasil"
+  title: "JavaScript Brasil"
+  description: "Grupo sobre JavaScript"
+
+- url: "https://t.me//lualanguagebrasil"
+  title: "Lua Programming Language Brasil"
+  description: "Grupo sobre a Linguagem Lua"
+
+- url: "https://t.me//NodejsBR"
+  title: "Node.js Brasil"
+  description: "Grupo sobre Node.js"
+
+- url: "https://t.me//osprogramadores"
+  title: "Os Programadores"
+  description: "Grupo que tem como objetivo incentivar o aprendizado de programação. É aberto à conversas sobre programação em geral, de todos os níveis"
+
+- url: "https://t.me//PodProgramar"
+  title: "Ouvintes do PodProgramar"
+  description: "Grupo de Ouvintes do Podcast PodProgramar"
+
+- url: "https://t.me//perlbrasil"
+  title: "Perl Brasil"
+  description: "Grupo sobre Perl e outros assuntos"
+
+- url: "https://t.me//phpbrasil"
+  title: "PHP Brasil"
+  description: "Grupo sobre PHP"
+
+- url: "https://t.me//polymerbr"
+  title: "Polymer Brasil"
+  description: "Grupo para interessados e profissionais que trabalham com Polymer"
+
+- url: "https://t.me//pyCoding"
+  title: "PyCoding"
+  description: "Grupo sobre Python no Telegram (em inglês)"
+
+- url: "https://t.me//pykivy"
+  title: "PyKivy - pt_BR"
+  description: "Grupo destinado ao desenvolvimento de apps com o framework Kivy (Python)"
+
+- url: "https://t.me//pythonbr"
+  title: "PythonBr"
+  description: "Grupo Brasileiro sobre desenvolvimento em Python"
+
+- url: "https://t.me//PythonRio"
+  title: "PythonRio"
+  description: "Grupo da comunidade Python do Rio de Janeiro"
+
+- url: "https://t.me//qtbrasil"
+  title: "Qt Brasil"
+  description: "Grupo sobre Qt"
+
+- url: "https://t.me//reactnativedrops"
+  title: "React Native Drops"
+  description: "Grupo sobre desenvolvimento mobile com React Native"
+
+- url: "https://t.me//rubybrasil"
+  title: "Ruby Brasil"
+  description: "Grupo sobre a linguagem Ruby"
+
+- url: "https://t.me//stenciljsbrasil"
+  title: "StencilJS Brasil"
+  description: "Grupo sobre StencilJS"
+
+- url: "https://t.me//theprogrammingartgroup"
+  title: "The Art of Programming"
+  description: "Grupo sobre programação em geral (em inglês)"
+
+- url: "https://t.me//tinocanada"
+  title: "TI no Canadá"
+  description: "Grupo sobre como trabalhar com TI no Canadá"
+
+- url: "https://t.me//Vala_BR"
+  title: "Vala - Linguagem de Programação"
+  description: "Grupo sobre a Linguagem de Programação Vala"
+
+- url: "https://t.me//vimbr"
+  title: "VIM-BR"
+  description: "Grupo sobre VIM"
+
+- url: "https://t.me//web2pybrasil"
+  title: "Web2py"
+  description: "Grupo sobre Framework Web2py (Python)"
+
+- url: "https://t.me/ansiblebr"
+  title: "ansible-users-br"
+  description: "Grupo brasileiro sobre Ansible"
+
+- url: "https://t.me/bigdatabr"
+  title: "Big Data BR"
+  description: "Grupo brasileiro sobre ferramentas e tecnologias relacionadas a Big Data"
+
+- url: "https://t.me/brbotdevs"
+  title: "Bot Developers"
+  description: "Grupo brasileiro focado em desenvolvimento de chatbots"
+
+- url: "https://t.me/cakephpbr"
+  title: "CakePHP Brasil"
+  description: "CakePHP Brasil"
+
+- url: "https://t.me/CodeIgniterBrasil"
+  title: "CodeIgniter Brasil"
+  description: "Grupo focado para trocar conhecimentos e tirar dúvidas sobre Framework CodeIgniter"
+
+- url: "https://t.me/CodeIgniterBr"
+  title: "CodeIgniter Brasil2"
+  description: "Grupo sobre o Framework CodeIgniter"
+
+- url: "https://t.me/qtmobile"
+  title: "Desenvolvimento mobile (Android e iOS) com Qt"
+  description: "Canal de notícias sobre o uso do Qt em plataformas mobile"
+
+- url: "https://t.me/DesenvolvimentoDeBots"
+  title: "Desenvolvimento De Bots"
+  description: "Canal sobre o desenvolvimento de robôs para o Telegram"
+
+- url: "https://t.me/fullstackdevelopers"
+  title: "Fullstack Developers Brasil"
+  description: "Grupo brasileiro de discussão sobre desenvolvimento web"
+
+- url: "https://t.me/devopsbr"
+  title: "Devops BR"
+  description: "Canal brasileiro para discutir e compartilhar informações e cases sobe a Cultura DevOps"
+
+- url: "https://t.me/DesenvolvedoresBrasil"
+  title: "Devs Brasil"
+  description: "Grupo brasileiro destinado ao compartilhamento de informações do mundo Dev"
+
+- url: "https://t.me/dockerbr"
+  title: "dockerbr"
+  description: "Grupo brasileiro sobre Docker"
+
+- url: "https://t.me/elixirbr"
+  title: "Elixir Brasil"
+  description: "Grupo brasileiro sobre a linguagem de programação Elixir"
+
+- url: "https://t.me/EmberBR"
+  title: "EmberBR"
+  description: "Grupo de desenvolvedores EmberJS no Brasil"
+
+- url: "https://t.me/ExpressoesRegulares"
+  title: "Expressões Regulares"
+  description: "Grupo sobre Expressões Regulares (REGEX)"
+
+- url: "https://t.me/flaskbrasil"
+  title: "Flask Brasil Oficial"
+  description: "Grupo da comunidade Flask brasileira"
+
+- url: "https://t.me/pythonflask"
+  title: "Flask"
+  description: "Grupo sobre Python e Flask"
+
+- url: "https://t.me/datasciencepython"
+  title: "Pt-BR Data Science &amp; Python"
+  description: "Grupo brasileiro sobre Pt-BR Data Science e Python"
+
+- url: "https://t.me/Coffeedeveloper"
+  title: "CoffeeScript"
+  description: "Grupo sobre Java, C, C++ e C# e o Web Development"
+
+- url: "https://t.me/javaofficial"
+  title: "Java"
+  description: "Grupo sobre o desenvolvimento em Java"
+
+- url: "https://t.me/javaofficial_pt"
+  title: "Java (Português)"
+  description: "Grupo Português sobre Java"
+
+- url: "https://t.me/javascriptbr"
+  title: "JavaScript Brasil"
+  description: "Grupo técnico brasileiro sobre JavaScript"
+
+- url: "https://t.me/jquerybr"
+  title: "jQuery Brasil"
+  description: "Grupo brasileiro técnico sobre jQuery"
+
+- url: "https://t.me/justpython"
+  title: "Just Python"
+  description: "Grupo sobre Python"
+
+- url: "https://t.me/kotlin_br_pt"
+  title: "Kotlin em Português"
+  description: "Grupo sobre a linguagem de programação Kotlin para falantes de português"
+
+- url: "https://t.me/latexbr"
+  title: "LaTeX BR"
+  description: "Grupo dedicado à discussões sobre a linguagem de marcação LaTeX"
+
+- url: "https://t.me/latexfacil"
+  title: "LaTeX Fácil"
+  description: "Canal com publicação de textos, artigos, aulas, dicas e vídeos sobre a linguagem de marcação LaTeX"
+
+- url: "https://t.me/laravelbr"
+  title: "Laravel Brasil"
+  description: "Grupo brasileiro sobre o Laravel Framework"
+
+- url: "https://t.me/livepython"
+  title: "Live de Python"
+  description: "Grupo sobre Python"
+
+- url: "https://t.me/ProgramadoresBrasil"
+  title: "Linguagens de Programação"
+  description: "Grupo para compartilhar conhecimentos e tirar dúvidas sobre programação"
+
+- url: "https://t.me/NodeBR"
+  title: "NodeBR"
+  description: "Comunidade brasileira de Node.js"
+
+- url: "https://t.me/programeiros"
+  title: "Programeiros"
+  description: "Grupo sobre Programação ,Sistemas Operacionais, Hardware e tudo o que envolva computação"
+
+- url: "https://t.me/phpba"
+  title: "PHPBA"
+  description: "Grupo de Discussões sobre a Linguagem PHP no estado da Bahia"
+
+- url: "https://t.me/phpmaranhao"
+  title: "PHP Maranhão"
+  description: "Grupo de profissionais em PHP, tecnologias web e afins no Estado do Maranhão"
+
+- url: "https://t.me/phppe"
+  title: "PHP Pernambuco"
+  description: "Grupo sobre PHP do estado de Pernambuco"
+
+- url: "https://t.me/phprio"
+  title: "PHP Rio"
+  description: "Grupo da comunidade php.rio"
+
+- url: "https://t.me/phpsantacatarina"
+  title: "PHP SC"
+  description: "Grupo sobre PHP do estado de Santa Catarina"
+
+- url: "https://t.me/pugma"
+  title: "PUG-MA"
+  description: "Python User Group do estado do Maranhão"
+
+- url: "https://t.me/pugse"
+  title: "PUG-SE &#8211; Python em Sergipe"
+  description: "Python User Group do estado de Sergipe"
+
+- url: "https://t.me/pythonbr"
+  title: "Python Brasil #rlz roda de conversa"
+  description: "Grupo brasileiro de Python"
+
+- url: "https://t.me/pynorte"
+  title: "PyNorte"
+  description: "Grupo sobre Python"
+
+- url: "https://t.me/pytche"
+  title: "PyTche"
+  description: "Grupo sobre Python"
+
+- url: "https://t.me/PythonRio"
+  title: "PythonRio"
+  description: "Grupo da comunidade Python no Rio de Janeiro"
+
+- url: "https://t.me/grupydf"
+  title: "Grupy-DF"
+  description: "Grupo sobre Python"
+
+- url: "https://t.me/GrupyRN"
+  title: "Grupy RN"
+  description: "Grupo da comunidade Python no Rio Grande do Norte"
+
+- url: "https://t.me/pythonfloripa"
+  title: "Python Floripa"
+  description: "Comunidade Python em Florianópolis"
+
+- url: "https://t.me/PythonSulBR"
+  title: "Python Sul"
+  description: "Grupo sobre Python"
+
+- url: "https://t.me/quasarframeworkbrasil"
+  title: "Quasar Framework Brasil"
+  description: "Grupo brasileiro sobre o Web e mobile development com VueJS 2.0"
+
+- url: "https://t.me/shellscript_x"
+  title: "SHELLSCRIPT"
+  description: "Grupo destinado aos amantes da linguagem Shell Script"
+
+- url: "https://t.me/apiBuilders"
+  title: "API Builders BR"
+  description: "Grupo brasileiro de discussões sobre .NET, ASP.NET, Mono, .NET Core, Xamarin, etc."
+
+- url: "https://t.me/gophp"
+  title: "GOPHP"
+  description: "Grupo sobre GOPHP"
+
+- url: "https://t.me/go_br"
+  title: "gobr"
+  description: "Grupo brasileiro sobre Go"
+
+- url: "https://t.me/GraphQLBrasil"
+  title: "GraphQL Brasil"
+  description: "Grupo brasileiro sobre GraphQL"
+
+- url: "https://t.me/reactrio"
+  title: "React Rio"
+  description: "Grupo fluminense sobre React"
+
+- url: "https://t.me/reactjs_br"
+  title: "React.Js Brasil"
+  description: "Grupo brasileiro sobre React.JS"
+
+- url: "https://t.me/rustlangbr"
+  title: "Rust Brasil"
+  description: "Grupo brasileiro de usuários de Rust"
+
+- url: "https://t.me/SymfonyBrasil"
+  title: "Symfony Brasil"
+  description: "Grupo Brasileiro sobre Symfony"
+
+- url: "https://t.me/bootstrapbr"
+  title: "Bootstrap Brasil"
+  description: "Grupo técnico brasileiro sobre Twitter Bootstrap"
+
+- url: "https://t.me/vuejsbrasil"
+  title: "VueJS Brasil"
+  description: "Grupo de discussão e aprendizado da ferramenta VueJS."
+
+- url: "https://t.me/developersRJ"
+  title: "developersRJ"
+  description: "Grupo carioca de desenvolvedores cariocas"
+
+- url: "https://t.me/arangodbbrasil"
+  title: "ArangoDB Brasil"
+  description: "Grupo brasileiro sobre ArangoDB"
+
+- url: "https://t.me/mysqlbr"
+  title: "MySQL BR"
+  description: "Grupo brasileiro destinado para discussões relacionadas ao MySQL"
+
+- url: "https://t.me/mongodbbrasil"
+  title: "MongoDB | Mongoose Brasil"
+  description: "Grupo brasileiro sobre MongoDB"
+
+- url: "https://t.me/PhinxBrasil"
+  title: "Phinx Brasil"
+  description: "Grupo brasileiro destinado para tirar dúvidas e trocar conhecimentos sobre a biblioteca Phinx"
+
+- url: "https://t.me/postgresqlbr"
+  title: "PostgreSQL BR"
+  description: "Grupo brasileiro destinado para discussões relacionadas ao PostgreSQL"
+
+- url: "https://t.me/sqlmssql"
+  title: "SQL Server &#8211; DBA"
+  description: "Grupo destinado à discussões sobre MS SQL"
+
+- url: "https://t.me/freebsdbrasil"
+  title: "FreeBSD Brasil"
+  description: "Grupo brasileiro sobre FreeBSD"
+
+- url: "https://t.me/ANTERGOSBrasil"
+  title: "Antergos Brasil"
+  description: "Grupo brasileiro voltado para usuários do Antergos"
+
+- url: "https://t.me/centosbrasil"
+  title: "CentOS Brasil"
+  description: "Grupo brasileiro de usuários do CentOS"
+
+- url: "https://t.me/CentOSLATAM"
+  title: "CentOS LATAM"
+  description: "Grupo brasileiro relacionado aos sistemas operacionais CentOS e Red Hat"
+
+- url: "https://t.me/fug_br"
+  title: "FUG-BR"
+  description: "Grupo brasileiro de usuários do FreeBSD"
+
+- url: "https://t.me/freebsdbr"
+  title: "FreeBSD pt_BR"
+  description: "Grupo brasileiro focado em compartilhar conhecimentos e tirar dúvidas sobre FreeBSD e PfSense"
+
+- url: "https://t.me/voidlinuxbr"
+  title: "Void Linux Brasil"
+  description: "Grupo brasileiro voltado aos usuários e iniciantes da distribuição Void Linux"
+
+- url: "https://t.me/LinuxMintBrasil"
+  title: "Linux Mint Brasil"
+  description: "Grupo brasileiro sobre Linux Mint"
+
+- url: "https://t.me/UbuntuBrasilOficial"
+  title: "Ubuntu Brasil Oficial"
+  description: "Grupo oficial brasileiro sobre Ubuntu"
+
+- url: "https://t.me/ulboficial"
+  title: "Ubuntu Linux Brasil (oficial)"
+  description: "Grupo oficial brasileiro sobre Ubuntu"
+
+- url: "https://t.me/archlinuxbr"
+  title: "Arch Linux Brasil"
+  description: "Grupo brasileiro sobre Arch Linux"
+
+- url: "https://t.me/gentoobr"
+  title: "Gentoo Brasil"
+  description: "Grupo brasileiro de usuários do Gentoo"
+
+- url: "https://t.me/gentoobr2"
+  title: "Gentoo Brasil 2.0"
+  description: "Grupo brasileiro de usuários de Gentoo/Funtoo"
+
+- url: "https://t.me/debianbrasil"
+  title: "Debian Brasil"
+  description: "Grupo brasileiro sobre Debian"
+
+- url: "https://t.me/elementarybr"
+  title: "Elementary Brasil"
+  description: "Grupo oficial da comunidade brasileira do elementary OS"
+
+- url: "https://t.me/fedorabr"
+  title: "Fedora Brasil &#8211; roots"
+  description: "Grupo brasileiro de Utilizadores e Colaboradores do Projeto Fedora"
+
+- url: "https://t.me/comunidadefedorabrasil"
+  title: "Comunidade Fedora &#8211; fedorabr.org"
+  description: "Grupo brasileiro da Comunidade Fedora (não-oficial)"
+
+- url: "https://t.me/opnsensebr"
+  title: "OPNsense Brasil"
+  description: "Grupo brasileiro sobre OPNsense"
+
+- url: "https://t.me/pfsensebr"
+  title: "pfSense Brasil &#8211; (pt)"
+  description: "Grupo brasileiro sobre pfSense"
+
+- url: "https://t.me/Endian_Firewall"
+  title: "Endian Firewall Brasil"
+  description: "Comunidade Brasileira de Endian Firewall"
+
+- url: "https://t.me/enterprisesecurity"
+  title: "Enterprise Security"
+  description: "Grupo sobre segurança no mundo corporativo"
+
+- url: "https://t.me/MalwareReverseBR"
+  title: "Malware Reverse"
+  description: "Grupo Oficial de discussões e eventos sobre Análise de Malwares e Engenharia Reversa"
+
+- url: "https://t.me/TheCybersTeam"
+  title: "The Cybers Team"
+  description: "Grupo do The Cybers Team"
+
+- url: "https://t.me/cienciahacker"
+  title: "Ciência Hacker"
+  description: "Canal com as últimas notícias do Ciência Hacker"
+
+- url: "https://t.me/ZabbixBrasil"
+  title: "Zabbix Brasil"
+  description: "Grupo de usuários brasileiros de Zabbix no Telegram"
+
+- url: "https://t.me/grafanabr"
+  title: "Grafana Brasil"
+  description: "Grupo brasileiro sobre Grafana"
+
+- url: "https://t.me/bkpadm"
+  title: "Backup Administrators"
+  description: "Grupo focado na Administração de Backup/Restore"
+
+- url: "https://t.me/baculabr"
+  title: "Bacula/Bareos-BR"
+  description: "Grupo brasileiro sobre Bacula/Bareos"
+
+- url: "https://t.me/cephbr"
+  title: "CEPH"
+  description: "Grupo sobre CEPH - Storage as Software"
+
+- url: "https://t.me/glpibr"
+  title: "GLPI e Gestão de Service Desk"
+  description: "Grupo brasileiro sobre experiência em Gestão de TI e software GLPI"
+
+- url: "https://t.me/istiobr"
+  title: "IstioBR"
+  description: "Grupo brasileiro sobre Istio"
+
+- url: "https://t.me/kubernetesbr"
+  title: "Kubernetesbr"
+  description: "Grupo brasileiro sobre KUBERNETES"
+
+- url: "https://t.me/linux_se"
+  title: "Linux-SE"
+  description: "Grupo de usuários Linux no estado de Sergipe"
+
+- url: "https://t.me/mikrotikbr"
+  title: "Mikrotik Brasil"
+  description: "Grupo brasileiro sobre Mikrotik"
+
+- url: "https://t.me/NetworkersBR"
+  title: "NETWORKERS BR"
+  description: "Grupo brasileiro sobre tecnologias e certificações da Cisco (oriundo do Blog CCNA)"
+
+- url: "https://t.me/NxfilterBR"
+  title: "NxFilter &#8211; DNS WebFilter &#8211; www.nxfilter.org"
+  description: "Grupo sobre DNS WebFilter"
+
+- url: "https://t.me/packetfence_br"
+  title: "PacketFence BR"
+  description: "Grupo brasileiro sobre PacketFence"
+
+- url: "https://t.me/puppetbr"
+  title: "Puppet BR"
+  description: "Grupo brasileiro para discussões sobre Puppet"
+
+- url: "https://t.me/Samba4BR"
+  title: "Samba4BR"
+  description: "Grupo brasileiro sobre o Samba4"
+
+- url: "https://t.me/simuladores"
+  title: "Simuladores e Emuladores de Redes"
+  description: "Grupo sobre Simuladores e Emuladores de Redes"
+
+- url: "https://t.me/tecnologiaciscobr"
+  title: "Tecnologia Cisco BR"
+  description: "Grupo brasileiro de Tecnologias Cisco"
+
+- url: "https://t.me/univentionbr"
+  title: "Univention Brasil"
+  description: "Grupo brasileiro para discussões sobre o Univention Core Server"
+
+- url: "https://t.me/lpicsg"
+  title: "LPIC Study Group"
+  description: "Grupo de estudo preparatório dos exames da LPIC - Linux"
+
+- url: "https://t.me/BrasilLinux"
+  title: "Brasil Linux"
+  description: "O primeiro grupo brasileiro sobre Linux do Telegram"
+
+- url: "https://t.me/estudantelinux"
+  title: "Estudante Linux"
+  description: "Grupo destinado aos iniciantes no mundo Linux"
+
+- url: "https://t.me/terminalgnulinux"
+  title: "terminalgnulinux"
+  description: "Grupo para conversa sobre qualquer distro GNU/Linux"
+
+- url: "https://t.me/gnubr"
+  title: "GNU-BR"
+  description: "Grupo brasileiro sobre GNU"
+
+- url: "https://t.me/LinuxParaTodos"
+  title: "Linux"
+  description: "Grupo focado para compartilhar conhecimentos e tirar dúvidas sobre Linux + LPIC"
+
+- url: "https://t.me/linuxlivre"
+  title: "Linux com Liberdade de Expressão"
+  description: "Grupo de Linux"
+
+- url: "https://t.me/softwarelivre_curitiba"
+  title: "Software Livre em Curitiba"
+  description: "Grupo do Software Livre em Curitiba"
+
+- url: "https://t.me/emacsBr"
+  title: "emacs brasil"
+  description: "Grupo brasileiro sobre o editor de texto emacs"
+
+- url: "https://t.me/libreofficebrasil"
+  title: "LibreOffice Português"
+  description: "Comunidade LibreOffice em Português"
+
+- url: "https://t.me/libreofficebr"
+  title: "LibreOfficeBR"
+  description: "Grupo brasileiros de usuários de LibreOffice"
+
+- url: "https://t.me/VirtualizacaoBR"
+  title: "Virtualização BR"
+  description: "Grupo brasileiro sobre Virtualização"
+
+- url: "https://t.me/lxcbr"
+  title: "LinuX Containers"
+  description: "Grupo estinado a troca de informações sobre LXC, LXD e Containers"
+
+- url: "https://t.me/zimBrasil"
+  title: "ZimBrasil"
+  description: "Grupo brasileiro de discussão, apoio e idéias sobre Zimbra"
+
+- url: "https://t.me/rancherbr"
+  title: "Rancher BR"
+  description: "Grupo brasileiro sobre Rancher"
+
+- url: "https://t.me/vagrantbr"
+  title: "vagrantbr"
+  description: "Grupo brasileiro sobre Vagrant"
+
+- url: "https://t.me/vagastibr"
+  title: "Vagas de TI"
+  description: "Grupo de vagas na área de TI"
+
+- url: "https://t.me/channelitjobspe"
+  title: "IT JOBS PE"
+  description: "Canal de vagas na área de TI em Pernambuco"
+
+- url: "https://t.me/itjobspe"
+  title: "IT Jobs PE (Debates)"
+  description: "Grupo sobre desenvolvimento e networking dos profissionais de TI no estado de Pernambuco"
+
+- url: "https://t.me/joinchat/IEGA2UPQ84BSwf-8F6lO6w"
+  title: "Empregos em Sergipe"
+  description: "Grupo exclusivo para postar vagas do site vagassergipe.com.br."
+
+- url: "https://t.me/usuariosgithubbrasil"
+  title: "GitHub Brasil"
+  description: "Grupo brasileiro sobre GitHub"
+
+- url: "https://t.me/gitlabbr"
+  title: "Gitlab BR"
+  description: "Grupo brasileiro sobre Gitlab"
+
+- url: "https://t.me/WordPressBrasil"
+  title: "WORDPRESS BRASIL"
+  description: "Grupo brasileiro destinado a discussão de assuntos relacionados ao WordPress"
+
+- url: "https://t.me/tudosobreti"
+  title: "TUDO SOBRE T.I"
+  description: "Canal de informações sobre TI"
+
+- url: "https://t.me/awsbrasil"
+  title: "AWS Brasil"
+  description: "Grupo brasileiro para compartilhar conhecimentos e tirar dúvidas a respeito de produtos AWS"
+
+- url: "https://t.me/kdebrasil"
+  title: "KDE-Brasil"
+  description: "Grupo brasileiro da comunidade KDE"
+
+- url: "https://t.me/somos_kde"
+  title: "Somos KDE"
+  description: "Canal agregador de blogs brasileiros do KDE"
+
+- url: "https://t.me/azurebrasil"
+  title: "Azure Brasil"
+  description: "Canal brasileiro para discussões técnicas e compartilhamento de informações sobre o Microsoft Azure"
+
+- url: "https://t.me/xenserver"
+  title: "Citrix XenServer"
+  description: "Grupo sobre  Citrix XenServer"
+
+- url: "https://t.me/ComputerScientistBr"
+  title: "Sociedade Estudantes de TI"
+  description: "Grupo de alunos brasileiros em matérias relacionadas à computação"
+
+- url: "https://t.me/Eletronica_em_foco"
+  title: "Eletrônica e Automação BR"
+  description: "Grupo brasileiro focado em arduino, automação, reparos em eletrônicos"
+
+- url: "https://t.me/freeswitchbrasil"
+  title: "FreeSWITCH Brasil"
+  description: ""
+
+- url: "https://t.me/gcpbrasil"
+  title: "GCP Brasil"
+  description: "Grupo brasileiro de discussões sobre Google Cloud Platform"
+
+- url: "https://t.me/grupoGNUGRAF"
+  title: "GNUGRAF"
+  description: "Grupo de discussão focado na Computação Gráfica com Software Livre"
+
+- url: "https://t.me/joomlabrasil"
+  title: "Joomla Brasil"
+  description: "Grupo brasileiro dos usuários Joomla"
+
+- url: "https://t.me/iotmakers"
+  title: "Makers de Internet das Coisas"
+  description: "O ponto de encontro dos Makers de IoT"

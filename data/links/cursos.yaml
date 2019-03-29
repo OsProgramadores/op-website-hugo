@@ -1,0 +1,62 @@
+title: "Ferramentas"
+
+sources:
+- url: "https://caniuse.com/"
+  title: "Can I Use"
+  description: "Site para verificar a compatibilidade e funcionalidade de recursos web, tais como elementos do HTML e propriedades CSS"
+
+- url: "https://codepen.io/"
+  title: "Codepen"
+  description: "Editor online para HTML, CSS e JavaScript, com suporte para fontes externas e pré-processadores, como Bootstrap, SASS, Babel"
+
+- url: "https://www.gimp.org/"
+  title: "GIMP"
+  description: "Editor de imagens grátis e Open Source"
+
+- url: "https://github.com/"
+  title: "GitHub"
+  description: "Se vai ser programador, essa ferramenta é essencial para hospedar seus códigos. Muitas empresas costumam pedir seu GitHub para analisar seus códigos. Temos um [desafio](/desafios/d01/) no site com tutorial ensinando a utilizá-lo"
+
+- url: "https://education.github.com/pack"
+  title: "GitHub Education"
+  description: "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do GitHub para estudantes"
+
+- url: "http://www.guj.com.br/"
+  title: "Guj"
+  description: "Fórum brasileiro para programadores"
+
+- url: "https://learngitbranching.js.org/"
+  title: "Learn Git Branching"
+  description: "Aprendendo intuitivamente como funcionam os comandos de branching, como `checkout`, `merge` e `rebase`"
+
+- url: "https://repl.it"
+  title: "Repl.it"
+  description: "Um IDE no web browser. Suporte para diversas linguagens. Compartilhamento de código com terceiros"
+
+- url: "https://regex101.com/"
+  title: "Regex101"
+  description: "Ferramenta para testar suas expressões regulares em Php, Python, JavaScript e Go"
+
+- url: "http://www.regexpal.com/"
+  title: "Regex Pal"
+  description: "Outro site para testar expressões regulares"
+
+- url: "http://rextester.com/l/pascal_online_compiler"
+  title: "RexTester"
+  description: "Compilador online de Java, C, C#, C++, JavaScript, Lua, Php, Python, Ruby, Scala, entre outros"
+
+- url: "https://pt.stackoverflow.com/"
+  title: "StackOverFlow"
+  description: "Melhor fórum do mundo para programadores. Use com moderação"
+
+- url: "https://tinypng.com/"
+  title: "TinyPng"
+  description: "Compacte imagens de PNG sem perder qualidade. Excelente para deixar seu site mais leve"
+
+- url: "http://jigsaw.w3.org/css-validator/"
+  title: "W3 CSS Validator"
+  description: "Ferramenta para validação de CSS"
+
+- url: "https://validator.w3.org/"
+  title: "W3 HTML Validator"
+  description: "Ferramenta para validação de documentos web, como HTML, XHTML, etc"
