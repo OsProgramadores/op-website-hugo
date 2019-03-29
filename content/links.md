@@ -604,7 +604,7 @@ tags = ["links"]
       <td>Grupo da comunidade php.rio</td>
     </tr>
     <tr>              
-      <td><a href="https://t.me/phpsantacatarina">PHP SC</td>
+      <td><a href="https://t.me/phpsantacatarina"</a>PHP SC</td>
       <td>Grupo sobre PHP do estado de Santa Catarina</td>
     </tr>
     <tr>
