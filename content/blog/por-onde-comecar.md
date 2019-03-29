@@ -42,7 +42,7 @@ a = 1
 print(a)
 ```
 
-Após a execução do programa anterior, pesquise como você pode adicionar 1 ao valor da variável _a_ e exiba o novo valor de _a_ na tela do seu computador. 
+Após a execução do programa anterior, pesquise como você pode adicionar 1 ao valor da variável `a` e exiba o novo valor de `a` na tela do seu computador. 
 
 ```python
 a = 0
@@ -51,7 +51,7 @@ a = a + 1
 print(a)
 ```
 
-A seguir, insira uma segunda variável, chamada _b_, no seu programa e imprima o valor de _a + b_. 
+A seguir, insira uma segunda variável, chamada `b`, no seu programa e imprima o valor de `a + b`. 
 
 ```python
 a = 0
@@ -72,7 +72,7 @@ for x in range(10):
   print("Escreva o seu nome aqui")
 ```
 
-A seguir vamos usar o comando _IF_ para tomar uma decisão. Pesquise o que é decisão e como funcionam comandos do tipo _IF THEN ELSE_. Faça um programa simples usando _IF THEN ELSE_ e procure entender como funciona. 
+A seguir vamos usar o comando `IF` para tomar uma decisão. Pesquise o que é decisão e como funcionam comandos do tipo `IF THEN ELSE`. Faça um programa simples usando `IF THEN ELSE` e procure entender como funciona. 
 
 Exemplo:
 
