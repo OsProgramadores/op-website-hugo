@@ -34,10 +34,10 @@ sources:
   description: "Podcast apresentado por desenvolvedoras focado em programação, notícias e histórias. Tudo com o toque feminino numa área dominada por homens"
 
 - url: "https://pizzadedados.com/"
-  title: "PIZZA DE DADOS"
+  title: "Pizza de Dados"
   description: "O podcast Brasileiro sobre Ciência de Dados"
 
 - url: "https://quebradev.com.br/"
-  title: "QUEBRADEV"
+  title: "QuebraDev"
   description: "Um podcast de origem periférica e com destino voltado à origem"
 

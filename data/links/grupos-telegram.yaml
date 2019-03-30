@@ -246,7 +246,7 @@ sources:
   description: "Grupo sobre Python e Flask"
 
 - url: "https://t.me/datasciencepython"
-  title: "Pt-BR Data Science &amp; Python"
+  title: "Pt-BR Data Science & Python"
   description: "Grupo brasileiro sobre Pt-BR Data Science e Python"
 
 - url: "https://t.me/Coffeedeveloper"
@@ -330,7 +330,7 @@ sources:
   description: "Python User Group do estado do Maranhão"
 
 - url: "https://t.me/pugse"
-  title: "PUG-SE &#8211; Python em Sergipe"
+  title: "PUG-SE - Python em Sergipe"
   description: "Python User Group do estado de Sergipe"
 
 - url: "https://t.me/pythonbr"
@@ -370,7 +370,7 @@ sources:
   description: "Grupo brasileiro sobre o Web e mobile development com VueJS 2.0"
 
 - url: "https://t.me/shellscript_x"
-  title: "SHELLSCRIPT"
+  title: "Shell Script X"
   description: "Grupo destinado aos amantes da linguagem Shell Script"
 
 - url: "https://t.me/apiBuilders"
@@ -438,7 +438,7 @@ sources:
   description: "Grupo brasileiro destinado para discussões relacionadas ao PostgreSQL"
 
 - url: "https://t.me/sqlmssql"
-  title: "SQL Server &#8211; DBA"
+  title: "SQL Server - DBA"
   description: "Grupo destinado à discussões sobre MS SQL"
 
 - url: "https://t.me/freebsdbrasil"
@@ -502,11 +502,11 @@ sources:
   description: "Grupo oficial da comunidade brasileira do elementary OS"
 
 - url: "https://t.me/fedorabr"
-  title: "Fedora Brasil &#8211; roots"
+  title: "Fedora Brasil - roots"
   description: "Grupo brasileiro de Utilizadores e Colaboradores do Projeto Fedora"
 
 - url: "https://t.me/comunidadefedorabrasil"
-  title: "Comunidade Fedora &#8211; fedorabr.org"
+  title: "Comunidade Fedora - fedorabr.org"
   description: "Grupo brasileiro da Comunidade Fedora (não-oficial)"
 
 - url: "https://t.me/opnsensebr"
@@ -514,7 +514,7 @@ sources:
   description: "Grupo brasileiro sobre OPNsense"
 
 - url: "https://t.me/pfsensebr"
-  title: "pfSense Brasil &#8211; (pt)"
+  title: "pfSense Brasil (pt)"
   description: "Grupo brasileiro sobre pfSense"
 
 - url: "https://t.me/Endian_Firewall"
@@ -582,7 +582,7 @@ sources:
   description: "Grupo brasileiro sobre tecnologias e certificações da Cisco (oriundo do Blog CCNA)"
 
 - url: "https://t.me/NxfilterBR"
-  title: "NxFilter &#8211; DNS WebFilter &#8211; www.nxfilter.org"
+  title: "NxFilter - DNS WebFilter - www.nxfilter.org"
   description: "Grupo sobre DNS WebFilter"
 
 - url: "https://t.me/packetfence_br"
@@ -678,7 +678,7 @@ sources:
   description: "Grupo de vagas na área de TI"
 
 - url: "https://t.me/channelitjobspe"
-  title: "IT JOBS PE"
+  title: "IT Jobs PE"
   description: "Canal de vagas na área de TI em Pernambuco"
 
 - url: "https://t.me/itjobspe"
