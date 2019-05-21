@@ -92,6 +92,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
 | Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox        |
 | Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg            |
+| Suzane da Silva Melo           | suzanemelo89@yahoo.com.br             | https://github.com/SuzaneMelo         |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi            |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette            |
 | Valdinei Ferreira              | valdineifer@outlook.com               | https://github.com/valdineifer        |
