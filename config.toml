@@ -4,8 +4,6 @@ theme = "hugo-universal-theme"
 languageCode = "pt_BR"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "pt"
-# Enable comments by entering your Disqus shortname
-disqusShortname = "osprogramadores-com"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-2841944-4"
 

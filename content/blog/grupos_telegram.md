@@ -17,11 +17,8 @@ Grupo sobre Assembly.
 [Android Dev Drops](https://t.me/android_drops)  
 Grupo sobre desenvolvimento nativo para Android.
 
-[Angular Brasil](https://t.me/angularJSBrasil)  
-Grupo sobre AngularJS.
-
-[BotCaverna](https://t.me/joinchat/AAAAAENNXyU9OWfSTzD8DQ)  
-Grupo sobre desenvolvimento de bots.
+[Angular Brasil](https://t.me/AngularBrasil)  
+Grupo sobre Angular.
 
 [C is LOVE](https://t.me/c_user)  
 Grupo destinado a assuntos relacionados a Linguagem "C".
@@ -40,9 +37,6 @@ Grupo brasileiro de programadores e entusiastas da linguagem de programação Da
 
 [DBA BRASIL](https://t.me/DbaBrasil)  
 Grupo sobre DBA.
-
-[Delphi](https://t.me/joinchat/DtwgRkCKYHU30rzuoJpPrg)  
-Grupo direcionado aos programadores Delphi.
 
 [DevCodeBr - Android/Java/Kotlin](https://t.me/devcodebr_android)  
 Grupo sobre desenvolvimento Android/Java/Kotlin.
@@ -106,12 +100,6 @@ Grupo sobre PHP.
 
 [Polymer Brasil](https://t.me/polymerbr)  
 Grupo para interessados e profissionais que trabalham com [Polymer](https://www.polymer-project.org/).
-
-[Programação Funcional Brasil](https://t.me/programacaofuncionalbrasil)  
-Grupo voltado à programação funcional em geral
-
-[Programeiros](https://t.me/joinchat/CxaN0D-xLVriZgVzWBM2Fw)  
-Grupo destinado a desenvolvedores iniciantes ou experientes, com foco em projetos.
 
 [PyCoding](https://t.me/pyCoding)  
 Maior grupo sobre Python no Telegram (em inglês).

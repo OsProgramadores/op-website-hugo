@@ -36,7 +36,7 @@ Ao promover algo, mantenha em mente que **o grupo valoriza a participação acim
 
 ## Estou sendo perseguido por outro membro. O que devo fazer?
 
-Se você acretida estar sendo perseguido por outro participante, ou observou qualquer comportamento indiscreto ou inconsistente com um ambiente saudável, entre em contato com um dos administradores em private e explique o problema. Os administradores do grupo estão listados no final da página principal do site [OsProgramadores](https://osprogramadores.com).
+Se você acredita estar sendo perseguido por outro participante, ou observou qualquer comportamento indiscreto ou inconsistente com um ambiente saudável, entre em contato com um dos administradores em private e explique o problema. Os administradores do grupo estão listados no final da página principal do site [OsProgramadores](https://osprogramadores.com).
 
 # Perguntas técnicas
 
