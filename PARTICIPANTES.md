@@ -16,6 +16,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alex Almeida                   | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com              | https://github.com/Alexandre2539      |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix            |
+| Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien         |
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil        |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
