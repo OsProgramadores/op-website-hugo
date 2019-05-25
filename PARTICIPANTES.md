@@ -1,4 +1,4 @@
-# Participantes do grupo do Telegram que deram fork no projeto:
+﻿# Participantes do grupo do Telegram que deram fork no projeto:
 
 Ao adicionar o seu nome, por favor observe:
 
