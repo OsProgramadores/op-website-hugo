@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--
+  This is very similar to the default "single" layout, but adds instructions
+  about how to submit the results at the end of the content.
+-->
+
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+
+                    <div class="col-md-9 prose" id="blog-post">
+
+                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
+
+                        <div id="post-content">
+                          {{ .Content }}
+                        </div>
+
+                        {{ "## Enviando os resultados" | markdownify }}
+
+                        <ul>
+                          <li>Teste o seu programa localmente e verifique que está operando de forma desejada.</li>
+                          <li>Se o desafio necessitar de validação (desafio-08 em diante), siga os
+                            procedimentos de <a href="#validação">validação</a> descritos acima.</li>
+                          <li>Crie um <i>Pull Request</i> (PR) seguindo as <a href="https://github.com/OsProgramadores/op-desafios/blob/master/README.md">
+                              instruções na documentação no repositório op-desafios</a>.</li>
+                          <li>Envie o PR para revisão. Um dos admins irá aprovar o PR ou requisitar modificações.</li>
+                          <li>Após o PR ter sido aprovado, a pontuação será automaticamente contabilizada na
+                            <a href="/scores">página de hi-scores</a> a cada 15 minutos.</li>
+                        </ul>
+
+                        <!-- /#post-content -->
+                        {{ if .Site.DisqusShortname }}
+                        <div id="comments">
+                            {{ template "_internal/disqus.html" . }}
+                        </div>
+                        {{ end }}
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
