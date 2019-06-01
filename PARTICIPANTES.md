@@ -76,6 +76,7 @@ Ao adicionar o seu nome, por favor observe:
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos          |
 | Júlio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
+| Kyldery Oliveira               | kyll.weslley@gmail.com                | https://github.com/kyldery            |
 | Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn            |
 | Leo Silva Souza                | leovano@protonmail.com                | https://github.com/leovano            |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com              | https://github.com/galloaleonardo     |
