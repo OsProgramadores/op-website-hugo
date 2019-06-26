@@ -121,6 +121,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira       |
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com              | https://github.com/ronanlutiane       |
 | Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
+| Samuel Evangelista Pereira     | sam.pereirabr@gmail.com               | https://github.com/SamPereirabr       |
 | Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox        |
 | Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg            |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr          |
