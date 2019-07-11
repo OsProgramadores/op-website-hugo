@@ -20,7 +20,7 @@ Ao adicionar o seu nome, por favor observe:
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil        |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
-| Antonio Gabriel                | antonioggca000@gmail.com              | https://github.com/antonioGabrielGomes |
+| Antonio Gabriel                | antonioggca000@gmail.com              | https://github.com/antonioGabrielGomes|
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com               | https://github.com/Note45             |
 | Arlesson Jaques                | No Email                              | https://github.com/Schuarzem          |
 | Arthur Flavio de Abreu Tavares | arthurabreu00@gmail.com               | https://github.com/arthurabreu00      |
