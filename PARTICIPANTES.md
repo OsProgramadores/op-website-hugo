@@ -126,6 +126,7 @@ Ao adicionar o seu nome, por favor observe:
 | Samuel Evangelista Pereira     | sam.pereirabr@gmail.com               | https://github.com/SamPereirabr       |
 | Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox        |
 | Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg            |
+| Shielded0Goblin                | shielded.goblin@gmail.com             | https://github.com/ShieldedGoblin     |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr          |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi            |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette            |
