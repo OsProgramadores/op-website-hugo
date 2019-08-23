@@ -153,6 +153,10 @@ sources:
   title: "developersRJ"
   description: "Grupo carioca de desenvolvedores cariocas"
 
+- url: "https://t.me/devs_brasil"
+  title: "Developers"
+  description: "Grupo de desenvolvedores em geral"
+
 - url: "https://t.me/devopsbr"
   title: "Devops BR"
   description: "Canal brasileiro para discutir e compartilhar informações e cases sobe a Cultura DevOps"
