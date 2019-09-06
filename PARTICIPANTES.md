@@ -118,6 +118,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ricardo Severo                 | ricardosilva.official@outlook.com     | https://github.com/ricardosevero      |
 | Roberto Arruda                 | roberto0arruda@hotmail.com            | https://github.com/roberto0arruda     |
 | Rodinei Costa                  | rodineicosta@physistec.com.br         | https://github.com/rodineicosta       |
+| Rodrigo Aparecido Gomes        | rodrigo.agomes@gmail.com              | https://github.com/rodrigoagomes      |
 | Rodrigo Duarte de O. Toledo    | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7     |
 | Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira       |
