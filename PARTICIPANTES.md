@@ -13,7 +13,7 @@ Ao adicionar o seu nome, por favor observe:
 | Adilson Boson Almeida Junior   | adboson@gmail.com                     | https://github.com/adboson            |
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br            | https://github.com/arlima             |
 | Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com             | https://github.com/TeijIW             |
-| Alex Almeida                   | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
+| Alex Almeida Andrade           | alex.aldr@gmail.com                   | https://github.com/alexaldr           |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com              | https://github.com/Alexandre2539      |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix            |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien         |
