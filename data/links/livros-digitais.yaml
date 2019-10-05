@@ -1,0 +1,34 @@
+title: "Livros digitais"
+
+sources:
+- url: "https://www.caelum.com.br/apostila-java-orientacao-objetos/"
+  title: "Java OO"
+  description: "Apostila online de Java Orientado a Objetos, distribuída pela Caelum gratuitamente"
+
+- url: "https://www.caelum.com.br/apostila-html-css-javascript/"
+  title: "Front-End"
+  description: "Apostila de HTML, CSS e JavaScript, distribuída pela Caelum gratuitamente"
+
+- url: "https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/"
+  title: "UX e Usabilidade"
+  description: "Apostila de Usabilidade Mobile e Web e User Experience, distribuída pela Caelum gratuitamente"
+
+- url: "http://piazinho.com.br/download/expressoes-regulares-3-tabelas.pdf"
+  title: "Expressões Regulares"
+  description: "Uma tabela com um super resumo de expressões regulares, disponibilizado gratuitamente pelo autor em seu site"
+
+- url: "https://www.caelum.com.br/apostila-java-web/"
+  title: "Java para Web"
+  description: "Apostila de Java para Web"
+
+- url: "https://leanpub.com/dockerparadesenvolvedores"
+  title: "Docker para Desenvolvedores"
+  description: "Ebook focado nas necessidades do desenvolvedor que se interessar pelo Docker"
+
+- url: "https://www.syncfusion.com/ebooks/"
+  title: "Syncfusion Ebooks"
+  description: "Dezenas de ebooks sobre várias tecnologias, com a proposta de serem sucintos, como já diz no título. Há diversos, por exemplo: Bootstrap, .NET, Java, HTTP. (necessário cadastro para alguns)"
+
+- url: "https://books.goalkicker.com/"
+  title: "Syncfusion Ebooks"
+  description: "Mais de 40 livros de vários assuntos relacionados à programação, criados e reunidos pelos melhores do Stack Overflow"

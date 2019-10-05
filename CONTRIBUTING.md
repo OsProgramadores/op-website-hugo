@@ -1,11 +1,3 @@
-+++
-title = "Contribuindo para o site"
-date = "2017-04-14T23:40:00-07:00"
-tags = ["osprogramadores"]
-categories = ["git"]
-banner = "img/banners/octocat.png"
-+++
-
 ## Como contribuir para o site?
 
 A melhor maneira de contribuir com um artigo ou correção para o site é criar um
@@ -260,7 +252,7 @@ $ git branch -D contri
 Deleted branch contri (was e50b436).
 
 $ git push --delete origin contri
-To git@github.com:marcopaganini/op-website-hugo.git
+To git@github.com:USUÁRIO/op-website-hugo.git
  - [deleted]         contri
 
 ```

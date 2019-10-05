@@ -1,4 +1,4 @@
-// Custom CSS
+/* Custom CSS */
 
 .header-link:after {
   position: relative;
@@ -18,4 +18,44 @@ h4:hover .header-link,
 h5:hover .header-link,
 h6:hover .header-link {
   opacity: 1;
+}
+
+code {
+  color: #000000;
+  background-color: #d5f1f1;
+  font-family: Menlo, Monaco, Consolas, monospace, "Courier New";
+}
+
+/* Cards for desafios */
+.desafio-cards {
+  min-height: 96px;
+  border:1px solid #38a7bb;
+  margin-bottom: 24px;
+  padding-top: 20px;
+  background-color: #f8f8f8;
+}
+
+.desafio-cards-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: 500;
+  font-size: 22px;
+  color: #606060;
+}
+
+.desafio-label {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: #a0a0a0;
+  font-weight: 600;
+}
+
+.desafio-post {
+  margin-bottom: 24px;
+}
+
+.desafio-icon {
+  font-size:52px;
+  color: #38a7bb;
 }
