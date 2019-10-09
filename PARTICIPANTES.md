@@ -132,6 +132,7 @@ Ao adicionar o seu nome, por favor observe:
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr          |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi            |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette            |
+| Tiago Dias Batista             | tiago@webdeleve.net                   | https://github.com/tigo-di            |
 | Tyrone Macedo Damasceno        | tyronedamasceno@gmail.com             | https://github.com/tyronedamasceno    |
 | Vagner Cavalcante da silva     | vagnermasked@gmail.com                | https://github.com/vagnerzt           |
 | Valdinei Ferreira              | valdineifer@outlook.com               | https://github.com/valdineifer        |
