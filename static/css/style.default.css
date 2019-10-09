@@ -308,7 +308,7 @@ ul.list-style-none {
   text-transform: uppercase;
   text-decoration: underline;
   font-weight: bold;
-  letter-spacing: 0.08em;
+/*  letter-spacing: 0.08em; */
   border-top: solid 5px transparent;
 }
 .navbar ul.nav > li > a:hover {

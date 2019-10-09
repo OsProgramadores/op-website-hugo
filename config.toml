@@ -47,6 +47,11 @@ paginate = 12
     url = "/scores/"
     weight = 7
 
+[[menu.main]]
+    name = "Ir ao Telegram"
+    url = "/scores/"
+    weight = 7
+
 [params]
     viewMorePostLink = "/blog/"
     author = "mpinheir"
