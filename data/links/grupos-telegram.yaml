@@ -1,6 +1,11 @@
 title: "Grupos sobre programação no Telegram"
 
 sources:
+
+- url: "https://t.me//osprogramadores"
+  title: "Os Programadores"
+  description: "Grupo que tem como objetivo incentivar o aprendizado de programação. É aberto à conversas sobre programação em geral, de todos os níveis"
+
 - url: "https://t.me//android_drops"
   title: "Android Dev Drops"
   description: "Grupo sobre desenvolvimento nativo para Android"
@@ -488,10 +493,6 @@ sources:
 - url: "https://t.me/opnsensebr"
   title: "OPNsense Brasil"
   description: "Grupo brasileiro sobre OPNsense"
-
-- url: "https://t.me//osprogramadores"
-  title: "Os Programadores"
-  description: "Grupo que tem como objetivo incentivar o aprendizado de programação. É aberto à conversas sobre programação em geral, de todos os níveis"
 
 - url: "https://t.me//PodProgramar"
   title: "Ouvintes do PodProgramar"
