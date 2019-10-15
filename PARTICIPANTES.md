@@ -125,6 +125,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira |
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira       |
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com              | https://github.com/ronanlutiane       |
+| Roney Cacau Alves              | roneycacau@gmail.com                  | https://github.com/roneycacau         |
 | Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo        |
 | Samuel Evangelista Pereira     | sam.pereirabr@gmail.com               | https://github.com/SamPereirabr       |
 | Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox        |
