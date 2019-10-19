@@ -334,6 +334,18 @@ sources:
   title: "Grupy RN"
   description: "Grupo da comunidade Python no Rio Grande do Norte"
 
+- url: "https://t.me/guru_ce"
+  title: "Guru-CE"
+  description: "Grupo de Usuários Ruby do Ceará"
+
+- url: "https://t.me/guru_go"
+  title: "Guru-GO"
+  description: "Grupo de Usuários Ruby de Goiás"
+
+- url: "https://t.me/gurusp"
+  title: "Guru-SP"
+  description: "Grupo de Usuários Ruby de São Paulo"
+
 - url: "https://t.me//htmlbr"
   title: "HTML Brasil"
   description: "Grupo técnico sobre Hyper Text Markup Language"
@@ -633,6 +645,10 @@ sources:
 - url: "https://t.me//rubybrasil"
   title: "Ruby Brasil"
   description: "Grupo sobre a linguagem Ruby"
+
+- url: "https://t.me//rubydf"
+  title: "Ruby DF"
+  description: "Usuários de Ruby no Distrito Federal"
 
 - url: "https://t.me/rustlangbr"
   title: "Rust Brasil"
