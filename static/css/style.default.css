@@ -2033,8 +2033,8 @@ fieldset[disabled] .btn-template-primary.active {
   transition: all 0.2s ease-out;
 }
 @media (max-width: 767px) {
-  #blog-listing-big .post .image img.,
-  #blog-homepage .post .image img. {
+  #blog-listing-big .post .image img.img-responsive,
+  #blog-homepage .post .image img.img-responsive {
     min-width: 100%;
   }
 }
@@ -2129,7 +2129,7 @@ fieldset[disabled] .btn-template-primary.active {
   transition: all 0.2s ease-out;
 }
 @media (max-width: 767px) {
-  #blog-listing-medium .post .image img. {
+  #blog-listing-medium .post .image img.img-responsive {
     min-width: 100%;
   }
 }
@@ -2251,7 +2251,7 @@ fieldset[disabled] .btn-template-primary.active {
   transition: all 0.2s ease-out;
 }
 @media (max-width: 767px) {
-  .product .image img. {
+  .product .image img.img-responsive {
     min-width: 100%;
   }
 }
