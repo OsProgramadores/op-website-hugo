@@ -38,7 +38,6 @@ Este repositório contém o fonte do website, que usa o [Hugo](http://gohugo.io)
 1. **IMPORTANTE**: Antes de *qualquer* modificação (com um repositório limpo), digite `git pull upstream master`. Isso garantirá que a cópia do seu repositório local contem todas as alterações presentes na página inicial.
 1. Faça as alterações desejadas, com o seu editor preferido.
 1. Digite `hugo -wv` seguido de ENTER. Os arquivos HTML serão gerados no diretório `public`.
-1. Digite `hugo server -D` para subir o servidor.
 1. Visualize suas modificações visitando http://localhost:1313 e certifique-se de que estão corretas (Dica: O Hugo recarrega alterações automaticamente. Se uma mudança for necessária, faça a correção em outra janela e recarregue a página. Não é necessário parar o hugo e rodar novamente).
 
 ### Enviando o Pull Request (PR)
