@@ -61,9 +61,6 @@
 - id: aboutUs
   translation: "Quem somos"
 
-- id: telegram
-  translation: "Nosso grupo no Telegram"
-
 - id: newer
   translation: "Mais recente"
 

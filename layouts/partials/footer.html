@@ -41,19 +41,6 @@
             {{ end }} {{ end }}
 
         </div>
-
-        <div class="col-md-4 col-sm-6">
-            <h4>{{ i18n "telegram" }}</h4>
-
-            {{ .Site.Params.telegram | markdownify }}
-            <a href="https://t.me//osprogramadores" target="_blank">
-                <img src="{{ .Site.BaseURL}}img/telegram-icon.png">
-            </a>
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
-        </div>
-
         <!-- /.col-md-4 -->
 
         {{ if isset .Site.Params "address" }}
