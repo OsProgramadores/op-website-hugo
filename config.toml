@@ -116,7 +116,7 @@ paginate = 12
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-telegram"
     title = "Aprenda algo novo."
     subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais."
     link_url = "https://t.me/osprogramadores"
