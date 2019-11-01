@@ -11,9 +11,11 @@ install:
   - go get -u golang.org/x/text/collate
   - go get -u golang.org/x/text/language
   - pushd travis && go build -o checkparticipantes && popd
+  - pushd travis && wget -q -O- https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.tar.gz | tar zxvf - hugo && popd
 
 script:
   - travis/checkparticipantes PARTICIPANTES.md
+  - travis/hugo -v
 
 notifications:
   webhooks: https://www.travisbuddy.com
