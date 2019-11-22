@@ -150,3 +150,4 @@ Ao adicionar o seu nome, por favor observe:
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque             |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos        |
+| Carlos Henrique Leal da cruz   | carloshlc@hotmail.com                 | https://github.com/carloshlc007       |
