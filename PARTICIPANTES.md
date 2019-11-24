@@ -30,6 +30,7 @@ Ao adicionar o seu nome, por favor observe:
 | Bassam Basil Junior            | bassambjg5@gmail.com                  | https://github.com/Bassambj           |
 | Bruno Santana Andrade          | brunosanadev@gmail.com                | https://github.com/brunosana          |
 | Caio Cavalcanti Slompo Muniz   | caiocsmuniz1@gmail.com                | https://github.com/caiomuniz          |
+| Carlos Henrique Leal da cruz   | carloshlc@hotmail.com                 | https://github.com/carloshlc007       |
 | Celina Uemura                  | celina.uemura@gmail.com               | https://github.com/cezinha            |
 | Claudenir Ferreira de Assis    | devaspirerklaus@gmail.com             | https://github.com/DevAspirerKlaus    |
 | Clederson Cruz                 | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
