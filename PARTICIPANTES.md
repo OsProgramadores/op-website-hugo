@@ -30,6 +30,7 @@ Ao adicionar o seu nome, por favor observe:
 | Bassam Basil Junior            | bassambjg5@gmail.com                  | https://github.com/Bassambj           |
 | Bruno Santana Andrade          | brunosanadev@gmail.com                | https://github.com/brunosana          |
 | Caio Cavalcanti Slompo Muniz   | caiocsmuniz1@gmail.com                | https://github.com/caiomuniz          |
+| Carlos Henrique Leal da cruz   | carloshlc@hotmail.com                 | https://github.com/carloshlc007       |
 | Celina Uemura                  | celina.uemura@gmail.com               | https://github.com/cezinha            |
 | Claudenir Ferreira de Assis    | devaspirerklaus@gmail.com             | https://github.com/DevAspirerKlaus    |
 | Clederson Cruz                 | cledersonbc@live.com                  | https://github.com/Cledersonbc        |
@@ -150,4 +151,4 @@ Ao adicionar o seu nome, por favor observe:
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque             |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos        |
-| Carlos Henrique Leal da cruz   | carloshlc@hotmail.com                 | https://github.com/carloshlc007       |
+
