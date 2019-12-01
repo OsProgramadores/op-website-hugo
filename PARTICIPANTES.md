@@ -18,6 +18,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix            |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien         |
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
+| André Carvalhais               | carvalhais1981@gmail.com              | https://github.com/carvalhais         |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil        |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
 | Antonio Gabriel                | No Email                              | https://github.com/presstart          |
