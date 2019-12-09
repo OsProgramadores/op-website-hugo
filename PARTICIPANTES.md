@@ -65,9 +65,9 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Peixoto                | gpeixoto@gmail.com                    | https://github.com/neuraman           |
 | Gabriel Thiago da S. Ferreira  | gabriel.ferreira@dcomp.ufs.br         | https://github.com/GabrielF9          |
 | Giovane Da Silva Sobrinho      | giovane.sobrinho@gmail.com            | https://github.com/silvasobrinho      |
-| Gleydson José da Silva         | gleydsonjosewarface@hotmail.com       | https://github.com/gstfps             |
 | Giovanni Martins               | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
 | Giuseppe Varriale              | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale   |
+| Gleydson José da Silva         | gleydsonjosewarface@hotmail.com       | https://github.com/gstfps             |
 | Gustavo de Almeida             | gustavofcma@gmail.com                 | https://github.com/gustavofcma        |
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
