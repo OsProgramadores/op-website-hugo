@@ -67,6 +67,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giovane Da Silva Sobrinho      | giovane.sobrinho@gmail.com            | https://github.com/silvasobrinho      |
 | Giovanni Martins               | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
 | Giuseppe Varriale              | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale   |
+| Gleydson José da Silva         | gleydsonjosewarface@hotmail.com       | https://github.com/gstfps             |
 | Gustavo de Almeida             | gustavofcma@gmail.com                 | https://github.com/gustavofcma        |
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
