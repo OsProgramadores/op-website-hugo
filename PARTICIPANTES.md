@@ -126,6 +126,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS          |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                 | https://github.com/raffaelleao        |
 | Ricardo Severo                 | ricardosilva.official@outlook.com     | https://github.com/ricardosevero      |
+| Rittmann                       | No Email                              | https://github.com/willigro           |
 | Roberto Arruda                 | roberto0arruda@hotmail.com            | https://github.com/roberto0arruda     |
 | Rodinei Costa                  | rodineicosta@physistec.com.br         | https://github.com/rodineicosta       |
 | Rodrigo Aparecido Gomes        | rodrigo.agomes@gmail.com              | https://github.com/rodrigoagomes      |
