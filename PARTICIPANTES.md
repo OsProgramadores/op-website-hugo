@@ -17,6 +17,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexandre Ferreira             | alexandre4fl@hotmail.com              | https://github.com/Alexandre2539      |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix            |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien         |
+| Ana Paula de Mazi              | anapaulamazi@outlook.com              | https://github.com/AnaPaulaMazi       |
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
 | André Carvalhais               | carvalhais1981@gmail.com              | https://github.com/carvalhais         |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil        |
