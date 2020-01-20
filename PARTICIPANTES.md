@@ -21,6 +21,7 @@ Ao adicionar o seu nome, por favor observe:
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst    |
 | André Carvalhais               | carvalhais1981@gmail.com              | https://github.com/carvalhais         |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil        |
+| Antonio Amaral Farias          | antonio.farias.002@gmail.com          | https://github.com/AntonioAF1411      |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb   |
 | Antonio Gabriel                | No Email                              | https://github.com/presstart          |
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com               | https://github.com/Note45             |
