@@ -50,6 +50,7 @@ Ao adicionar o seu nome, por favor observe:
 | Diogo Gaspar                   | ghostlabz@gmail.com                   | https://github.com/TheRealGaspar      |
 | Douglas Fiedler                | dognew@gmail.com                      | https://github.com/dognew             |
 | Édipo Avelino dos Santos Palha | edipocba@gmail.com                    | https://github.com/edipocba           |
+| Edson Alonso Falla Luza	 | edsonalonsofl@gmail.com               | https://github.com/EdsonAlonso        |
 | Eduardo Felipe Lopes           | edufelopes@hotmail.com                | https://github.com/raikon55           |
 | Eduardo Figueiredo Gonçalves   | goncalves.ef@gmail.com                | https://github.com/eduardofg87        |
 | Eduardo Henrique               | eduardosatrini@gmail.com              | https://github.com/satrini            |
