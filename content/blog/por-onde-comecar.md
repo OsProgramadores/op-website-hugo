@@ -18,7 +18,7 @@ Na seção de [Links do site Osprogramadores](https://osprogramadores.com/links/
 
 Caso o Python não esteja instalado no seu computador, siga as instruções para instalação em um sistema [Windows](https://python.org.br/instalacao-windows/), [Linux](https://python.org.br/instalacao-linux/) ou [macOS](https://python.org.br/instalacao-mac/).
 
-Caso você não deseje instalar o Python em seu computador, recomendamos a criação de uma conta grátis no [Repl.it](https://repl.it/) onde você poderá utilizar um ambiente de edição e execuçãp de programas Python sem a necessidade de instalar software em seu computador.
+Caso você não deseje instalar o Python em seu computador, recomendamos a criação de uma conta grátis no [Repl.it](https://repl.it/) onde você poderá utilizar um ambiente de edição e execução de programas Python sem a necessidade de instalar software em seu computador.
 
 Vamos começar a programar?
 
