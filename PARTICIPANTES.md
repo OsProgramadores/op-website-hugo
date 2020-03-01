@@ -56,6 +56,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Stephan                | eduardo.stephan@outlook.com           | https://github.com/edustephan         |
 | Eduardo Teixeira               | dunirvana@gmail.com                   | https://github.com/dunirvana          |
 | Elaine Saith Martins           | elainesaith@hotmail.com               | https://github.com/elainesaith        |
+| Elci Ubarana Junior            | elci.junior@gmail.com                 | https://github.com/JuniorUbarana      |
 | Elder Louzada                  | elder_louzada@outlook.com             | https://github.com/reedlex98          |
 | Fábio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
 | Fabrício Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967        |
