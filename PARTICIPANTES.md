@@ -123,6 +123,7 @@ Ao adicionar o seu nome, por favor observe:
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com               | https://github.com/mayrloncarlos      |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia           |
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba            |
+| Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo            |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198         |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro    |
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2               |
