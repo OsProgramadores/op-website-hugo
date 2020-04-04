@@ -82,6 +82,7 @@ Ao adicionar o seu nome, por favor observe:
 | Isabella Santos de Souza       | isabellasdesouza@outlook.com          | https://github.com/isabellsantoss     |
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena         |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein   |
+| Arthur Alves Reis              | art4321@outlook.com.br                | https://github.com/itsArthurAlves     |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo     |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto          |
 | Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim       |
