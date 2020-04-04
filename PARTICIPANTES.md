@@ -25,6 +25,7 @@ Ao adicionar o seu nome, por favor observe:
 | Antonio Gabriel                | No Email                              | https://github.com/presstart          |
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com               | https://github.com/Note45             |
 | Arlesson Jaques                | No Email                              | https://github.com/Schuarzem          |
+| Arthur Alves Reis              | art4321@outlook.com.br                | https://github.com/itsArthurAlves     |
 | Arthur Flavio de Abreu Tavares | arthurabreu00@gmail.com               | https://github.com/arthurabreu00      |
 | Arthur Rocha Fontes            | arthur9869@gmail.com                  | https://github.com/Arthurrochaa       |
 | Augusto da Silva Costa         | contato@guto.pro.br                   | https://github.com/gutocosta          |
