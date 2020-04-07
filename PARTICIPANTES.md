@@ -160,6 +160,7 @@ Ao adicionar o seu nome, por favor observe:
 | Washington Araújo Ramos        | No Email                              | https://github.com/WashingtonARamos   |
 | Wellington Domiciano           | wldomiciano@gmail.com                 | https://github.com/wldomiciano        |
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02            |
+| Weslley de Oliveira Pereira    | weslleyoliveira258@gmail.com          | https://github.com/weslley19          |
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill            |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque             |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos        |
