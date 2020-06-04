@@ -61,6 +61,7 @@ Ao adicionar o seu nome, por favor observe:
 | Elder Louzada                  | elder_louzada@outlook.com             | https://github.com/reedlex98          |
 | Enoque de Sousa Neres          | enoque.sneres@live.com                | https://github.com/enqneres           |
 | Fábio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj           |
+| Fabrício Albuquerque Ribas     | fabricioaribas@gmail.com              | https://github.com/fabricioribas      |
 | Fabrício Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967        |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale             |
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com       | https://github.com/Felipe-Marques     |
