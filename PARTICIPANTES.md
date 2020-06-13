@@ -94,6 +94,7 @@ Ao adicionar o seu nome, por favor observe:
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill         |
 | José Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria          |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos          |
+| Juliano Massanetto             | juliano.massanetto@gmail.com          | https://github.com/JMass1             |
 | Júlio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst           |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos         |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                | https://github.com/kyldery            |
