@@ -113,6 +113,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol           |
 | Marcelo de Oliveira da S. Jr.  | marcelo_rde@yahoo.com.br              | https://github.com/Marcelo391         |
 | Marcio Andre Sieburger         | sieburger@protonmail.com              | https://github.com/sieburger          |
+| Marcio Filadelfo               | marcio.kabana@gmail.com               | https://github.com/marciofiladelfo    |
 | Marco Antonio Rocha            | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch             |
 | Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim             |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware            |
