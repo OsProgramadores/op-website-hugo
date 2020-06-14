@@ -5,6 +5,10 @@ sources:
   title: "DevDocs"
   description: "DevDocs é um site que disponibiliza a documentação de centenas de linguagens"
 
+- url: "http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf"
+  title: "Estruturas de dados"
+  description: "Livro sobre Estrutura de Dados - Autor: Professor Ivan Luiz Marques Ricarte - UNICAMP. O material está disponível em licença CC-BY, ou seja, pode ser utilizado desde que o autor seja mantido e citado." 
+
 - url: "https://www.w3schools.com/default.asp"
   title: "HTML, CSS, Javascript"
   description: "Documentação Front-End e Back-End com muitos tutoriais"
@@ -15,11 +19,15 @@ sources:
 
 - url: "http://php.net/manual/pt_BR/index.php"
   title: "PHP"
-  description: "Tudo que precisar saber sobre PHP tem nesse site, que agrega toda documentação com tutoriais em português"
+  description: "PHP documentação com tutoriais em português"
 
 - url: "http://br.phptherightway.com/"
   title: "PHP do jeito certo"
   description: "Site com as melhores práticas para programadores PHP desenvolverem software dentro dos padrões adotados pela comunidade"
+  
+- url: "https://www.ime.usp.br/~pf/algoritmos/"
+  title: "Projeto de Algoritmos (em C)"
+  description: "Algoritmos diversos implementados na linguagem de programação C."
 
 - url: "https://wiki.python.org.br/DocumentacaoPython"
   title: "Python"
