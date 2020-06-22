@@ -88,8 +88,8 @@ Ao adicionar o seu nome, por favor observe:
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein       |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo         |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto              |
-| Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim           |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com      | https://github.com/jefersonrodrigostefani |
+| Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim           |
 | Jéssica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato          |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
