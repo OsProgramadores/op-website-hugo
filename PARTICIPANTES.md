@@ -113,6 +113,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com              | https://github.com/luizcmf                |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr           |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol               |
+| Marcelo Kortkamp               | marcelusmedius@gmail.com              | https://github.com/kortkamp               |
 | Marcelo de Oliveira da S. Jr.  | marcelo_rde@yahoo.com.br              | https://github.com/Marcelo391             |
 | Marcio Andre Sieburger         | sieburger@protonmail.com              | https://github.com/sieburger              |
 | Marcio Filadelfo               | marcio.kabana@gmail.com               | https://github.com/marciofiladelfo        |
