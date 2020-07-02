@@ -5,6 +5,10 @@ sources:
   title: "Bootstrap 4"
   description: "Framework Bootstrap, HTML5, CSS3"
 
+- url: "https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r"
+  title: "Curso de Java (Video)"
+  description: "Curso de Java básico, gratuito, com certificado e forum"
+
 - url: "https://www.cursoemvideo.com/"
   title: "Cursos em Video"
   description: "Cursos de Front-End e Back-End, Marketing Digital, Banco de Dados"
@@ -21,6 +25,10 @@ sources:
   title: "FreeCodeCamp"
   description: "Curso gratuito de Front-End e Back-End mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado"
 
+- url: "https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ"
+  title: "Go (Video)"
+  description: "Curso completo em português da linguagem Go, de zero a ninja! - Ellen Körbes"
+
 - url: "http://jstherightway.org/pt-br/"
   title: "JavaScript The Right Way"
   description: "Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas"
@@ -32,6 +40,10 @@ sources:
 - url: "https://nodeschool.io/pt-br/"
   title: "NODESCHOOL"
   description: "Workshops Open Source construídos em Node e que rodam no seu terminal. Rode-os em casa ou em um workshop mais próximo"
+
+- url: "https://www.youtube.com/playlist?list=PLFHgwDaINE8SfRoij8IbTSl0_quQL3g64"
+  title: "Python-DevKids"
+  description: "Curso Básico de Python 3 para crianças"
 
 - url: "https://www.pycursos.com/python-para-zumbis/"
   title: "Python para Zumbis"
