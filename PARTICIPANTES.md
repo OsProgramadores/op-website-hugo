@@ -121,7 +121,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim                 |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                | https://github.com/mavinicius95           |
-| Mário Idival Gomes Duarte      | marioidival@gmail.com                 | https://github.com/marioidival            |
+| Mario Idival Gomes Duarte      | marioidival@gmail.com                 | https://github.com/marioidival            |
 | Mateus Franklin                | contato@mateusfranklin.com            | https://github.com/mateusfranklin         |
 | Matheus Barbosa Souza          | mbscbsjbs@gmail.com                   | https://github.com/WhoisBsa               |
 | Matheus Dias Vieira            | matheuspvh13@gmail.com                | https://github.com/koalapvh13             |
@@ -152,7 +152,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo            |
 | Samuel Evangelista Pereira     | sam.pereirabr@gmail.com               | https://github.com/SamPereirabr           |
 | Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox            |
-| Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg                |
+| Savio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg                |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr              |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi                |
 | Thiago Bomfim dos Santos       | bomfimdev@gmail.com                   | https://github.com/BomfimThiago           |
