@@ -61,8 +61,8 @@ Ao adicionar o seu nome, por favor observe:
 | Elder Louzada                  | elder_louzada@outlook.com             | https://github.com/reedlex98              |
 | Enoque de Sousa Neres          | enoque.sneres@live.com                | https://github.com/enqneres               |
 | Fábio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj               |
-| Fabrício Albuquerque Ribas     | fabricioaribas@gmail.com              | https://github.com/fabricioribas          |
-| Fabrício Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967            |
+| Fabricio Albuquerque Ribas     | fabricioaribas@gmail.com              | https://github.com/fabricioribas          |
+| Fabricio Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967            |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale                 |
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com       | https://github.com/Felipe-Marques         |
 | Francisco Jose de Assis Cunha  | fjacunha@gmail.com                    | https://github.com/fjoseacunha            |
@@ -90,13 +90,13 @@ Ao adicionar o seu nome, por favor observe:
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto              |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com      | https://github.com/jefersonrodrigostefani |
 | Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim           |
-| Jéssica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato          |
+| Jessica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato          |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
-| José Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
+| Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos              |
 | Juliano Massanetto             | juliano.massanetto@gmail.com          | https://github.com/JMass1                 |
-| Júlio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst               |
+| Julio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst               |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos             |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                | https://github.com/kyldery                |
 | Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn                |
