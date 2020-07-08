@@ -60,7 +60,7 @@ Ao adicionar o seu nome, por favor observe:
 | Elci Ubarana Junior            | elci.junior@gmail.com                 | https://github.com/JuniorUbarana          |
 | Elder Louzada                  | elder_louzada@outlook.com             | https://github.com/reedlex98              |
 | Enoque de Sousa Neres          | enoque.sneres@live.com                | https://github.com/enqneres               |
-| Fábio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj               |
+| Fabio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj               |
 | Fabricio Albuquerque Ribas     | fabricioaribas@gmail.com              | https://github.com/fabricioribas          |
 | Fabricio Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967            |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale                 |
