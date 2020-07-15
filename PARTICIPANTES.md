@@ -20,6 +20,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ana Paula de Mazi              | anapaulamazi@outlook.com              | https://github.com/AnaPaulaMazi           |
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst        |
 | André Carvalhais               | carvalhais1981@gmail.com              | https://github.com/carvalhais             |
+| André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br         | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil            |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb       |
 | Antonio Gabriel                | No Email                              | https://github.com/presstart              |
