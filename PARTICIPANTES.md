@@ -153,6 +153,7 @@ Ao adicionar o seu nome, por favor observe:
 | Roney Cacau Alves              | roneycacau@gmail.com                  | https://github.com/roneycacau             |
 | Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo            |
 | Samuel Evangelista Pereira     | sam.pereirabr@gmail.com               | https://github.com/SamPereirabr           |
+| Samuel Magnun Mota             | smagnun@gmail.com                     | https://github.com/smagnun                |
 | Samuel Ramos                   | samramox@gmail.com                    | https://github.com/samuelramox            |
 | Savio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg                |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr              |
