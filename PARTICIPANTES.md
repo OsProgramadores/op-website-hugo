@@ -23,7 +23,7 @@ Ao adicionar o seu nome, por favor observe:
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br         | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil            |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb       |
-| Antonio Gabriel                | No Email                              | https://github.com/presstart              |
+| Antonio Gabriel                | antonioggca000@gmail.com              | https://github.com/antonioGabrielGomes    |
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com               | https://github.com/Note45                 |
 | Arlesson Jaques                | No Email                              | https://github.com/Schuarzem              |
 | Arthur Alves Reis              | art4321@outlook.com.br                | https://github.com/itsArthurAlves         |
