@@ -105,7 +105,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn                |
 | Leo Silva Souza                | leovano@protonmail.com                | https://github.com/leovano                |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com              | https://github.com/galloaleonardo         |
-| Leonardo Giagio Faria de França | leonardogiagio@gmail.com              |https://github.com/leonardogiagio         |
+| Leonardo Giagio Faria de França | leonardogiagio@gmail.com             | https://github.com/leonardogiagio         |
 | Let�cia Freire                 | leticiafcs4@gmail.com                 | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                | https://github.com/ligiasalzano           |
 | Lucas Cegielkowski Guimar�es   | Cegielkowski@icloud.com               | https://github.com/Cegielkowski           |
