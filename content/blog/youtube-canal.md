@@ -1,8 +1,8 @@
 +++
 date = "2020-08-09T16:24:06-03:00"
 title = "Canal do Youtube do OsProgramadores"
-categories = ["testemunho"]
-tags = ["desafios","carreira","Golang","PHP"]
+categories = ["video"]
+tags = ["video","tutorial","youtube"]
 banner = "img/banners/osprogramadores-400px.jpg"
 +++
 
