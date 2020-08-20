@@ -11,14 +11,11 @@ para o nosso bot ([@osprogramadores_bot](https://t.me/osprogramadores_bot)).  O
 envio de localização depende do uso de GPS, e apenas os clientes mobile do
 Telegram ([Android](#android) e [iPhone](#iphone)) suportam o envio de coordenadas.
 
-Se voce não tiver acesso a um dispositivo com GPS (celular, tablet, etc), siga as instruções em 
-[Computador](#computador) para enviar sua localização usando código postal (CEP).
-
 É importante enviar uma mensagem privada **diretamente para o nosso bot**
 [@osprogramadores_bot](https://t.me/osprogramadores_bot) com a sua localização.
 Não envie a sua localização para o grupo!
 
-Abaixo seguem instruções mais específicas por plataforma (Android, iPhone e Computador).
+Abaixo seguem instruções mais específicas por plataforma (Android e iPhone).
 
 ## Android
 
@@ -89,26 +86,3 @@ Se for necessário re-enviar a sua localização, repita o processo acima.
 **O Bot confirmará o recebimento das Coordenadas**
 
 ![Envio](/img/instrucoes/iPhone4.jpg)
-
-## Computador
-
-**Tenha a certeza de estar enviando em privado para o bot [@osprogramadores_bot](https://t.me/osprogramadores_bot)**
-
-![setlocation](/img/instrucoes/pc1.jpg)
-
-Utilize o comando **/setlocation <país> <código postal>** ou **/cep <código postal>** para o caso do Brasil
-
-  exemplos:
-
- /setlocation br 99999-999
-
-![setlocation](/img/instrucoes/pc2.jpg)
-
- /cep 99999-999
-
-![cep](/img/instrucoes/pc3.jpg)
-
- Após o envio o bot confirmará o recebimento
-
-![confirmacao](/img/instrucoes/pc4.jpg)
-

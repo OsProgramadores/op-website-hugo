@@ -1,6 +1,11 @@
 title: "Grupos sobre programação no Telegram"
 
 sources:
+
+- url: "https://t.me//osprogramadores"
+  title: "Os Programadores"
+  description: "Grupo que tem como objetivo incentivar o aprendizado de programação. É aberto à conversas sobre programação em geral, de todos os níveis"
+
 - url: "https://t.me//android_drops"
   title: "Android Dev Drops"
   description: "Grupo sobre desenvolvimento nativo para Android"
@@ -152,6 +157,10 @@ sources:
 - url: "https://t.me/developersRJ"
   title: "developersRJ"
   description: "Grupo carioca de desenvolvedores cariocas"
+
+- url: "https://t.me/devs_brasil"
+  title: "Developers"
+  description: "Grupo de desenvolvedores em geral"
 
 - url: "https://t.me/devopsbr"
   title: "Devops BR"
@@ -325,6 +334,18 @@ sources:
   title: "Grupy RN"
   description: "Grupo da comunidade Python no Rio Grande do Norte"
 
+- url: "https://t.me/guru_ce"
+  title: "Guru-CE"
+  description: "Grupo de Usuários Ruby do Ceará"
+
+- url: "https://t.me/guru_go"
+  title: "Guru-GO"
+  description: "Grupo de Usuários Ruby de Goiás"
+
+- url: "https://t.me/gurusp"
+  title: "Guru-SP"
+  description: "Grupo de Usuários Ruby de São Paulo"
+
 - url: "https://t.me//htmlbr"
   title: "HTML Brasil"
   description: "Grupo técnico sobre Hyper Text Markup Language"
@@ -485,10 +506,6 @@ sources:
   title: "OPNsense Brasil"
   description: "Grupo brasileiro sobre OPNsense"
 
-- url: "https://t.me//osprogramadores"
-  title: "Os Programadores"
-  description: "Grupo que tem como objetivo incentivar o aprendizado de programação. É aberto à conversas sobre programação em geral, de todos os níveis"
-
 - url: "https://t.me//PodProgramar"
   title: "Ouvintes do PodProgramar"
   description: "Grupo de Ouvintes do Podcast PodProgramar"
@@ -628,6 +645,10 @@ sources:
 - url: "https://t.me//rubybrasil"
   title: "Ruby Brasil"
   description: "Grupo sobre a linguagem Ruby"
+
+- url: "https://t.me//rubydf"
+  title: "Ruby DF"
+  description: "Usuários de Ruby no Distrito Federal"
 
 - url: "https://t.me/rustlangbr"
   title: "Rust Brasil"
