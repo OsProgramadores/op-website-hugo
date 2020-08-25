@@ -6,7 +6,7 @@ categories = ["algoritmo"]
 banner = "img/banners/matrix-cube.jpg"
 +++
 
-Olá, eu sou o [Bruno Sana](https://github.com/brunosana) e vou introduzir os conceitos e aplicações de **Vetores e Matrizes**. Para este post, nos códigos a linguagem [Python](https://www.python.org/)!
+Olá, eu sou o [Bruno Sana](https://github.com/brunosana) e vou introduzir os conceitos e aplicações de **Vetores e Matrizes**. Para este post usaremos a linguagem [Python](https://www.python.org/)!
 
 ---
 
@@ -123,17 +123,118 @@ for i in range(numero_de_alunos):
 
 # Agora é só fazer o cálculo da média e imprimir o seu valor!
 media = soma/numero_de_alunos
-print('A média da turma é: {}'.format(media))
+print('Media = {}'.format(media))
 ```
 
 Perfeito!! Atingimos o nosso objetivo e mais, podemos alterar o número de alunos a qualquer momento, apenas mudando o valor da variável `numero_de_alunos`.
 
-**Agora é a sua vez! treine e refaça todos os exemplos, adicionando outros problemas para fixar o assunto! Quem sabe validar todas as notas digitadas (>=0 e <=10), separar as notas maiores que 5 das menores, calcular a média delas separada, tudo depende de você!**
+**Agora é a sua vez! treine e refaça todos os exemplos, adicionando outros problemas para fixar o assunto! Quem sabe validar todas as notas digitadas (>=0 e <=10), separar as notas maiores que 5 das menores, calcular a média delas separada. E se o número de alunos precisasse ser lido também? tudo depende de você!**
 
 ## Matrizes
 
 Recebemos outra consideração:
 
-> A escola *Os Programadores*, que resolveu o seu problema do número de alunos, gostou tanto do projeto que resolveu implementar em toda a sua escola, com todas as turmas, bem como calcular a sua media geral!
+> A escola *Os Programadores*, que resolveu o seu problema do número de alunos, gostou tanto do projeto que resolveu implementar em toda a sua escola, com todas as 10 turmas, bem como calcular a sua media geral!
 
 Como o saudoso confrade e consagrado Fausto Silva diria: **EITA!!** Situações como essa demandam o uso de **Matrizes!!**
+
+Naturalmente, com o conhecimento que temos, precisaríamos de um vetor para cada turma, correto? Mas esse tipo de prática não é recomendada, pois cada vez que o número de turmas mudar o código precisaria ser mudado tamém.
+
+Façamos então a seguinte definição:
+
+> Matriz é um conjunto de vetores que são acessados pelo seu respectivo índice.
+
+Vamos entender na prática, criando uma matriz em python e depois analisando-a:
+
+```python
+matriz = []
+
+turma1 = [6, 6.1, 5, 2.2, 0]
+turma2 = [3, 7, 7, 8, 3]
+turma3 = [5, 7, 9, 8, 10]
+
+matriz.append(turma1)
+matriz.append(turma2)
+matriz.append(turma3)
+
+```
+
+Para facilitar, vamos analisar a imagem:
+
+![Vetor](/img/conteudos-de-artigos/vetor-3.png)
+
+Cada coluna é acessada normalmente, como um vetor, e a linha com um segundo colchete. Podemos definir uma matriz de forma direta também:
+
+```python
+matriz = [[4, 6.3, 2, 3.5], [5, 6, 7, 8], [10, 9, 10, 6]]
+#Acessando a coluna de uma matriz:
+matriz[0] #Retornará o vetor [4, 6.3, 2, 3.5]
+#Acessando um elemento específido de uma linha
+matriz[2][1] # Coluna 2 - Linha 1. matriz[2] = [10, 9, 10, 9], portanto, o segundo elemento (de índice 1) será o 9.
+```
+
+As operações com matrizes são bem parecidas com as de vetores, portanto:
+
+```python
+matriz = []
+#Adicionando uma coluna em uma matriz:
+coluna = [1, 2, 3, 4, 5, 6]
+matriz.append(coluna)
+#Adicionando um elemendo na coluna de uma matriz:
+matriz[0].append(8) #Coluna resultante: [1, 2, 3, 4, 5, 6, 8]
+
+#Removendo um elemento de uma coluna:
+matriz[0].pop(2) # Deleta o elemento de índice 2 (3)
+#Removendo uma coluna de uma matriz:
+matriz.pop(0) #Função pop() sem argumentos remove a última coluna
+```
+
+Certo, já sabemos todas as operações envolvendo vetores e matrizes, então podemos desenvolver nosso algoritmo:
+
+```python
+num_turmas = 10
+num_alunos_por_turmas = 100
+escola = []
+media_geral = 0
+for i in range(num_turmas):
+    notas = []
+    soma = 0
+    media_turma = 0
+    for j in range(num_alunos_por_turmas):
+        nota_aluno = float(input('Nota - Turma {} Aluno {}: '.format(i+1, j+1)))
+        notas.append(nota_aluno)
+        soma = soma + nota_aluno
+    media_turma = soma/num_alunos_por_turmas
+    media_geral = media_geral + media_turma
+    print('Media da turma {} : {}'.format(i+1, media_turma))
+print('Media geral: {}'.format(media_geral))
+```
+
+Claro que de um primeiro momento parece um código confuso, mas vamos analisar de acordo com o que já sabemos ok?
+
+1. Para que possamos percorrer um vetor, precisamos de um laço, nesse caso usamos um `for`! Ele percorre índice por índice.
+2. Com a variável que alocamos junto com o `for` (i) podemos acessar o valor do respectivo índice (`vetor[indice]`).
+3. Nessa situação, temos uma matriz, um conjunto de vetores, para cada índice que percorremos, ao invés de termos um valor, temos um outro vetor. Portanto, precisaríamos de um outro for! Enquanto um deles varre a linha, outro varre a coluna, daí a necessidade de dois `for`.
+4. Para otimizar o código, toda vez que o algoritmo lê uma nota, ele soma com a média da turma, e ao final do for, imprimo a média, e somo essa média com a variável media_geral. É um pouco confuso se olhar de primeira, mas fica claro quando olhamos linha por linha.
+
+## Conclusão
+
+Tanto vetores como matrizes precisam ser usados com muita inteligência pois podem facilmente criar problemas de performance no seu algoritmo, se mal utilizado. Na mão de que mentende é uma ferramenta potente e eficaz.
+
+Como prática deixarei alguns desafios para que você possam acrescentar dificuldade cada vez mais:
+
+1. Faça com que o algoritmo leia um número genérico de turmas e alunos por turmas
+2. Valide todas as notas (>=0 e <=10)
+3. Imprima qual turma teve a maior média e qual teve a menor
+4. Imprima qual o aluno com a maior nota e qual aluno com a menor
+
+Com esses desafios, a ideia é que você pratique e compreenda o que abrange vetores e matrizes e consiga aplicar em seus projetos de forma otimizada.
+
+## Ah, mais uma coisa!
+
+As matrizes não tem limites de dimensões, isto é, até o momento fizemos um vetor de duas dimensões, como linha e coluna. Mas na verdade, dentro de cada elemento da coluna, podemos ter outro vetor, se tornando uma matriz de 3 dimensões `[x][y][z]`. E dentro desse vetor poderia ter outro, se tornando um vetor de 4 dimensões `[x][y][z][w]`.
+
+**Em outras linguagens a sintaxe da declaração de uma matriz muda. Nesse caso, podemos ter qualquer coisa dentro do índice de um vetor, um objeto, número, string etc. Em C, por exemplo, é uma lingagem fortemente tipada e em sua declaração precisamos definir o tipo da variável, se é inteiro (int), número real (float), de caractere (char) etc. Mas o conceito é o mesmo!**
+
+
+As possibilidades são infinitas, porém há alguns casos específicos para que a aplicação dessa técnica seja plausível. Brinque um pouco, entenda a lógica e se divirta. Abraços e até a próxima!
