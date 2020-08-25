@@ -46,14 +46,14 @@ Garanto que você não está afim de criar mais 90 variáveis para resolver o pr
 
 > Um vetor é um conjunto sequencial de variáveis acessadas pelo seu respectivo índice.
 
-Quando declaramos uma variável, um espaço na memória é reservado para ela, para podermos atribuir valores a ela, e por fim, armazenar. O propósito do vetor é reservar uma variável que tenha acesso à várias posições de memória.
+Quando declaramos uma variável, um espaço na memória é reservado, para podermos atribuir valores e por fim, armazenar. O propósito do vetor é reservar uma variável que tenha acesso à várias posições de memória.
 
-Significa que, ao invés de ter várias variáveis cada uma para cada aluno, temos um grupo de variáveis que chamaremos de nota, e cada índice representará um aluno.
+Significa que, ao invés de ter várias variáveis cada uma para cada aluno, temos um grupo de variáveis que chamaremos de notas, e cada índice representará um aluno.
 
 Para definir um vetor em `python` usamos o colchete:
 
 ```python
-notas_alunos = []
+notas = []
 ```
 
 Cada elemento possui um espaço na memória:
@@ -61,20 +61,19 @@ Cada elemento possui um espaço na memória:
 ![Vetor](/img/conteudos-de-artigos/vetor-2.png)
 
 
-Usando o vetor, podemos acessar cada valor armazenado por ele pelo seu respectivo índice. Para entender melhor, vamos analisar a imagem abaixo:
+Usando o vetor, podemos acessar cada valor armazenado pelo seu respectivo índice. Para entender melhor, vamos analisar a imagem abaixo:
 
 ![Vetor](/img/conteudos-de-artigos/vetor-1.png)
 
 Cada índice representa um espaço na memória e cada espaço pode ser acessado pelo seu respectivo índice. O primeiro índice sempre é o zero (0). Para acessar cada elemento de um vetor em python usamos a seguinte sintaxe:
 
 ```python
-notas = [10, 8, 7, 3]
-notas[2] #Irá retornar o valor 7
-
-notas[3] # Qual será o valor que iria retornar? rs
+>>> notas = [10, 8, 7, 3]
+>>> notas[2] #Irá retornar o valor 7
+>>> notas[3] # Qual será o valor que iria retornar? rs
 ```
 
-**Com o código acima, estou buscando o terceiro valor no vetor.**
+**Com o código acima, estou buscando o terceiro e quarto elemento do vetor.**
 
 Para inserir um elemento em um vetor, usamos a função `append`:
 
@@ -115,7 +114,7 @@ numero_de_alunos = 100
 
 # Criamos um laço que começará do zero e irá se repetir 100 vezes (Que é o valor da variável).
 for i in range(numero_de_alunos):
-    #Aqui eu somo o i+1 pois embora o computador comece a contagem do 0, o primeiro valor não nulo para nós é o 1, a única diferença é na hora de imprimir, pois com o vetor com índices de 0..99, teremos os alunos 1..100.
+    #Aqui eu somo o i+1 pois embora o computador comece a contagem do 0, o primeiro valor não nulo para nós é o 1, a única diferença é na hora de imprimir, pois o vetor com índices de 0..99, teremos os alunos de 1..100.
     nota_aluno = float(input('Digite a nota do aluno {}: '.format(i+1)))
     notas.append(nota_aluno)
     # Otimizaremos o código já somando as notas!
@@ -128,7 +127,7 @@ print('Media = {}'.format(media))
 
 Perfeito!! Atingimos o nosso objetivo e mais, podemos alterar o número de alunos a qualquer momento, apenas mudando o valor da variável `numero_de_alunos`.
 
-**Agora é a sua vez! treine e refaça todos os exemplos, adicionando outros problemas para fixar o assunto! Quem sabe validar todas as notas digitadas (>=0 e <=10), separar as notas maiores que 5 das menores, calcular a média delas separada. E se o número de alunos precisasse ser lido também? tudo depende de você!**
+**Agora é a sua vez! treine e refaça os exemplos, adicionando outros problemas para fixar o assunto! Quem sabe validar todas as notas digitadas (>=0 e <=10), separar as notas maiores que 5 das menores, calcular a média delas separada. E se o número de alunos precisasse ser lido também? tudo depende de você!**
 
 ## Matrizes
 
@@ -136,7 +135,7 @@ Recebemos outra consideração:
 
 > A escola *Os Programadores*, que resolveu o seu problema do número de alunos, gostou tanto do projeto que resolveu implementar em toda a sua escola, com todas as 10 turmas, bem como calcular a sua media geral!
 
-Como o saudoso confrade e consagrado Fausto Silva diria: **EITA!!** Situações como essa demandam o uso de **Matrizes!!**
+Como o nosso saudoso confrade e consagrado Fausto Silva diria: **EITA!!** Situações como essa demandam o uso de **Matrizes!!**
 
 Naturalmente, com o conhecimento que temos, precisaríamos de um vetor para cada turma, correto? Mas esse tipo de prática não é recomendada, pois cada vez que o número de turmas mudar o código precisaria ser mudado tamém.
 
@@ -166,27 +165,27 @@ Para facilitar, vamos analisar a imagem:
 Cada coluna é acessada normalmente, como um vetor, e a linha com um segundo colchete. Podemos definir uma matriz de forma direta também:
 
 ```python
-matriz = [[4, 6.3, 2, 3.5], [5, 6, 7, 8], [10, 9, 10, 6]]
+>>> matriz = [[4, 6.3, 2, 3.5], [5, 6, 7, 8], [10, 9, 10, 6]]
 #Acessando a coluna de uma matriz:
-matriz[0] #Retornará o vetor [4, 6.3, 2, 3.5]
+>>> matriz[0] #Retornará o vetor [4, 6.3, 2, 3.5]
 #Acessando um elemento específido de uma linha
-matriz[2][1] # Coluna 2 - Linha 1. matriz[2] = [10, 9, 10, 9], portanto, o segundo elemento (de índice 1) será o 9.
+>>> matriz[2][1] # Coluna 2 - Linha 1. matriz[2] = [10, 9, 10, 9], portanto, o segundo elemento (de índice 1) será o 9.
 ```
 
 As operações com matrizes são bem parecidas com as de vetores, portanto:
 
 ```python
-matriz = []
+>>> matriz = []
 #Adicionando uma coluna em uma matriz:
-coluna = [1, 2, 3, 4, 5, 6]
-matriz.append(coluna)
+>>> coluna = [1, 2, 3, 4, 5, 6]
+>>> matriz.append(coluna)
 #Adicionando um elemendo na coluna de uma matriz:
-matriz[0].append(8) #Coluna resultante: [1, 2, 3, 4, 5, 6, 8]
+>>> matriz[0].append(8) #Coluna resultante: [1, 2, 3, 4, 5, 6, 8]
 
 #Removendo um elemento de uma coluna:
-matriz[0].pop(2) # Deleta o elemento de índice 2 (3)
+>>> matriz[0].pop(2) # Deleta o elemento de índice 2 (3)
 #Removendo uma coluna de uma matriz:
-matriz.pop(0) #Função pop() sem argumentos remove a última coluna
+>>> matriz.pop(0) #Função pop() sem argumentos remove a última coluna
 ```
 
 Certo, já sabemos todas as operações envolvendo vetores e matrizes, então podemos desenvolver nosso algoritmo:
@@ -229,6 +228,8 @@ Como prática deixarei alguns desafios para que você possam acrescentar dificul
 4. Imprima qual o aluno com a maior nota e qual aluno com a menor
 
 Com esses desafios, a ideia é que você pratique e compreenda o que abrange vetores e matrizes e consiga aplicar em seus projetos de forma otimizada.
+
+Em `python` existem outras formas de inserir, alterar e remover elementos tanto em vetor quanto em matriz, fique à vontade para pesquisar.
 
 ## Ah, mais uma coisa!
 
