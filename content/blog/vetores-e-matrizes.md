@@ -12,230 +12,185 @@ Olá, eu sou o [Bruno Sana](https://github.com/brunosana) e vou introduzir os co
 
 # Conceito
 
-Absolutamente tudo que fazemos na vida tem quase sempre o mesmo propósito: *Resolver Problemas*. Não é diferente com a programação, conforme vamos escrevendo nossas linhas de código, precisamos garantir que está escrita de forma otimizada e eficaz, não bastando apenas o resultado ser o esperado. Os Vetores e Matrizes são vitais na maioria dos sistemas e são usados com inteligência e precisão.
+Vamos retomar um exemplo lá do post [Por onde Começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/), quando criamos uma variável _a_, colocamos um valor nela e logo depois impresso no console:
 
-Normalmente, a primeira coisa que vem à cabeça quando pensamos em Vetores ou Matrizes nos remete aos campos da matemática. Não é pra menos, existe uma relação direta no conceito e aplicação tanto de vetor, como de matriz.
+```python
+a = 1
+print(a)
+```
+
+Nesse exemplo, criamos uma variável _a_. Conseguimos colocar qualquer coisa nela, embora no exemplo dado tenha sido o número 1, podemos também atribuir um texto:
+
+```python
+a = "Bom Dia"
+print(a)
+```
 
 ## Vetores
 
-Vejamos a seguinte situação:
+Agora vamos entender como funcionam os vetores:
 
-> A escola *Os Programadores* precisa de uma solução para calcular a média de uma turma de 5 alunos.
+> Vetores são conjuntos de variáveis declarados com colchetes [] que serve para guardar um conjunto de dados.
 
-Você, como todo programador, imediatamente pensa na solução, que logica e convenientemente, seria:
-
-```python
-nota_aluno1 = float(input('Digite a nota do aluno 1:'))
-nota_aluno2 = float(input('Digite a nota do aluno 2:'))
-nota_aluno3 = float(input('Digite a nota do aluno 3:'))
-nota_aluno4 = float(input('Digite a nota do aluno 4:'))
-nota_aluno5 = float(input('Digite a nota do aluno 5:'))
-
-media = (nota_aluno1 + nota_aluno2 + nota_aluno3 + nota_aluno4 + nota_aluno5)/10
-
-print('Media dos alunos: {}'.format(media))
-```
-
-Perfeito. Resolvemos o problema!
-
-Porém, no outro dia, recebemos um alteração:
-
-> A escola *Os Programadores*, satisfeita com o algoritmo anterior, resolveu expandir a turma para 100 alunos. Ela precisa de uma nova solução!
-
-Garanto que você não está afim de criar mais 90 variáveis para resolver o problema, como mencionei antes, não basta apenas ter o resultado correto. Situações como essa dão sentido aos **vetores**. Podemos então defini-lo:
-
-> Um vetor é um conjunto sequencial de variáveis acessadas pelo seu respectivo índice.
-
-Quando declaramos uma variável, um espaço na memória é reservado, para podermos atribuir valores e por fim, armazenar. O propósito do vetor é reservar uma variável que tenha acesso à várias posições de memória.
-
-Significa que, ao invés de ter várias variáveis cada uma para cada aluno, temos um grupo de variáveis que chamaremos de notas, e cada índice representará um aluno.
-
-Para definir um vetor em `python` usamos o colchete:
+Vamos criar um vetor com todos os dias da semana:
 
 ```python
-notas = []
+dias = ["domingo", "segunda", "terça", "quarta", "quinta", "sexta", "sabado"]
 ```
 
-Cada elemento possui um espaço na memória:
-
-![Vetor](/img/conteudos-de-artigos/vetor-2.png)
-
-
-Usando o vetor, podemos acessar cada valor armazenado pelo seu respectivo índice. Para entender melhor, vamos analisar a imagem abaixo:
-
-![Vetor](/img/conteudos-de-artigos/vetor-1.png)
-
-Cada índice representa um espaço na memória e cada espaço pode ser acessado pelo seu respectivo índice. O primeiro índice sempre é o zero (0). Para acessar cada elemento de um vetor em python usamos a seguinte sintaxe:
+Para acessar cara dia da semana, usamos os colchetes, começando do zero (0). Então para acessar o primeiro elemento do vetor usamos `dias[0]`. Chamamos esse número entre os colchetes de **índice**. Então, vamos imprimir a segunda:
 
 ```python
->>> notas = [10, 8, 7, 3]
->>> notas[2] #Irá retornar o valor 7
->>> notas[3] # Qual será o valor que iria retornar? rs
+dias = ["domingo", "segunda", "terça", "quarta", "quinta", "sexta", "sabado"]
+print(dias[1])
 ```
 
-**Com o código acima, estou buscando o terceiro e quarto elemento do vetor.**
+Se eu inserir a linha `print(dias[6])` qual dia seria impresso? Dica: _Se o primeiro elemento de índice 0 é o "domingo"  e o segundo de índice 1 é a "segunda", o terceiro de índice 2 seria a "terça"..._
 
-Para inserir um elemento em um vetor, usamos a função `append`:
+Podemos adicionar também variáveis em cada _índice_ de um vetor:
 
 ```python
-notas = []
-#Adicionando um elemento ao final do vetor, como ele está vazio, este ocupará a primeira posição, de índice 0
-notas.append(7.5)
-#Após adicionar, o vetor final será [7.5]
+a = "Bom Dia"
+b = "Boa tarde"
+mensagens = [a, b]
 ```
 
-**Todo primeiro elemento do vetor tem índice 0.**
-
-Para alterar um elemento de um array, basta sobrescrever o seu valor, assim como uma variável:
+Agora para adicionar um item no vetor também podemos usar o método `append`:
 
 ```python
-notas = [5.5, 7, 8.2, 6, 10]
-notas[3] #Irá retornar o valor 6
-notas[3] = 8 # Agora o novo valor será 8
+mensagens = ["Bom Dia", "Boa Tarde"]
+mensagens.append("Boa Noite")
+print(mensagens)
 ```
 
-Para remover um elemento de um array, usamos a função `pop()`, passando o índice como parâmetro:
+O novo vetor será `["Bom Dia", "Boa Tarde", "Boa Noite"]`!
+
+Para remover um elemento do vetor usamos o método `pop`, passando o _índice_ como parâmetro:
 
 ```python
-notas = [5.5, 7, 8.2, 6, 10]
-notas.pop(0) #Remove o primeiro elemento (5.5)
-# A função pop sem argumentos remove o último índice
-notas.pop() # Qual o elemento que será removido ? rs
+mensagens = ["Bom Dia", "Boa Tarde", "Boa noite", "Como vai?"]
+mensagens.pop(3)
+print(mensagens)
 ```
 
-Agora você já sabe trabalhar com vetores!! Então, como faríamos para resolver o nosso problema da escola Os Programadores? Agora é simples!! Com a ajudinha do `for` nós podemos repetir o mesmo código quantas vezes quisermos:
+Qual elemento seria removido? Dica: _Siga a mesma lógica da pergunta anterior._
+
+Para exercitar, quais os valores que sairão em cada `print` abaixo?
 
 ```python
-#Escola Os Programadores
-
-notas = []
-soma = 0
-numero_de_alunos = 100
-
-# Criamos um laço que começará do zero e irá se repetir 100 vezes (Que é o valor da variável).
-for i in range(numero_de_alunos):
-    #Aqui eu somo o i+1 pois embora o computador comece a contagem do 0, o primeiro valor não nulo para nós é o 1, a única diferença é na hora de imprimir, pois o vetor com índices de 0..99, teremos os alunos de 1..100.
-    nota_aluno = float(input('Digite a nota do aluno {}: '.format(i+1)))
-    notas.append(nota_aluno)
-    # Otimizaremos o código já somando as notas!
-    soma = soma + nota_aluno
-
-# Agora é só fazer o cálculo da média e imprimir o seu valor!
-media = soma/numero_de_alunos
-print('Media = {}'.format(media))
+vetor = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+a = vetor[0]+vetor[8]
+print(a)
+b = vetor[9]-vetor[8]
+print(b)
+c = vetor[1]*vetor[4]
+print(c)
 ```
 
-Perfeito!! Atingimos o nosso objetivo e mais, podemos alterar o número de alunos a qualquer momento, apenas mudando o valor da variável `numero_de_alunos`.
+Estude, leia e pratique muito os exemplos acima, e use a sua criatividade para pensar em desafios e problemas que envovam vetores. Procure entender o funcionamento e quando se sentir confortável, avançe com a leitura.
 
-**Agora é a sua vez! treine e refaça os exemplos, adicionando outros problemas para fixar o assunto! Quem sabe validar todas as notas digitadas (>=0 e <=10), separar as notas maiores que 5 das menores, calcular a média delas separada. E se o número de alunos precisasse ser lido também? tudo depende de você!**
 
 ## Matrizes
 
-Recebemos outra consideração:
+Depois de compreendido o conceito e aplicação de Vetor, podemos continuar com _Matrizes_:
 
-> A escola *Os Programadores*, que resolveu o seu problema do número de alunos, gostou tanto do projeto que resolveu implementar em toda a sua escola, com todas as 10 turmas, bem como calcular a sua media geral!
+> Matrizes são conjuntos de vetores!
 
-Como o nosso saudoso confrade e consagrado Fausto Silva diria: **EITA!!** Situações como essa demandam o uso de **Matrizes!!**
-
-Naturalmente, com o conhecimento que temos, precisaríamos de um vetor para cada turma, correto? Mas esse tipo de prática não é recomendada, pois cada vez que o número de turmas mudar o código precisaria ser mudado tamém.
-
-Façamos então a seguinte definição:
-
-> Matriz é um conjunto de vetores que são acessados pelo seu respectivo índice.
-
-Vamos entender na prática, criando uma matriz em python e depois analisando-a:
+Para entender melhor, vamos fazer 3 vetores, e **inserir cada vetor em um _índice_ de um novo vetor**:
 
 ```python
+vetor1 = ["Bom Dia", "Boa Tarde", "Boa Noite"]
+vetor2 = ["Bruno", "Marceo", "Bernardo"]
+vetor3 = ["Como Vai?", "Que horas são?" "Vamos programar?"]
+matriz = [vetor1, vetor2, vetor3]
+```
+
+Cada vetor se comportará como uma coluna, e cada índice da matriz representará uma coluna. Ou seja: A primeira coluna da matriz (_índice_ 0) será o `vetor1`, a segunda (_índice_ 1) o `vetor2` e terceira (_índice_ 2) `vetor3`.
+
+Podemos também usar o método `append` para inserir cada vetor:
+
+```python
+vetor1 = ["Bom Dia", "Boa Tarde", "Boa Noite"]
+vetor2 = ["Bruno", "Marceo", "Bernardo"]
+vetor3 = ["Como Vai?", "Que horas são?" "Vamos programar?"]
 matriz = []
-
-turma1 = [6, 6.1, 5, 2.2, 0]
-turma2 = [3, 7, 7, 8, 3]
-turma3 = [5, 7, 9, 8, 10]
-
-matriz.append(turma1)
-matriz.append(turma2)
-matriz.append(turma3)
-
+matriz.append(vetor1)
+matriz.append(vetor2)
+matriz.append(vetor3)
 ```
 
-Para facilitar, vamos analisar a imagem:
-
-![Vetor](/img/conteudos-de-artigos/vetor-3.png)
-
-Cada coluna é acessada normalmente, como um vetor, e a linha com um segundo colchete. Podemos definir uma matriz de forma direta também:
+Para acessar cada elemento na matriz, **precisamos de dois colchetes!** Pois o primeiro será o _índice da coluna_ e o segundo, o _índice da linha_. Vamos chamar o elemento _"Bom Dia"_:
 
 ```python
->>> matriz = [[4, 6.3, 2, 3.5], [5, 6, 7, 8], [10, 9, 10, 6]]
-#Acessando a coluna de uma matriz:
->>> matriz[0] #Retornará o vetor [4, 6.3, 2, 3.5]
-#Acessando um elemento específido de uma linha
->>> matriz[2][1] # Coluna 2 - Linha 1. matriz[2] = [10, 9, 10, 9], portanto, o segundo elemento (de índice 1) será o 9.
+vetor1 = ["Bom Dia", "Boa Tarde", "Boa Noite"]
+vetor2 = ["Bruno", "Marcelo", "Bernardo"]
+vetor3 = ["Como Vai?", "Que horas são?" "Vamos programar?"]
+matriz = [vetor1, vetor2, vetor3]
+
+print(matriz[0][0]) # Matriz[0] retorna todo o nosso vetor (a coluna vetor1, de índice 0), o segundo colchete representa o índice do vetor resultante
 ```
 
-As operações com matrizes são bem parecidas com as de vetores, portanto:
+Se a linha `print(matriz[0][0])` fosse substituída por `print(matriz[0][1])` qual seria o elemento impresso? _Dica: `matriz[0]=vetor1` e `vetor1[0] = "Bom Dia"`._
+
+Agora, vamos inserir uma saudação no `vetor1`. Para isso, usaremos também o método `append`. Como o vetor1 está no primeiro índice da matriz (0), escrevemos:
 
 ```python
->>> matriz = []
-#Adicionando uma coluna em uma matriz:
->>> coluna = [1, 2, 3, 4, 5, 6]
->>> matriz.append(coluna)
-#Adicionando um elemendo na coluna de uma matriz:
->>> matriz[0].append(8) #Coluna resultante: [1, 2, 3, 4, 5, 6, 8]
-
-#Removendo um elemento de uma coluna:
->>> matriz[0].pop(2) # Deleta o elemento de índice 2 (3)
-#Removendo uma coluna de uma matriz:
->>> matriz.pop(0) #Função pop() sem argumentos remove a última coluna
+vetor1 = ["Bom Dia", "Boa Tarde", "Boa Noite"]
+vetor2 = ["Bruno", "Marcelo", "Bernardo"]
+vetor3 = ["Como Vai?", "Que horas são?" "Vamos programar?"]
+matriz = [vetor1, vetor2, vetor3]
+matriz[0].append("Bom Final de Semana")
+print(matriz[0]) # O que será impresso?
 ```
 
-Certo, já sabemos todas as operações envolvendo vetores e matrizes, então podemos desenvolver nosso algoritmo:
+Podemos inserir o seu nome também:
 
 ```python
-num_turmas = 10
-num_alunos_por_turmas = 100
-escola = []
-media_geral = 0
-for i in range(num_turmas):
-    notas = []
-    soma = 0
-    media_turma = 0
-    for j in range(num_alunos_por_turmas):
-        nota_aluno = float(input('Nota - Turma {} Aluno {}: '.format(i+1, j+1)))
-        notas.append(nota_aluno)
-        soma = soma + nota_aluno
-    media_turma = soma/num_alunos_por_turmas
-    media_geral = media_geral + media_turma
-    print('Media da turma {} : {}'.format(i+1, media_turma))
-print('Media geral: {}'.format(media_geral))
+vetor1 = ["Bom Dia", "Boa Tarde", "Boa Noite"]
+vetor2 = ["Bruno", "Marcelo", "Bernardo"]
+vetor3 = ["Como Vai?", "Que horas são?" "Vamos programar?"]
+matriz = [vetor1, vetor2, vetor3]
+matriz[1].append("Escreva seu nome aqui!")
+print(matriz[1])
 ```
 
-Claro que de um primeiro momento parece um código confuso, mas vamos analisar de acordo com o que já sabemos ok?
+Para remover um elemento ou até mesmo uma coluna inteira, usamos o método `pop`, da mesma forma que aprendemos em _Vetores_:
 
-1. Para que possamos percorrer um vetor, precisamos de um laço, nesse caso usamos um `for`! Ele percorre índice por índice.
-2. Com a variável que alocamos junto com o `for` (i) podemos acessar o valor do respectivo índice (`vetor[indice]`).
-3. Nessa situação, temos uma matriz, um conjunto de vetores, para cada índice que percorremos, ao invés de termos um valor, temos um outro vetor. Portanto, precisaríamos de um outro for! Enquanto um deles varre a linha, outro varre a coluna, daí a necessidade de dois `for`.
-4. Para otimizar o código, toda vez que o algoritmo lê uma nota, ele soma com a média da turma, e ao final do for, imprimo a média, e somo essa média com a variável media_geral. É um pouco confuso se olhar de primeira, mas fica claro quando olhamos linha por linha.
+```python
+vetor1 = ["Bom Dia", "Boa Tarde", "Boa Noite"]
+vetor2 = ["Bruno", "Marcelo", "Bernardo"]
+vetor3 = ["Como Vai?", "Que horas são?" "Vamos programar?"]
+matriz = [vetor1, vetor2, vetor3]
+#Retirando o nome Bruno
+matriz[1].pop(0)
+#Retirando toda a coluna 3 (de índice 2)
+matriz.pop(2)
+```
 
-## Conclusão
-
-Tanto vetores como matrizes precisam ser usados com muita inteligência pois podem facilmente criar problemas de performance no seu algoritmo, se mal utilizado. Na mão de que mentende é uma ferramenta potente e eficaz.
-
-Como prática deixarei alguns desafios para que você possam acrescentar dificuldade cada vez mais:
-
-1. Faça com que o algoritmo leia um número genérico de turmas e alunos por turmas
-2. Valide todas as notas (>=0 e <=10)
-3. Imprima qual turma teve a maior média e qual teve a menor
-4. Imprima qual o aluno com a maior nota e qual aluno com a menor
-
-Com esses desafios, a ideia é que você pratique e compreenda o que abrange vetores e matrizes e consiga aplicar em seus projetos de forma otimizada.
-
-Em `python` existem outras formas de inserir, alterar e remover elementos tanto em vetor quanto em matriz, fique à vontade para pesquisar.
+Agora você já sabe como inserir, ler e excluir tanto uma célula quanto uma coluna de uma matriz. Pratique bastante pois na sua jornada como programador, o uso dessas ferramentas é essencial.
 
 ## Ah, mais uma coisa!
 
-As matrizes não tem limites de dimensões, isto é, até o momento fizemos um vetor de duas dimensões, como linha e coluna. Mas na verdade, dentro de cada elemento da coluna, podemos ter outro vetor, se tornando uma matriz de 3 dimensões `[x][y][z]`. E dentro desse vetor poderia ter outro, se tornando um vetor de 4 dimensões `[x][y][z][w]`.
+As matrizes não tem limites de dimensões, isto é (talvez seja bem bugado ler isso pela(s) primeira(s) vez(ez) xD), podemos colocar vetores dentro de vetores:
 
-**Em outras linguagens a sintaxe da declaração de uma matriz muda. Nesse caso, podemos ter qualquer coisa dentro do índice de um vetor, um objeto, número, string etc. Em C, por exemplo, é uma lingagem fortemente tipada e em sua declaração precisamos definir o tipo da variável, se é inteiro (int), número real (float), de caractere (char) etc. Mas o conceito é o mesmo!**
+```python
+pessoas = []
+nomes = ["Hinata", "Naruto", "Sasuke"]
+sobrenomes = ["Hyuuga", "Uzumaki", "Uchiha"]
+pessoas.append(nomes)
+pessoas.append(sobrenomes)
 
+lugares = []
+estados = ["São Paulo", "Rio de Janeiro", "Sergipe", "Fortaleza"]
+capitais = ["São Paulo", "Rio de Janeiro", "Aracaju", "Ceará"]
+lugares.append(estados)
+lugares.append(capitais)
+
+conjunto = []
+conjunto.append(pessoas)
+conjunto.append(lugares)
+```
+
+**Em outras linguagens a sintaxe da declaração de uma matriz muda. Nesse caso, podemos ter qualquer coisa dentro do índice de um vetor, um objeto, número, texto etc. Em C, por exemplo, é uma [lingagem fortemente tipada](http://www.ppgsc.ufrn.br/~rogerio/material_auxiliar/CLP20131_tipos_semantica.pdf) e em sua declaração precisamos definir o tipo da variável, se é inteiro (int), número real (float), de caractere (char) etc. Mas não se preocupe com isso, o conceito é o mesmo!**
 
 As possibilidades são infinitas, porém há alguns casos específicos para que a aplicação dessa técnica seja plausível. Brinque um pouco, entenda a lógica e se divirta. Abraços e até a próxima!
