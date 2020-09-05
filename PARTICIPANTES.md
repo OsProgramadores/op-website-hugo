@@ -152,6 +152,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rodinei Costa                  | rodineicosta@physistec.com.br         | https://github.com/rodineicosta           |
 | Rodrigo Aparecido Gomes        | rodrigo.agomes@gmail.com              | https://github.com/rodrigoagomes          |
 | Rodrigo Duarte de O. Toledo    | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7         |
+| Rodrigo Freitas                | fwtrodrigo@gmail.com                  | https://github.com/fwtrodrigo             |
 | Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira     |
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira           |
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com              | https://github.com/ronanlutiane           |
