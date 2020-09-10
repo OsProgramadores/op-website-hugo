@@ -140,6 +140,7 @@ Ao adicionar o seu nome, por favor observe:
 | Maycon de Moraes               | mayconmoraes.dm@gmail.com             | https://github.com/dmmaycon               |
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com               | https://github.com/mayrloncarlos          |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia               |
+| Murilo de Andrade Melo         | muriloa.melo01@gmail.com              | https://github.com/MuriloAM               |
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba                |
 | Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
