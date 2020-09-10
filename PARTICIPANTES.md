@@ -122,6 +122,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol               |
 | Marcelo de Oliveira da S. Jr.  | marcelo_rde@yahoo.com.br              | https://github.com/Marcelo391             |
 | Marcelo Kortkamp               | marcelusmedius@gmail.com              | https://github.com/kortkamp               |
+| Marcelo Vinicius Campos Amedi  | marceloamedi@gmail.com                | https://github.com/marceloamedi           |
 | Marcio Andre Sieburger         | sieburger@protonmail.com              | https://github.com/sieburger              |
 | Marcio Filadelfo               | marcio.kabana@gmail.com               | https://github.com/marciofiladelfo        |
 | Marco Antonio Rocha            | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch                 |
