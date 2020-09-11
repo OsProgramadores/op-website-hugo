@@ -252,7 +252,7 @@ $ git branch -D contri
 Deleted branch contri (was e50b436).
 
 $ git push --delete origin contri
-To git@github.com:marcopaganini/op-website-hugo.git
+To git@github.com:USUÁRIO/op-website-hugo.git
  - [deleted]         contri
 
 ```

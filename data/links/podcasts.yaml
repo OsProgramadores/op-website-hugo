@@ -13,6 +13,14 @@ sources:
   title: "DEVNAESTRADA"
   description: "Podcast semanal sobre programação"
 
+- url: "https://anchor.fm/emilias-podcast"
+  title: "Emílias Podcast - Mulheres na Computação"
+  description: "Este podcast entrevista mulheres que trabalham na área de Computação"
+
+- url: "http://fronteirases.github.io/"
+  title: "Fronteiras da Engenharia de Software"
+  description: "Um podcast para refletir sobre o presente e futuro da engenharia de software"
+
 - url: "http://hipsters.tech/"
   title: "Hipsters Tech"
   description: "Debates sobre temas relacionados a programação e computação"
@@ -36,6 +44,10 @@ sources:
 - url: "https://pizzadedados.com/"
   title: "Pizza de Dados"
   description: "O podcast Brasileiro sobre Ciência de Dados"
+
+- url: "https://anchor.fm/adolfont"
+  title: "Podcast do Professor Adolfo Neto"
+  description: "Neste podcast, eu entrevisto profissionais da área da computação e de áreas próximas."
 
 - url: "https://quebradev.com.br/"
   title: "QuebraDev"
