@@ -1,3 +1,11 @@
++++
+date = "2020-08-09T16:24:06-03:00"
+title = "Vetores e Matrizes"
+categories = ["algoritmo"]
+tags = ["matrizes","vetores"]
+banner = "img/banners/cube-matrix.jpg"
++++
+
 Recomendamos a leitura do artigo sobre [Por onde Começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/), antes da leitura deste artigo.
 
 ## Variáveis, conceitos básicos
