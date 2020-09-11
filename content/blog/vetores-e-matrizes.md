@@ -33,7 +33,7 @@ No exemplo abaixo criamos um vetor chamado dias e atribuímos os dias da semana 
 dias = ["domingo", "segunda", "terça", "quarta", "quinta", "sexta", "sabado"]
 ```
 
-Para acessar cara dia da semana, usamos a representação dias[i]  onde i representa o **índice** do elemento do vetor.
+Para acessar cada dia da semana, usamos a representação dias[i]  onde i representa o **índice** do elemento do vetor.
 No caso da linguagem Python o primeiro elemento de um vetor tem i=0, logo dias[0] representa "domingo" e dias[1] "segunda" e assim sucessivamente.
 
 O exemplo abaixo demonstra como um programa em Python imprimiria o valor "segunda":
