@@ -1,5 +1,5 @@
 +++
-date = "2020-08-09T16:24:06-03:00"
+date = "2020-09-10T16:24:06-03:00"
 title = "Vetores e Matrizes"
 categories = ["algoritmo"]
 tags = ["matrizes","vetores"]
