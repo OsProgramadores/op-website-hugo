@@ -84,6 +84,7 @@ Ao adicionar o seu nome, por favor observe:
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova           |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro          |
 | Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo          |
+| Henrique G. G. Pereira         | oscoder@henrique.email                | https://github.com/ikkebr                 |
 | Hiago Leres da Costa           | hiagoleres2@gmail.com                 | https://github.com/hiagoleresdev          |
 | Higor Carneiro Passos          | higorcpassos@gmail.com                | https://github.com/hcpassos               |
 | Igor Lima Mendes               | igorlimamendes@protonmail.com         | https://github.com/igorlimamendes         |
