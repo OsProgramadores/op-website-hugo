@@ -1,6 +1,10 @@
 title: "Podcasts"
 
 sources:
+- url: "https://anchor.fm/osprogramadores"
+  title: "OsProgramadores"
+  description: "Podcast oficial do grupo OsProgramadores. Entrevistas e discussões relacionadas a programação e tecnologia em geral"
+
 - url: "http://labs.bluesoft.com.br/category/podcast/"
   title: "BlueSoft"
   description: "Podcast sobre desenvolvimento ágil, software e tecnologia, apresentado por André Faria, Luiz Farias Jr. e toda a equipe da Bluesoft"
