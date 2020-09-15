@@ -52,6 +52,7 @@ Ao adicionar o seu nome, por favor observe:
 | David GesRob                   | david81br@gmail.com                   | https://github.com/david81brs             |
 | Denis Almeida                  | denis.meida@gmail.com                 | https://github.com/denisvba               |
 | Diego Roberto Silva Nonato     | nonatodiego@hotmail.com               | https://github.com/nonatodiego            |
+| Diogo Anderson de O. Silva     | diogoaos@gmail.com                    | https://github.com/diogoaos               |
 | Diogo Fernandes de Queiroz     | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz          |
 | Diogo Gaspar                   | ghostlabz@gmail.com                   | https://github.com/TheRealGaspar          |
 | Douglas Fiedler                | dognew@gmail.com                      | https://github.com/dognew                 |
