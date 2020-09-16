@@ -149,6 +149,7 @@ Ao adicionar o seu nome, por favor observe:
 | Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro        |
+| Pedro Antonio Brito Campos     | Sirpedro49@gmail.com                  | https://github.com/Punkuchiha             |
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2                   |
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS              |
