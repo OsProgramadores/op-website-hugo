@@ -83,7 +83,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giovanni Martins               | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20           |
 | Giuseppe Varriale              | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale       |
 | Gleydson Jos� da Silva         | gleydsonjosewarface@hotmail.com       | https://github.com/satuctkode             |
-| Guilherme de Mello da Costa    | guicosta87@yahoo.com.br                | https://github.com/oieusouobixo           |
+| Guilherme de Mello da Costa    | guicosta87@yahoo.com.br               | https://github.com/oieusouobixo           |
 | Gustavo de Almeida             | gustavofcma@gmail.com                 | https://github.com/gustavofcma            |
 | Hamon de C�rdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova           |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro          |
