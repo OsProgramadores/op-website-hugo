@@ -141,6 +141,7 @@ Ao adicionar o seu nome, por favor observe:
 | Matheus Dourado                | matheusdouradobr@gmail.com            | https://github.com/matheusdouradobr       |
 | Matheus Ferreira               | matheusfersilva.10@gmail.com          | https://github.com/matheusfer10           |
 | Mattheus Couto                 | matius.couto@gmail.com                | https://github.com/Matiusco               |
+| Maurilho Batista Moura Filho   | maurilhobatista450@gmail.com          | https://github.com/MaurilhoB              |
 | Max Sylver                     | maxsylver@outlook.com                 | https://github.com/MaxTgr                 |
 | Maycon de Moraes               | mayconmoraes.dm@gmail.com             | https://github.com/dmmaycon               |
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com               | https://github.com/mayrloncarlos          |
