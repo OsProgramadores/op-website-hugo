@@ -157,6 +157,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                 | https://github.com/raffaelleao            |
+| Renata Miranda Rabelo Nésio    | renata.nesio2@gmail.com               | https://github.com/renatanesio            |
 | Ricardo Severo                 | ricardosilva.official@outlook.com     | https://github.com/ricardosevero          |
 | Roberto Arruda                 | roberto0arruda@hotmail.com            | https://github.com/roberto0arruda         |
 | Robson Alexandre A. Santos     | alexandrerobson@gmail.com             | https://github.com/robsonalexandre        |
