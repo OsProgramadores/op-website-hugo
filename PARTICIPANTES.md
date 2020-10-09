@@ -131,6 +131,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marcelo Vinicius Campos Amedi  | marceloamedi@gmail.com                | https://github.com/marceloamedi           |
 | Marcio Andre Sieburger         | sieburger@protonmail.com              | https://github.com/sieburger              |
 | Marcio Filadelfo               | marcio.kabana@gmail.com               | https://github.com/marciofiladelfo        |
+| Marco Antonio Lauriano         | marlauriano@gmail.com                 | https://github.com/MaxKanu                |
 | Marco Antonio Rocha            | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch                 |
 | Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim                 |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware                |
