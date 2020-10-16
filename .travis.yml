@@ -16,6 +16,7 @@ install:
 script:
   - travis/checkparticipantes PARTICIPANTES.md
   - travis/hugo -v
+  - travis/utfcheck.sh
 
 notifications:
   webhooks: https://www.travisbuddy.com
