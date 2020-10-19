@@ -167,6 +167,7 @@ Ao adicionar o seu nome, por favor observe:
 | Robson Alexandre A. Santos     | alexandrerobson@gmail.com             | https://github.com/robsonalexandre        |
 | Rodinei Costa                  | rodineicosta@physistec.com.br         | https://github.com/rodineicosta           |
 | Rodrigo Aparecido Gomes        | rodrigo.agomes@gmail.com              | https://github.com/rodrigoagomes          |
+| Rodrigo Blaudt Lima da Silva   | rodrigo.blaudt@outlook.com            | https://github.com/RodrigoBlaudt          |
 | Rodrigo Duarte de O. Toledo    | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7         |
 | Rodrigo Freitas                | fwtrodrigo@gmail.com                  | https://github.com/fwtrodrigo             |
 | Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira     |
