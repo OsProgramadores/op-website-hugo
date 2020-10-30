@@ -111,6 +111,7 @@ Ao adicionar o seu nome, por favor observe:
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos              |
 | Juliano Massanetto             | juliano.massanetto@gmail.com          | https://github.com/JMass1                 |
 | Julio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst               |
+| Juscelino Junior               | juscelinodjj@gmail.com                | https://github.com/juscelinodjj           |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos             |
 | Kaio Cezar Araujo Rodrigues    | kaiocarodrigues@gmail.com             | https://github.com/redkaio                |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                | https://github.com/kyldery                |
