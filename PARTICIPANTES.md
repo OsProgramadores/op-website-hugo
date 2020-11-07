@@ -35,6 +35,7 @@ Ao adicionar o seu nome, por favor observe:
 | Augusto da Silva Costa         | contato@guto.pro.br                   | https://github.com/gutocosta              |
 | Axel Crispim                   | axel.cris2011@gmail.com               | https://github.com/ZartRock               |
 | Bassam Basil Junior            | bassambjg5@gmail.com                  | https://github.com/Bassambj               |
+| Bernardo Campos                | No Email                              | https://github.com/bernardocamps          |
 | Breno Ferreira Lima            | brenoferreiralima@gmail.com           | https://github.com/brenoferreiralima      |
 | Bruno Santana Andrade          | brunosanadev@gmail.com                | https://github.com/brunosana              |
 | Caio Cavalcanti Slompo Muniz   | caiocsmuniz1@gmail.com                | https://github.com/caiomuniz              |
