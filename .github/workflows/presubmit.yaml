@@ -1,7 +1,7 @@
 name: Presubmit tests
 on: [pull_request]
 jobs:
-  test:
+  pr_tests:
     runs-on: ubuntu-latest
     steps:
       - name: Install Go
@@ -13,6 +13,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
+          submodules: true  # Fetch Hugo themes.
 
       - name: Check files with invalid UTF-8 content
         run: |
@@ -27,7 +28,8 @@ jobs:
         run: hugo -v
 
       - name: Build checkparticipantes
-        run: pushd ci && go build -o checkparticipantes && popd
+        run: |
+          pushd ci && go build -o checkparticipantes && popd
 
       - name: Validates PARTICIPANTES.md
-        run: checkparticipantes PARTICIPANTES.md
+        run: ci/checkparticipantes PARTICIPANTES.md
