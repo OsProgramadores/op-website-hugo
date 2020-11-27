@@ -69,11 +69,9 @@ func checkParticipantes(r io.Reader) error {
 		}
 
 		// Make sure columns align. This is UTF-8 aware.
-		lr := []rune(line)
-		for _, i := range colindex {
-			if lr[i] != '|' {
-				return fmt.Errorf("line %d: Column markers are not aligned: %q", linecounter, line)
-			}
+		lineindex := indexall(line, '|')
+		if !equalSlice(colindex, lineindex) {
+			return fmt.Errorf("line %d: Column markers are not aligned: %q", linecounter, line)
 		}
 
 		// Name, email, and github page must start and end with a space (padding
@@ -133,15 +131,36 @@ func checkParticipantes(r io.Reader) error {
 	return nil
 }
 
-// indexall returns a slice of ints containing all indices of a rune in a string.
+// indexall returns a slice of ints containing the visible positions of runes
+// on the passed string.
 func indexall(str string, rch rune) []int {
-	var ret []int
-	for i, r := range str {
+	var (
+		pos int
+		ret []int
+	)
+
+	// We cannot use pos in the loop directly, as a runes may have width > 1 and
+	// we want to count the number of "visible" positions.
+	for _, r := range str {
 		if r == rch {
-			ret = append(ret, i)
+			ret = append(ret, pos)
 		}
+		pos++
 	}
 	return ret
+}
+
+// Return true if both slices are equal, false otherwise.
+func equalSlice(a, b []int) bool {
+	if len(a) != len(b) {
+		return false
+	}
+	for i := range a {
+		if a[i] != b[i] {
+			return false
+		}
+	}
+	return true
 }
 
 func main() {
