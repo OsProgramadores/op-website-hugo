@@ -112,6 +112,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                | https://github.com/jplpanceri             |
+| José Lucas da S. Marques       | devmarques09@gmail.com                | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos              |
 | Juliano Massanetto             | juliano.massanetto@gmail.com          | https://github.com/JMass1                 |
