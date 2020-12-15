@@ -157,6 +157,7 @@ Ao adicionar o seu nome, por favor observe:
 | Maurilho Batista Moura Filho   | maurilhobatista450@gmail.com          | https://github.com/MaurilhoB              |
 | Max Sylver                     | maxsylver@outlook.com                 | https://github.com/MaxTgr                 |
 | Maycon de Moraes               | mayconmoraes.dm@gmail.com             | https://github.com/dmmaycon               |
+| Maylson Natan dos Santos Maia  | natanmaia02@gmail.com                 | https://github.com/NTMaia                 |
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com               | https://github.com/mayrloncarlos          |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia               |
 | Murilo de Andrade Melo         | muriloa.melo01@gmail.com              | https://github.com/MuriloAM               |
