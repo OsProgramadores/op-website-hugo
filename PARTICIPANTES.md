@@ -138,6 +138,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                | https://github.com/maagwiin               |
 | Marcelo de Oliveira da S. Jr.  | marcelo_rde@yahoo.com.br              | https://github.com/Marcelo391             |
+| Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Marcelo Kortkamp               | marcelusmedius@gmail.com              | https://github.com/kortkamp               |
 | Marcelo Vinicius Campos Amedi  | marceloamedi@gmail.com                | https://github.com/marceloamedi           |
 | Marcio Andre Sieburger         | sieburger@protonmail.com              | https://github.com/sieburger              |
@@ -147,7 +148,6 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim                 |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                | https://github.com/mavinicius95           |
-| Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Mario Idival Gomes Duarte      | marioidival@gmail.com                 | https://github.com/marioidival            |
 | Mateus Bittencourt Mercer      | contato@matbm.net                     | https://github.com/MatMercer              |
 | Mateus Franklin                | contato@mateusfranklin.com            | https://github.com/mateusfranklin         |
