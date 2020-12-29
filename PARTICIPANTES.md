@@ -160,6 +160,7 @@ Ao adicionar o seu nome, por favor observe:
 | Maycon de Moraes               | mayconmoraes.dm@gmail.com             | https://github.com/dmmaycon               |
 | Maylson Natan dos Santos Maia  | natanmaia02@gmail.com                 | https://github.com/NTMaia                 |
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com               | https://github.com/mayrloncarlos          |
+| Michel Bernardo da Silveira    | No Email                              | https://github.com/michelbernardods       |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia               |
 | Murilo de Andrade Melo         | muriloa.melo01@gmail.com              | https://github.com/MuriloAM               |
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba                |
