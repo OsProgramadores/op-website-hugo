@@ -148,6 +148,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                | https://github.com/mavinicius95           |
 | Mario Idival Gomes Duarte      | marioidival@gmail.com                 | https://github.com/marioidival            |
+| Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Mateus Bittencourt Mercer      | contato@matbm.net                     | https://github.com/MatMercer              |
 | Mateus Franklin                | contato@mateusfranklin.com            | https://github.com/mateusfranklin         |
 | Matheus Barbosa Souza          | mbscbsjbs@gmail.com                   | https://github.com/WhoisBsa               |
@@ -163,7 +164,6 @@ Ao adicionar o seu nome, por favor observe:
 | Michel Bernardo da Silveira    | No Email                              | https://github.com/michelbernardods       |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia               |
 | Murilo de Andrade Melo         | muriloa.melo01@gmail.com              | https://github.com/MuriloAM               |
-| Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba                |
 | Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
