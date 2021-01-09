@@ -111,6 +111,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jessica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato          |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
+| João José Marques Gonçalves    | jjmg.engenharia@gmail.com             | https://github.com/jjmg-eng               |
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                | https://github.com/jplpanceri             |
 | José Lucas da S. Marques       | devmarques09@gmail.com                | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
