@@ -211,6 +211,7 @@ Ao adicionar o seu nome, por favor observe:
 | Wellington Domiciano           | wldomiciano@gmail.com                 | https://github.com/wldomiciano            |
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02                |
 | Weslley de Oliveira Pereira    | weslleyoliveira25@gmail.com           | https://github.com/weslley19              |
+| Weslleymberg da Silva Lisboa   | weslleym.lisboa@gmail.com             | https://github.com/weslleymberg           |
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill                |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
