@@ -103,7 +103,6 @@ Ao adicionar o seu nome, por favor observe:
 | Isabella Santos de Souza       | isabellasdesouza@outlook.com          | https://github.com/isabellsantoss         |
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena             |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein       |
-| João Vitor Astori Saletti      | joaovitorastore@gmail.com             | https://github.com/ancogamer              | 
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo         |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto              |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com      | https://github.com/jefersonrodrigostefani |
@@ -113,6 +112,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                | https://github.com/jplpanceri             |
+| João Vitor Astori Saletti      | joaovitorastore@gmail.com             | https://github.com/ancogamer              |
 | José Lucas da S. Marques       | devmarques09@gmail.com                | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos              |
