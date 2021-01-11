@@ -9,13 +9,12 @@ banner = "img/banners/go_banner1.png"
 Olá sou o Jefferson Otoni Lima conhecido como [jeffotoni](https://github.com/jeffotoni)
 Vou fazer um pequeno overview de uma das linguagens que mais cresce no mundo.
 
-Objetivo deste post é simplesmente apresentar um pouco do porque a **linguagem Go**
-surgiu e apresentar um pouco de sua sintaxe e demostrar algumas áreas onde Go 
+Objetivo deste post é simplesmente apresentar o porque a **linguagem Go**
+surgiu e apresentar a sua sintaxe e demostrar algumas áreas onde Go 
 é mais aplicado. Para todos que gostariam de aumentar ainda mais seu arsenal para 
-desenvolvimento web este post irá ajuda-lo a esclarecer alguns pontos importantes 
+desenvolvimento web este post irá ajuda-los a esclarecer alguns pontos importantes 
 quando estamos iniciando e aprendendo uma nova linguagem de programação.
-Go é uma linguagem muito poderosa quando o assunto é servidores web, então vamos
-conhecer um pouco mais deste universo fantástico que é Go.
+Vamos conhecer mais deste universo fantástico que é Go.
 
 Para você que está iniciando em programação ou que já conhecça de programação este
 post irá ser útil para você entender um pouco mais quando o assunto é Go.
@@ -24,7 +23,7 @@ post irá ser útil para você entender um pouco mais quando o assunto é Go.
 
 ## Primeiros passos em Go
 
-Antes de iniciarmos, é importante salientar que linguagens de programação são ferramentas e como toda boa ferramenta temos que saber quais momentos usa-las. Existem cenários e problemas que só são resolvidos com linguagens específicas e existe outros universos de problemas que temos centenas ou milhares de linguagens que resolvem de alguma forma o mesmo problema. Então como um bom profissional quanto mais ferramentas souber para resolver problemas melhor será para sua carreira profissional.
+Antes de iniciarmos, é importante salientar que linguagens de programação são ferramentas e como toda boa ferramenta temos que saber quais momentos usa-las. Existem cenários e problemas que só são resolvidos com linguagens específicas e existem outros universos de problemas que temos centenas ou milhares de linguagens que resolvem de alguma forma o mesmo problema. Então como um bom profissional quanto mais ferramentas souber para resolver problemas melhor será para sua carreira profissional.
 
 A linguagem Go em seu universo de possibilidades é uma linguagem de uso comum não gosto muito deste termo fica parecendo que ela é tipo uma bala de prata e resolve todos os problemas mas que na verdade não, Go nasceu por um propósito e resolve problemas do universo web e aproveitar a nova tecnologia de multicores em servidores, bem este era o propósito inicial.
 
@@ -60,7 +59,7 @@ O site oficial aparentemente parece pequeno mas ele é muito completo e grande. 
 ### Onde Inicio no Site
 
 Vou criar uma linha de raciocínio para que possamos entender Go de forma mais prática possível.
-Antes de instalar Go, ou rodar Go pelo play, vamos da uma passada em algumas partes do doc para que possamos entender um pouco da história do Go e por que nasceu uma nova linguagem neste universo de milhares de linguagens de programação.
+Antes de instalar Go, ou rodar Go pelo play, vamos da uma passada em algumas partes do doc para que possamos entender a história do Go e por que nasceu uma nova linguagem neste universo de milhares de linguagens de programação.
 
 ![Site Oficial](/img/conteudos-de-artigos/site_oficial_go.png)
 
@@ -106,7 +105,7 @@ Antes de fazermos nosso famigerado **"Hello World"** vamos mostrar alguns pontos
 
 ### 3 Pilares
 
-Temos alguns pilares bem definidos em Go, isto irá ajuda-lo a clarear ainda mais seu horizonte quanto o assunto é Go.
+Temos alguns pilares bem definidos em Go, isto ajuda a clarear ainda mais seu horizonte quanto o assunto é Go.
 
  - Simplicidade
  - Legibilidade
@@ -134,7 +133,7 @@ Todos estes pontos torna a linguagem ainda mais interessante, a equipe de engenh
 
 Este é o momento que todos esperávamos, colocar a mão na massa e instalar local, no site oficial não tem como errar, não tem nada mais simples que instalar o Go em sua máquina para que possa programar em Go. Aproveitando e deixando claro que: **Não precisamos instalar Go no servidor**, isto mesmo que leu, em seu servidor seja ele qual for, _On-premises, um Ec2 da Aws ou um pod no k8s seja ele no Gke, ou k8s da DigitalOcean, ou seja em ECS ou EKS, seja um serverless ou em algum servidor de hospedagem de sua preferência_, o que irá precisar é do **binário** seja em uma imagem docker por exemplo ou não. Isto é um dos **pontos fortes do Go**, não precisamos levar tralhas para o servidor este é um dos grande benefícios de utilizar Go em aplicações web em servidores e foi por isto que Go ficou conhecido como a **linguagem dos Containers**😍.
 
-![Docker Go](/img/conteudos-de-artigos/docker_go.gif)
+![Docker Go](/img/conteudos-de-artigos/docker_go.png)
 
 Sabendo de tudo isto vamos a instalação de Go e vamos ver o tão quanto ela é complexa 😜😜, brincadeirinha… 😂
 Install Go neste link terá o passo a passo de como instalar em diversos Sistemas Operacionais mas vou deixar aqui a instalação no Linux.
@@ -233,13 +232,13 @@ Para ficar um pouquinha mais claro quando usarmos a função println temos que s
 
 ### go build
 
-Agora vamos transformar em **binário** vamos compilar e para isto vamos utilizar o "go build" ou "GOARCH=386 GOOS=linux go build" estamos agora informando a arquitetura e sistema operacional que desejamos compilar nosso programa Go.
+Agora vamos transformar em **binário** vamos compilar e para isto vamos utilizar o "go build" ou "GOARCH=386 GOOS=linux go build" estamos agora informando a arquitetura e sistema operacional para o qual desejamos compilar nosso programa Go.
 
 ```bash
 $ GOARCH=386 GOOS=linux go build -o myfirstprogram main.go
 ```
 
-Este comando irá fazer o **build** ele irá gerar um "_executável_" um binário para ser executado em seu sistema operacional. Muito fácil não é? 😍 Eu diria muito **lindo**. Com este binário você irá conseguir executa-lo em sua máquina ou em qualquer servidor que tenha a mesma **arquitetura e sistema operacional** que tenha feito para sua compilação, e o mais legal irá gerar um **binário estatico** isto significa que não existe dependências para instalar em seu servidor nadinha, legal não é? Para sabermos se o arquivo binário é dinâmico ou estático basta rodarmos o seguinte commando:
+Este comando irá fazer o **build** e será gerado um "executável", também conhecido como binário, para ser executado em seu sistema operacional. Muito fácil não é? 😍 Eu diria muito **lindo**. Com este binário você irá conseguir executar o progrrama em sua máquina ou em qualquer servidor que tenha a mesma **arquitetura e sistema operacional. O mais legal é que é gerado um binário estatico que não contém dependências para instalar em seu servidor. Legal não é? Para sabermos se o arquivo binário é dinâmico ou estático basta rodarmos o seguinte commando:
 
 ```bash
 $ ldd myfirstprogram
@@ -249,10 +248,10 @@ Saída
 ```bash
 não é um executável dinâmico
 ```
-Se aparecer esta saída bingo, é um executável estático sem dependências.
+Se aparecer esta saída então o executável gerado é estático sem dependências.
+_Assumindo que o sistema está configurado para uso do idioma Português._
 
-É importante frisar sempre este detalhe: **"Não instalamos nada de Go em nossos servidores Web"** é exatamente o que leu, só precisa do binário. ❤️ Foi devido a isto que Go ficou conhecido por ser a Linguagem dos Containers. Diz que isto não é fantástico ? 😍 Para que rode uma aplicação Web em seu servidor basta enviar o binário para ele. Uau, isto mesmo somente do binário sem precisar de levar mais nada referente ao seu projeto nadinha.
-
+É importante frisar sempre este detalhe: **"Não instalamos nada de Go em nossos servidores Web"** é exatamente o que leu, só precisa do binário. ❤️ Foi devido a isto que Go ficou conhecido por ser a Linguagem dos Containers. Diz que isto não é fantástico ? 😍 Para rodar uma aplicação Web em seu servidor, basta enviar o binário para ele. Uau, isto mesmo, somente do binário e sem precisar instalar mais nada referente ao seu projeto, nadinha.
 
 ## Conclusão
 
