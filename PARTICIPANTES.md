@@ -171,6 +171,7 @@ Ao adicionar o seu nome, por favor observe:
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
 | Paulo Francis S. de Souza      | paulo.suchoj@gmail.com                | https://github.com/psuchoj                |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro        |
+| Paulo Renato Xavier da Silva   | paulorenatoxs@gmail.com               | https://github.com/paulorenatoxs          |
 | Pedro Antonio Brito Campos     | Sirpedro49@gmail.com                  | https://github.com/Punkuchiha             |
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2                   |
 | Pedro Expedito De Oliveira     | expeditocaf00@gmail.com               | https://github.com/pedroexpedito          |
