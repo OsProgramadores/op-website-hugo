@@ -113,6 +113,7 @@ Ao adicionar o seu nome, por favor observe:
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
 | João José Marques Gonçalves    | jjmg.engenharia@gmail.com             | https://github.com/jjmg-eng               |
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                | https://github.com/jplpanceri             |
+| João Vitor Astori Saletti      | joaovitorastore@gmail.com             | https://github.com/ancogamer              |
 | José Lucas da S. Marques       | devmarques09@gmail.com                | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos              |
