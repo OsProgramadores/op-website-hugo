@@ -78,6 +78,7 @@ Ao adicionar o seu nome, por favor observe:
 | Fabricio Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967            |
 | Felipe Alves                   | No Email                              | https://github.com/batocciero             |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale                 |
+| Felipe M. Ferreira             | felipe.m.frrr@gmail.com               | https://github.com/felipefrr              |
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com       | https://github.com/Felipe-Marques         |
 | Felipe Quirino Araujo          | felipeqaraujo@hotmail.com             | https://github.com/Felipedroid            |
 | Francisco Jose de Assis Cunha  | fjacunha@gmail.com                    | https://github.com/fjoseacunha            |
