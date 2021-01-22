@@ -19,7 +19,7 @@ Vamos conhecer mais deste universo fantástico que é Go.
 Para você que está iniciando em programação ou que já conhecça de programação este
 post irá ser útil para você entender um pouco mais quando o assunto é Go.
 
-![banner Go](/img/go_banner1.png)
+![banner Go](/img/conteudos-de-artigos/go_banner1.png)
 
 ## Primeiros passos em Go
 
@@ -171,7 +171,7 @@ go version go1.15.6 linux/386
 Agora sim chegou a hora de nossos primeiros **"hello world"** utilizando Go.
 Não tem segredo, podemos utilizar de qualquer editor que vimos acima e irmos para cima. Em Go não precisamos compilar quando estamos escrevendo programas em Go podemos simplesmente executar nossos programas sem precisar transforma-los em binários ou seja compilar.
 
-### go run main.go
+### go run
 
 Abaixo está nosso primeiro hello world, e basta salvar o arquivo com a extensão "_.go_", coloque o nome de "_main.go_" depois basta executar ele com o comando "_go run main.go_", em nosso exemplo chamei o arquivo de "main.go"
 
@@ -185,6 +185,7 @@ func main() {
 }
 
 ```
+
 Este nosso hello world é a menor estrutura que podemos montar para da saída no terminal, sem usar pacote.
 
 Este outro exemplo vamos utilizar um pacote nativo Go.
@@ -193,7 +194,7 @@ Este outro exemplo vamos utilizar um pacote nativo Go.
 package main
 
 import(
-		"fmt"
+	"fmt"
 	)
 
 func main() {
@@ -202,14 +203,13 @@ func main() {
 
 }
 ```
-Para executar o nosso programa, pode usar o "_go run_" para não precisarmos compilar enquanto estamos escrevendo programas em Go nosso projeto.
 
+Para executar o nosso programa, pode usar o "_go run_" para não precisarmos compilar enquanto estamos escrevendo programas em Go nosso projeto de uma conferida como é fácil.
 ```bash
 $ go run main.go
 ```
 
 Saída
-
 ```bash
 Meu primeiro Hello World
 ```
