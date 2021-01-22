@@ -79,6 +79,7 @@ Ao adicionar o seu nome, por favor observe:
 | Felipe Alves                   | No Email                              | https://github.com/batocciero             |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale                 |
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com       | https://github.com/Felipe-Marques         |
+| Felipe M. Ferreira             | felipe.m.frrr@gmail.com               | https://github.com/felipefrr              |
 | Felipe Quirino Araujo          | felipeqaraujo@hotmail.com             | https://github.com/Felipedroid            |
 | Francisco Jose de Assis Cunha  | fjacunha@gmail.com                    | https://github.com/fjoseacunha            |
 | Gabriel Dos Santos             | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS              |
@@ -107,11 +108,14 @@ Ao adicionar o seu nome, por favor observe:
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto              |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com      | https://github.com/jefersonrodrigostefani |
 | Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim           |
-| Jefferson Teixeira             | jeffersonads2019@gmail.com            | https://github.com/jefferson-teixeira     |
+| Jefferson Teixeira             | jeffersonads2019@gmail.com            | https://github.com/jeffteixeira           |
 | Jessica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato          |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
+| João José Marques Gonçalves    | jjmg.engenharia@gmail.com             | https://github.com/jjmg-eng               |
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                | https://github.com/jplpanceri             |
+| João Vitor Astori Saletti      | joaovitorastore@gmail.com             | https://github.com/ancogamer              |
+| Jonathan Lopes Pinheiro        | jonathancruzeiro123@gmail.com         | https://github.com/JonathanLopes403       |
 | José Lucas da S. Marques       | devmarques09@gmail.com                | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos              |
@@ -138,6 +142,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                | https://github.com/maagwiin               |
 | Marcelo de Oliveira da S. Jr.  | marcelo_rde@yahoo.com.br              | https://github.com/Marcelo391             |
+| Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Marcelo Kortkamp               | marcelusmedius@gmail.com              | https://github.com/kortkamp               |
 | Marcelo Vinicius Campos Amedi  | marceloamedi@gmail.com                | https://github.com/marceloamedi           |
 | Marcio Andre Sieburger         | sieburger@protonmail.com              | https://github.com/sieburger              |
@@ -160,14 +165,18 @@ Ao adicionar o seu nome, por favor observe:
 | Maycon de Moraes               | mayconmoraes.dm@gmail.com             | https://github.com/dmmaycon               |
 | Maylson Natan dos Santos Maia  | natanmaia02@gmail.com                 | https://github.com/NTMaia                 |
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com               | https://github.com/mayrloncarlos          |
+| Michel Bernardo da Silveira    | No Email                              | https://github.com/michelbernardods       |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia               |
 | Murilo de Andrade Melo         | muriloa.melo01@gmail.com              | https://github.com/MuriloAM               |
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba                |
 | Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
+| Paulo Francis S. de Souza      | paulo.suchoj@gmail.com                | https://github.com/psuchoj                |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro        |
+| Paulo Renato Xavier da Silva   | paulorenatoxs@gmail.com               | https://github.com/paulorenatoxs          |
 | Pedro Antonio Brito Campos     | Sirpedro49@gmail.com                  | https://github.com/Punkuchiha             |
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2                   |
+| Pedro Expedito De Oliveira     | expeditocaf00@gmail.com               | https://github.com/pedroexpedito          |
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                 | https://github.com/raffaelleao            |
@@ -207,6 +216,7 @@ Ao adicionar o seu nome, por favor observe:
 | Wellington Domiciano           | wldomiciano@gmail.com                 | https://github.com/wldomiciano            |
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02                |
 | Weslley de Oliveira Pereira    | weslleyoliveira25@gmail.com           | https://github.com/weslley19              |
+| Weslleymberg da Silva Lisboa   | weslleym.lisboa@gmail.com             | https://github.com/weslleymberg           |
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill                |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
