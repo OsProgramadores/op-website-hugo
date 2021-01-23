@@ -1,5 +1,5 @@
 +++
-date = "2020-12-23T00:10:00-03:00"
+date = "2020-12-23T00:11:00-03:00"
 title = "Primeiros passos em Go"
 categories = ["linguagens"]
 tags = ["programação","go", "golang", "história go", "projeto go", "install go"]
