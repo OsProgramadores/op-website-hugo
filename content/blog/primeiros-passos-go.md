@@ -10,7 +10,7 @@ Olá sou o Jefferson Otoni Lima conhecido como [jeffotoni](https://github.com/je
 Vou fazer um pequeno overview de uma das linguagens que mais cresce no mundo.
 
 Objetivo deste post é simplesmente apresentar o porque a **linguagem Go**
-surgiu e apresentar a sua sintaxe e demostrar algumas áreas onde Go 
+surgiu e apresentar a sua sintaxe e demonstrar algumas áreas onde Go 
 é mais aplicado. Para todos que gostariam de aumentar ainda mais seu arsenal para 
 desenvolvimento web este post irá ajuda-los a esclarecer alguns pontos importantes 
 quando estamos iniciando e aprendendo uma nova linguagem de programação.
@@ -19,13 +19,15 @@ Vamos conhecer mais deste universo fantástico que é Go.
 Para você que está iniciando em programação ou que já conhecça de programação este
 post irá ser útil para você entender um pouco mais quando o assunto é Go.
 
-![banner Go](/img/go_banner1.png)
+![banner Go](/img/conteudos-de-artigos/go_banner1.png)
 
 ## Primeiros passos em Go
 
-Antes de iniciarmos, é importante salientar que linguagens de programação são ferramentas e como toda boa ferramenta temos que saber em quais momentos usa-las. Existem cenários e problemas que só são resolvidos com linguagens específicas e existem outros universos de problemas que temos centenas ou milhares de linguagens que resolvem de alguma forma o mesmo problema. Então como um bom profissional quanto é importante entender qual(quais) ferramenta(s) de adequam a quais problemas.
+Antes de iniciarmos, é importante salientar que linguagens de programação são ferramentas e como toda boa ferramenta temos que saber em quais momentos usá-las. Existem cenários e problemas que só são resolvidos com linguagens específicas e existem outros universos de problemas que temos centenas ou milhares de linguagens que resolvem de alguma forma o mesmo problema. Então como um bom profissional quanto é importante entender qual(quais) ferramenta(s) de adequar a quais problemas.
 
-A linguagem Go, em seu universo de possibilidades, é uma linguagem de uso comum mas não gosto muito deste termo pois fica parecendo que a linguagem é tipo uma bala de prata e resolve todos os problemas e isso não é verdade. Go nasceu por um propósito que é resolver problemas do universo web e aproveitar a nova tecnologia de multicores em servidores para este propósito.
+A linguagem Go, em seu universo de possibilidades, é uma linguagem de uso geral mas não gosto muito deste termo pois fica parecendo que a linguagem é tipo uma bala de prata e resolve todos os problemas e isso não é verdade. Go nasceu por um propósito que é resolver problemas do universo web e aproveitar a nova tecnologia de multicores em servidores para este propósito.
+
+O primeiro passo é conhecer um pouco melhor o site oficial da linguagem [site oficial go](https://golang.org).
 
 ## História do projeto Go
 
@@ -39,26 +41,31 @@ Go tornou-se um projeto de código aberto público em 10 de novembro de 2009. In
 
 ## Por que criaram uma nova linguagem?
 
-"Go nasceu da frustração com as linguagens e ambientes existentes para o trabalho que estávamos fazendo no Google. A programação havia se tornado muito difícil e a escolha das linguagens era parcialmente culpada. Era preciso escolher a compilação eficiente e execução eficiente ou facilidade de programação; todos os três não estavam disponíveis na mesmas linguagem principal. Os programadores que poderiam escolher facilidade em vez de segurança e eficiência, mudando para linguagens tipadas dinamicamente, como Python e JavaScript, em vez de C++ ou, em menor grau, Java."
+"Go nasceu da frustração com as linguagens e ambientes existentes para o trabalho que estávamos fazendo no Google. A programação havia se tornado muito difícil e a escolha das linguagens era parcialmente culpada. Era preciso escolher a compilação eficiente e a execução eficiente ou facilidade de programação; todos os três não estavam disponíveis na mesma linguagem principal. Os programadores poderiam escolher facilidade em vez de segurança e eficiência, mudando para linguagens tipadas dinamicamente, como Python e JavaScript, em vez de C++ ou, em menor grau, Java."
 
 "_Go tratou dessas questões tentando combinar a facilidade de programação de uma linguagem interpretada e dinâmica com a eficiência e segurança de uma linguagem compilada estaticamente. Também pretendia ser moderno, com suporte para computação em rede e multicore. Finalmente, trabalhar com Go pretende ser rápido : deve demorar no máximo alguns segundos para construir um grande executável em um único computador._"
 
-Nasce uma nova linguagem Go, para atender as novas necessidades e resolver problemas aproveitando o máximo possível do poder computacional. E é claro criando o seu mascote para a os milhares de gophers.
+Nasce uma nova linguagem Go, para atender às novas necessidades e resolver problemas aproveitando o máximo possível do poder computacional. 
+
+E por que do grande sucesso de Go ?
+
+A comunidade Go não tem dúvidas que é devido ao seu mascote e que hoje tem milhares de gophers espalhados pelo mundo.😁
 
 ![Mascote Go](/img/conteudos-de-artigos/mascote_go.jpg)
 
 
 ## Site Oficial
 
-Para iniciarmos em Go vamos dar alguns passos para trás, vamos começar toda nossa trajetória conhecendo o site oficial da linguagem: golang.org. Nesta página encontraremos informações sobre Go e muito mais. Nesta página temos os docs, packages, blog e o play.golang.org, specificações da lingugem, download, tour em Go e muito mais.
+Para iniciarmos em Go vamos dar alguns passos para trás, vamos começar toda nossa trajetória conhecendo o site oficial da linguagem: golang.org. Nesta página encontramos informações sobre Go e muito mais. Nesta página temos os docs, packages, blog e o play.golang.org, especificações da linguagem, download, tour em Go e muito mais.
 
 O site oficial aparentemente parece pequeno mas ele é muito completo e grande. Então temos praticamente tudo que precisamos saber de Go para iniciarmos nosso aprendizado nesta linguagem que é um fenômeno.
-
 
 ### Onde Inicio no Site
 
 Vou criar uma linha de raciocínio para que possamos entender Go de forma mais prática possível.
 Antes de instalar Go, ou rodar Go pelo play, vamos dar uma passada em algumas partes do doc para que possamos entender a história do Go e por que nasceu uma nova linguagem neste universo de milhares de linguagens de programação.
+
+Para acessar o site oficial basta clicar em: [site oficial go](https://golang.org).
 
 ![Site Oficial](/img/conteudos-de-artigos/site_oficial_go.png)
 
@@ -66,32 +73,45 @@ Antes de instalar Go, ou rodar Go pelo play, vamos dar uma passada em algumas pa
 ## Effective Go
 
 Este link é todo material que se precisa ler antes de tudo.
-[Effective Go](https://golang.org/doc/effective_go.html#introduction) ❤️ neste site está todo material que precisa para ter uma boa noção da linguagem Go: Estrutura de controle, funções, Programação concorrente usando Goroutines, métodos, Maps e muito mais.
+[Effective Go](https://golang.org/doc/effective_go.html#introduction) ❤️ neste site está todo material que precisa para ter uma boa noção da linguagem Go: 
+ - Estrutura de controle
+ - Funções
+ - Programação concorrente usando Goroutines
+ - Interfaces e métodos
+ - Map
+ - Libs de test nativa da plataforma
+ - Profiling nativo da plataforma
 
-
+E muito mais, existe um material farto nestes links, não só vale a pena como após a leitura tudo irá ficar bem mais fácil quando for trabalhar na prática com a linguagem Go.
+ 
 ## Um tour de Go
 
 Este link seria o segundo mais importante na minha hierarquia para aprendermos Go.
 [Tour Go](https://tour.golang.org/welcome/1) ❤️ neste site você irá conseguir testar e dar uma passada em algumas das funcionalidades da linguagem Go 😱 isto mesmo tudo pelo browser sem precisar instalar nadinha na máquina.
 
+Muito show de bola esta possibilidade, estudar direto no site do go, executar os códigos e visualizar o comportamento e como funciona a linguagem.
+
 ## Playground Go
 
-No [Play Go](https://play.golang.org/p/MAohLsrz7JQ) você irá conseguir executar Go 😱 sem instlaar nada nada. Todo o código Go é escrito e executado no navegador (browser) e simplificando muito assim o aprendizado.
+No [Play Go](https://play.golang.org/p/MAohLsrz7JQ) você irá conseguir executar Go 😱 sem instalar nada nada. Todo o código Go é escrito e executado no navegador (browser) e simplifica muito o aprendizado.
+
+Isto é Muito legal, escrever o código no browser, excelente ferramenta para criarmos nossos pequenos código para tirarmos dúvidas, estudar etc.
+
 
 ## Perguntas mais Frequentes
 
 Este link seria o nosso terceiro passo e acredito que agora você tnha diversas dúvidas, geradas pelo Effective Go e pelo Tour que fez.
 
-[Faq](https://golang.org/doc/faq) ❤️ é aqui que irá você tirar algumas dúvidas. Esta página é essencial para organizar suas ideias e entender realmente um pouco mais sobre Go🥰. O tempo gasto lendo esta página irá com certeza lhe ajudar a economizar horas de trabalho.
+[Faq](https://golang.org/doc/faq) ❤️ é aqui que você irá tirar algumas dúvidas. Esta página é essencial para organizar suas ideias e entender realmente um pouco mais sobre Go🥰. O tempo gasto lendo esta página irá com certeza lhe ajudar a economizar horas de trabalho.
 
 ## Pacotes nativos Go
 
-Este link contem documentação para ajudar você a entender como são organizados funções, libs, pkgs que podem ser usados na linguagem Go.
+Este link contem documentação para ajudar você a entender como são organizadas funções, libs, pkgs que podem ser usados na linguagem Go.
 [Pkgs](https://golang.org/pkg/) ❤️ escolhi aqui o [pkg string](https://golang.org/pkg/strings) que inclui exemplos que podem ser executados diretamente no navegador facilitar o aprendizado e entendimentos🥰.
 
 ## Editores e IDE
 
-Este link é sobre as IDEs e Editores que poderá utilizar quando tiver escrevendo programas em Go. A linguagem Go não precisa de muito para que possamos editar nossos códigos, mas temos alguns plugins interessantes para facilitar ainda mais nosso dia a dia
+Este link é sobre as IDEs e Editores que poderá utilizar quando estiver escrevendo programas em Go. A linguagem Go não precisa de muito para que possamos editar nossos códigos, mas temos alguns plugins interessantes para facilitar ainda mais nosso dia a dia
 [Editores e IDE](https://golang.org/doc/editors.html) ❤️ Neste link não irá ter o Sublime e o nvim que são dois editores que uso por aqui no dia a dia, o sublime pela pesquisa do survey somente 7,7% utilizam sublime e vim 14% o nvim é um plugin que irá usar no vim. O queridinho e adotado pelo equipe Go é o VsCode com 41% de adesão.
 
 ## Pontos Fortes da linguagem Go
@@ -101,6 +121,10 @@ Antes de fazermos nosso famigerado **"Hello World"** vamos mostrar alguns pontos
 ### 3 Pilares
 
 Temos alguns pilares bem definidos em Go, isto ajuda a clarear ainda mais seu horizonte quanto o assunto é Go.
+
+ 1) Existem idiomas que são um pouco mais rápidos que o Go, mas certamente não são tão simples quanto o Go. 
+ 2) Existem linguagens que tornam a concorrência seu objetivo mais elevado, mas não são tão legíveis nem produtivas.
+ 3) Desempenho e simultaneidade são atributos importantes, mas não tão importantes quanto:
 
  - Simplicidade
  - Legibilidade
@@ -117,6 +141,39 @@ Em Go temos algumas características marcantes da linguagem que a tornam ainda m
  - Paradigma Concorrente
  - Tipagem Estática
  - Retrocompatibilidade
+ - GC (Garbage collector)
+
+### Alguns tipos de aplicações implementadas em Go
+
+. [Web backend](https://github.com/nouney/awesome-go#web-frameworks) (com diversos frameworks disponíveis)
+. [Web Assembly](https://github.com/vugu/vugu) (um dos frameworks vugu)
+. Microservices Frameworks
+	- [Go Micro](https://micro.mu/)
+	- [Go Kit](https://gokit.io/)
+	- [Gizmo](https://github.com/NYTimes/gizmo)
+	- [Kite](https://github.com/koding/kite)
+. Fragments services (Termo citado pelo @jeffotoni em um grupo de discussão de microservices)
+. Lambdas [FaaS example](https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
+. Client Server
+. Aplicações em terminal [utilizando a lib tview](https://github.com/rivo/tview)
+. IoT [alguns frameworks](https://github.com/nouney/awesome-go#iot-internet-of-things)
+. Boots [alguns aqui](https://github.com/nouney/awesome-go#bot-building)
+. Aplicações Client que usam tecnologia Web
+. Desktop:
+	- [Qt+QML](https://github.com/therecipe/qt)
+	- Lib Nativa Win
+	- [Widgets Qt](https://therecipe.github.io/widgets_playground/)
+	- [Qml](https://doc.qt.io/qt-5/qtqml-index.html)
+. Aplicações de Rede
+. Aplicações para protocolos
+. Aplicações rEST,
+. Aplicações SOAP
+. Aplicações GraphQL
+. Aplicações RCP
+. Aplicações TCP
+. Aplicações gRPC
+. Aplicações Websocket
+. GopherJS [ompiles Go to JavaScript](https://github.com/gopherjs)
 
 ## Instalando Go
 
@@ -169,9 +226,9 @@ go version go1.15.6 linux/386
 ## Hello World
 
 Agora sim chegou a hora de nossos primeiros **"hello world"** utilizando Go.
-Não tem segredo, podemos utilizar de qualquer editor que vimos acima e irmos para cima. Em Go não precisamos compilar quando estamos escrevendo programas em Go podemos simplesmente executar nossos programas sem precisar transforma-los em binários ou seja compilar.
+Não tem segredo, podemos utilizar de qualquer editor que vimos acima e irmos para cima. Em Go não precisamos compilar quando estamos escrevendo programas em Go podemos simplesmente executar nossos programas sem precisar transformá-los em binários ou seja compilar.
 
-### go run main.go
+### go run
 
 Abaixo está nosso primeiro hello world, e basta salvar o arquivo com a extensão "_.go_", coloque o nome de "_main.go_" depois basta executar ele com o comando "_go run main.go_", em nosso exemplo chamei o arquivo de "main.go"
 
@@ -185,6 +242,7 @@ func main() {
 }
 
 ```
+
 Este nosso hello world é a menor estrutura que podemos montar para da saída no terminal, sem usar pacote.
 
 Este outro exemplo vamos utilizar um pacote nativo Go.
@@ -193,7 +251,7 @@ Este outro exemplo vamos utilizar um pacote nativo Go.
 package main
 
 import(
-		"fmt"
+	"fmt"
 	)
 
 func main() {
@@ -202,19 +260,18 @@ func main() {
 
 }
 ```
-Para executar o nosso programa, pode usar o "_go run_" para não precisarmos compilar enquanto estamos escrevendo programas em Go nosso projeto.
 
+Para executar o nosso programa, pode usar o "_go run_" para não precisarmos compilar enquanto estamos escrevendo programas em Go nosso projeto de uma conferida como é fácil.
 ```bash
 $ go run main.go
 ```
 
 Saída
-
 ```bash
 Meu primeiro Hello World
 ```
 
-Para ficar um pouquinha mais claro quando usarmos a função println temos que saber que que ela é uma função embutida (no tempo de execução) que pode eventualmente ser removida, enquanto o "_fmt_" pacote está na biblioteca padrão, que irá persistir.
+Para ficar um pouquinho mais claro quando usarmos a função println temos que saber que ela é uma função embutida (no tempo de execução) que pode eventualmente ser removida, enquanto o "_fmt_" pacote está na biblioteca padrão, que irá persistir.
 
 ### go build
 
@@ -224,7 +281,7 @@ Agora vamos transformar em **binário** vamos compilar e para isto vamos utiliza
 $ GOARCH=386 GOOS=linux go build -o myfirstprogram main.go
 ```
 
-Este comando irá fazer o **build** e será gerado um "executável", também conhecido como binário, para ser executado em seu sistema operacional. Muito fácil não é? 😍 Eu diria muito **lindo**. Com este binário você irá conseguir executar o progrrama em sua máquina ou em qualquer servidor que tenha a mesma **arquitetura e sistema operacional. O mais legal é que é gerado um binário estatico que não contém dependências para instalar em seu servidor. Legal não é? Para sabermos se o arquivo binário é dinâmico ou estático basta rodarmos o seguinte commando:
+Este comando irá fazer o **build** e será gerado um "executável", também conhecido como binário, para ser executado em seu sistema operacional. Muito fácil não é? 😍 Eu diria muito **lindo**. Com este binário você irá conseguir executar o programa em sua máquina ou em qualquer servidor que tenha a mesma **arquitetura e sistema operacional. O mais legal é que é gerado um binário estático que não contém dependências para instalar em seu servidor. Legal não é? Para sabermos se o arquivo binário é dinâmico ou estático basta rodarmos o seguinte commando:
 
 ```bash
 $ ldd myfirstprogram
@@ -234,6 +291,17 @@ Saída
 ```bash
 não é um executável dinâmico
 ```
+
+Agora vamos executar nosso binário myfirstprogram
+```bash
+$ ./myfirstprogram
+```
+
+Saída
+```bash
+Meu primeiro Hello World
+```
+
 Se aparecer esta saída então o executável gerado é estático sem dependências.
 _Assumindo que o sistema está configurado para uso do idioma Português._
 
