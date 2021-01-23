@@ -1,5 +1,5 @@
 +++
-date = "2020-12-23T00:10:00-03:00"
+date = "2020-12-23T00:11:00-03:00"
 title = "Primeiros passos em Go"
 categories = ["linguagens"]
 tags = ["programação","go", "golang", "história go", "projeto go", "install go"]
@@ -65,14 +65,14 @@ Para iniciarmos em Go vamos dar alguns passos para trás, vamos começar toda no
 
 Nesta página temos os:
 
-	- [docs](https://golang.org/doc)
-	- [packages](https://golang.org/pkg)
-	- [blog](https://blog.golang.org)
-	- [play go](play.golang.org)
-	- [efetive go](https://golang.org/doc/effective_go.html)
-	- [especificações Go](https://golang.org/ref/spec)
-	- [download](https://golang.org/doc/install) 
-	- [tour em Go](https://tour.golang.org/welcome/1) 
+  - [docs](https://golang.org/doc)
+  - [packages](https://golang.org/pkg)
+  - [blog](https://blog.golang.org)
+  - [play go](play.golang.org)
+  - [efetive go](https://golang.org/doc/effective_go.html)
+  - [especificações Go](https://golang.org/ref/spec)
+  - [download](https://golang.org/doc/install) 
+  - [tour em Go](https://tour.golang.org/welcome/1) 
 
 E não para por ai, tem muitas possibilidades no site, se aprendermos o site todo restor torna-se fácil. 
 
@@ -92,13 +92,13 @@ Para acessar o site oficial basta clicar em: [site oficial go](https://golang.or
 Este link é todo material que se precisa ler antes de tudo.
 [Effective Go](https://golang.org/doc/effective_go.html#introduction) ❤️ neste site está todo material que precisa para ter uma boa noção da linguagem Go: 
 
-	- [Estrutura de controle](https://golang.org/doc/effective_go.html#control-structures)
-	- [Funções](https://golang.org/doc/effective_go.html#functions)
-	- [Programação concorrente usando Goroutines](https://golang.org/doc/effective_go.html#concurrency)
-	- [Interfaces e métodos](https://golang.org/doc/effective_go.html#interface-names)
-	- [Map](https://golang.org/doc/effective_go.html#maps)
-	- [Test nativa da plataforma](https://golang.org/doc/tutorial/add-a-test)
-	- [Profiling nativo da plataforma](https://blog.golang.org/pprof)
+   - [Estrutura de controle](https://golang.org/doc/effective_go.html#control-structures)  
+   - [Funções](https://golang.org/doc/effective_go.html#functions)
+   - [Programação concorrente usando Goroutines](https://golang.org/doc/effective_go.html#concurrency)
+   - [Interfaces e métodos](https://golang.org/doc/effective_go.html#interface-names)
+   - [Map](https://golang.org/doc/effective_go.html#maps)
+   - [Test nativa da plataforma](https://golang.org/doc/tutorial/add-a-test)
+   - [Profiling nativo da plataforma](https://blog.golang.org/pprof)
 
 Existe muito mais além destes pontos colocados no site oficial, vale muito a pena dedicar e investir um tempo na leitura pois tudo irá ficar bem mais fácil quando for trabalhar na prática com a linguagem Go.
  
@@ -124,12 +124,12 @@ Este link seria o nosso terceiro passo e acredito que agora você tnha diversas 
 
 Selecionei alguma delas:
 	
-	- [O Google está usando Go internamente?](https://golang.org/doc/faq#internal_usage)
-	- [Que outras empresas usam Go?](https://golang.org/doc/faq#external_usage)
-	- [Os programas Go se vinculam a programas C / C ++?](https://golang.org/doc/faq#Do_Go_programs_link_with_Cpp_programs)
-	- [Go é uma linguagem orientada a objetos?](https://golang.org/doc/faq#Is_Go_an_object-oriented_language)
-	- [Por que não há aritmética de ponteiro?](https://golang.org/doc/faq#no_pointer_arithmetic)
-	- [Por que fazer a coleta de lixo? Não vai ser muito caro?](https://golang.org/doc/faq#garbage_collection)
+   - [O Google está usando Go internamente?](https://golang.org/doc/faq#internal_usage)
+   - [Que outras empresas usam Go?](https://golang.org/doc/faq#external_usage)
+   - [Os programas Go se vinculam a programas C / C ++?](https://golang.org/doc/faq#Do_Go_programs_link_with_Cpp_programs)
+   - [Go é uma linguagem orientada a objetos?](https://golang.org/doc/faq#Is_Go_an_object-oriented_language)
+   - [Por que não há aritmética de ponteiro?](https://golang.org/doc/faq#no_pointer_arithmetic)
+   - [Por que fazer a coleta de lixo? Não vai ser muito caro?](https://golang.org/doc/faq#garbage_collection)
 
 
 ## Pacotes nativos Go
@@ -154,58 +154,64 @@ Antes de fazermos nosso famigerado **"Hello World"** vamos mostrar alguns pontos
 
 Temos alguns pilares bem definidos em Go, isto ajuda a clarear ainda mais seu horizonte quanto o assunto é Go.
 
- 1) Existem idiomas que são um pouco mais rápidos que o Go, mas certamente não são tão simples quanto o Go. 
- 2) Existem linguagens que tornam a concorrência seu objetivo mais elevado, mas não são tão legíveis nem produtivas.
- 3) Desempenho e simultaneidade são atributos importantes, mas não tão importantes quanto:
+   - Existem idiomas que são um pouco mais rápidos que o Go, mas certamente não são tão simples quanto o Go.
+   
+   - Existem linguagens que tornam a concorrência seu objetivo mais elevado, mas não são tão legíveis nem produtivas.
+   
+   - Desempenho e simultaneidade são atributos importantes, mas não tão importantes quanto:
 
- - Simplicidade
- - Legibilidade
- - Produtividade
+Podemos dizer que Go possui três pilares para atender estas necessidades:
+
+   - Simplicidade
+
+   - Legibilidade
+
+   - Produtividade
 
 ### Características principais
 
 Em Go temos algumas características marcantes da linguagem que a tornam ainda mais poderosa para desenvolvimento de aplicações web para servidores.
 
-	 - Somente 25 keywords
-	 - Curva de aprendizado baixa
-	 - Compilada estaticamente
-	 - Multiplataforma agora com suporte a RISC-V
-	 - Paradigma Concorrente
-	 - Tipagem Estática
-	 - Retrocompatibilidade
-	 - GC (Garbage collector)
+   - Somente 25 keywords
+   - Curva de aprendizado baixa
+   - Compilada estaticamente
+   - Multiplataforma agora com suporte a RISC-V
+   - Paradigma Concorrente
+   - Tipagem Estática
+   - Retrocompatibilidade
+   - GC (Garbage collector)
 
 ### Alguns tipos de aplicações implementadas em Go
 	
-	- [Web backend](https://github.com/nouney/awesome-go#web-frameworks) (com diversos frameworks disponíveis)
-	- [Web Assembly](https://github.com/vugu/vugu) (um dos frameworks vugu)
-	- Microservices Frameworks
-		- [Go Micro](https://micro.mu/)
-		- [Go Kit](https://gokit.io/)
-		- [Gizmo](https://github.com/NYTimes/gizmo)
-		- [Kite](https://github.com/koding/kite)
-	- Fragments services (Termo citado pelo @jeffotoni em um grupo de discussão de microservices)
-	- Lambdas [FaaS example](https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
-	- Client Server
-	- Aplicações em terminal [utilizando a lib tview](https://github.com/rivo/tview) 
-	- IoT [alguns frameworks](https://github.com/nouney/awesome-go#iot-internet-of-things)
-	- Boots [alguns aqui](https://github.com/nouney/awesome-go#bot-building)
-	- Aplicações Client que usam tecnologia Web
-	- Desktop:
-		- [Qt+QML](https://github.com/therecipe/qt)
-		- Lib Nativa Win
-		- [Widgets Qt](https://therecipe.github.io/widgets_playground/)
-		- [Qml](https://doc.qt.io/qt-5/qtqml-index.html)
-	- Aplicações de Rede
-	- Aplicações para protocolos
-	- Aplicações rEST
-	- Aplicações SOAP
-	- Aplicações GraphQL
-	- Aplicações RCP
-	- Aplicações TCP
-	- Aplicações gRPC
-	- Aplicações Websocket
-	- GopherJS [ompiles Go to JavaScript](https://github.com/gopherjs)
+   - [Web backend](https://github.com/nouney/awesome-go#web-frameworks) (com diversos frameworks disponíveis)
+   - [Web Assembly](https://github.com/vugu/vugu) (um dos frameworks vugu)
+   - Microservices Frameworks
+	- [Go Micro](https://micro.mu/)
+	- [Go Kit](https://gokit.io/)
+	- [Gizmo](https://github.com/NYTimes/gizmo)
+	- [Kite](https://github.com/koding/kite)
+   - Fragments services (Termo citado pelo @jeffotoni em um grupo de discussão de microservices)
+   - Lambdas [FaaS example](https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
+   - Client Server
+   - Aplicações em terminal [utilizando a lib tview](https://github.com/rivo/tview) 
+   - IoT [alguns frameworks](https://github.com/nouney/awesome-go#iot-internet-of-things)
+   - Boots [alguns aqui](https://github.com/nouney/awesome-go#bot-building)
+   - Aplicações Client que usam tecnologia Web
+      - Desktop:
+	- [Qt+QML](https://github.com/therecipe/qt)
+	- [Lib Nativa Win](https://github.com/lxn/walk)
+	- [Widgets Qt](https://therecipe.github.io/widgets_playground/)
+	- [Qml](https://doc.qt.io/qt-5/qtqml-index.html)
+   - Aplicações de Rede
+   - Aplicações para protocolos
+   - Aplicações rEST
+   - Aplicações SOAP
+   - Aplicações GraphQL
+   - Aplicações RCP
+   - Aplicações TCP
+   - Aplicações gRPC
+   - Aplicações Websocket
+   - GopherJS [ompiles Go to JavaScript](https://github.com/gopherjs)
 
 ## Instalando Go
 
@@ -282,9 +288,7 @@ Este outro exemplo vamos utilizar um pacote nativo Go.
 ```go
 package main
 
-import(
-	"fmt"
-	)
+import "fmt"
 
 func main() {
   
@@ -350,5 +354,5 @@ Espero que tenham gostado, e fique a vontade em encontrar em contato para sugest
 
 Todo este assunto foi discutido ao vivo em uma live no youtube:
 
-	- [youtube live](https://youtube.com/user/jeffotoni)
-	- [PDF da apresentação](https://speakerdeck.com/jeffotoni/primeiros-passos-em-go)
+   - [youtube live](https://youtube.com/user/jeffotoni)
+   - [PDF da apresentação](https://speakerdeck.com/jeffotoni/primeiros-passos-em-go)
