@@ -25,16 +25,21 @@ post irá ser útil para você entender um pouco mais quando o assunto é Go.
 
 Antes de iniciarmos, é importante salientar que linguagens de programação são ferramentas e como toda boa ferramenta temos que saber em quais momentos usá-las. Existem cenários e problemas que só são resolvidos com linguagens específicas e existem outros universos de problemas que temos centenas ou milhares de linguagens que resolvem de alguma forma o mesmo problema. Então como um bom profissional quanto é importante entender qual(quais) ferramenta(s) de adequar a quais problemas.
 
-A linguagem Go, em seu universo de possibilidades, é uma linguagem de uso geral mas não gosto muito deste termo pois fica parecendo que a linguagem é tipo uma bala de prata e resolve todos os problemas e isso não é verdade. Go nasceu por um propósito que é resolver problemas do universo web e aproveitar a nova tecnologia de multicores em servidores para este propósito.
+A linguagem Go, em seu universo de possibilidades, é uma linguagem de uso geral mas não gosto muito deste termo pois fica parecendo que a linguagem é tipo uma bala de prata e resolve todos os problemas e isso não é verdade. 
+
+Go nasceu por um propósito que é resolver problemas do universo web e aproveitar a nova tecnologia de multicores em servidores para este propósito.
 
 O primeiro passo é conhecer um pouco melhor o site oficial da linguagem [site oficial go](https://golang.org).
 
 ## História do projeto Go
 
-"Robert Griesemer, Rob Pike e Ken Thompson começaram a esboçar as metas para uma nova linguagem no quadro branco em 21 de setembro de 2007. Em poucos dias, as metas se estabeleceram e foi criado um plano de execução. Em janeiro de 2008, Ken começou a trabalhar em um compilador para explorar ideias; ele gerou código C como sua saída. Em meados do ano, a linguagem se tornou um projeto em tempo integral e se estabeleceu o suficiente para ser um compilador de produção. Em maio de 2008, Ian Taylor começou de forma independente em um front-end GCC para Go usando as especificações preliminares. Russ Cox entrou no projeto no final de 2008 e ajudou a mover a linguagem e as bibliotecas do protótipo adiante."
+Robert Griesemer, Rob Pike e Ken Thompson começaram a esboçar as metas para uma nova linguagem no quadro branco em 21 de setembro de 2007. Em poucos dias, as metas se estabeleceram e foi criado um plano de execução. Em janeiro de 2008, Ken começou a trabalhar em um compilador para explorar ideias; ele gerou código C como sua saída. Em meados do ano, a linguagem se tornou um projeto em tempo integral e se estabeleceu o suficiente para ser um compilador de produção. 
+
+Em maio de 2008, Ian Taylor começou de forma independente em um front-end GCC para Go usando as especificações preliminares. Russ Cox entrou no projeto no final de 2008 e ajudou a mover a linguagem e as bibliotecas do protótipo adiante.
 
 Go tornou-se um projeto de código aberto público em 10 de novembro de 2009. Inúmeras pessoas da comunidade contribuíram com ideias, discussões e códigos.
-“_Existem agora milhões de programadores Go “Gophers” em todo o mundo, e há mais a cada dia. O sucesso de Go excedeu em muito as expectativas._”
+
+"_Existem agora milhões de programadores Go “Gophers” em todo o mundo, e há mais a cada dia. O sucesso de Go excedeu em muito as expectativas._"
 
 ![Engenheiros Go](/img/conteudos-de-artigos/engenheiros_go.png)
 
@@ -56,7 +61,20 @@ A comunidade Go não tem dúvidas que é devido ao seu mascote e que hoje tem mi
 
 ## Site Oficial
 
-Para iniciarmos em Go vamos dar alguns passos para trás, vamos começar toda nossa trajetória conhecendo o site oficial da linguagem: golang.org. Nesta página encontramos informações sobre Go e muito mais. Nesta página temos os docs, packages, blog e o play.golang.org, especificações da linguagem, download, tour em Go e muito mais.
+Para iniciarmos em Go vamos dar alguns passos para trás, vamos começar toda nossa trajetória conhecendo o [site oficial da linguagem](https://golang.org). Nesta página encontramos informações sobre Go e muito mais. 
+
+Nesta página temos os:
+
+	- [docs](https://golang.org/doc)
+	- [packages](https://golang.org/pkg)
+	- [blog](https://blog.golang.org)
+	- [play go](play.golang.org)
+	- [efetive go](https://golang.org/doc/effective_go.html)
+	- [especificações Go](https://golang.org/ref/spec)
+	- [download](https://golang.org/doc/install) 
+	- [tour em Go](https://tour.golang.org/welcome/1) 
+
+E não para por ai, tem muitas possibilidades no site, se aprendermos o site todo restor torna-se fácil. 
 
 O site oficial aparentemente parece pequeno mas ele é muito completo e grande. Então temos praticamente tudo que precisamos saber de Go para iniciarmos nosso aprendizado nesta linguagem que é um fenômeno.
 
@@ -69,20 +87,20 @@ Para acessar o site oficial basta clicar em: [site oficial go](https://golang.or
 
 ![Site Oficial](/img/conteudos-de-artigos/site_oficial_go.png)
 
-
 ## Effective Go
 
 Este link é todo material que se precisa ler antes de tudo.
 [Effective Go](https://golang.org/doc/effective_go.html#introduction) ❤️ neste site está todo material que precisa para ter uma boa noção da linguagem Go: 
- - Estrutura de controle
- - Funções
- - Programação concorrente usando Goroutines
- - Interfaces e métodos
- - Map
- - Libs de test nativa da plataforma
- - Profiling nativo da plataforma
 
-E muito mais, existe um material farto nestes links, não só vale a pena como após a leitura tudo irá ficar bem mais fácil quando for trabalhar na prática com a linguagem Go.
+	- [Estrutura de controle](https://golang.org/doc/effective_go.html#control-structures)
+	- [Funções](https://golang.org/doc/effective_go.html#functions)
+	- [Programação concorrente usando Goroutines](https://golang.org/doc/effective_go.html#concurrency)
+	- [Interfaces e métodos](https://golang.org/doc/effective_go.html#interface-names)
+	- [Map](https://golang.org/doc/effective_go.html#maps)
+	- [Test nativa da plataforma](https://golang.org/doc/tutorial/add-a-test)
+	- [Profiling nativo da plataforma](https://blog.golang.org/pprof)
+
+Existe muito mais além destes pontos colocados no site oficial, vale muito a pena dedicar e investir um tempo na leitura pois tudo irá ficar bem mais fácil quando for trabalhar na prática com a linguagem Go.
  
 ## Um tour de Go
 
@@ -104,10 +122,24 @@ Este link seria o nosso terceiro passo e acredito que agora você tnha diversas 
 
 [Faq](https://golang.org/doc/faq) ❤️ é aqui que você irá tirar algumas dúvidas. Esta página é essencial para organizar suas ideias e entender realmente um pouco mais sobre Go🥰. O tempo gasto lendo esta página irá com certeza lhe ajudar a economizar horas de trabalho.
 
+Selecionei alguma delas:
+	
+	- [O Google está usando Go internamente?](https://golang.org/doc/faq#internal_usage)
+	- [Que outras empresas usam Go?](https://golang.org/doc/faq#external_usage)
+	- [Os programas Go se vinculam a programas C / C ++?](https://golang.org/doc/faq#Do_Go_programs_link_with_Cpp_programs)
+	- [Go é uma linguagem orientada a objetos?](https://golang.org/doc/faq#Is_Go_an_object-oriented_language)
+	- [Por que não há aritmética de ponteiro?](https://golang.org/doc/faq#no_pointer_arithmetic)
+	- [Por que fazer a coleta de lixo? Não vai ser muito caro?](https://golang.org/doc/faq#garbage_collection)
+
+
 ## Pacotes nativos Go
 
 Este link contem documentação para ajudar você a entender como são organizadas funções, libs, pkgs que podem ser usados na linguagem Go.
 [Pkgs](https://golang.org/pkg/) ❤️ escolhi aqui o [pkg string](https://golang.org/pkg/strings) que inclui exemplos que podem ser executados diretamente no navegador facilitar o aprendizado e entendimentos🥰.
+
+Existe centenas de pacotes nativos da linguagem, quando for construir sua api rEST por exemplo já tem a biblioteca nativa da linguagem, quando for escrever seus tests você irá utilizar a biblioteca nativa da linguagem, quando for usar criptografia você irá usar biblioteca nativa da linguagem.
+
+Isto significa que a linguagem é robusta quando o assunto são recursos nativos para que possa desenvolver seus projetos.
 
 ## Editores e IDE
 
@@ -134,50 +166,50 @@ Temos alguns pilares bem definidos em Go, isto ajuda a clarear ainda mais seu ho
 
 Em Go temos algumas características marcantes da linguagem que a tornam ainda mais poderosa para desenvolvimento de aplicações web para servidores.
 
- - Somente 25 keywords
- - Curva de aprendizado baixa
- - Compilada estaticamente
- - Multiplataforma agora com suporte a RISC-V
- - Paradigma Concorrente
- - Tipagem Estática
- - Retrocompatibilidade
- - GC (Garbage collector)
+	 - Somente 25 keywords
+	 - Curva de aprendizado baixa
+	 - Compilada estaticamente
+	 - Multiplataforma agora com suporte a RISC-V
+	 - Paradigma Concorrente
+	 - Tipagem Estática
+	 - Retrocompatibilidade
+	 - GC (Garbage collector)
 
 ### Alguns tipos de aplicações implementadas em Go
-
-. [Web backend](https://github.com/nouney/awesome-go#web-frameworks) (com diversos frameworks disponíveis)
-. [Web Assembly](https://github.com/vugu/vugu) (um dos frameworks vugu)
-. Microservices Frameworks
-	- [Go Micro](https://micro.mu/)
-	- [Go Kit](https://gokit.io/)
-	- [Gizmo](https://github.com/NYTimes/gizmo)
-	- [Kite](https://github.com/koding/kite)
-. Fragments services (Termo citado pelo @jeffotoni em um grupo de discussão de microservices)
-. Lambdas [FaaS example](https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
-. Client Server
-. Aplicações em terminal [utilizando a lib tview](https://github.com/rivo/tview)
-. IoT [alguns frameworks](https://github.com/nouney/awesome-go#iot-internet-of-things)
-. Boots [alguns aqui](https://github.com/nouney/awesome-go#bot-building)
-. Aplicações Client que usam tecnologia Web
-. Desktop:
-	- [Qt+QML](https://github.com/therecipe/qt)
-	- Lib Nativa Win
-	- [Widgets Qt](https://therecipe.github.io/widgets_playground/)
-	- [Qml](https://doc.qt.io/qt-5/qtqml-index.html)
-. Aplicações de Rede
-. Aplicações para protocolos
-. Aplicações rEST,
-. Aplicações SOAP
-. Aplicações GraphQL
-. Aplicações RCP
-. Aplicações TCP
-. Aplicações gRPC
-. Aplicações Websocket
-. GopherJS [ompiles Go to JavaScript](https://github.com/gopherjs)
+	
+	- [Web backend](https://github.com/nouney/awesome-go#web-frameworks) (com diversos frameworks disponíveis)
+	- [Web Assembly](https://github.com/vugu/vugu) (um dos frameworks vugu)
+	- Microservices Frameworks
+		- [Go Micro](https://micro.mu/)
+		- [Go Kit](https://gokit.io/)
+		- [Gizmo](https://github.com/NYTimes/gizmo)
+		- [Kite](https://github.com/koding/kite)
+	- Fragments services (Termo citado pelo @jeffotoni em um grupo de discussão de microservices)
+	- Lambdas [FaaS example](https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
+	- Client Server
+	- Aplicações em terminal [utilizando a lib tview](https://github.com/rivo/tview) 
+	- IoT [alguns frameworks](https://github.com/nouney/awesome-go#iot-internet-of-things)
+	- Boots [alguns aqui](https://github.com/nouney/awesome-go#bot-building)
+	- Aplicações Client que usam tecnologia Web
+	- Desktop:
+		- [Qt+QML](https://github.com/therecipe/qt)
+		- Lib Nativa Win
+		- [Widgets Qt](https://therecipe.github.io/widgets_playground/)
+		- [Qml](https://doc.qt.io/qt-5/qtqml-index.html)
+	- Aplicações de Rede
+	- Aplicações para protocolos
+	- Aplicações rEST
+	- Aplicações SOAP
+	- Aplicações GraphQL
+	- Aplicações RCP
+	- Aplicações TCP
+	- Aplicações gRPC
+	- Aplicações Websocket
+	- GopherJS [ompiles Go to JavaScript](https://github.com/gopherjs)
 
 ## Instalando Go
 
-![Docker Go](/img/conteudos-de-artigos/docker_go.png)
+![Docker Go](/img/conteudos-de-artigos/goinstall.png)
 
 Install Go neste link terá o passo a passo de como instalar em diversos Sistemas Operacionais mas vou deixar aqui a instalação no Linux.
 
@@ -281,7 +313,9 @@ Agora vamos transformar em **binário** vamos compilar e para isto vamos utiliza
 $ GOARCH=386 GOOS=linux go build -o myfirstprogram main.go
 ```
 
-Este comando irá fazer o **build** e será gerado um "executável", também conhecido como binário, para ser executado em seu sistema operacional. Muito fácil não é? 😍 Eu diria muito **lindo**. Com este binário você irá conseguir executar o programa em sua máquina ou em qualquer servidor que tenha a mesma **arquitetura e sistema operacional. O mais legal é que é gerado um binário estático que não contém dependências para instalar em seu servidor. Legal não é? Para sabermos se o arquivo binário é dinâmico ou estático basta rodarmos o seguinte commando:
+Este comando irá fazer o **build** e será gerado um "executável", também conhecido como binário, para ser executado em seu sistema operacional. Muito fácil não é? 😍 Eu diria muito **lindo**. Com este binário você irá conseguir executar o programa em sua máquina ou em qualquer servidor que tenha a mesma **arquitetura e sistema operacional**. 
+
+O mais legal é que é gerado um binário estático que não contém dependências para instalar em seu servidor. Legal não é? Para sabermos se o arquivo binário é dinâmico ou estático basta rodarmos o seguinte commando:
 
 ```bash
 $ ldd myfirstprogram
@@ -309,6 +343,12 @@ _Assumindo que o sistema está configurado para uso do idioma Português._
 
 ## Conclusão
 
-Este post é um simples resumo para você que gostaria de aumentar seu arsenal para programação web. Espero que tenham gostado.
-O canal que ocorreu a [youtube live](https://youtube.com/user/jeffotoni)
-O link do PDF da apresentação pode ser encontrado em: [speakerdeck](https:/speakerdeck.com/jeffotoni)
+Este post é um simples resumo para você que gostaria de aumentar seu arsenal para programação web. 
+
+Espero que tenham gostado, e fique a vontade em encontrar em contato para sugestões ou melhorias no post.
+
+
+Todo este assunto foi discutido ao vivo em uma live no youtube:
+
+	- [youtube live](https://youtube.com/user/jeffotoni)
+	- [PDF da apresentação](https://speakerdeck.com/jeffotoni/primeiros-passos-em-go)
