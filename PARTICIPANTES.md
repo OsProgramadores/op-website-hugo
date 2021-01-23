@@ -105,6 +105,7 @@ Ao adicionar o seu nome, por favor observe:
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena             |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein       |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo         |
+| Jean Pablo Costa Dos Santos    | Jesantoxfachmann@gmail.com            | https://github.com/Jesantox               |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto              |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com      | https://github.com/jefersonrodrigostefani |
 | Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim           |
