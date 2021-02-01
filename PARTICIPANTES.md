@@ -98,6 +98,7 @@ Ao adicionar o seu nome, por favor observe:
 | Henrique G. G. Pereira         | oscoder@henrique.email                | https://github.com/ikkebr                 |
 | Hiago Leres da Costa           | hiagoleres2@gmail.com                 | https://github.com/hiagoleresdev          |
 | Higor Carneiro Passos          | higorcpassos@gmail.com                | https://github.com/hcpassos               |
+| Hugo Araujo Rodrigues          | o.hugo@outlook.com                    | https://github.com/oohugo                 |
 | Igor Lima Mendes               | igorlimamendes@protonmail.com         | https://github.com/igorlimamendes         |
 | Igor Santhiago                 | darkunitedpb@gmail.com                | https://github.com/tragedy1990            |
 | Igor Tuag Andrade de Freitas   | igortuag@gmail.com                    | https://github.com/igortuag               |
