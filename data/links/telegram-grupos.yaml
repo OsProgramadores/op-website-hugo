@@ -78,9 +78,9 @@ sources:
   title: "C is LOVE"
   description: "Grupo destinado a assuntos relacionados a Linguagem C"
 
-- url: "https://t.me//ccppbrasil"
+- url: "https://t.me/cppbrazil"
   title: "C/C++ Brasil"
-  description: "Grupo sobre C, C++ e outros assuntos"
+  description: "Grupo de programação C e C++ Brasil."
 
 - url: "https://t.me/cakephpbr"
   title: "CakePHP Brasil"
