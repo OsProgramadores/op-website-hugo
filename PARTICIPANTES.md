@@ -154,6 +154,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim                 |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                | https://github.com/mavinicius95           |
+| Mariana Lira                   | marilira2006@gmail.com                | https://github.com/marilira               |
 | Mario Idival Gomes Duarte      | marioidival@gmail.com                 | https://github.com/marioidival            |
 | Mateus Bittencourt Mercer      | contato@matbm.net                     | https://github.com/MatMercer              |
 | Mateus Franklin                | contato@mateusfranklin.com            | https://github.com/mateusfranklin         |
