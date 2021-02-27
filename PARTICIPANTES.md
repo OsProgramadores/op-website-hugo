@@ -21,6 +21,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alex Almeida Andrade           | alex.aldr@gmail.com                   | https://github.com/alexaldr               |
 | Alex Wong de Freitas           | otaru1921@gmail.com                   | https://github.com/otaru1921              |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com              | https://github.com/Alexandre2539          |
+| Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com           | https://github.com/apfmiranda             |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix                |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien             |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com              | https://github.com/AnaPaulaMazi           |
