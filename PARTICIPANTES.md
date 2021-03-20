@@ -86,6 +86,7 @@ Ao adicionar o seu nome, por favor observe:
 | Francisco Jose de Assis Cunha  | fjacunha@gmail.com                    | https://github.com/fjoseacunha            |
 | Gabriel Dos Santos             | gabriel.santosti01@gmail.com          | https://github.com/GabrielDS              |
 | Gabriel Lampa da Cunha         | gabriellampa@gmail.com                | https://github.com/icaroraci/             |
+| Gabriel Mendonça               | gabrielmendoncanf@gmail.com           | https://github.com/brunoom1               |
 | Gabriel Peixoto                | gpeixoto@gmail.com                    | https://github.com/neuraman               |
 | Gabriel Rocha                  | gabriel.gabrielroch@gmail.com         | https://github.com/G4BR13LR0CH4           |
 | Gabriel Thiago da S. Ferreira  | gabriel.ferreira@dcomp.ufs.br         | https://github.com/GabrielF9              |
