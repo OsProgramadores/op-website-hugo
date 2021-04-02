@@ -229,3 +229,4 @@ Ao adicionar o seu nome, por favor observe:
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill                |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
+| Alesandro Ferreira da Silva    | silva_alesandro@outlook.com           | https://github.com/alleSilva              |
