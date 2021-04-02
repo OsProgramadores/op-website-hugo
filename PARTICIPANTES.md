@@ -185,6 +185,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2                   |
 | Pedro Expedito De Oliveira     | expeditocaf00@gmail.com               | https://github.com/pedroexpedito          |
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
+| Pedro Lôbo Nascimento          | pedrolnascimento2004@gmail.com        | https://github.com/m1thrandirr            |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                 | https://github.com/raffaelleao            |
 | Renata Miranda Rabelo Nésio    | renata.nesio2@gmail.com               | https://github.com/renatanesio            |
@@ -228,4 +229,3 @@ Ao adicionar o seu nome, por favor observe:
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill                |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
-| Pedro Lôbo Nascimento          | pedrolnascimento2004@gmail.com        | https://github.com/m1thrandirr            |
