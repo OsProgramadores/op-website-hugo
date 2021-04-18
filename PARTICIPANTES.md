@@ -210,6 +210,7 @@ Ao adicionar o seu nome, por favor observe:
 | Savio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg                |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr              |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi                |
+| Thiago Costa Barbosa           | prod_t@live.com                       | https://github.com/ThiagoCostaBarbosa     |
 | Thiago Bomfim dos Santos       | bomfimdev@gmail.com                   | https://github.com/BomfimThiago           |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette                |
 | Thiago Soares da Silva         | thiagosantana12@gmail.com             | https://github.com/Thiago-Soares          |
