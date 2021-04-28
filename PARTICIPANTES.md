@@ -117,6 +117,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim           |
 | Jefferson Teixeira             | jeffersonads2019@gmail.com            | https://github.com/jeffteixeira           |
 | Jessica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato          |
+| Jeziel Silva dos Santos        | silvajeziel22@gmail.com               | https://github.com/jezielsilva            |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
 | João José Marques Gonçalves    | jjmg.engenharia@gmail.com             | https://github.com/jjmg-eng               |
