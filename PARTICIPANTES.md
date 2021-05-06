@@ -117,6 +117,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jefferson Seraphim             | jseraphim@gmail.com                   | https://github.com/jeffseraphim           |
 | Jefferson Teixeira             | jeffersonads2019@gmail.com            | https://github.com/jeffteixeira           |
 | Jessica Zanelato Soares        | jessizanelato@gmail.com               | https://github.com/jessizanelato          |
+| Jeziel Silva dos Santos        | silvajeziel22@gmail.com               | https://github.com/jezielsilva            |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
 | João José Marques Gonçalves    | jjmg.engenharia@gmail.com             | https://github.com/jjmg-eng               |
@@ -180,6 +181,7 @@ Ao adicionar o seu nome, por favor observe:
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba                |
 | Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
+| Paulo Cesar Vieira Junior      | junior.vieira.1990@gmail.com          | https://github.com/vieirajunior-90        |
 | Paulo Francis S. de Souza      | paulo.suchoj@gmail.com                | https://github.com/psuchoj                |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro        |
 | Paulo Renato Xavier da Silva   | paulorenatoxs@gmail.com               | https://github.com/paulorenatoxs          |
@@ -223,6 +225,7 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Hugo Gomes Nascimento   | labatata101@linuxmail.org             | https://github.com/LaBatata101            |
 | Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com               | https://github.com/victorhsanjos          |
 | Victor Marques Zamith          | victor.zamith@gmail.com               | https://github.com/vzamith                |
+| Vinicius Becker de Souza       | viniciusdesouza.becker@gmail.com      | https://github.com/viniciusbeckerdesouza  |
 | Vinicius Oliveira Queiroz      | viniciusqueiroz.voq@gmail.com         | https://github.com/ViniciusQueiroz-VQ     |
 | Wanderley Caloni               | wanderley.caloni@bitforge.com.br      | https://github.com/Caloni                 |
 | Washington Araújo Ramos        | No Email                              | https://github.com/WashingtonARamos       |
@@ -233,5 +236,3 @@ Ao adicionar o seu nome, por favor observe:
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill                |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
-
-
