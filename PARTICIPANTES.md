@@ -194,6 +194,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                 | https://github.com/raffaelleao            |
 | Renata Miranda Rabelo Nésio    | renata.nesio2@gmail.com               | https://github.com/renatanesio            |
 | Ricardo Severo                 | ricardosilva.official@outlook.com     | https://github.com/ricardosevero          |
+| Rick-oly                       | hoa98hoa@gmail.com                    | https://github.com/pand-oly               |
 | Roberto Arruda                 | roberto0arruda@hotmail.com            | https://github.com/roberto0arruda         |
 | Robson Alexandre A. Santos     | alexandrerobson@gmail.com             | https://github.com/robsonalexandre        |
 | Rodinei Costa                  | rodineicosta@physistec.com.br         | https://github.com/rodineicosta           |
