@@ -127,6 +127,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jonathan Lopes Pinheiro        | jonathancruzeiro123@gmail.com         | https://github.com/JonathanLopes403       |
 | José Lucas da S. Marques       | devmarques09@gmail.com                | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                | https://github.com/jozemaria              |
+| José Rodrigo de Sousa          | rodrigo.ka1709@gmail.com              | https://github.com/Rodrigo1809            |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                | https://github.com/ojulianos              |
 | Juliano Massanetto             | juliano.massanetto@gmail.com          | https://github.com/JMass1                 |
 | Julio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst               |
