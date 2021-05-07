@@ -121,8 +121,8 @@ Ao adicionar o seu nome, por favor observe:
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com          | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                    | https://github.com/kernelkill             |
 | João José Marques Gonçalves    | jjmg.engenharia@gmail.com             | https://github.com/jjmg-eng               |
+| Joao Paulo Ferreira            | jpferreira.dev@gmail.com              | https://github.com/jpferreiradev          |
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                | https://github.com/jplpanceri             |
-|  Joao Paulo Ferreira            | jpferreira.dev@gmail.com              | https://github.com/jpferreiradev         |
 | Joao Paulo Miranda Matias      | joaopaulomirandamatias@hotmail.com    | https://github.com/joaopaulomirandamatias |
 | João Vitor Astori Saletti      | joaovitorastore@gmail.com             | https://github.com/ancogamer              |
 | Jonathan Lopes Pinheiro        | jonathancruzeiro123@gmail.com         | https://github.com/JonathanLopes403       |
