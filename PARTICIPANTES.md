@@ -159,8 +159,8 @@ Ao adicionar o seu nome, por favor observe:
 | Marcio Filadelfo               | marcio.kabana@gmail.com               | https://github.com/marciofiladelfo        |
 | Marco Antonio Lauriano         | marlauriano@gmail.com                 | https://github.com/MaxKanu                |
 | Marco Antonio Rocha            | mrcrch@marcoantoniorocha.33mail.com   | https://github.com/mrcrch                 |
-| Marcos Rocha                   | No Email                              | https://github.com/rochamrcs              |
 | Marco Túlio R. Zuquim Alves    | tulio@century.net.br                  | https://github.com/Zuquim                 |
+| Marcos Rocha                   | No Email                              | https://github.com/rochamrcs              |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com          | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                | https://github.com/mavinicius95           |
 | Mariana Lira                   | marilira2006@gmail.com                | https://github.com/marilira               |
