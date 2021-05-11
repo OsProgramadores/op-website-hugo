@@ -39,6 +39,7 @@ Ao adicionar o seu nome, por favor observe:
 | Arthur Alves Reis              | art4321@outlook.com.br                | https://github.com/itsArthurAlves         |
 | Arthur Flavio de Abreu Tavares | arthurabreu00@gmail.com               | https://github.com/arthurabreu00          |
 | Arthur Rocha Fontes            | arthur9869@gmail.com                  | https://github.com/Arthurrochaa           |
+| Augusto Cézar Lisboa Dionísio  | yigudos@gmail.com                     | https://github.com/yigudo                 |
 | Augusto da Silva Costa         | contato@guto.pro.br                   | https://github.com/gutocosta              |
 | Axel Crispim                   | axel.cris2011@gmail.com               | https://github.com/ZartRock               |
 | Bassam Basil Junior            | bassambjg5@gmail.com                  | https://github.com/Bassambj               |
