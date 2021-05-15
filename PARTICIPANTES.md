@@ -31,7 +31,7 @@ Ao adicionar o seu nome, por favor observe:
 | André Carvalhais               | carvalhais1981@gmail.com              | https://github.com/carvalhais             |
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br         | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                | https://github.com/andresansil            |
-| Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonyfisicabsb       |
+| Anthony Louis G. Ferreira      | anthony.physis@gmail.com              | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com              | https://github.com/antonioGabrielGomes    |
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com               | https://github.com/Note45                 |
 | Ariane Carvalho                | carvalhobva@gmail.com                 | https://github.com/arianevcarvalho        |
