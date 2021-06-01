@@ -188,6 +188,7 @@ Ao adicionar o seu nome, por favor observe:
 | Paulo Cesar Vieira Junior      | junior.vieira.1990@gmail.com          | https://github.com/vieirajunior-90        |
 | Paulo Francis S. de Souza      | paulo.suchoj@gmail.com                | https://github.com/psuchoj                |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro        |
+| Paulo Martins                  | paulo@pmartins.dev.br                 | https://github.com/paullomarttins         |
 | Paulo Renato Xavier da Silva   | paulorenatoxs@gmail.com               | https://github.com/paulorenatoxs          |
 | Pedro Antonio Brito Campos     | Sirpedro49@gmail.com                  | https://github.com/Punkuchiha             |
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2                   |
