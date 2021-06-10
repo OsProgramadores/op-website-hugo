@@ -16,7 +16,7 @@ Sim, desde que X seja ligado a programação e a computadores em geral. A conver
 
 ## Posso colocar anúncios de emprego no grupo?
 
-Anúncios de emprego não devem ser postados no grupo. Há inúmeros outros grupos onde tais anúncios podem ser postados. Obrigado!
+Anúncios de empregos de qualquer forma são expressamente proibidos no grupo, sujeitando o usuário a banimento.
 
 ## Posso enviar fotos da minha tela mostrando o meu problema?
 
