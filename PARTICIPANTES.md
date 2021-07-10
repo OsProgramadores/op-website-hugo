@@ -148,7 +148,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Dantas de Oliveira       | ldantasdev@gmail.com                  | https://github.com/lucantas               |
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br         | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br          | https://github.com/Harrisoned             |
-| Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/LucasGon7              |
+| Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/lucasmgon              |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com               | https://github.com/lucasbrito-dev         |
 | Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br               | https://github.com/viniborges             |
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com              | https://github.com/luizcmf                |
