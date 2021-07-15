@@ -220,6 +220,7 @@ Ao adicionar o seu nome, por favor observe:
 | Savio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg                |
 | Suzane da Silva Melo           | melo.suzane.89@gmail.com              | https://github.com/SuzaneMelo             |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr              |
+| Theo Antolin Diamantino        | theoantolin0@gmail.com                | https://github.com/theoantolin            |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi                |
 | Thiago Bomfim dos Santos       | bomfimdev@gmail.com                   | https://github.com/BomfimThiago           |
 | Thiago Costa Barbosa           | prod_t@live.com                       | https://github.com/ThiagoCostaBarbosa     |
