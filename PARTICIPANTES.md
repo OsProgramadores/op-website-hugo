@@ -142,6 +142,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn                |
 | Leo Silva Souza                | leovano@protonmail.com                | https://github.com/leovano                |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com              | https://github.com/galloaleonardo         |
+| Letícia Fontoura               | leticia.fontoura@live.com             | https://github.com/leticiafontoura        |
 | Letícia Freire                 | leticiafcs4@gmail.com                 | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                | https://github.com/ligiasalzano           |
 | Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com               | https://github.com/Cegielkowski           |
