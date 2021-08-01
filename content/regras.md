@@ -14,6 +14,8 @@ Este documento contém um conjunto de regras básicas para o uso do grupo. Os ad
 
 ## Regras básicas
 
+Em caso de dúvida pergunte antes de postar sua mensagem no grupo. Assim podemos evitar frustrações para todos.
+
 Tópicos e comportamentos **expressamente proibidos** no grupo (resultam em banimento imediato na maioria dos casos):
 
 * Spam de qualquer forma (comercial, religioso, político, etc).
@@ -21,10 +23,11 @@ Tópicos e comportamentos **expressamente proibidos** no grupo (resultam em bani
 * Pregação política.
 * **Qualquer atividade ilegal**, como promoção de pirataria de qualquer forma, estelionato, "hacking", "carding", troca de dados obtidos de forma ilegal, venda ou consumo de drogas, etc (independente da sua opinião sobre o assunto).
 * Ataques pessoais ou perseguição de qualquer forma.
+* Abordar participantes do grupo em privado para oferecer serviços de qualquer tipo.
+* Anúncios de ofertas de emprego. 
 
 Comportamentos não recomendados:
 
-* Anúncios de ofertas de emprego. Ao invés de postar um anúncio inteiro, sugerimos uma mensagem discreta para o grupo na linha de "Tenho empregos imediatos pra posição X, maiores detalhes contate-me em privado".
 * Envio de muitas mensagens com apenas uma linha: Tente separar as mensagens em unidades que façam sentido. Uma linha por mensagem torna a leitura cansativa.
 * Envio excessivo de mensagens.
 * Envio de mensagens sem sentido (como sequências longas de stickers ou memes que não se encaixam com o tópico sendo discutido)
