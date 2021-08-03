@@ -225,6 +225,7 @@ Ao adicionar o seu nome, por favor observe:
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi                |
 | Thiago Bomfim dos Santos       | bomfimdev@gmail.com                   | https://github.com/BomfimThiago           |
 | Thiago Costa Barbosa           | prod_t@live.com                       | https://github.com/ThiagoCostaBarbosa     |
+| Thiago Lima de Souza           | thiagolsmail@gmail.com                | https://github.com/thiagosouzalink        |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette                |
 | Thiago Soares da Silva         | thiagosantana12@gmail.com             | https://github.com/Thiago-Soares          |
 | Tiago Dias Batista             | tiago@webdeleve.net                   | https://github.com/tigo-di                |
