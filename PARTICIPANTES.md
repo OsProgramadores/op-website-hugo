@@ -248,3 +248,4 @@ Ao adicionar o seu nome, por favor observe:
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
 | Zilton Sales                   | No Email                              | https://github.com/sokolov13              |
+| Edesio Costa Bernardo Junior   | edesiojnr@gmail.com                   | https://github.com/edesiojnr              |
