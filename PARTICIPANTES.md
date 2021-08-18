@@ -67,6 +67,7 @@ Ao adicionar o seu nome, por favor observe:
 | Diogo Fernandes de Queiroz     | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz          |
 | Diogo Gaspar                   | ghostlabz@gmail.com                   | https://github.com/TheRealGaspar          |
 | Douglas Fiedler                | dognew@gmail.com                      | https://github.com/dognew                 |
+| Edesio Costa Bernardo Junior   | edesiojnr@gmail.com                   | https://github.com/edesiojnr              |
 | Edipo Avelino dos Santos Palha | edipocba@gmail.com                    | https://github.com/edipocba               |
 | Eduardo Felipe Lopes           | edufelopes@hotmail.com                | https://github.com/raikon55               |
 | Eduardo Figueiredo Gonçalves   | goncalves.ef@gmail.com                | https://github.com/eduardofg87            |
