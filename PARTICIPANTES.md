@@ -211,6 +211,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rodrigo Blaudt Lima da Silva   | rodrigo.blaudt@outlook.com            | https://github.com/RodrigoBlaudt          |
 | Rodrigo Duarte de O. Toledo    | rodrigotoledo7@gmail.com              | https://github.com/rodrigotoledo7         |
 | Rodrigo Freitas                | fwtrodrigo@gmail.com                  | https://github.com/fwtrodrigo             |
+| Rodrigo Reis Paulino           | rdrpo2014@gmail.com                   | https://github.com/R0drig                 |
 | Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira     |
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira           |
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com              | https://github.com/ronanlutiane           |
