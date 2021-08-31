@@ -153,7 +153,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/lucasmgon              |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com               | https://github.com/lucasbrito-dev         |
 | Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br               | https://github.com/viniborges             |
-| Lucas Vinicius de Lima Correa   | lucascorrea.ads01@gmail.com                    | https://github.com/lucascorreaads                |
+| Lucas Vinicius de Lima Correa  | lucascorrea.ads01@gmail.com           | https://github.com/lucascorreaads         |
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com              | https://github.com/luizcmf                |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr           |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol               |
