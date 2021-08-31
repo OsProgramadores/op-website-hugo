@@ -152,6 +152,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br          | https://github.com/Harrisoned             |
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/lucasmgon              |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com               | https://github.com/lucasbrito-dev         |
+| Lucas Vinicius de Lima Corrêa  | lucascorrea.ads01@gmail.com           | https://github.com/lucascorreaads         |
 | Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br               | https://github.com/viniborges             |
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com              | https://github.com/luizcmf                |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr           |
