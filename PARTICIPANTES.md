@@ -159,6 +159,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Torres Junior             | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr           |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                | https://github.com/maagwiin               |
+| Marcel Almeida                 | marcel_amd@hotmail.com                | https://github.com/mmarcel                |
 | Marcelo de Oliveira da S. Jr.  | marcelo_rde@yahoo.com.br              | https://github.com/Marcelo391             |
 | Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Marcelo Kortkamp               | marcelusmedius@gmail.com              | https://github.com/kortkamp               |
