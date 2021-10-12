@@ -149,7 +149,7 @@ Ao adicionar o seu nome, por favor observe:
 | Letícia Fontoura               | leticia.fontoura@live.com             | https://github.com/leticiafontoura        |
 | Letícia Freire                 | leticiafcs4@gmail.com                 | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                | https://github.com/ligiasalzano           |
-| Luan da Costa Redmann           | luandacostaredmann@gmail.com         | https://github.com/redmanndotsh
+| Luan da Costa Redmann           | luandacostaredmann@gmail.com         | https://github.com/redmanndotsh           |
 | Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com               | https://github.com/Cegielkowski           |
 | Lucas Dantas de Oliveira       | ldantasdev@gmail.com                  | https://github.com/lucantas               |
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br         | https://github.com/lucassilvagc           |
