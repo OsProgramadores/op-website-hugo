@@ -140,6 +140,7 @@ Ao adicionar o seu nome, por favor observe:
 | Juscelino Junior               | juscelinodjj@gmail.com                | https://github.com/juscelinodjj           |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos             |
 | Kaio Cezar Araujo Rodrigues    | kaiocarodrigues@gmail.com             | https://github.com/redkaio                |
+| Kézia Ketillen Santos Lima     | k.ketillen@escolar.ifrn.edu.br        | https://github.com/Kk3tillen              |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                | https://github.com/kyldery                |
 | Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn                |
 | Leo Silva Souza                | leovano@protonmail.com                | https://github.com/leovano                |
