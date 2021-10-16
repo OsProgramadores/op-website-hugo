@@ -154,6 +154,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br         | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br          | https://github.com/Harrisoned             |
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/lucasmgon              |
+| Lucas Rodrigues Santos         | rodrigues-i@outlook.com               | https://github.com/rodrigues-i            |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com               | https://github.com/lucasbrito-dev         |
 | Lucas Vinicius de Lima Corrêa  | lucascorrea.ads01@gmail.com           | https://github.com/lucascorreaads         |
 | Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br               | https://github.com/viniborges             |
