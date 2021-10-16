@@ -61,6 +61,7 @@ Ao adicionar o seu nome, por favor observe:
 | Daniel Samper                  | dr.hongo@gmail.com                    | https://github.com/daniel-samper          |
 | Danrley Senegalha Pires        | dansenpir@protonmail.com              | https://github.com/dansenpir              |
 | David GesRob                   | david81br@gmail.com                   | https://github.com/david81brs             |
+| Davidson Lucas                 | dvdsoncomp@gmail.com                  | https://github.com/dvdson                 |
 | Denis Almeida                  | denis.meida@gmail.com                 | https://github.com/denisvba               |
 | Diego Roberto Silva Nonato     | nonatodiego@hotmail.com               | https://github.com/nonatodiego            |
 | Diogo Anderson de O. Silva     | diogoaos@gmail.com                    | https://github.com/diogoaos               |
