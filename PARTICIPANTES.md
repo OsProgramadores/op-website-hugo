@@ -230,6 +230,7 @@ Ao adicionar o seu nome, por favor observe:
 | Savio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg                |
 | Suzane da Silva Melo           | melo.suzane.89@gmail.com              | https://github.com/SuzaneMelo             |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr              |
+| Talita Santos Costa Ribeiro    | talitacostatj@gmail.com               | https://github.com/talita048              |
 | Theo Antolin Diamantino        | theoantolin0@gmail.com                | https://github.com/theoantolin            |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi                |
 | Thiago Bomfim dos Santos       | bomfimdev@gmail.com                   | https://github.com/BomfimThiago           |
@@ -257,4 +258,3 @@ Ao adicionar o seu nome, por favor observe:
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
 | Zilton Sales                   | No Email                              | https://github.com/sokolov13              |
-| Talita Santos Costa Ribeiro    | talitacostatj@gmail.com               | https://github.com/talita048              |
