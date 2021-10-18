@@ -47,6 +47,7 @@ Ao adicionar o seu nome, por favor observe:
 | Breno Ferreira Lima            | brenoferreiralima@gmail.com           | https://github.com/brenoferreiralima      |
 | Bruno Santana Andrade          | brunosanadev@gmail.com                | https://github.com/brunosana              |
 | Brunno Nascimento de Sousa     | brunnonasc@outlook.com                | https://github.com/brunnonasc             |
+| Daniel Carvalho                | codecodic7@gmail.com                  | https://github.com/KDEboy                 |
 | Caio Cavalcanti Slompo Muniz   | caiocsmuniz1@gmail.com                | https://github.com/caiomuniz              |
 | Carlos Alves                   | cbcalves@gmail.com                    | https://github.com/cbcalves               |
 | Carlos Henrique Leal da cruz   | carloshlc@hotmail.com                 | https://github.com/carloshlc007           |
