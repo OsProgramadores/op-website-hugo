@@ -10,7 +10,7 @@ markup = "markdown"
 
 A maior parte das discussões acontece no nosso grupo no Telegram ([@OsProgramadores](https://t.me/OsProgramadores)). O objetivo do grupo é oferecer um local informal e descontraído para a troca de informações, dúvidas e conversas em geral sobre computadores e tópicos relacionados.
 
-Este documento contém um conjunto de regras básicas para o uso do grupo. Os administradores **fortemente recomendam a leitura deste documento para todos os participantes do grupo**.
+Este documento contém um conjunto de regras básicas para o uso do grupo. Os administradores **fortemente recomendam a leitura deste documento para todos os participantes do grupo**. Também recomenda-se a leitura das nossas [Perguntas Frequentes - FAQ](https://osprogramadores.com/faq)
 
 ## Regras básicas
 
