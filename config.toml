@@ -13,11 +13,6 @@ paginate = 12
 [menu]
 
 [[menu.main]]
-    name = "Regras"
-    url  = "/regras/"
-    weight = 1
-
-[[menu.main]]
     name = "Blog"
     url  = "/blog/"
     weight = 2
@@ -38,9 +33,21 @@ paginate = 12
     weight = 5
 
 [[menu.main]]
+    name = "Sobre"
+    url  = "#"
+    weight = 6
+
+[[menu.main]]
+    name = "Regras"
+    url  = "/regras/"
+    parent = "Sobre"
+    weight = 1
+
+[[menu.main]]
     name = "FAQ"
     url  = "/faq/"
-    weight = 6
+    parent = "Sobre"
+    weight = 2
 
 [[menu.main]]
     name = "Hi-Scores"
