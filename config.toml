@@ -135,4 +135,5 @@ paginate = 12
     title = "Artigos Recentes"
     subtitle = ""
 
-
+[markup.goldmark.renderer]
+    unsafe= true
