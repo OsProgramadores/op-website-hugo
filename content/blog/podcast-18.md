@@ -54,4 +54,4 @@ Também viajamos bastante dentro e fora do Brasil, antes de nos mudarmos para a 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
 
 
-{{< spotify type="episode" id="2v70WqtgRUkTA3ha7IUPFw" width="80%">}}
+{{< spotify type="episode" id="6tHL8wnQApSF6toGJ4o0t1" width="80%">}}
