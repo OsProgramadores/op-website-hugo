@@ -15,7 +15,7 @@ No momento é líder técnico de iOS na [ioasys](https://ioasys.com.br/) e lider
 
 Quando esta longe dos códigos está sempre pedalando ou lendo algum livro sobre o sertão nordestino.
 
-**Recomendações:**
+**Links:**
 
 [Github do Itamar](https://github.com/itamarsilva00)
 
