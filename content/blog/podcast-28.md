@@ -1,5 +1,5 @@
 +++
-date = "2021-02-14T12:00:00-03:00"
+date = "2021-02-21T12:00:00-03:00"
 title = "Podcast E28 - Elyézer Rezende"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
