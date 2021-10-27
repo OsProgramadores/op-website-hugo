@@ -10,7 +10,7 @@ banner = "img/banners/podcast-400px.png"
 
 Tomaz Canabrava trabalha com C++ e tecnologias do [KDE](https://kde.org/) por aproximadamente 15 anos. É um dos maiores contribuidores do [Subsurface](https://subsurface-divelog.org/) - o gerenciador de mergulho iniciado por [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), e um dos mais ativos desenvolvedores de [Software Livre](https://pt.wikipedia.org/wiki/Software_livre) do Brasil. Tendo contribuído com mais de 20 projetos. Quando não está trabalhando está fazendo origami ou organizando encontro de abraços gratis
 
-**Recomendações:**
+**Links:**
 
 [Linux](https://en.wikipedia.org/wiki/Linux)
 
