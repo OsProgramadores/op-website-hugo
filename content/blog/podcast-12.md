@@ -25,7 +25,7 @@ Carioca, desenvolvedora há 18 anos, trabalhou com [Delphi](https://www.embarcad
 
 [Vanhack](https://vanhack.com/)
 
-[Grupo Ti no Canada no Telegram]9https://t.me/tinocanada
+[Grupo Ti no Canada no Telegram](https://t.me/tinocanada)
 
 
 **Os Programadores**
