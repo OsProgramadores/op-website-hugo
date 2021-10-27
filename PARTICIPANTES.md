@@ -23,6 +23,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alex Almeida Andrade           | alex.aldr@gmail.com                   | https://github.com/alexaldr               |
 | Alex Wong de Freitas           | otaru1921@gmail.com                   | https://github.com/otaru1921              |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com              | https://github.com/Alexandre2539          |
+| Alexandre Pierre               | alexandrempierre@gmail.com            | https://github.com/alexandrempierre       |
 | Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com           | https://github.com/apfmiranda             |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix                |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien             |
@@ -61,6 +62,7 @@ Ao adicionar o seu nome, por favor observe:
 | Daniel Samper                  | dr.hongo@gmail.com                    | https://github.com/daniel-samper          |
 | Danrley Senegalha Pires        | dansenpir@protonmail.com              | https://github.com/dansenpir              |
 | David GesRob                   | david81br@gmail.com                   | https://github.com/david81brs             |
+| Davidson Lucas                 | dvdsoncomp@gmail.com                  | https://github.com/dvdson                 |
 | Denis Almeida                  | denis.meida@gmail.com                 | https://github.com/denisvba               |
 | Diego Roberto Silva Nonato     | nonatodiego@hotmail.com               | https://github.com/nonatodiego            |
 | Diogo Anderson de O. Silva     | diogoaos@gmail.com                    | https://github.com/diogoaos               |
@@ -111,6 +113,7 @@ Ao adicionar o seu nome, por favor observe:
 | Igor Lima Mendes               | igorlimamendes@protonmail.com         | https://github.com/igorlimamendes         |
 | Igor Santhiago                 | darkunitedpb@gmail.com                | https://github.com/tragedy1990            |
 | Igor Tuag Andrade de Freitas   | igortuag@gmail.com                    | https://github.com/igortuag               |
+| Isaac Marlon da Silva Lourenço | isaacmarlondasilvalourenco@gmail.com  | https://github.com/isaacmsl               |
 | Isabella Santos de Souza       | isabellasdesouza@outlook.com          | https://github.com/isabellsantoss         |
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena             |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein       |
@@ -139,10 +142,12 @@ Ao adicionar o seu nome, por favor observe:
 | Juscelino Junior               | juscelinodjj@gmail.com                | https://github.com/juscelinodjj           |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos             |
 | Kaio Cezar Araujo Rodrigues    | kaiocarodrigues@gmail.com             | https://github.com/redkaio                |
+| Kézia Ketillen Santos Lima     | k.ketillen@escolar.ifrn.edu.br        | https://github.com/Kk3tillen              |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                | https://github.com/kyldery                |
 | Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn                |
 | Leo Silva Souza                | leovano@protonmail.com                | https://github.com/leovano                |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com              | https://github.com/galloaleonardo         |
+| Leonardo Steffen               | No Email                              | https://github.com/leonhar001             |
 | Letícia Fontoura               | leticia.fontoura@live.com             | https://github.com/leticiafontoura        |
 | Letícia Freire                 | leticiafcs4@gmail.com                 | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                | https://github.com/ligiasalzano           |
@@ -151,12 +156,15 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br         | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br          | https://github.com/Harrisoned             |
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com             | https://github.com/lucasmgon              |
+| Lucas Rodrigues Santos         | rodrigues-i@outlook.com               | https://github.com/rodrigues-i            |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com               | https://github.com/lucasbrito-dev         |
+| Lucas Vinicius de Lima Corrêa  | lucascorrea.ads01@gmail.com           | https://github.com/lucascorreaads         |
 | Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br               | https://github.com/viniborges             |
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com              | https://github.com/luizcmf                |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com              | https://github.com/luiztorresjr           |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                | https://github.com/maagwiin               |
+| Marcel Almeida                 | marcel_amd@hotmail.com                | https://github.com/mmarcel                |
 | Marcelo de Oliveira da S. Jr.  | marcelo_rde@yahoo.com.br              | https://github.com/Marcelo391             |
 | Marcelo De Souza Batista       | batista.marcelo34@gmail.com           | https://github.com/marcellobatiista       |
 | Marcelo Kortkamp               | marcelusmedius@gmail.com              | https://github.com/kortkamp               |
