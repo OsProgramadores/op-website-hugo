@@ -6,7 +6,7 @@ tags = ["podcast","osprogramadores"]
 banner = "img/banners/podcast-400px.png"
 +++
 
-### osé Valim - Criador da Linguagem Elixir e Chief Adoption Officer at @dashbit
+### José Valim - Criador da Linguagem Elixir e Chief Adoption Officer at @dashbit
 
 José Valim é o criador da linguagem [Elixir](https://elixir-lang.org/) e fundador da [Plataformatec](https://plataformatec.com/en/). José é árduo incentivador de projetos de código aberto e atualmente reside com a família na Polônia e é o Chief Adoption Officer da [@dashbit](https://dashbit.co/). José se formou em Engenharia pela [Escola Politécnica da Universidade de São Paulo](https://www.poli.usp.br/) e possui Mestrado em Ciência da Computação pela [Politécnica de Torino](https://www.polito.it/?lang=en), na Itália.
 
