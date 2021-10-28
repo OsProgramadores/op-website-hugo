@@ -11,6 +11,9 @@ banner = "img/banners/podcast-400px.png"
 Og Maciel é Diretor de Engenharia de Qualidade na [Red Hat](https://www.redhat.com/en) e trabalhou nos últimos 8 anos para montar um time faixa preta de Engenheiros de Qualidade que são responsáveis pela automação de sistemas complexos e pela entrega de produtos de qualidade através do uso de processos de entrega continua. O Og é também um autor publicado, podcaster, pai e um leitor assíduo
 
 
+{{< spotify type="episode" id="1UiHrHHTdFGcq7xE7vlpg3" width="80%">}}
+
+
 **Links:**
 
 [Tales From The Trenches](https://www.amazon.com.br/Software-Quality-Engineering-Trenches-English-ebook/dp/B07PN1GZMM/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Tales+From+The+Trenches&qid=1601259073&sr=8-2)
@@ -29,6 +32,3 @@ Og Maciel é Diretor de Engenharia de Qualidade na [Red Hat](https://www.redhat.
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="1UiHrHHTdFGcq7xE7vlpg3" width="80%">}}

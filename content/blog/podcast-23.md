@@ -10,6 +10,10 @@ banner = "img/banners/podcast-400px.png"
 
 Eduardo Cuducos é Bacharel em Artes em Design Gráfico pela [Universidade de Santa Catarina](https://ufsc.br/) e PhD em sociologia pela [University of Essex](https://www.essex.ac.uk/) no Reino Unido. Eduardo é um dos co-fundadores do projeto [Operação Serenata de Amor](https://serenata.ai/) e fundador e colaborador de vários projetos open source e atualmente é desenvolvedor na Shopify.
 
+
+{{< spotify type="episode" id="7ma2b4s6zffK4W5e4EaWKV" width="80%">}}
+
+
 **Links:**
 
 [Twitter do Cuducos](https://twitter.com/cuducos/)
@@ -36,6 +40,3 @@ Eduardo Cuducos é Bacharel em Artes em Design Gráfico pela [Universidade de Sa
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="7ma2b4s6zffK4W5e4EaWKV" width="80%">}}

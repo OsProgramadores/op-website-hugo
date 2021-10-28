@@ -11,6 +11,9 @@ banner = "img/banners/podcast-400px.png"
 Elyézer Rezende é Principal Software Quality Engineer na [Red Hat Inc.](https://www.redhat.com/en), apresentador do [Castálio Podcast](https://castalio.info/), um dos mais tradicionais podcasts de tecnologia do Brasil, Pythonista desde 2008, usuário [Vim](https://www.vim.org/), entusiasta de Software Open Source e Pai. Atualmente mora nos Estados Unidos e nas horas vagas gosta de apreciar uma boa cerveja.
 
 
+{{< spotify type="episode" id="5a3HQO5KwWmWU1OojbruHw" width="80%">}}
+
+
 **Links:**
 
 [Twitter do Elyézer](https://twitter.com/elyezer)
@@ -57,6 +60,3 @@ Elyézer Rezende é Principal Software Quality Engineer na [Red Hat Inc.](https:
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="5a3HQO5KwWmWU1OojbruHw" width="80%">}}

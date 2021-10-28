@@ -20,6 +20,10 @@ Mais recentemente também fui apresentado, é depois de velho já, ao RPG de mes
 
 Também viajamos bastante dentro e fora do Brasil, antes de nos mudarmos para a Holanda. 
 
+
+{{< spotify type="episode" id="6tHL8wnQApSF6toGJ4o0t1" width="80%">}}
+
+
 **Links:**
 
 [Linkedin do João Paulo](https://www.linkedin.com/in/joaopaulojpr)
@@ -52,6 +56,3 @@ Também viajamos bastante dentro e fora do Brasil, antes de nos mudarmos para a 
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="6tHL8wnQApSF6toGJ4o0t1" width="80%">}}

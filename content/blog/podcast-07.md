@@ -11,6 +11,9 @@ banner = "img/banners/podcast-400px.png"
 Ellen Körbes é DevRel na [Tilt](https://tilt.dev/) e anteriormente na [Garden](https://garden.io/). Ellen é também [Google Developer Expert](https://developers.google.com/community/experts) especializada em [Go](https://golang.org/) e [CNCF](https://www.cncf.io/) Ambassador. Ela começou a trabalhar com a criação de [Kubernetes](https://kubernetes.io/) [CLI](https://en.wikipedia.org/wiki/Command-line_interface) tooling através do [SIG-CLI](https://github.com/kubernetes/community/tree/master/sig-cli) e foi palestrante sobre Go e Kubernetes em vários eventos de renome pelo mundo.
 
 
+{{< spotify type="episode" id="6cAB5rICd7i3kMXFH6feuR" width="80%">}}
+
+
 **Links:**
 
 [Twitter da Ellen](https://twitter.com/ellenkorbes)
@@ -37,6 +40,3 @@ Ellen Körbes é DevRel na [Tilt](https://tilt.dev/) e anteriormente na [Garden]
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="6cAB5rICd7i3kMXFH6feuR" width="80%">}}

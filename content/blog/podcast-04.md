@@ -15,6 +15,10 @@ No momento é líder técnico de iOS na [ioasys](https://ioasys.com.br/) e lider
 
 Quando esta longe dos códigos está sempre pedalando ou lendo algum livro sobre o sertão nordestino.
 
+
+{{< spotify type="episode" id="5r8TpoqQCANKwXoDL6VQuV" width="80%">}}
+
+
 **Links:**
 
 [Github do Itamar](https://github.com/itamarsilva00)
@@ -34,6 +38,3 @@ Quando esta longe dos códigos está sempre pedalando ou lendo algum livro sobre
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="5r8TpoqQCANKwXoDL6VQuV" width="80%">}}

@@ -13,12 +13,14 @@ Fernando Masanori é docente da [FATEC São José dos Campos](https://fatecsjc-p
 Nos últimos anos tem feito um esforço especial para divulgação de Python para o Jornalismo de Dados. Ministrou cursos para jornalistas na Editora Abril, Folha de SP e LabJor Unicamp. E para o público geral em Maceió ([OxE Hacker Clube](http://oxehacker.club/)), Salvador (Raul Hacker Clube), Uberlândia (UFU Economia), São Paulo ([Coletividad](https://coletividad.org/region/sao-paulo/)), Manaus ([Coletivo Difusão](https://www.facebook.com/coletivodifusao/)), [USP São Carlos](http://www.saocarlos.usp.br/), [Federal de São Carlos](https://www2.ufscar.br/), [UDESC Joinville](https://www.udesc.br/cct/home). Totalizou 26 workshops dedicados à jornalistas no segundo semestre do último ano. Ministrou um curso especial de 3 meses, patrocinado pelo [Google News](https://news.google.com/), para jornalistas de [Folha de São Paulo](https://www.folha.uol.com.br/), com produção de mais de 20 matérias.
 
 
+{{< spotify type="episode" id="1IzCUVw0D0rris0F5n9O2g" width="80%">}}
+
+
 **Links:**
 
 [Fernando Masanori](https://fmasanori.com/)
 
 É o criador do [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/).
-
 
 
 **Os Programadores**
@@ -28,6 +30,3 @@ Nos últimos anos tem feito um esforço especial para divulgação de Python par
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="1IzCUVw0D0rris0F5n9O2g" width="80%">}}

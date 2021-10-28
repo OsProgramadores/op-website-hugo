@@ -18,6 +18,10 @@ Além de programar, ele gosta de beber cerveja, andar de skate e conhecer novos 
 
 Armando é um dos moderadores do grupo [Programando na Gringa no Telegram](https://t.me/programandonagringa), onde ele ajuda outros desenvolvedores a começarem uma carreira fora do Brasil
 
+
+{{< spotify type="episode" id="5kkbAkTf1A1afiUBZmNzTQ" width="80%">}}
+
+
 **Links:**
 
 Dica de Livro: [Working Effectively with Legacy Code](https://www.amazon.ca/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
@@ -30,6 +34,3 @@ Dica de Livro: [Working Effectively with Legacy Code](https://www.amazon.ca/Work
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="5kkbAkTf1A1afiUBZmNzTQ" width="80%">}}

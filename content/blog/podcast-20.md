@@ -10,6 +10,10 @@ banner = "img/banners/podcast-400px.png"
 
 Etiene Dalcol é desenvolvedora há 11 anos, formada em Engenharia de Software pela [ENSTA Bretagne](https://www.ensta-bretagne.fr/fr) e mestre em Linguística Computacional pela [Queen Mary University of London](https://www.qmul.ac.uk/). Atualmente está criando [Polygloss](https://play.google.com/store/apps/details?id=app.polygloss.polygloss_app&hl=en_CA&gl=US), um aplicativo para aprender a se expressar em outro idioma.  Antes disso participou de várias Hackatonas, desenvolveu o [Sailor](https://github.com/sailorproject/sailor), um framework em [Lua](https://www.lua.org/), organizou duas edições da [LuaConf](http://luaconf.com/#coc) e participou do [Google Summer of Code](https://summerofcode.withgoogle.com) pelo [LabLua](http://www.lua.inf.puc-rio.br/). Passou por vários países estudando, dando palestras e nas horas vagas ela adora estudar idiomas, brincando com Alemão, Espanhol e Grego.
 
+
+{{< spotify type="episode" id="2wfm9mA2E2NMcDKdKygmPW" width="80%">}}
+
+
 **Links:**
 
 [Twitter da Etiene](https://twitter.com/etiene_d)
@@ -30,6 +34,3 @@ Livro: [As Veias abertas da America Latina ](https://www.amazon.com.br/As-Veias-
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="2wfm9mA2E2NMcDKdKygmPW" width="80%">}}
