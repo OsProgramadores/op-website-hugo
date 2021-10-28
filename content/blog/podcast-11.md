@@ -15,6 +15,9 @@ Especialista em [SAP](https://www.sap.com/), trabalha na área de TI há 32 anos
 O Renato foi um dos primeiros brasileiros a ter [apps para iPhone](http://renato-pessanha.com/) publicados na App Store.
 
 
+{{< spotify type="episode" id="51LrtabXGDIPTJrkuMK5V8" width="80%">}}
+
+
 **Links:**
 
 [Sapiens: Uma Breve Historia da Humanidade](https://www.amazon.com/Sapiens-Historia-Humanidade-Portugues-Brasil/dp/8525432180)
@@ -31,6 +34,3 @@ O Renato foi um dos primeiros brasileiros a ter [apps para iPhone](http://renato
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="51LrtabXGDIPTJrkuMK5V8" width="80%">}}

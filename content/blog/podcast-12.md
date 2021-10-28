@@ -11,6 +11,9 @@ banner = "img/banners/podcast-400px.png"
 Carioca, desenvolvedora há 18 anos, trabalhou com [Delphi](https://www.embarcadero.com/products/delphi), [Visual Basic](https://visualstudio.microsoft.com/), [Ruby on Rails](https://rubyonrails.org/) e atualmente trabalha com customização para implantações [Salesforce](https://www.salesforce.com/ca/) e reside na região de [Vancouver no Canadá](https://vancouver.ca/).
 
 
+{{< spotify type="episode" id="7iYX9MFeIKOKvMOaQPn3Tb" width="80%">}}
+
+
 **Links:**
 
 [Trailblazers SalesForce](https://trailblazers.salesforce.com/)
@@ -35,6 +38,3 @@ Carioca, desenvolvedora há 18 anos, trabalhou com [Delphi](https://www.embarcad
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="7iYX9MFeIKOKvMOaQPn3Tb" width="80%">}}

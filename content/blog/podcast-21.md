@@ -14,6 +14,10 @@ Ele começou sua carreira como sócio da Paralelo Computação, empresa de Niter
 
 Atualmente, Gilliard é Senior Game Designer dos [jogos da série FIFA](https://www.ea.com/games/fifa/fifa-21?setLocale=en-us) na [EA Vancouver](https://www.ea.com/en-ca), tendo participado do desenvolvimento de mais de 15 games da franquia em três diferentes gerações de consoles. Ele compartilha suas experiências com a comunidade brasileira de games no [PodQuest](http://www.podquest.com.br/), um podcast semanal em português sobre games e desenvolvimento na indústria internacional, com mais de 350 episódios publicados.
 
+
+{{< spotify type="episode" id="15QwA0ZgGpWEjbXMF6xRf0" width="80%">}}
+
+
 **Links:**
 
 [Twitter do Gilliard](https://twitter.com/grunglopes)
@@ -44,6 +48,3 @@ Livro: [Masters of Doom](https://www.amazon.ca/Masters-Doom-Created-Transformed-
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="15QwA0ZgGpWEjbXMF6xRf0" width="80%">}}

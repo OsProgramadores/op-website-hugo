@@ -15,6 +15,9 @@ Ao longo dos anos, desenvolveu uma série de projetos de software livre: co-fund
 Atualmente, Hisham é gerente de produto na Kong, trabalhando no [Kong](https://konghq.com/) Gateway, o gateway de APIs para microsserviços de código aberto mais popular do mundo. Nas horas vagas, vem desenvolvendo um dialeto estaticamente tipado da linguagem Lua chamado [Teal](https://github.com/teal-language/tl). Hisham tem um doutorado em informática pela [PUC-Rio](http://www.puc-rio.br/) na área de linguagens de programação e como hobby na pandemia tem postado suas aventuras musicais no YouTube.
 
 
+{{< spotify type="episode" id="6zmbdjzm3YBs7K0cgsvttb" width="80%">}}
+
+
 **Links:**
 
 [Hisham no Twitter](https://twitter.com/hisham_hm)
@@ -31,6 +34,3 @@ Atualmente, Hisham é gerente de produto na Kong, trabalhando no [Kong](https://
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="6zmbdjzm3YBs7K0cgsvttb" width="80%">}}

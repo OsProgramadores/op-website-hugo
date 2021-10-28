@@ -10,6 +10,10 @@ banner = "img/banners/podcast-400px.png"
 
 O professor Paulo Eustáquio é formado em Engenharia Eletrônica pelo [Instituto Tecnológico da Aeronáutica](http://www.ita.br/) e mestrado em Engenharia de Sistemas e Computação pela [Universidade Federal do Rio de Janeiro](https://ufrj.br/) e doutorado em Engenharia de Sistemas e Computação também pela Universidade Federal do Rio de Janeiro. Ele Trabalhou na [Petróleo Brasileiro S.A]9https://petrobras.com.br/en/ como analista de sistemas e gerente de desenvolvimento tecnológico. Atualmente é pesquisador e professor associado da [Universidade do Estado do Rio de Janeiro](https://www.uerj.br/). Tem experiência na área de Ciência da Computação, com ênfase em Algoritmos, atuando principalmente com algoritmos e estruturas de dados, códigos, grafos e ciência de dados.
 
+
+{{< spotify type="episode" id="6G0nvya0tbqstRosRcL9bK" width="80%">}}
+
+
 **Tópicos Mencionados:**
 
 [Montes Claros](https://pt.wikipedia.org/wiki/Montes_Claros)
@@ -34,6 +38,3 @@ O professor Paulo Eustáquio é formado em Engenharia Eletrônica pelo [Institut
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="6G0nvya0tbqstRosRcL9bK" width="80%">}}

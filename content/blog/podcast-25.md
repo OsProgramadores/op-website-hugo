@@ -19,6 +19,9 @@ Antes do Shopify trabalhava na [Plataformatec](https://www.linkedin.com/company/
 Mantem os projetos open source em Ruby que eram da Plataformatec
 
 
+{{< spotify type="episode" id="0x517yFN8c6veAWEApWoA2" width="80%">}}
+
+
 **Links:**
 
 [Twitter do Rafael](https://twitter.com/rafaelfranca)
@@ -34,6 +37,3 @@ Mantem os projetos open source em Ruby que eram da Plataformatec
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="0x517yFN8c6veAWEApWoA2" width="80%">}}

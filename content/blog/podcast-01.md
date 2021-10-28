@@ -29,6 +29,10 @@ Neste episódio entrevistamos o **Claudio Miranda**, 56 anos, 38 anos de TI, pr�
 
 * pai de João Pedro, um jovem adulto futuro nutricionista que irá mudar o mundo, que assim seja!
 
+
+{{< spotify type="episode" id="4fpevZR7VFcy1EF3xgyFCf" width="80%">}}
+
+
 **Os Programadores**
 
 [Grupo no Telegram](https://t.me/osprogramadores)
@@ -36,6 +40,3 @@ Neste episódio entrevistamos o **Claudio Miranda**, 56 anos, 38 anos de TI, pr�
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="4fpevZR7VFcy1EF3xgyFCf" width="80%">}}
