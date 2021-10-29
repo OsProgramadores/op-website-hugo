@@ -1,0 +1,52 @@
+<!--
+Parameters:
+    Request:
+        src         Image Source
+
+    Optional:
+        alt         Alternate text for an image
+        width       Width
+        height      Height
+        link        Hyperlink in image
+
+        title       Title for an image
+        text-align  Horizontal alignment of text in an element,
+                    that can use: left|right|center|justify|initial|inherit
+        caption     Caption for an image
+        attrlink    Hiperlink in caption
+        attr        Title Hiperlink
+        align       Property align-items, that is a default alignment for items inside the flexible container,
+                    that can use: stretch|center|flex-start|flex-end|baseline|initial|inherit
+
+Example of shortcode content:
+    img src="/img/logo.png"
+    alt="Logo OsProgramadores"
+    width="250px"
+    height="40px"
+    link="https://osprogramadores.com/"
+    title="Logo do grupo"
+    caption="Grupo do Telegram:"
+    attrlink="https://t.me//osprogramadores"
+    attr="Entrar"
+    text-align="right"
+    align="flex-end"
+-->
+
+<div style="display:flex; flex-direction:column;{{ if .Get "align"}} align-items:{{.Get "align"}};{{else}} align-items:center;{{ end }}">
+    <figure>
+        {{ with .Get "link"}}<a href="{{.}}">{{ end }}
+            <img src="{{ .Get "src" }}" alt="{{ if or (.Get "alt") (.Get "caption") }}{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}{{ end }}" style="{{ if .Get "width"}} width:{{.Get "width"}}; {{ end }} {{ if .Get "height"}} height:{{.Get "height"}}; {{ end }}"/>
+        {{ if .Get "link"}}</a>{{ end }}
+        {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
+        <figcaption style="{{ if .Get "text-align"}} text-align:{{.Get "text-align"}}; {{ end }}">{{ if isset .Params "title" }}
+            <h4>{{ .Get "title" }}</h4>{{ end }}
+            {{ if or (.Get "caption") (.Get "attr")}}<p>
+            {{ .Get "caption" }}
+            {{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
+                {{ .Get "attr" }}
+            {{ if .Get "attrlink"}}</a> {{ end }}
+            </p> {{ end }}
+        </figcaption>
+        {{ end }}
+    </figure>
+</div>
