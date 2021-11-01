@@ -12,8 +12,13 @@ Formado pela UFF em computação e com mais de 13 anos de experiência em desenv
 
 Possui um grande interesse em desenvolvimento de produtos, tendo inclusive atuado como gerente de produto por 2 anos. Focado em Backend, atua há três anos com linguagens funcionais, 2 anos com Elixir e 1 ano com Clojure.
 
-**Recomendações do Dimitri:**
-[Livro Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+{{< spotify type="episode" id="525KMkdSRex7brOl90GVFH" width="80%">}}
+
+
+**Links:**
+
+Livro: [Clean Code](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 [Anime recomendado](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba)
 
@@ -30,6 +35,3 @@ Possui um grande interesse em desenvolvimento de produtos, tendo inclusive atuad
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
-
-{{< spotify type="episode" id="525KMkdSRex7brOl90GVFH" width="80%">}}
