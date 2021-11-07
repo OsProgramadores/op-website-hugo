@@ -1,5 +1,6 @@
 // Program to validate PARTICIPANTES.MD file.
-// Author: Marcelo Pinheiro - mpinheir@gmail.com  - @mpinheir.
+// Marcelo Pinheiro - mpinheir@gmail.com  - @mpinheir.
+// Marco Paganini - paganini@paganini.net - @mpaganini.
 
 package main
 
@@ -23,22 +24,36 @@ func checkParticipantes(r io.Reader) error {
 		separatorPrefix = "| ----"
 	)
 
+	var (
+		colindex  []int
+		err       error
+		inData    bool
+		line      string
+		mailRegex = regexp.MustCompile(`(?i)[a-z0-9.-_%]+@.+\..*`)
+		partcount int
+		prevName  string
+	)
+
 	// We need a collator to compare order, or accents will break comparison.
 	// Loose sets the collator to ignore diacritics, case and weight.
 	cl := collate.New(language.English, collate.Loose)
 
-	scanner := bufio.NewScanner(r)
+	inreader := bufio.NewReader(r)
 
-	var (
-		prevName  string
-		inData    bool
-		partcount int
-		colindex  []int
-		mailRegex = regexp.MustCompile(`(?i)[a-z0-9.-_%]+@.+\..*`)
-	)
+	for linecounter := 1; ; linecounter++ {
+		line, err = inreader.ReadString('\n')
+		// ReadString sets io.EOF if if reaches EOF without finding the delimiter.
+		if err == io.EOF {
+			break
+		}
+		if err != nil && err != io.EOF {
+			return fmt.Errorf("line %d: Error reading file: %v", linecounter, err)
+		}
 
-	for linecounter := 1; scanner.Scan(); linecounter++ {
-		line := scanner.Text()
+		// Reject DOS formatted files (\x0d anywhere in the file).
+		if strings.ContainsRune(line, '\x0d') {
+			return fmt.Errorf("line %d: Found CR character. Please format file as UNIX, not DOS/Windows: %q", linecounter, line)
+		}
 
 		// Reject tabs anywhere in the file.
 		if strings.ContainsRune(line, '\x09') {
@@ -69,11 +84,9 @@ func checkParticipantes(r io.Reader) error {
 		}
 
 		// Make sure columns align. This is UTF-8 aware.
-		lr := []rune(line)
-		for _, i := range colindex {
-			if lr[i] != '|' {
-				return fmt.Errorf("line %d: Column markers are not aligned: %q", linecounter, line)
-			}
+		lineindex := indexall(line, '|')
+		if !equalSlice(colindex, lineindex) {
+			return fmt.Errorf("line %d: Column markers are not aligned: %q", linecounter, line)
 		}
 
 		// Name, email, and github page must start and end with a space (padding
@@ -121,27 +134,52 @@ func checkParticipantes(r io.Reader) error {
 		prevName = name
 	}
 
+	// In a properly formatted file, the last line ends with '\n'. Since
+	// ReadString reads the lines up to '\n', io.EOF should always be set with
+	// an empty line (nothing after the '\n').  Anything in 'lines' here means
+	// there's an entire line without a new line at the end of the file.
+	if line != "" {
+		return fmt.Errorf("Last line in the file MUST end in a LF (0x10) character (Some editors remove it automatically): %q", line)
+	}
+
 	// Make sure we have at least one valid participant.
 	if partcount == 0 {
 		return fmt.Errorf("no valid participant lines found in input file")
 	}
 
-	if err := scanner.Err(); err != nil {
-		return err
-	}
-
 	return nil
 }
 
-// indexall returns a slice of ints containing all indices of a rune in a string.
+// indexall returns a slice of ints containing the visible positions of runes
+// on the passed string.
 func indexall(str string, rch rune) []int {
-	var ret []int
-	for i, r := range str {
+	var (
+		pos int
+		ret []int
+	)
+
+	// We cannot use pos in the loop directly, as a runes may have width > 1 and
+	// we want to count the number of "visible" positions.
+	for _, r := range str {
 		if r == rch {
-			ret = append(ret, i)
+			ret = append(ret, pos)
 		}
+		pos++
 	}
 	return ret
+}
+
+// Return true if both slices are equal, false otherwise.
+func equalSlice(a, b []int) bool {
+	if len(a) != len(b) {
+		return false
+	}
+	for i := range a {
+		if a[i] != b[i] {
+			return false
+		}
+	}
+	return true
 }
 
 func main() {

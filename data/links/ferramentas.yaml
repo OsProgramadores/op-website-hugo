@@ -45,6 +45,10 @@ sources:
   title: "RexTester"
   description: "Compilador online de Java, C, C#, C++, JavaScript, Lua, Php, Python, Ruby, Scala, entre outros"
 
+- url: "https://sqlzoo.net/"
+  title: "SQL Zoo"
+  description: "Série de exercícios práticos e questionários para estudantes de SQL"
+
 - url: "https://pt.stackoverflow.com/"
   title: "StackOverFlow"
   description: "Melhor fórum do mundo para programadores. Use com moderação"

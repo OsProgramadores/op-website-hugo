@@ -1,26 +1,58 @@
 title: Documentação
 
 sources:
+- url: "https://osprogramadores.com/dicas-bash/#1"
+  title: "Bash Dicas & Truques"
+  description: "Bash Dicas & Truques - autoria de Marco Paganini"
+
 - url: "http://devdocs.io/"
   title: "DevDocs"
   description: "DevDocs é um site que disponibiliza a documentação de centenas de linguagens"
 
+- url: "https://leanpub.com/dockerparadesenvolvedores"
+  title: "Docker para Desenvolvedores"
+  description: "Ebook focado nas necessidades do desenvolvedor que se interessar pelo Docker"  
+
 - url: "http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf"
   title: "Estruturas de dados"
-  description: "Livro sobre Estrutura de Dados - Autor: Professor Ivan Luiz Marques Ricarte - UNICAMP. O material está disponível em licença CC-BY, ou seja, pode ser utilizado desde que o autor seja mantido e citado." 
+  description: "Livro sobre Estrutura de Dados - Autor: Professor Ivan Luiz Marques Ricarte - UNICAMP. O material está disponível em licença CC-BY, ou seja, pode ser utilizado desde que o autor seja mantido e citado."  
+
+- url: "http://piazinho.com.br/download/expressoes-regulares-3-tabelas.pdf"
+  title: "Expressões Regulares"
+  description: "Uma tabela com um super resumo de expressões regulares, disponibilizado gratuitamente pelo autor em seu site"
+
+- url: "https://www.caelum.com.br/apostila-html-css-javascript/"
+  title: "Front-End"
+  description: "Apostila de HTML, CSS e JavaScript, distribuída pela Caelum gratuitamente"
 
 - url: "https://guiafoca.org/"
   title: "GuiaFoca"
-  description: "O GuiaFoca é um guia que traz desde explicações básicas sobre computadores e o sistema GNU/Linux até a administração e segurança do sistema." 
+  description: "O GuiaFoca é um guia que traz desde explicações básicas sobre computadores e o sistema GNU/Linux até a administração e segurança do sistema."
 
 - url: "https://www.w3schools.com/default.asp"
   title: "HTML, CSS, Javascript"
   description: "Documentação Front-End e Back-End com muitos tutoriais"
 
+- url: "https://www.caelum.com.br/apostila-java-orientacao-objetos/"
+  title: "Java OO"
+  description: "Apostila online de Java Orientado a Objetos, distribuída pela Caelum gratuitamente"
+ 
+- url: "https://www.caelum.com.br/apostila-java-web/"
+  title: "Java para Web"
+  description: "Apostila de Java para Web"
+
 - url: "https://kotlinlang.org/"
   title: "Kotlin"
   description: "Documentação da Linguagem Kotlin"
 
+- url: "https://dev.to/ccunha/listas-encadeadas-157"
+  title: "Listas Encadeadas"
+  description: "Artigo da Carolina Cunha sobre Listas Encadeadas"
+
+- url: "https://vimbook.gitbook.io/vimbook/"
+  title: "Livro sobre o vim"
+  description: "Livro sobre o editor de texto vim"
+ 
 - url: "http://php.net/manual/pt_BR/index.php"
   title: "PHP"
   description: "PHP documentação com tutoriais em português"
@@ -28,7 +60,7 @@ sources:
 - url: "http://br.phptherightway.com/"
   title: "PHP do jeito certo"
   description: "Site com as melhores práticas para programadores PHP desenvolverem software dentro dos padrões adotados pela comunidade"
-  
+
 - url: "https://www.ime.usp.br/~pf/algoritmos/"
   title: "Projeto de Algoritmos (em C)"
   description: "Algoritmos diversos implementados na linguagem de programação C."
@@ -36,3 +68,16 @@ sources:
 - url: "https://wiki.python.org.br/DocumentacaoPython"
   title: "Python"
   description: "Site com links para documentação do Python, além de vários artigos e dicas de como e por onde começar com Python"
+
+- url: "https://www.syncfusion.com/ebooks/"
+  title: "Syncfusion Ebooks"
+  description: "Dezenas de ebooks sobre várias tecnologias, com a proposta de serem sucintos, como já diz no título. Há diversos, por exemplo: Bootstrap, .NET, Java, HTTP. (necessário cadastro para alguns)"
+
+- url: "https://books.goalkicker.com/"
+  title: "Syncfusion Ebooks"
+  description: "Mais de 40 livros de vários assuntos relacionados à programação, criados e reunidos pelos melhores do Stack Overflow"
+
+- url: "https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/"
+  title: "UX e Usabilidade"
+  description: "Apostila de Usabilidade Mobile e Web e User Experience, distribuída pela Caelum gratuitamente"
+  
