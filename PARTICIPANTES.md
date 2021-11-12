@@ -196,6 +196,7 @@ Ao adicionar o seu nome, por favor observe:
 | Moises Maia Gomes              | dev.mmaia@gmail.com                   | https://github.com/devmmaia               |
 | Murilo de Andrade Melo         | muriloa.melo01@gmail.com              | https://github.com/MuriloAM               |
 | Nicholas Borba                 | nicholasborba@gmail.com               | https://github.com/nkborba                |
+| Nilson Santos                  | nilsonc.s@outlook.com                 | https://github.com/Nilsonsantos-s         |
 | Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
 | Paulo Cesar Vieira Junior      | junior.vieira.1990@gmail.com          | https://github.com/vieirajunior-90        |
