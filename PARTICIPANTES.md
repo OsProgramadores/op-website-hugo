@@ -205,6 +205,7 @@ Ao adicionar o seu nome, por favor observe:
 | Paulo Martins                  | paulo@pmartins.dev.br                 | https://github.com/paullomarttins         |
 | Paulo Renato Xavier da Silva   | paulorenatoxs@gmail.com               | https://github.com/paulorenatoxs          |
 | Pedro Antonio Brito Campos     | Sirpedro49@gmail.com                  | https://github.com/Punkuchiha             |
+| Pedro Augusto Oliveira Cruz    | oliveiracruzpedroaugusto@gmail.com    | https://github.com/PedroaocDev            |
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2                   |
 | Pedro Expedito De Oliveira     | expeditocaf00@gmail.com               | https://github.com/pedroexpedito          |
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
