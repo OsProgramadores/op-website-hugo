@@ -16,6 +16,8 @@ Este documento contém um conjunto de regras básicas para o uso do grupo. Os ad
 
 Em caso de dúvida pergunte antes de postar sua mensagem no grupo. Assim podemos evitar frustrações para todos.
 
+* Ao entrar no grupo se apresente por favor. A apresentação vai contribuir para uma melhor experiência e é condição para sua permanência no grupo.
+
 Tópicos e comportamentos **expressamente proibidos** no grupo (resultam em banimento imediato na maioria dos casos):
 
 * Spam de qualquer forma (comercial, religioso, político, etc).
@@ -36,6 +38,7 @@ Comportamentos não recomendados:
 * "Drive by Shooting" (apenas aparecer no grupo para promover o seu produto ou evento, sem contribuir com mais nada).
 * Paste de trechos longos de código (veja mais detalhes em "Como obter ajuda" abaixo)
 * Discussões sobre "pentesting" e tópicos similares (por favor, procure um grupo sobre segurança da informação para discutir esses tópicos).
+* Envio de video para o grupo
 
 ## Como obter ajuda
 
