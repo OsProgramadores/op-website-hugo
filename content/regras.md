@@ -16,7 +16,7 @@ Este documento contém um conjunto de regras básicas para o uso do grupo. Os ad
 
 Em caso de dúvida pergunte antes de postar sua mensagem no grupo. Assim podemos evitar frustrações para todos.
 
-* Ao entrar no grupo se apresente por favor. A apresentação é condição para sua permanência no grupo e ajuda para aumentar o engajamento e reduzir o risco da entrada de spammers no grupo.
+* Ao entrar no grupo se apresente por favor. A apresentação é condição para sua permanência no grupo e ajuda a aumentar o engajamento e reduz o risco de entrada de spammers no grupo.
 
 Tópicos e comportamentos **expressamente proibidos** no grupo (resultam em banimento imediato na maioria dos casos):
 
