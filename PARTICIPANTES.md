@@ -230,6 +230,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira           |
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com              | https://github.com/ronanlutiane           |
 | Roney Cacau Alves              | roneycacau@gmail.com                  | https://github.com/roneycacau             |
+| Rubens Rodrigues               | rubens17rodrigues@gmail.com           | https://github.com/rubens17rodrigues      |
 | Ruhan Macedo                   | ruhanmacedo@outlook.com               | https://github.com/ruhanmacedo            |
 | Samuel Evangelista Pereira     | sam.pereirabr@gmail.com               | https://github.com/SamPereirabr           |
 | Samuel Magnun Mota             | smagnun@gmail.com                     | https://github.com/smagnun                |
