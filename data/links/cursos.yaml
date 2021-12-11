@@ -1,7 +1,7 @@
 title: "Cursos"
 
 sources:
-- url: "https://algoritmosempython.com.br/cursos/algoritmos-python/index.html"
+- url: "https://algoritmosempython.com.br/cursos/algoritmos-python/intro/"
   title: "Algoritmos em Python"
   description: "Curso de Algoritmos em Python"
 
@@ -21,17 +21,13 @@ sources:
   title: "Code Academy"
   description: "Cursos gratuitos de Desenvolvimento Web, Programação e Data Science"
 
-- url: "https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/"
+- url: "https://docs.microsoft.com/pt-br/dotnet/csharp/"
   title: "C# Tutorials"
   description: "Tutoriais da Microsoft sobre C#"
 
-- url: "https://www.freecodecamp.org/"
+- url: "https://www.freecodecamp.org/portuguese/learn/"
   title: "FreeCodeCamp"
   description: "Curso gratuito de Front-End e Back-End mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado"
-
-- url: "https://algoritmosempython.com.br/cursos/programacao-python/index.html"
-  title: "Fundamentos de Programação em Python"
-  description: "Curso Fundamentos de Programação em Python"
 
 - url: "https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ"
   title: "Go (Video)"
