@@ -213,6 +213,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
 | Pedro Lôbo Nascimento          | pedrolnascimento2004@gmail.com        | https://github.com/m1thrandirr            |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS              |
+| Rafael Perez Garcia            | rafaelsfs@gmail.com                   | https://github.com/rafaelsfs              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                 | https://github.com/raffaelleao            |
 | Renata Miranda Rabelo Nésio    | renata.nesio2@gmail.com               | https://github.com/renatanesio            |
 | Ricardo Severo                 | ricardosilva.official@outlook.com     | https://github.com/ricardosevero          |
