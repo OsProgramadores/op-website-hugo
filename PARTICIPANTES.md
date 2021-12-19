@@ -228,6 +228,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rodrigo Reis Paulino           | rdrpo2014@gmail.com                   | https://github.com/R0drig                 |
 | Rodrigo Sabino Gomes           | sr.rodrigosabino@gmail.com            | https://github.com/sabinorodrigo          |
 | Rodrigo Vaz De Oliveira        | rodrigovazdeoliveira@gmail.com        | https://github.com/RodrigoVazOliveira     |
+| Romeu Alfa                     | nrzcode@protonmail.com                | https://github.com/NRZCode                |
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com           | https://github.com/rfdeoliveira           |
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com              | https://github.com/ronanlutiane           |
 | Roney Cacau Alves              | roneycacau@gmail.com                  | https://github.com/roneycacau             |
