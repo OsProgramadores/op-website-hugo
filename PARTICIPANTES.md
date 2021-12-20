@@ -26,6 +26,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexandre Pierre               | alexandrempierre@gmail.com            | https://github.com/alexandrempierre       |
 | Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com           | https://github.com/apfmiranda             |
 | Alexsandro Felix               | felix@ffelix.eti.br                   | https://github.com/asfelix                |
+| Alexsandro Matias              | matiasalexsandro@gmail.com            | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                  | https://github.com/lisboalien             |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com              | https://github.com/AnaPaulaMazi           |
 | Anderson Unsonst               | andersonunsonst@gmail.com             | https://github.com/andersonunsonst        |
