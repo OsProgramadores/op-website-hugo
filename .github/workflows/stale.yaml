@@ -9,8 +9,8 @@ jobs:
     steps:
       - uses: actions/stale@v4
         with:
-          stale-pr-message: 'PR marcado como obsoleto devido à falta de atividade. O fechamento automático ocorrerá em 5 dias na ausência de nova atividade.'
-          stale-issue-message: 'Github Issue marcado como obsoleto devido à falta de atividade. O fechamento automático ocorrerá em 5 dias na ausência de nova atividade.'
+          stale-pr-message: 'PR marcado como inativo. O fechamento automático ocorrerá em 5 dias na ausência de nova atividade.'
+          stale-issue-message: 'Bug report marcado como inativo. O fechamento automático ocorrerá em 5 dias na ausência de nova atividade.'
           stale-pr-label: 'stale'
           stale-issue-label: 'stale'
           exempt-pr-labels: 'awaiting-approval,work-in-progress'
