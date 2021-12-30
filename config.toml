@@ -24,7 +24,7 @@ paginate = 12
 
 [[menu.main]]
     name = "Podcast"
-    url  = "/podcasts/"
+    url  = "/podcast/"
     weight = 3
 
 [[menu.main]]
