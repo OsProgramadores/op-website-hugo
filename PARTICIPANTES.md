@@ -203,6 +203,7 @@ Ao adicionar o seu nome, por favor observe:
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
 | Paulo Cesar Vieira Junior      | junior.vieira.1990@gmail.com          | https://github.com/vieirajunior-90        |
 | Paulo Cezar Sheliga            | paulosheliga@gmail.com                | https://github.com/Sheliga                |
+| Paulo Eduardo Cantuária        | padu77@gmail.com                      | https://github.com/paducantuaria          |
 | Paulo Francis S. de Souza      | paulo.suchoj@gmail.com                | https://github.com/psuchoj                |
 | Paulo Henrique R. Pinheiro     | paulohrpinheiro@gmail.com             | https://github.com/paulohrpinheiro        |
 | Paulo Martins                  | paulo@pmartins.dev.br                 | https://github.com/paullomarttins         |
