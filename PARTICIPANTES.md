@@ -119,6 +119,7 @@ Ao adicionar o seu nome, por favor observe:
 | Isaac Marlon da Silva Lourenço | isaacmarlondasilvalourenco@gmail.com  | https://github.com/isaacmsl               |
 | Isabella Santos de Souza       | isabellasdesouza@outlook.com          | https://github.com/isabellsantoss         |
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena             |
+| Israel da Silva Matos          | arstotz.1803@outlook.com              | https://github.com/BriggsK                |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein       |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo         |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto              |
@@ -272,3 +273,4 @@ Ao adicionar o seu nome, por favor observe:
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
 | Zilton Sales                   | No Email                              | https://github.com/sokolov13              |
+| 
