@@ -118,6 +118,7 @@ Ao adicionar o seu nome, por favor observe:
 | Igor Tuag Andrade de Freitas   | igortuag@gmail.com                    | https://github.com/igortuag               |
 | Isaac Marlon da Silva Lourenço | isaacmarlondasilvalourenco@gmail.com  | https://github.com/isaacmsl               |
 | Isabella Santos de Souza       | isabellasdesouza@outlook.com          | https://github.com/isabellsantoss         |
+| Israel da Silva Matos          | arstotz.1803@outlook.com              | https://github.com/BriggsK                |
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena             |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein       |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo         |
