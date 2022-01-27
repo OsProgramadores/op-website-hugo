@@ -268,6 +268,7 @@ Ao adicionar o seu nome, por favor observe:
 | Wanderley Caloni               | wanderley.caloni@bitforge.com.br      | https://github.com/Caloni                 |
 | Washington Araújo Ramos        | No Email                              | https://github.com/WashingtonARamos       |
 | Wellington Domiciano           | wldomiciano@gmail.com                 | https://github.com/wldomiciano            |
+| Wendell Martins Borges         | perlporter@gmail.com                  | https://github.com/perlporter             |
 | Wesley de Assis                | wesleyassis455@gmail.com              | https://github.com/Choco02                |
 | Weslley de Oliveira Pereira    | weslleyoliveira25@gmail.com           | https://github.com/weslley19              |
 | Weslleymberg da Silva Lisboa   | weslleym.lisboa@gmail.com             | https://github.com/weslleymberg           |
