@@ -71,5 +71,7 @@ Me chama lá no Twitter: https://twitter.com/campsber
 
 Curso de Harvard (CS50): https://www.youtube.com/c/cs50
 
+Podcast OsProgramadores: https://anchor.fm/osprogramadores
+
 Cursos da PUC Minas Virtual:
 https://www.pucminas.br/PucVirtual/Graduacao/Paginas/curso-listagem.aspx?local=7c032ce9-43f6-4571-b72e-674be76a5b62
