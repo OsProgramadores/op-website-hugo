@@ -47,6 +47,8 @@ De tanto ouvir falar em Node, decidi experimentar. Fiz uma página simples que c
 
 Após algum tempo batendo a cabeça, resolvi (finalmente) ouvir a voz da experiência e comecei a fazer os Desafios do site. Escolhi a linguagem Swift e comecei: Desafio 02 (beleza, feito), Desafio 03 (bacana, feito), Desafio 04 (legal d+, feito), Desafio 05 (eita, lascou). O algoritmo funcionava com poucos dados, mas na medida em que testava os pacotes maiores, ele terminaria após alguns milhares de anos… Nesse momento, percebi que precisava (e gostaria) de aprofundar os conhecimentos nessa área.
 
+Em uma das discussões no grupo, o Marcelo Pinheiro comentou: "Todos somos iniciantes. Alguns iniciaram faz 35 anos ou mais. Nesta área você está em constante aprendizado. O importante é aprender e ir em frente". Em resposta, o Mateus Mercer disse: "Todo dia uma msg nesse grupo que te inspira a continuar". O Marcelo então sugeriu o grupo participar de um projeto para mostrar frases diferentes todos os dias. Dê uma olhada no resultado [nesse link](https://bernardocamps.github.io/quotes/). Quer aprender a linguagem Go? Dê uma olhada no [backend](https://github.com/mpinheir/quotes-backend). Que tal fazer os desafios que o Product Owner propôs? Acompanhe [por aqui](https://github.com/bernardocamps/quotes/projects/2) o andamento do projeto.
+
 Após muita pesquisa e incentivado pelas discussões no grupo, tomei a decisão de voltar à faculdade. Comecei a pesquisar o que encaixaria melhor na minha realidade. Qual curso fazer? Ciências da Computação? Engenharia da Computação? Engenharia de Software? Sistemas de Informação? À distância? Presencial? Pública? Particular? Fiz uma planilha de excel e comecei a análise. Pesquisei quais faculdades ofereciam os cursos, qual o preço, se conhecia alguém que fazia e se gostava, quais disciplinas constavam no currículo, como era a carga horária, etc. Por fim, após ponderar bastante, escolhi o curso Sistemas de Informação à distância da PUC Minas.
 
 #### Faculdade
@@ -72,6 +74,12 @@ Me chama lá no Twitter: https://twitter.com/campsber
 Curso de Harvard (CS50): https://www.youtube.com/c/cs50
 
 Podcast OsProgramadores: https://anchor.fm/osprogramadores
+
+Quotes inspiracionais: https://bernardocamps.github.io/quotes/
+
+Repositório do Quotes: https://github.com/bernardocamps/quotes
+
+Backend do Quotes em Go: https://github.com/mpinheir/quotes-backend
 
 Cursos da PUC Minas Virtual:
 https://www.pucminas.br/PucVirtual/Graduacao/Paginas/curso-listagem.aspx?local=7c032ce9-43f6-4571-b72e-674be76a5b62
