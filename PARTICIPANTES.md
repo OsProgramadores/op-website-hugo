@@ -56,6 +56,7 @@ Ao adicionar o seu nome, por favor observe:
 | Clederson Cruz                 | cledersonbc@live.com                  | https://github.com/Cledersonbc            |
 | Cleverton Fernandes Guimarães  | clevertonfernandesguimaraes@gmail.com | https://github.com/cfguimaraes            |
 | Daniel Carvalho                | codecodic7@gmail.com                  | https://github.com/KDEboy                 |
+| Daniel Christian de O. Rosa    | daniel.c.rosa@gmail.com               | https://github.com/DanielRosa74           |
 | Daniel Ferraz dos santos       | danielferraz.contato@gmail.com        | https://github.com/danielferraz-git       |
 | Daniel Haas Becattini Lima     | danielhaas.lima@gmail.com             | https://github.com/Daniel-Haas-B          |
 | Daniel Magalhães Bicalho       | danielmbicalho@gmail.com              | https://github.com/danielmbicalho         |
