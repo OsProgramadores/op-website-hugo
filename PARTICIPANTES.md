@@ -100,6 +100,8 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Mendonça               | gabrielmendoncanf@gmail.com           | https://github.com/brunoom1               |
 | Gabriel Peixoto                | gpeixoto@gmail.com                    | https://github.com/neuraman               |
 | Gabriel Rocha                  | gabriel.gabrielroch@gmail.com         | https://github.com/G4BR13LR0CH4           |
+| Gabriel Santos Paulino Dias    | gabrieldias5813@gmail.com             | https://github.com/
+GabrielDias812         |
 | Gabriel Thiago da S. Ferreira  | gabriel.ferreira@dcomp.ufs.br         | https://github.com/GabrielF9              |
 | Geraldo Júnior                 | geraldo.junior0207@gmail.com          | https://github.com/GeraldinJr             |
 | Giovane Da Silva Sobrinho      | giovane.sobrinho@gmail.com            | https://github.com/silvasobrinho          |
