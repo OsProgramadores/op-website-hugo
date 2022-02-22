@@ -100,6 +100,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Peixoto                | gpeixoto@gmail.com                    | https://github.com/neuraman               |
 | Gabriel Rocha                  | gabriel.gabrielroch@gmail.com         | https://github.com/G4BR13LR0CH4           |
 | Gabriel Thiago da S. Ferreira  | gabriel.ferreira@dcomp.ufs.br         | https://github.com/GabrielF9              |
+| Geraldo Júnior                 | geraldo.junior0207@gmail.com          | https://github.com/GeraldinJr             |
 | Giovane Da Silva Sobrinho      | giovane.sobrinho@gmail.com            | https://github.com/silvasobrinho          |
 | Giovanni Martins               | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20           |
 | Giuseppe Varriale              | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale       |
