@@ -92,6 +92,7 @@ Ao adicionar o seu nome, por favor observe:
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com       | https://github.com/Felipe-Marques         |
 | Felipe M. Ferreira             | felipe.m.frrr@gmail.com               | https://github.com/felipefrr              |
 | Felipe Quirino Araujo          | felipeqaraujo@hotmail.com             | https://github.com/Felipedroid            |
+| Fernando P. Marques Jr.        | fernandopozomqs@gmail.com             | https://github.com/Fernando-Pozo          |
 | Fidelis Guimarães              | atosfiel@gmail.com                    | https://github.com/fidelisfelipe          |
 | Flávio Júnior Avelino da Silva | flaviojunior.work@gmail.com           | https://github.com/flavio-junior          |
 | Francisco Jose de Assis Cunha  | fjacunha@gmail.com                    | https://github.com/fjoseacunha            |
