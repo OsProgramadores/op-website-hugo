@@ -13,6 +13,7 @@ Ao adicionar o seu nome, por favor observe:
 
 | Nome                           | Email                                 | Github Page                               |
 | ------------------------------ | ------------------------------------- | ----------------------------------------- |
+| Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com             | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                     | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                  | https://github.com/adolfont               |
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br            | https://github.com/arlima                 |
