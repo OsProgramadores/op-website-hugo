@@ -11,8 +11,8 @@ Ao adicionar o seu nome, por favor observe:
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
 
-| Nome                           | Email                                 | Github Page                               |
-| ------------------------------ | ------------------------------------- | ----------------------------------------- |
+| Nome                           | Email                                 | Github Page                                 |
+| ------------------------------ | ------------------------------------- | --------------------------------------------|
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com             | <https://github.com/abraaocrvlhodev>        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                     | <https://github.com/adboson>                |
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                  | <https://github.com/adolfont>               |
