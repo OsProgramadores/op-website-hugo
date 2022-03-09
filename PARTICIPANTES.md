@@ -1,4 +1,4 @@
-# Participantes do grupo do Telegram que deram fork no projeto:
+# Participantes do grupo do Telegram que deram fork no projeto
 
 Ao adicionar o seu nome, por favor observe:
 
@@ -265,6 +265,7 @@ Ao adicionar o seu nome, por favor observe:
 | Tyrone Macedo Damasceno        | tyronedamasceno@gmail.com             | https://github.com/tyronedamasceno        |
 | Vagner Cavalcante da silva     | vagnermasked@gmail.com                | https://github.com/vagnerzt               |
 | Valdinei Ferreira              | valdineifer@outlook.com               | https://github.com/valdineifer            |
+| Vanessa Souza Machado          | machado.vanessa32@gmail.com           | https://github.com/Vanessamachado93       |
 | Victor Eduardo Santos Soares   | v_eduardo@live.com                    | https://github.com/veduardo93             |
 | Victor Hugo Gomes Nascimento   | labatata101@linuxmail.org             | https://github.com/LaBatata101            |
 | Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com               | https://github.com/victorhsanjos          |
