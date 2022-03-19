@@ -212,6 +212,7 @@ Ao adicionar o seu nome, por favor observe:
 | Nilson Santos                  | nilsonc.s@outlook.com                 | https://github.com/Nilsonsantos-s         |
 | Nilton José                    | email@privado.com.br                  | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                 | https://github.com/Oberdan198             |
+| Otniel dos Santos Silva        | otniel.dss04@gmail.com                | https://github.com/OtnielSSilva           |
 | Paulo Cesar Vieira Junior      | junior.vieira.1990@gmail.com          | https://github.com/vieirajunior-90        |
 | Paulo Cezar Sheliga            | paulosheliga@gmail.com                | https://github.com/Sheliga                |
 | Paulo Eduardo Cantuária        | padu77@gmail.com                      | https://github.com/paducantuaria          |
