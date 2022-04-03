@@ -89,8 +89,8 @@ Ao adicionar o seu nome, por favor observe:
 | Fabio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj               |
 | Fabricio Albuquerque Ribas     | fabricioaribas@gmail.com              | https://github.com/fabricioribas          |
 | Fabricio Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967            |
-| Felipe Alves                   | No Email                              | https://github.com/batocciero             |
 | Felipe Abreu Motta             | flp.motta@hotmail.com                 | https://github.com/Motta-Felipe           |
+| Felipe Alves                   | No Email                              | https://github.com/batocciero             |
 | Felipe Ceglia                  | felipe@dxwatch.com                    | https://github.com/mehale                 |
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com       | https://github.com/Felipe-Marques         |
 | Felipe M. Ferreira             | felipe.m.frrr@gmail.com               | https://github.com/felipefrr              |
