@@ -226,6 +226,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro Augusto Oliveira Cruz    | oliveiracruzpedroaugusto@gmail.com    | https://github.com/PedroaocDev            |
 | Pedro de Barros Veríssimo      | pedver96@gmail.com                    | https://github.com/pbv2                   |
 | Pedro Expedito De Oliveira     | expeditocaf00@gmail.com               | https://github.com/pedroexpedito          |
+| Pedro Henrique Araujo de Souza | souza.pharaujo@gmail.com              | https://github.com/ph-souzaa              |
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
 | Pedro Lôbo Nascimento          | pedrolnascimento2004@gmail.com        | https://github.com/m1thrandirr            |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS              |
