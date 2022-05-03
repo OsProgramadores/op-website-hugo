@@ -64,3 +64,7 @@ sources:
 - url: "https://go-tour-br.appspot.com/welcome/1"
   title: "Um tour por Go"
   description: "Um tour pela linguagem de Programação Go"
+
+- url: "https://www.mentebinaria.com.br/"
+  title: "Mente Binária"
+  description: "Cursos gratuitos de Programação, Segurança e Jogos"
