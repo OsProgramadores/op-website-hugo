@@ -287,6 +287,7 @@ Ao adicionar o seu nome, por favor observe:
 | Weslley de Oliveira Pereira    | weslleyoliveira25@gmail.com           | https://github.com/weslley19              |
 | Weslleymberg da Silva Lisboa   | weslleym.lisboa@gmail.com             | https://github.com/weslleymberg           |
 | William da Rosa Garcia         | william.rosa.garcia@gmail.com         | https://github.com/phewill                |
+| Williams Lima Nunes Coelho     | williamsxlima@yahoo.com               | https://github.com/WilliamsLima777        |
 | Wilque Muriel                  | wilque.m1234@gmail.com                | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                              | https://github.com/yagodematos            |
 | Zilton Sales                   | No Email                              | https://github.com/sokolov13              |
