@@ -378,12 +378,8 @@ sources:
   title: "Java (Português)"
   description: "Grupo Português sobre Java"
 
-- url: "https://t.me//javascriptbrasil"
-  title: "JavaScript Brasil"
-  description: "Grupo sobre JavaScript"
-
 - url: "https://t.me/javascriptbr"
-  title: "JavaScript Brasil 2"
+  title: "JavaScript Brasil"
   description: "Grupo técnico brasileiro sobre JavaScript"
 
 - url: "https://t.me/joomlabrasil"
