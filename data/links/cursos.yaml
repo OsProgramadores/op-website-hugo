@@ -52,7 +52,7 @@ sources:
 - url: "https://youtube.com/c/PythonparaZumbis"
   title: "Python para Zumbis"
   description: "Curso sobre a linguagem de programacao Python"
-
+  
 - url: "https://www.rust-lang.org/learn"
   title: "Rust"
   description: "Curso sobre a linguagem de programação Rust (em inglês)"
@@ -68,3 +68,7 @@ sources:
 - url: "https://www.mentebinaria.com.br/"
   title: "Mente Binária"
   description: "Cursos gratuitos de Programação, Segurança e Jogos"
+
+- url: "https://github.com/Universidade-Livre/ciencia-da-computacao"
+  title: "Curso de Ciência da Computação"
+  description: "Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira"
