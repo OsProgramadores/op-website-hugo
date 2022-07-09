@@ -77,7 +77,10 @@ sources:
   title: "Syncfusion Ebooks"
   description: "Mais de 40 livros de vários assuntos relacionados à programação, criados e reunidos pelos melhores do Stack Overflow"
 
+- url: "https://www.freecodecamp.org/news/the-php-handbook/?fbclid=IwAR2wdsG33W8ZnVCwbINvedG4lSlrJsviX5sGFo5cE6k6WJJeDqM6of8bu6I"
+  title: "The PHP Handbook"
+  description: "Manual PHP do freeCodeCamp"
+
 - url: "https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/"
   title: "UX e Usabilidade"
   description: "Apostila de Usabilidade Mobile e Web e User Experience, distribuída pela Caelum gratuitamente"
-  
