@@ -126,10 +126,9 @@ paginate = 12
     enable = true
     icon = "fa fa-telegram"
     title = "Aprenda algo novo."
-    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais."
+    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar."
     link_url = "https://t.me/osprogramadores"
     link_text = "Junte-se a nós no Telegram"
-    text =  "teste"
 
 [params.clients]
     enable = false
