@@ -100,19 +100,19 @@ paginate = 12
     search = true
 
 [params.carousel]
-    enable = true
+    enable = false
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
 [params.features]
     enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
 [params.testimonials]
     enable = true
@@ -142,5 +142,4 @@ paginate = 12
     enable = true
     title = "Artigos Recentes"
     subtitle = ""
-
 
