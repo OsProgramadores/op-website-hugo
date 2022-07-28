@@ -101,29 +101,32 @@ paginate = 12
 
 [params.carousel]
     enable = false
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
 [params.features]
     enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
 
 [params.testimonials]
     enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-    title = "Quem somos"
-    subtitle = "O nosso grupo é formado por pessoas de todas as idades e níveis de experiência. Nosso objetivo é disseminar o conhecimento de programação e assuntos ligados aos computadores em geral, além de formar um grupo onde todas as opiniões e perguntas sejam bem-vindas. Não há exigências ou pré-requisitos. Sua presença será sempre bem-vinda!<div class='heading text-center'><h2>Administradores</h2></div>"
+    # For more information take a look at the README.
+    title = "Administradores"
+    subtitle = ""
 
 [params.see_more]
     enable = true
     icon = "fa fa-telegram"
     title = "Aprenda algo novo."
-    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar aos seus pais."
+    subtitle = "Tudo que você sempre quis saber sobre Programação de Computadores e nunca teve coragem de perguntar."
     link_url = "https://t.me/osprogramadores"
     link_text = "Junte-se a nós no Telegram"
 
@@ -139,5 +142,4 @@ paginate = 12
     enable = true
     title = "Artigos Recentes"
     subtitle = ""
-
 

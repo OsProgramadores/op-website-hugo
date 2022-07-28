@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+{{ partial "head.html" . }}
 
-  <body>
+<body>
 
-    <div id="all">
+  <div id="all">
 
-        <header>
+    <header>
 
-          {{ partial "top.html" . }}
+      {{ partial "top.html" . }}
 
-          {{ partial "nav.html" . }}
+      {{ partial "nav.html" . }}
 
-        </header>
+    </header>
 
-        {{ partial "see_more.html" . }}
+    {{ partial "carousel.html" . }}
 
-        {{ partial "carousel.html" . }}
+    {{ partial "see_more.html" . }}
 
-        {{ partial "features.html" . }}
+    {{ partial "features.html" . }}
 
-        {{ partial "testimonials.html" . }}
+    {{ partial "recent_posts.html" . }}
 
-        {{ partial "recent_posts.html" . }}
+    {{ partial "testimonials.html" . }}
 
-        {{ partial "clients.html" . }}
+    {{ partial "clients.html" . }}
 
-        {{ partial "footer.html" . }}
+    {{ partial "footer.html" . }}
 
-    </div>
-    <!-- /#all -->
+  </div>
+  <!-- /#all -->
 
-    {{ partial "scripts.html" . }}
+  {{ partial "scripts.html" . }}
 
-  </body>
+</body>
+
 </html>
+
