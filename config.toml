@@ -85,7 +85,7 @@ paginate = 12
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
+    logo = "img/logo.svg"
     #address = ""
     latitude = "-15.7213868"
     longitude = "-48.0786626"
