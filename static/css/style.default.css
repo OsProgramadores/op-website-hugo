@@ -1755,7 +1755,15 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 60px 0;
 }
 .bar.background-pentagon {
-  background: url('../img/background.svg') center left repeat;
+  background: url('../img/background.svg');
+  background-size: 70%;
+  
+}
+@media (max-width: 991px) {
+  .bar.background-pentagon {
+    background-size: auto;
+    background-position-x: 50%;
+  }
 }
 .bar.background-gray {
   background: #eeeeee;
