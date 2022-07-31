@@ -1,3 +1,7 @@
++++
+title = "Links"
++++
+
 This is a placeholder file to force the rendering using the "links" layout,
 which reads data from data/links.
 
