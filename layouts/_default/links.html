@@ -14,8 +14,6 @@
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
                     <div class="col-md-9 prose" id="blog-post">
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
-
                         <div id="post-content">
                           {{ range sort .Site.Data.links "title" }}
                             <h2>{{ .title }}</h2>
