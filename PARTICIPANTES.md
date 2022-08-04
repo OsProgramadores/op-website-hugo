@@ -230,6 +230,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro Henrique Araujo de Souza | souza.pharaujo@gmail.com              | https://github.com/ph-souzaa              |
 | Pedro Igor Oliveira Silva      | pedroigor@aluno.unb.br                | https://github.com/pedroeagle             |
 | Pedro Lôbo Nascimento          | pedrolnascimento2004@gmail.com        | https://github.com/m1thrandirr            |
+| Rafael Barros Pires            | rafaelbpires@gmail.com                | https://github.com/bpires                 |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com             | https://github.com/RafaelDSS              |
 | Rafael Perez Garcia            | rafaelsfs@gmail.com                   | https://github.com/rafaelsfs              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                 | https://github.com/raffaelleao            |
