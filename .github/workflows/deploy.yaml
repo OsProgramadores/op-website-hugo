@@ -1,0 +1,104 @@
+# Build and deploy main website.
+#
+# Setup:
+#
+# 1) On the destination host (jupiter.osprogramadores.com), create a file named
+#    ~op/.ssh/authorized keys with the following content:
+#
+#   command="/usr/bin/rrsync /var/www/osprogramadores.com" ssh-rsa AAAAB3N(...)
+#
+#   This will limit rsync to copy to /var/www/osprogramadores.com when logging
+#   in using this key and user "op".
+#
+#   The correct key (as 2022-08-07) has the following signature:
+#
+#   $ ssh-keygen -l -f id_rsa_op
+#   3072 SHA256:scFrx7uPYRusev8sdbp4Or9x/qk+dH/A2V6Uj6lFBA8 op@jupiter (RSA)
+#
+#   Make sure this file has the correct ownership (or SSH won't work.)
+#
+# 2) Create a Personal Access Token for op-scoreboard
+#   - Visit https://github.com/settings/tokens
+#   - Click on [Generate new token].
+#   - Enter a note (E.g: op-scoreboard Access token).
+#   - Select "No Expiration".
+#   - Don't select any scopes.
+#   - Click [Generate Token].
+#   - On the next page, select and save the token locally. This token
+#     will not be displayed anymore. If you lose the token, just delete it and
+#     generate another one.
+#
+# 3) Create a secret with the Personal Access Token.
+#   - Visit https://github.com/organizations/OsProgramadores/settings/secrets/actions
+#   - Click on "New Organization Secret".
+#   - Name it AUTH_TOKEN
+#   - Paste the token created in step 2 in the "Value" field.
+#   - Leave Repository Access as "Public Repositories".
+#   - Click on "[Add Secrets]"
+#
+# 4) Create a secret with the SSH secret key.
+#   - Create a New Organization Secret following the steps in step 3.
+#   - Name the secret OP_SECRET_KEY
+#   - Paste the contents of the *private* key file (see step 1) into the value field.
+#   - Click on "[Add Secrets]"
+#
+# This only needs to be done once (or after machine reinstalls).
+name: Deploy Website
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy_op_website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.18.x
+
+      - name: Checkout op-website-hugo
+        uses: actions/checkout@v3
+        with:
+          path: website
+          persist-credentials: false
+          submodules: true  # Fetch Hugo themes.
+
+      - name: Checkout op-desafios
+        uses: actions/checkout@v3
+        with:
+          path: desafios
+          repository: osprogramadores/op-desafios
+
+      - name: Checkout op-scoreboard
+        uses: actions/checkout@v3
+        with:
+          path: scoreboard
+          repository: osprogramadores/op-scoreboard
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.59.1'
+
+      - name: Build scoreboard binary
+        run: pushd scoreboard && go build -v && popd
+
+      - name: Generate scoreboard
+        run: |
+          pushd scoreboard && ./op-scoreboard --config="../website/ci/configs/scoreboard-config.toml" --token="${{ secrets.auth_token }}" && popd
+
+      - name: Build Site
+        run: pushd website && hugo -v && popd
+
+      - name: Deploy using rsync
+        uses: burnett01/rsync-deployments@4.0
+        with:
+          switches: -avpzr --delete
+          path: website/public/
+          remote_host: jupiter.osprogramadores.com
+          remote_port: 2345
+          remote_path: html/
+          remote_user: op
+          remote_key: ${{ secrets.OP_SECRET_KEY }}
