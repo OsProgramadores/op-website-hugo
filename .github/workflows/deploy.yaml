@@ -48,6 +48,9 @@ on:
   push:
     branches:
       - master
+  schedule:
+    - cron: '7 * * * *'
+    - cron: '37 * * * *'
 
 jobs:
   deploy_op_website:
@@ -95,7 +98,7 @@ jobs:
       - name: Deploy using rsync
         uses: burnett01/rsync-deployments@4.0
         with:
-          switches: -avpzr --delete
+          switches: -avpzcr --delete
           path: website/public/
           remote_host: jupiter.osprogramadores.com
           remote_port: 2345
