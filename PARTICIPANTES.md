@@ -80,6 +80,7 @@ Ao adicionar o seu nome, por favor observe:
 | Eduardo Felipe Lopes           | edufelopes@hotmail.com                | https://github.com/raikon55               |
 | Eduardo Figueiredo Gonçalves   | goncalves.ef@gmail.com                | https://github.com/eduardofg87            |
 | Eduardo Henrique               | eduardosatrini@gmail.com              | https://github.com/satrini                |
+| Eduardo Jeremias               | eduardojeremias180@gmail.com          | https://github.com/Ej3r                   |
 | Eduardo Stephan                | eduardo.stephan@outlook.com           | https://github.com/edustephan             |
 | Eduardo Teixeira               | dunirvana@gmail.com                   | https://github.com/dunirvana              |
 | Elaine Saith Martins           | elainesaith@hotmail.com               | https://github.com/elainesaith            |
