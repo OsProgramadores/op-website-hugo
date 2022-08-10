@@ -131,7 +131,7 @@ Ao adicionar o seu nome, por favor observe:
 | Israel da Silva Matos          | arstotz.1803@outlook.com              | https://github.com/BriggsK                |
 | Israel Maicena Neves           | israelsjm@gmail.com                   | https://github.com/israelcena             |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com          | https://github.com/ItamarHavenstein       |
-| Italo Cauã da Silva Santos     | italo.santos02@outlook.com.br         | https://github.com/kaylekylian      |
+| Italo Cauã da Silva Santos     | italo.santos02@outlook.com.br         | https://github.com/kaylekylian            |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com               | https://github.com/JacksonOsvaldo         |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                    | https://github.com/meiotexto              |
 | Jean Pablo Costa Dos Santos    | Jesantoxfachmann@gmail.com            | https://github.com/Jesantox               |
