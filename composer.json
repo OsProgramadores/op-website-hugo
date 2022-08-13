@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Desafio\\": "desafio-02/"
+        }
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.21"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
