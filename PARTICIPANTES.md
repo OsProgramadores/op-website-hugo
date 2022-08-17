@@ -88,7 +88,7 @@ Ao adicionar o seu nome, por favor observe:
 | Elder Louzada                  | elder_louzada@outlook.com             | https://github.com/reedlex98              |
 | Ênio Vinicius C. dos Santos    | enio.vi.santos@gmail.com              | https://github.com/eniovi                 |
 | Enoque de Sousa Neres          | enoque.sneres@live.com                | https://github.com/enqneres               |
-| Fabio Americo do Prado         | fpradox@gmail.com                     | https://github.com/fpradox
+| Fabio Americo do Prado         | fpradox@gmail.com                     | https://github.com/fpradox	         |	
 | Fabio Oliveira                 | fabio20rj@gmail.com                   | https://github.com/ffabiorj               |
 | Fabricio Albuquerque Ribas     | fabricioaribas@gmail.com              | https://github.com/fabricioribas          |
 | Fabricio Henrique da Silva     | fnhs27@outlook.com                    | https://github.com/Fabricio967            |
