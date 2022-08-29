@@ -1,5 +1,5 @@
 +++
-date = "2022-08-1820T12:00:00-03:00"
+date = "2022-08-18T12:00:00-03:00"
 title = "E65 (EN) - Amanda Shafack"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
