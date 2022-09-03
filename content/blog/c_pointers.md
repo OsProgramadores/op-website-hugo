@@ -3,7 +3,7 @@ title = "Ponteiros em C"
 date = "2017-06-09T21:00:00-07:00"
 tags = ["programação"]
 categories = ["linguagens"]
-banner = "img/banners/languages.jpg"
+banner = "img/banners/languages.webp"
 +++
 
 ## Introdução

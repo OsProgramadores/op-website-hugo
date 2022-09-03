@@ -3,7 +3,7 @@ title = "Jornadas não são lineares"
 date = "2021-02-14T21:50:00-03:00"
 tags = ["carreira", "faculdade", "trabalho", "jornada"]
 categories = ["testemunho"]
-banner = "img/banners/campsber.jpg"
+banner = "img/banners/campsber.webp"
 +++
 
 Olá pessoal, tudo bem? Meu nome é Bernardo e vou contar um pouco da minha jornada. Espero que sirva de inspiração para alguém, assim como as histórias que ouvi aqui no grupo me inspiraram.

@@ -3,7 +3,7 @@ date = "2020-09-10T16:24:06-03:00"
 title = "Vetores e Matrizes"
 categories = ["algoritmo"]
 tags = ["matrizes","vetores"]
-banner = "img/banners/cube-matrix.jpg"
+banner = "img/banners/cube-matrix.webp"
 +++
 
 Recomendamos a leitura do artigo sobre [Por onde Começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/), antes da leitura deste artigo.

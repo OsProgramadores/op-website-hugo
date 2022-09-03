@@ -3,7 +3,7 @@ title = "Hacking"
 date = "2017-04-08T11:00:00-07:00"
 tags = ["hacking"]
 categories = ["segurança"]
-banner = "img/banners/hacking.jpg"
+banner = "img/banners/hacking.webp"
 +++
 
 ## Quer hackear algum site?

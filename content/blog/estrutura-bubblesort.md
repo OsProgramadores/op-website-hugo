@@ -3,7 +3,7 @@ date = "2017-08-24T23:34:06-03:00"
 title = "Ordenação bubble sort"
 categories = ["ordenação","algoritmo"]
 tags = ["bubblesort"]
-banner = "img/banners/bubbles.jpg"
+banner = "img/banners/bubbles.webp"
 
 +++
 

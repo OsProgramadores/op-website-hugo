@@ -3,7 +3,7 @@ title = "Qual Linguagem devo usar?"
 date = "2017-04-07T18:38:41-07:00"
 tags = ["programação"]
 categories = ["linguagens"]
-banner = "img/banners/languages.jpg"
+banner = "img/banners/languages.webp"
 +++
 
 Uma das perguntas comuns no estudo de programação e ciência da computação em
