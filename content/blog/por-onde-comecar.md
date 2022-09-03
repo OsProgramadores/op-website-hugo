@@ -3,7 +3,7 @@ title = "Por onde começar?"
 date = "2019-03-12T08:26:00-07:00"
 tags = ["programação"]
 categories = ["linguagens"]
-banner = "img/banners/background-code.jpg"
+banner = "img/banners/background-code.webp"
 +++
 
 Uma pergunta frequente de vários participantes do [OsProgramadores no Telegram](https://t.me/osprogramadores) é: "Por onde eu começo?" e "como posso me preparar para conseguir o primeiro estágio ou o primeiro emprego na área de programação?" 

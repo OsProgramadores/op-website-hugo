@@ -3,7 +3,7 @@ date = "2020-08-01T12:10:06-03:00"
 title = "Evolução profissional do Lucas"
 categories = ["testemunho"]
 tags = ["desafios","carreira","Golang","PHP"]
-banner = "img/banners/lucas.jpeg"
+banner = "img/banners/lucas.webp"
 
 +++
 

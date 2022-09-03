@@ -3,7 +3,7 @@ title = "Não pergunte se pode perguntar, apenas pergunte"
 date = "2020-09-11T20:45:00-00:00"
 tags = ["internet", "artigos"]
 categories = ["artigos"]
-banner = "img/banners/como-perguntar-banner.png"
+banner = "img/banners/como-perguntar-banner.webp"
 +++
 
 ## Não pergunte se pode perguntar, apenas pergunte

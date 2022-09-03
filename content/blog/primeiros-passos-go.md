@@ -3,7 +3,7 @@ date = "2020-12-23T00:11:00-03:00"
 title = "Primeiros passos em Go"
 categories = ["linguagens"]
 tags = ["programação","go", "golang", "história go", "projeto go", "install go"]
-banner = "img/banners/go_banner1.png"
+banner = "img/banners/go_banner1.webp"
 +++
 
 Olá sou o Jefferson Otoni Lima conhecido como [jeffotoni](https://github.com/jeffotoni)
@@ -19,7 +19,7 @@ Vamos conhecer mais deste universo fantástico que é Go.
 Para você que está iniciando em programação ou que já conhecça de programação este
 post irá ser útil para você entender um pouco mais quando o assunto é Go.
 
-![banner Go](/img/conteudos-de-artigos/go_banner1.png)
+![banner Go](/img/conteudos-de-artigos/go_banner1.webp)
 
 ## Primeiros passos em Go
 
@@ -41,7 +41,7 @@ Go tornou-se um projeto de código aberto público em 10 de novembro de 2009. In
 
 "_Existem agora milhões de programadores Go “Gophers” em todo o mundo, e há mais a cada dia. O sucesso de Go excedeu em muito as expectativas._"
 
-![Engenheiros Go](/img/conteudos-de-artigos/engenheiros_go.png)
+![Engenheiros Go](/img/conteudos-de-artigos/engenheiros_go.webp)
 
 
 ## Por que criaram uma nova linguagem?
@@ -56,7 +56,7 @@ E por que do grande sucesso de Go ?
 
 A comunidade Go não tem dúvidas que é devido ao seu mascote e que hoje tem milhares de gophers espalhados pelo mundo.😁
 
-![Mascote Go](/img/conteudos-de-artigos/mascote_go.jpg)
+![Mascote Go](/img/conteudos-de-artigos/mascote_go.webp)
 
 
 ## Site Oficial
@@ -85,7 +85,7 @@ Antes de instalar Go, ou rodar Go pelo play, vamos dar uma passada em algumas pa
 
 Para acessar o site oficial basta clicar em: [site oficial go](https://golang.org).
 
-![Site Oficial](/img/conteudos-de-artigos/site_oficial_go.png)
+![Site Oficial](/img/conteudos-de-artigos/site_oficial_go.webp)
 
 ## Effective Go
 
@@ -215,7 +215,7 @@ Em Go temos algumas características marcantes da linguagem que a tornam ainda m
 
 ## Instalando Go
 
-![Docker Go](/img/conteudos-de-artigos/goinstall.png)
+![Docker Go](/img/conteudos-de-artigos/goinstall.webp)
 
 Install Go neste link terá o passo a passo de como instalar em diversos Sistemas Operacionais mas vou deixar aqui a instalação no Linux.
 
