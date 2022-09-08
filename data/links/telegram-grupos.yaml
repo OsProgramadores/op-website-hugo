@@ -210,10 +210,6 @@ sources:
   title: "EmberBR"
   description: "Grupo de desenvolvedores EmberJS no Brasil"
 
-- url: "https://t.me/joinchat/IEGA2UPQ84BSwf-8F6lO6w"
-  title: "Empregos em Sergipe"
-  description: "Grupo exclusivo para postar vagas do site vagassergipe.com.br."
-
 - url: "https://t.me/Endian_Firewall"
   title: "Endian Firewall Brasil"
   description: "Comunidade Brasileira de Endian Firewall"
@@ -256,7 +252,7 @@ sources:
 
 - url: "https://t.me/freeswitchbrasil"
   title: "FreeSWITCH Brasil"
-  description: ""
+  description: "Grupo brasileiro sobre a plataforma open-source de telefonia FreeSWITCH"
 
 - url: "https://t.me//frontendbrasil"
   title: "Frontend Brasil"
@@ -361,10 +357,6 @@ sources:
 - url: "https://t.me/istiobr"
   title: "IstioBR"
   description: "Grupo brasileiro sobre Istio"
-
-- url: "https://t.me/channelitjobspe"
-  title: "IT Jobs PE"
-  description: "Canal de vagas na área de TI em Pernambuco"
 
 - url: "https://t.me/itjobspe"
   title: "IT Jobs PE (Debates)"
@@ -721,10 +713,6 @@ sources:
 - url: "https://t.me/univentionbr"
   title: "Univention Brasil"
   description: "Grupo brasileiro para discussões sobre o Univention Core Server"
-
-- url: "https://t.me/vagastibr"
-  title: "Vagas de TI"
-  description: "Grupo de vagas na área de TI"
 
 - url: "https://t.me/vagrantbr"
   title: "vagrantbr"
