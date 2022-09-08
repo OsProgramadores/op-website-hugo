@@ -1,78 +1,127 @@
 title: 'Vagas'
 
 sources:
-  - url: 'https://t.me/CafeinaVagas'
-    title: 'Cafeína Vagas | Iniciantes em TI 🔎'
-    description: '[Telegram] Canal mantido por voluntários onde se postam vagas de tecnologia inclusivas e para iniciantes.'
 
-  - url: 'https://t.me/vagastibr'
-    title: 'Vagas de TI para Todos'
-    description: '[Telegram] Grupo destinado a anúncio de vagas de tecnologia.'
+- url: 'https://t.me/CafeinaVagas'
+  title: 'Cafeína Vagas | Iniciantes em TI 🔎'
+  description: '[Telegram] Canal mantido por voluntários onde se postam vagas de tecnologia inclusivas e para iniciantes.'
 
-  - url: 'https://t.me/vagasparajuninhos'
-    title: 'Vagas Para os Juninhos 🚀👶'
-    description: '[Telegram] Grupo solidário, vagas apenas para Juninhos (TI).'
+- url: 'https://t.me/vagastibr'
+  title: 'Vagas de TI para Todos'
+  description: '[Telegram] Grupo destinado a anúncio de vagas de tecnologia.'
 
-  - url: 'https://t.me/developersjobs'
-    title: 'Developers [Freelances e Vagas Remotas]'
-    description: '[Telegram] Grupo para quem quer buscar ou divulgar trabalhos freelancers remotos na área de TI.'
+- url: 'https://t.me/vagasparajuninhos'
+  title: 'Vagas Para os Juninhos 🚀👶'
+  description: '[Telegram] Grupo solidário, vagas apenas para Juninhos (TI).'
 
-  - url: 'https://twitter.com/temvagaprajr'
-    title: 'Tem Vaga Pra Júnior?'
-    description: '[Twitter] Conta que divulga vagas e iniciativas legais para pessoas desenvolvedoras júnior.'
+- url: 'https://t.me/developersjobs'
+  title: 'Developers [Freelances e Vagas Remotas]'
+  description: '[Telegram] Grupo para quem quer buscar ou divulgar trabalhos freelancers remotos na área de TI.'
 
-  - url: 'https://twitter.com/Tecnovagas1'
-    title: 'Tecnovagas'
-    description: '[Twitter] Conta que divulga vagas de tecnologia em geral.'
+- url: 'https://t.me/DevsVagas'
+  title: 'Devs VAGAS'
+  description: '[Telegram] Grupo exclusivamente para divulgação de vagas Front-End / Back-End / DevOps.'
 
-  - url: 'https://twitter.com/vagasprajr'
-    title: 'Vagas pra Jr'
-    description: '[Twitter] Bot que divulga vagas para pessoas desenvolvedoras júnior.'
+- url: 'https://t.me/vagastibrazil'
+  title: 'Vagas BR Tecnologia'
+  description: '[Telegram] Vagas diárias de TI e áreas afins.'
 
-  - url: 'https://twitter.com/RemotarJobs'
-    title: 'Remotar'
-    description: '[Twitter] Curadoria de vagas e oportunidades para trabalho remoto no Brasil e no mundo.'
+- url: 'https://t.me/ti_vagas'
+  title: 'Vagas TI Brasil'
+  description: '[Telegram] Grupo para ofertar vagas/serviços em TI.'
 
-  - url: 'https://twitter.com/ViUmaVaga'
-    title: '🤖 Vi uma vaga (Tech)'
-    description: '[Twitter] Bot que propaga diversas vagas vistas por pessoas diariamente.'
+- url: 'https://t.me/vagas_consultoria_TI'
+  title: 'VAGAS TI CONSULTORIAS'
+  description: '[Telegram] Grupo criado para promover divulgação de vagas e oportunidades de TI.'
 
-  - url: 'https://twitter.com/seujobtech'
-    title: 'Seu Job Tech ☕️'
-    description: '[Twitter] Conta que divulga vagas de tecnologia em geral.'
+- url: 'https://t.me/vagasdelphibr'
+  title: 'Vagas Delphi / Lazarus'
+  description: '[Telegram] Canal exclusivo para ofertas de trabalho em Delphi / Lazarus.'
 
-  - url: 'https://twitter.com/frontendbrvagas'
-    title: 'Front-End BR Vagas'
-    description: '[Twitter] Conta que retuíta automaticamente vagas postadas no repositório do Front-End Brasil no GitHub.'
+- url: "https://t.me/channelitjobspe"
+  title: "IT Jobs PE"
+  description: "[Telegram] Canal de vagas na área de TI em Pernambuco"
 
-  - url: 'https://github.com/frontendbr/vagas'
-    title: 'Front-End Brasil | Vagas'
-    description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores front-end via issues do Github.'
+- url: "https://t.me/tiBrasiliaVagas"
+  title: "VAGAS TI Brasília - São Paulo - Brasil"
+  description: "[Telegram] Grupo de divulgação de vagas para diversas áreas de TI para todos. Presencial, Remoto e Híbrido."
 
-  - url: 'https://github.com/backend-br/vagas'
-    title: 'Back-End Brasil'
-    description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores back-end via issues do Github.'
+- url: "https://t.me/VAGASSERGIPEEMPREGOS"
+  title: "Empregos em Sergipe"
+  description: "[Telegram] Grupo exclusivo para postar vagas do site vagassergipe.com.br (não exclusivo de TI)"
 
-  - url: 'https://github.com/react-brasil/vagas'
-    title: 'React Brasil'
-    description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores React via issues do Github.'
+- url: "https://t.me/vagastibahia"
+  title: "Vagas de Tecnologia"
+  description: "[Telegram] Canal sobre vagas de TI na Bahia."
 
-  - url: 'https://github.com/vuejs-br/vagas'
-    title: 'Vue.js Brasil'
-    description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores Vue.js via issues do Github.'
+- url: "https://t.me/vagas_ti_SP"
+  title: "Vagas de TI São Paulo"
+  description: "[Telegram] Grupo de empregos em TI em SP."
 
-  - url: 'https://github.com/phpdevbr/vagas'
-    title: 'PHP-DEV Brasil'
-    description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores PHP via issues do Github.'
+- url: "https://t.me/vagastigo"
+  title: "Vagas de TI em Goiás"
+  description: "[Telegram] Grupo de divulgação de vagas para a área de TI no estado de Goiás."
 
-  - url: 'https://github.com/CocoaHeadsBrasil/vagas'
-    title: 'CocoaHeadsBrasil Vagas'
-    description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores iOS/macOS via issues do Github.'
+- url: "https://t.me/vagastiportugal"
+  title: "Vagas Portuguesas de TI"
+  description: "[Telegram] Grupo de divulgação de vagas de TI em Portugal."
 
-  - url: 'https://github.com/androiddevbr/vagas'
-    title: 'Android Dev BR'
-    description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores Android via issues do Github.'
+- url: 'https://twitter.com/temvagaprajr'
+  title: 'Tem Vaga Pra Júnior?'
+  description: '[Twitter] Conta que divulga vagas e iniciativas legais para pessoas desenvolvedoras júnior.'
 
-  - url: 'https://github.com/qa-brasil/vagas'
-    title: 'QA Brasil'
-    description: '[GitHub] Espaço para a divulgação de vagas de quality assurance via issues do Github.'
+- url: 'https://twitter.com/Tecnovagas1'
+  title: 'Tecnovagas'
+  description: '[Twitter] Conta que divulga vagas de tecnologia em geral.'
+
+- url: 'https://twitter.com/vagasprajr'
+  title: 'Vagas pra Jr'
+  description: '[Twitter] Bot que divulga vagas para pessoas desenvolvedoras júnior.'
+
+- url: 'https://twitter.com/RemotarJobs'
+  title: 'Remotar'
+  description: '[Twitter] Curadoria de vagas e oportunidades para trabalho remoto no Brasil e no mundo.'
+
+- url: 'https://twitter.com/ViUmaVaga'
+  title: '🤖 Vi uma vaga (Tech)'
+  description: '[Twitter] Bot que propaga diversas vagas vistas por pessoas diariamente.'
+
+- url: 'https://twitter.com/seujobtech'
+  title: 'Seu Job Tech ☕️'
+  description: '[Twitter] Conta que divulga vagas de tecnologia em geral.'
+
+- url: 'https://twitter.com/frontendbrvagas'
+  title: 'Front-End BR Vagas'
+  description: '[Twitter] Conta que retuíta automaticamente vagas postadas no repositório do Front-End Brasil no GitHub.'
+
+- url: 'https://github.com/frontendbr/vagas'
+  title: 'Front-End Brasil | Vagas'
+  description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores front-end via issues do Github.'
+
+- url: 'https://github.com/backend-br/vagas'
+  title: 'Back-End Brasil'
+  description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores back-end via issues do Github.'
+
+- url: 'https://github.com/react-brasil/vagas'
+  title: 'React Brasil'
+  description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores React via issues do Github.'
+
+- url: 'https://github.com/vuejs-br/vagas'
+  title: 'Vue.js Brasil'
+  description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores Vue.js via issues do Github.'
+
+- url: 'https://github.com/phpdevbr/vagas'
+  title: 'PHP-DEV Brasil'
+  description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores PHP via issues do Github.'
+
+- url: 'https://github.com/CocoaHeadsBrasil/vagas'
+  title: 'CocoaHeadsBrasil Vagas'
+  description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores iOS/macOS via issues do Github.'
+
+- url: 'https://github.com/androiddevbr/vagas'
+  title: 'Android Dev BR'
+  description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores Android via issues do Github.'
+
+- url: 'https://github.com/qa-brasil/vagas'
+  title: 'QA Brasil'
+  description: '[GitHub] Espaço para a divulgação de vagas de quality assurance via issues do Github.'
