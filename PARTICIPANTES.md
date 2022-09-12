@@ -68,6 +68,7 @@ Ao adicionar o seu nome, por favor observe:
 | Daniel Magalhães Bicalho       | danielmbicalho@gmail.com                | https://github.com/danielmbicalho         |
 | Daniel Mascarenhas R. da Silva | daniel.mascr@gmail.com                  | https://github.com/danielmascarenhas      |
 | Daniel Samper                  | dr.hongo@gmail.com                      | https://github.com/daniel-samper          |
+| Daniel Santos Rodrigues        | danielrodrigues.dev@gmail.com           | https://github.com/danniel-rodrigues      |
 | Danrley Senegalha Pires        | dansenpir@protonmail.com                | https://github.com/dansenpir              |
 | David GesRob                   | david81br@gmail.com                     | https://github.com/david81brs             |
 | Davidson Lucas                 | dvdsoncomp@gmail.com                    | https://github.com/dvdson                 |
