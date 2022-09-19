@@ -185,6 +185,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br                 | https://github.com/viniborges             |
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com                | https://github.com/luizcmf                |
 | Luiz Felipe Machado            | luizfelmach@gmail.com                   | https://github.com/luizfelmach            |
+| Luiz Fellipe de Souza Lindo    | luizfellipebr03@gmail.com               | https://github.com/luizfellips            |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com                | https://github.com/luiztorresjr           |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                  | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                  | https://github.com/maagwiin               |
