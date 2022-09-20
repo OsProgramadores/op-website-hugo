@@ -281,6 +281,7 @@ Ao adicionar o seu nome, por favor observe:
 | Tiago Dias Batista             | tiago@webdeleve.net                     | https://github.com/tigo-di                |
 | Tsuki A. Garrit dos Santos     | Tsuki52Garrit@gmail.com                 | https://github.com/52Angie52              |
 | Tyrone Macedo Damasceno        | tyronedamasceno@gmail.com               | https://github.com/tyronedamasceno        |
+| Vagner Bessa                   | bessavagner@gmail.com                   | https://github.com/bessavagner            |
 | Vagner Cavalcante da silva     | vagnermasked@gmail.com                  | https://github.com/vagnerzt               |
 | Valdinei Ferreira              | valdineifer@outlook.com                 | https://github.com/valdineifer            |
 | Vanessa Souza Machado          | machado.vanessa32@gmail.com             | https://github.com/Vanessamachado93       |
@@ -303,4 +304,3 @@ Ao adicionar o seu nome, por favor observe:
 | Wilque Muriel                  | wilque.m1234@gmail.com                  | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                                | https://github.com/yagodematos            |
 | Zilton Sales                   | No Email                                | https://github.com/sokolov13              |
-| Vagner Bessa                   | bessavagner@gmail.com                   | https://github.com/bessavagner            |
