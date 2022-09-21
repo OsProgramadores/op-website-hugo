@@ -33,6 +33,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        |
+| André Taveira                  | andretaveirati@gmail.com                | https://github.com/andretaveira90         | 
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
