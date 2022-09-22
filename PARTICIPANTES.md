@@ -32,11 +32,12 @@ Ao adicionar o seu nome, por favor observe:
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
-| Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        |
+| Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                  | https://github.com/andresansil            |
+| André Taveira                  | andretaveirati@gmail.com                | https://github.com/andretaveira90         |
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
