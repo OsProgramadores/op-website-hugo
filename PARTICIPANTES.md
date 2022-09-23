@@ -2,12 +2,12 @@
 
 Ao adicionar o seu nome, por favor observe:
 
-* Adicione o seu nome, email e página do github na lista abaixo.
-* A lista é ordenada por *nome*, seguida de *prenome* e *sobrenome*.
-* Emails inválidos serão rejeitados automaticamente.
-* URLs do github deverão ser no formato: `https://github.com/seu_usuario`
-* Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
-* Se necessário, realinhe as barras verticais de todos os nomes se o seu
+- Adicione o seu nome, email e página do github na lista abaixo.
+- A lista é ordenada por _nome_, seguida de _prenome_ e _sobrenome_.
+- Emails inválidos serão rejeitados automaticamente.
+- URLs do github deverão ser no formato: `https://github.com/seu_usuario`
+- Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
+- Se necessário, realinhe as barras verticais de todos os nomes se o seu
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
 
@@ -32,9 +32,9 @@ Ao adicionar o seu nome, por favor observe:
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
-| Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
+| Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        |
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
-| Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
+| Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                |
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                  | https://github.com/andresansil            |
 | André Taveira                  | andretaveirati@gmail.com                | https://github.com/andretaveira90         |
@@ -121,7 +121,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gleydson José da Silva         | gleydsonjosewarface@hotmail.com         | https://github.com/gleydsonjose           |
 | Guilherme Ribeiro de Carvalho  | guiribeirodev@gmail.com                 | https://github.com/guiribeirodev          |
 | Gustavo de Almeida             | gustavofcma@gmail.com                   | https://github.com/gustavofcma            |
-| Hamon de Córdova Jorge         | hamoncj@gmail.com                       | https://github.com/hamonCordova           | 
+| Hamon de Córdova Jorge         | hamoncj@gmail.com                       | https://github.com/hamonCordova           |
 | Heberth Augusto Silva Gomes    | heberth.augusto@gmail.com               | https://github.com/Heberth6               |
 | Helio Loureiro                 | helio@loureiro.eng.br                   | https://github.com/helioloureiro          |
 | Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com                 | https://github.com/hemilioaraujo          |
@@ -269,6 +269,7 @@ Ao adicionar o seu nome, por favor observe:
 | Samuel Ramos                   | samramox@gmail.com                      | https://github.com/samuelramox            |
 | Savio S. Gusmão                | saviosg@outlook.com                     | https://github.com/saviosg                |
 | Stéfano Tavares Diane          | stefanotd@yahoo.com.br                  | https://github.com/stefanotd              |
+| Simon James Shurety            | simonjshurety@gmail.com                 | https://https://github.com/SimonjShurety  |
 | Suzane da Silva Melo           | melo.suzane.89@gmail.com                | https://github.com/SuzaneMelo             |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                     | https://github.com/taciossbr              |
 | Talita Santos Costa Ribeiro    | talitacostatj@gmail.com                 | https://github.com/talita048              |
