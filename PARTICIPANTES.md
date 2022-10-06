@@ -207,6 +207,7 @@ Ao adicionar o seu nome, por favor observe:
 | Mario Idival Gomes Duarte      | marioidival@gmail.com                   | https://github.com/marioidival            |
 | Mateus Bittencourt Mercer      | contato@matbm.net                       | https://github.com/MatMercer              |
 | Mateus Franklin                | contato@mateusfranklin.com              | https://github.com/mateusfranklin         |
+| Mateus Ribeiro de Campos       | mateusrcampos@gmail.com                 | https://github.com/mateusribeirocampos    |
 | Matheus Barbosa Souza          | mbscbsjbs@gmail.com                     | https://github.com/WhoisBsa               |
 | Matheus Dias Vieira            | matheuspvh13@gmail.com                  | https://github.com/koalapvh13             |
 | Matheus Dourado                | matheusdouradobr@gmail.com              | https://github.com/matheusdouradobr       |
