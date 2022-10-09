@@ -72,3 +72,19 @@ sources:
 - url: "https://github.com/Universidade-Livre/ciencia-da-computacao"
   title: "Curso de Ciência da Computação"
   description: "Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira"
+
+- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A"
+  title: "Git e Github para Iniciantes"
+  description: "Tudo que você precisa para começar a versionar seus arquivos e contribuir com a comunidade opensource em vídeos curtos e práticos (por Willian Justen)."
+
+- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg"
+  title: "Git e Github na Vida Real"
+  description: "Um curso direto ao ponto para você aprender comandos realmente úteis no dia-a-dia e alguns fluxos de trabalho comuns em várias empresas do mundo (por Willian Justen)."
+
+- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi"
+  title: "Curso JS Moderno (ES6+)"
+  description: "Conteúdo proveniente de um curso da Udemy chamado 'JS com TDD na Prática' que costumava ser pago. Apesar do conteúdo ser mais antigo, as features abordadas são bem atuais e utilizadas até hoje (por Willian Justen)."
+
+- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPlXj6USip_lCPzONUATJbE"
+  title: "Aprenda NextJS, GraphQL e Leaflet na prática!"
+  description: "Conteúdo proveniente de um curso da Udemy que costumava ser pago. Esse é um curso mais rápido e mais focado com o objetivo de que você aprenda as principais características e funcionalidades do NextJS e GraphQL para que já possa criar diversos projetos já ao final do curso (por Willian Justen)."
