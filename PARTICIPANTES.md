@@ -140,7 +140,7 @@ Ao adicionar o seu nome, por favor observe:
 | Italo Cauã da Silva Santos     | italo.santos02@outlook.com.br           | https://github.com/kaylekylian            |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com            | https://github.com/ItamarHavenstein       |
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com                 | https://github.com/JacksonOsvaldo         |
-| Jackson Santos de Jesus        | jackson@bsd.com.br                      | https://github.com/meiotexto 
+| Jackson Santos de Jesus        | jackson@bsd.com.br                      | https://github.com/meiotexto              |
 | Janaina Oliveira da Silva      | euinaoficial@gmail.com                  | https://github.com/euina                  |
 | Jean Pablo Costa Dos Santos    | Jesantoxfachmann@gmail.com              | https://github.com/Jesantox               |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com        | https://github.com/jefersonrodrigostefani |
