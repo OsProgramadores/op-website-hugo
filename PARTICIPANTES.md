@@ -11,7 +11,7 @@ Ao adicionar o seu nome, por favor observe:
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
 
-| Luiza Vitória Costa            | luuhcosta290@gmail.com                   | https://github.com/luiiza0                |
+|                                |                                         |
 | ------------------------------ | --------------------------------------- | ----------------------------------------- |
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |
@@ -188,7 +188,8 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com                | https://github.com/luizcmf                |
 | Luiz Felipe Machado            | luizfelmach@gmail.com                   | https://github.com/luizfelmach            |
 | Luiz Fellipe de Souza Lindo    | luizfellipebr03@gmail.com               | https://github.com/luizfellips            |
-| Luiz Torres Junior             | luiztrjunior@hotmail.com                | https://github.com/luiztorresjr           |
+| Luiza Vitória Costa Rocha      | luuhcosta290@hotmail.com                | https://github.com/luiiza0                |
+|  Luiz Torres Junior            | luiztrjunior@hotmail.com                | https://github.com/luiztorresjr           |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                  | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                  | https://github.com/maagwiin               |
 | Marcel Almeida                 | marcel_amd@hotmail.com                  | https://github.com/mmarcel                |
