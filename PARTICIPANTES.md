@@ -139,7 +139,8 @@ Ao adicionar o seu nome, por favor observe:
 | Israel Maicena Neves           | israelsjm@gmail.com                     | https://github.com/israelcena             |
 | Italo Cauã da Silva Santos     | italo.santos02@outlook.com.br           | https://github.com/kaylekylian            |
 | Itamar Havenstein              | itamarhavenstein@hotmail.com            | https://github.com/ItamarHavenstein
-|Janaina Oliveira da Silva       | euinaoficial@gmail.com                  | https://github.com/euina
+| Janaina Oliveira da Silva      | euinaoficial@gmail.com                  | https://github.com/
+euina
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com                 | https://github.com/JacksonOsvaldo         |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                      | https://github.com/meiotexto              |
 | Jean Pablo Costa Dos Santos    | Jesantoxfachmann@gmail.com              | https://github.com/Jesantox               |
