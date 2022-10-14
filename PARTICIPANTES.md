@@ -11,7 +11,7 @@ Ao adicionar o seu nome, por favor observe:
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
 
-| Nome                           | Email                                   | Github Page                               |
+| Luiza Vitória Costa            | luuhcosta290@gmail.com                   | https://github.com/luiiza0                |
 | ------------------------------ | --------------------------------------- | ----------------------------------------- |
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |
