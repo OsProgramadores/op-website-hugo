@@ -190,6 +190,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Felipe Machado            | luizfelmach@gmail.com                   | https://github.com/luizfelmach            |
 | Luiz Fellipe de Souza Lindo    | luizfellipebr03@gmail.com               | https://github.com/luizfellips            |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com                | https://github.com/luiztorresjr           |
+| Luiza Vitória Costa Rocha      | luuhcosta290@gmail.com                  | https://github.com/luiiza0                | 
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                  | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                  | https://github.com/maagwiin               |
 | Marcel Almeida                 | marcel_amd@hotmail.com                  | https://github.com/mmarcel                |
