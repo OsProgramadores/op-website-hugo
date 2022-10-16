@@ -74,8 +74,8 @@ Ao adicionar o seu nome, por favor observe:
 | David GesRob                   | david81br@gmail.com                     | https://github.com/david81brs             |
 | Davidson Lucas                 | dvdsoncomp@gmail.com                    | https://github.com/dvdson                 |
 | Denis Almeida                  | denis.meida@gmail.com                   | https://github.com/denisvba               |
-| Diego Roberto Silva Nonato     | nonatodiego@hotmail.com                 | https://github.com/nonatodiego            |
 | Deyvisson Dias Magalhães       | deyvi0010@gmail.com                     | https://github.com/Deyvi-dev              |
+| Diego Roberto Silva Nonato     | nonatodiego@hotmail.com                 | https://github.com/nonatodiego            |
 | Diogo Anderson de O. Silva     | diogoaos@gmail.com                      | https://github.com/diogoaos               |
 | Diogo Brito Duque              | duq.diogo@gmail.com                     | https://github.com/Diogo-Duque            |
 | Diogo Fernandes de Queiroz     | diogoqueirooz1212@gmail.com             | https://github.com/Diogo-Queiroz          |
