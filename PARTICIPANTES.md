@@ -208,6 +208,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marcos Rocha                   | No Email                                | https://github.com/rochamrcs              |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com            | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                  | https://github.com/mavinicius95           |
+| Maria Bruna de Oliveira        | bruna.o.fon100@gmail.com                | https://github.com/bruna-luc              |
 | Mariana Lira                   | marilira2006@gmail.com                  | https://github.com/marilira               |
 | Mario Idival Gomes Duarte      | marioidival@gmail.com                   | https://github.com/marioidival            |
 | Mateus Bittencourt Mercer      | contato@matbm.net                       | https://github.com/MatMercer              |
