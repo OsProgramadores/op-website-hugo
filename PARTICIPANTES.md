@@ -10,7 +10,7 @@ Ao adicionar o seu nome, por favor observe:
 * Se necessário, realinhe as barras verticais de todos os nomes se o seu
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
-
+  
 | Nome                            | Email                                   | Github Page                               |
 | ------------------------------  | --------------------------------------- | ----------------------------------------- |
 | Abraão Nascimento Carvalho      | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
