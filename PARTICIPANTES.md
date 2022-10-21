@@ -12,7 +12,7 @@ Ao adicionar o seu nome, por favor observe:
   atual.
 
 | Nome                           | Email                                   | Github Page                               |
-| ------------------------------ | --------------------------------------- | ----------------------------------------- |
+|--------------------------------|-----------------------------------------| ----------------------------------------- |
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
@@ -314,4 +314,5 @@ Ao adicionar o seu nome, por favor observe:
 | Williams Lima Nunes Coelho     | williamsxlima@yahoo.com                 | https://github.com/WilliamsLima777        |
 | Wilque Muriel                  | wilque.m1234@gmail.com                  | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                                | https://github.com/yagodematos            |
+| Yasmin Bento                   | yasminsbento@gmail.com                  | https://github.com/yasminbento            |
 | Zilton Sales                   | No Email                                | https://github.com/sokolov13              |
