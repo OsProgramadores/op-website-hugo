@@ -145,6 +145,7 @@ Ao adicionar o seu nome, por favor observe:
 | Janaina Oliveira da Silva      | euinaoficial@gmail.com                  | https://github.com/euina                  |
 | Jean Pablo Costa Dos Santos    | Jesantoxfachmann@gmail.com              | https://github.com/Jesantox               |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com        | https://github.com/jefersonrodrigostefani |
+| Jefferson Queiroz Venerando    | No Email                                | https://github.com/shamanime              |
 | Jefferson Seraphim             | jseraphim@gmail.com                     | https://github.com/jeffseraphim           |
 | Jefferson Teixeira             | jeffersonads2019@gmail.com              | https://github.com/jeffteixeira           |
 | Jessica Zanelato Soares        | jessizanelato@gmail.com                 | https://github.com/jessizanelato          |
