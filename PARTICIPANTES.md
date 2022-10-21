@@ -10,8 +10,12 @@ Ao adicionar o seu nome, por favor observe:
 * Se necessário, realinhe as barras verticais de todos os nomes se o seu
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
+<<<<<<< HEAD
 
 <<<<<<< HEAD
+=======
+  
+>>>>>>> ba4cbc870524b62345232976379efc58a3e81212
 | Nome                            | Email                                   | Github Page                               |
 | ------------------------------  | --------------------------------------- | ----------------------------------------- |
 | Abraão Nascimento Carvalho      | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
@@ -33,9 +37,15 @@ Ao adicionar o seu nome, por favor observe:
 | Aline de Farias Lisboa          | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Ana Paula de Mazi               | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                 | anderood@hotmail.com                    | https://github.com/anderood               |
+<<<<<<< HEAD
 | Anderson Unsonst                | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        |
 | André Carvalhais                | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                   | abaquar.dev@gmail.com                   | https://github.com/Caviuna                |
+=======
+| Anderson Unsonst                | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
+| André Carvalhais                | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
+| Andre Caviuna                   | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
+>>>>>>> ba4cbc870524b62345232976379efc58a3e81212
 | André Luiz Félix da Rosa        | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva           | andretec1979@gmail.com                  | https://github.com/andresansil            |
 | André Taveira                   | andretaveirati@gmail.com                | https://github.com/taveiradev             |
@@ -123,7 +133,11 @@ Ao adicionar o seu nome, por favor observe:
 | Gleydson José da Silva          | gleydsonjosewarface@hotmail.com         | https://github.com/gleydsonjose           |
 | Guilherme Ribeiro de Carvalho   | guiribeirodev@gmail.com                 | https://github.com/guiribeirodev          |
 | Gustavo de Almeida              | gustavofcma@gmail.com                   | https://github.com/gustavofcma            |
+<<<<<<< HEAD
 | Hamon de Córdova Jorge          | hamoncj@gmail.com                       | https://github.com/hamonCordova           |
+=======
+| Hamon de Córdova Jorge          | hamoncj@gmail.com                       | https://github.com/hamonCordova           | 
+>>>>>>> ba4cbc870524b62345232976379efc58a3e81212
 | Heberth Augusto Silva Gomes     | heberth.augusto@gmail.com               | https://github.com/Heberth6               |
 | Helio Loureiro                  | helio@loureiro.eng.br                   | https://github.com/helioloureiro          |
 | Hemílio Lauro de Araújo Melo    | hemilioaraujo@gmail.com                 | https://github.com/hemilioaraujo          |
@@ -193,7 +207,11 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Felipe Machado             | luizfelmach@gmail.com                   | https://github.com/luizfelmach            |
 | Luiz Fellipe de Souza Lindo     | luizfellipebr03@gmail.com               | https://github.com/luizfellips            |
 | Luiz Torres Junior              | luiztrjunior@hotmail.com                | https://github.com/luiztorresjr           |
+<<<<<<< HEAD
 | Luiza Vitória Costa Linda       | luuhcosta290@gmail.com                  | https://github.com/luiiza0                |
+=======
+| Luiza Vitória Costa Linda       | luuhcosta290@gmail.com                  | https://github.com/luiiza0                | 
+>>>>>>> ba4cbc870524b62345232976379efc58a3e81212
 | Lukas Pol dos S. Paes           | lukaspaespol@gmail.com                  | https://github.com/LukasPol               |
 | Magnu Windell Araujo Santos     | magnuwindell@gmail.com                  | https://github.com/maagwiin               |
 | Marcel Almeida                  | marcel_amd@hotmail.com                  | https://github.com/mmarcel                |
@@ -204,7 +222,10 @@ Ao adicionar o seu nome, por favor observe:
 | Marcelo Vinicius Campos Amedi   | marceloamedi@gmail.com                  | https://github.com/marceloamedi           |
 | Marcio Andre Sieburger          | sieburger@protonmail.com                | https://github.com/sieburger              |
 | Marcio Filadelfo                | marcio.kabana@gmail.com                 | https://github.com/marciofiladelfo        |
+<<<<<<< HEAD
 | Marcio Gusmao Pereira           | marciogusmao@msn.com                    | https://github.com/sirmarcius             |
+=======
+>>>>>>> ba4cbc870524b62345232976379efc58a3e81212
 | Marco Antonio Lauriano          | marlauriano@gmail.com                   | https://github.com/MaxKanu                |
 | Marco Antonio Rocha             | mrcrch@marcoantoniorocha.33mail.com     | https://github.com/mrcrch                 |
 | Marco Túlio R. Zuquim Alves     | tulio@century.net.br                    | https://github.com/Zuquim                 |
