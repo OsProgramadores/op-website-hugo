@@ -153,6 +153,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jeziel Silva dos Santos        | silvajeziel22@gmail.com                 | https://github.com/jezielsilva            |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com            | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski | joabejbk@gmail.com                      | https://github.com/kernelkill             |
+| João Guilherme G. de Oliveira  | jguilhermebsb2004@gmail.com             | https://github.com/JGuilhermeBSB          |
 | João José Marques Gonçalves    | jjmg.engenharia@gmail.com               | https://github.com/jjmg-eng               |
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                  | https://github.com/jplpanceri             |
 | Joao Paulo Miranda Matias      | joaopaulomirandamatias@hotmail.com      | https://github.com/joaopaulomirandamatias |
