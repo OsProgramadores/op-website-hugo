@@ -189,6 +189,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Rodrigues Santos         | rodrigues-i@outlook.com                 | https://github.com/rodrigues-i            |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com                 | https://github.com/lucasbrito-dev         |
 | Lucas Vinicius de Lima Corrêa  | lucascorrea.ads01@gmail.com             | https://github.com/lucascorreaads         |
+| Luigi Bassorici                | hydraxler@gmail.com                     | https://github.com/hydraxler              |
 | Luis Vinicius Borges da Silva  | viniborges@yahoo.com.br                 | https://github.com/viniborges             |
 | Luiz Carlos Martins Filho      | lcmartinsfilho@gmail.com                | https://github.com/luizcmf                |
 | Luiz Felipe Machado            | luizfelmach@gmail.com                   | https://github.com/luizfelmach            |
