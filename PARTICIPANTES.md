@@ -18,6 +18,7 @@ Ao adicionar o seu nome, por favor observe:
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br              | https://github.com/arlima                 |
 | Afonso Augusto Rodrigues       | afonsoaugustoventura@gmail.com          | https://github.com/afonsoaugusto          |
+| Alan Ariel de Souza Cordeiro   | souzacordeiroalann@gmail.com            | https://github.com/soualann               |
 | Alcione Ferreira               | sombra@alcionesytes.net                 | https://github.com/ksombrah               |
 | Alesandro Ferreira da Silva    | silva_alesandro@outlook.com             | https://github.com/alleSilva              |
 | Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com               | https://github.com/TeijIW                 |
