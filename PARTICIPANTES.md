@@ -126,6 +126,8 @@ Ao adicionar o seu nome, por favor observe:
 | Gustavo de Almeida             | gustavofcma@gmail.com                   | https://github.com/gustavofcma            |
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                       | https://github.com/hamonCordova           | 
 | Heberth Augusto Silva Gomes    | heberth.augusto@gmail.com               | https://github.com/Heberth6               |
+| Heitor Souza                   | sousaheitorcv@outlook.com               |
+https://github.com/sousaheitorcv          |
 | Helio Loureiro                 | helio@loureiro.eng.br                   | https://github.com/helioloureiro          |
 | Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com                 | https://github.com/hemilioaraujo          |
 | Henrique G. G. Pereira         | oscoder@henrique.email                  | https://github.com/ikkebr                 |
@@ -320,4 +322,4 @@ Ao adicionar o seu nome, por favor observe:
 | Williams Lima Nunes Coelho     | williamsxlima@yahoo.com                 | https://github.com/WilliamsLima777        |
 | Wilque Muriel                  | wilque.m1234@gmail.com                  | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                                | https://github.com/yagodematos            |
-| Zilton Sales                   | No Email                                | https://github.com/sokolov13              |
+| Zilton Sales                   | No Email                                | https://github.com/sokolov13 
