@@ -41,7 +41,6 @@ Ao adicionar o seu nome, por favor observe:
 | André Taveira                  | andretaveirati@gmail.com                | https://github.com/taveiradev             |
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
-| Felipe Lima                    | felipelima85@hotmail.com                | https://github.com/devfelipelimabr        |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45                 |
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
@@ -104,6 +103,7 @@ Ao adicionar o seu nome, por favor observe:
 | Felipe Alves                   | No Email                                | https://github.com/batocciero             |
 | Felipe Ceglia                  | felipe@dxwatch.com                      | https://github.com/mehale                 |
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com         | https://github.com/Felipe-Marques         |
+| Felipe Lima                    | felipelima85@hotmail.com                | https://github.com/devfelipelimabr        |
 | Felipe M. Ferreira             | felipe.m.frrr@gmail.com                 | https://github.com/felipefrr              |
 | Felipe Quirino Araujo          | felipeqaraujo@hotmail.com               | https://github.com/Felipedroid            |
 | Felipe Tiburcio de Araújo      | felipe.tiburcio@gmail.com               | https://github.com/felipe-tiburcio        |
