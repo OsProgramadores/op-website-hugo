@@ -41,6 +41,7 @@ Ao adicionar o seu nome, por favor observe:
 | André Taveira                  | andretaveirati@gmail.com                | https://github.com/taveiradev             |
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
+| Felipe Lima                    | felipelima85@hotmail.com                | https://github.com/devfelipelimabr        |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45                 |
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
