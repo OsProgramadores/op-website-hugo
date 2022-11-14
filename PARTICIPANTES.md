@@ -103,6 +103,7 @@ Ao adicionar o seu nome, por favor observe:
 | Felipe Alves                   | No Email                                | https://github.com/batocciero             |
 | Felipe Ceglia                  | felipe@dxwatch.com                      | https://github.com/mehale                 |
 | Felipe de Souza Marques        | felipe.souzamarques@outlook.com         | https://github.com/Felipe-Marques         |
+| Felipe Lima                    | felipelima85@hotmail.com                | https://github.com/devfelipelimabr        |
 | Felipe M. Ferreira             | felipe.m.frrr@gmail.com                 | https://github.com/felipefrr              |
 | Felipe Quirino Araujo          | felipeqaraujo@hotmail.com               | https://github.com/Felipedroid            |
 | Felipe Tiburcio de Araújo      | felipe.tiburcio@gmail.com               | https://github.com/felipe-tiburcio        |
