@@ -186,6 +186,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ligia Salzano                  | ligiasalzano@gmail.com                  | https://github.com/ligiasalzano           |
 | Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com                 | https://github.com/Cegielkowski           |
 | Lucas Dantas de Oliveira       | ldantasdev@gmail.com                    | https://github.com/lucantas               |
+| Lucas Felipe Turos             | lucasturos@gmail.com                    | https://github.com/lucasfturos            |
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br           | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br            | https://github.com/Harrisoned             |
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com               | https://github.com/lucasmgon              |
