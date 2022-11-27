@@ -14,15 +14,32 @@
           <div class="col-md-9" id="blog-listing-medium">
             <div class="row">
               <div class="alert alert-warning" role="alert">
-                <h1>Informação Importante</h1>
-                Antes de enviar a sua contribuição, leia atentamente as
-                <a href="https://github.com/osprogramadores/op-desafios/#readme">instruções para contribuições</a>
-                no <a href="https://github.com/osprogramadores/op-desafios">repositório op-desafios</a>.
-                <p>
-                Os admins prestarão ajuda com revisões e aprovações, entretanto, PRs contendo
-                erros básicos como estruturas de diretórios incorreta, linguagens de programação não
-                aceitas ou múltiplas submissões por PR serão automaticamente marcados como inválidos.
-                <br><br>
+                <h1>Informações Importantes</h1>
+                Antes de enviar a sua contribuição:
+                <ul>
+                  <li>
+                    Leia atentamente as <a href="https://github.com/osprogramadores/op-desafios/#readme">instruções para contribuições</a>
+                    no <a href="https://github.com/osprogramadores/op-desafios">repositório op-desafios</a>.
+                  </li>
+                  <li>
+                    Antes de criar um PR, teste a formatação e erros no seu programa usando o <a href="https://lint.osprogramadores.com">Online Linter</a>.
+                    Ignore este passo se a sua linguagem ainda não for suportada pelo Linter.
+                  </li>
+                </ul>
+                <br>
+                Após enviar o seu PR:
+                <ul>
+                  <li>
+                    <strong>Verifique o seu email!</strong> O seu PR será validado automaticamente e o Github enviará
+                    um email indicando o estado do seu PR. Verifique também o seu folder de Spam e marque emails vindos
+                    do Github como válidos, se necessário. <strong>É extremamente importante que os emails
+                    do Github sejam entregues na sua caixa de entrada.</strong>
+                  </li>
+                  <li>
+                    Os admins prestarão ajuda com revisões e aprovações, entretanto, PRs contendo
+                    erros básicos como estruturas de diretórios incorreta, linguagens de programação não
+                    aceitas ou múltiplas submissões por PR serão automaticamente marcados como inválidos.
+                  </li>
               </div>
 
               {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
