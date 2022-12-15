@@ -181,6 +181,7 @@ Ao adicionar o seu nome, por favor observe:
 | Leo Baiano                     | ljunior2005@gmail.com                   | https://github.com/leobaiano              |
 | Leo Silva Souza                | leovano@protonmail.com                  | https://github.com/leovano                |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com                | https://github.com/galloaleonardo         |
+| Leonardo Grando                | lgrando@gmail.com                       | https://github.com/lgrando1               |
 | Leonardo Steffen               | No Email                                | https://github.com/leonhar001             |
 | Letícia Fontoura               | leticia.fontoura@live.com               | https://github.com/leticiafontoura        |
 | Letícia Freire                 | leticiafcs4@gmail.com                   | https://github.com/leticia-freire         |
