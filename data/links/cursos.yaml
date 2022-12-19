@@ -3,88 +3,92 @@ title: "Cursos"
 sources:
 - url: "https://algoritmosempython.com.br/cursos/algoritmos-python/intro/"
   title: "Algoritmos em Python"
-  description: "Curso de Algoritmos em Python"
+  description: "Curso de Algoritmos em Python."
+
+- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPlXj6USip_lCPzONUATJbE"
+  title: "Aprenda NextJS, GraphQL e Leaflet na prática!"
+  description: "Conteúdo proveniente de um curso da Udemy que costumava ser pago. Esse é um curso mais rápido e mais focado com o objetivo de que você aprenda as principais características e funcionalidades do NextJS e GraphQL para que já possa criar diversos projetos já ao final do curso (por Willian Justen)."
 
 - url: "https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33"
   title: "Bootstrap 4"
-  description: "Framework Bootstrap, HTML5, CSS3"
-
-- url: "https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r"
-  title: "Curso de Java (Video)"
-  description: "Curso de Java básico, gratuito, com certificado e forum"
-
-- url: "https://www.cursoemvideo.com/"
-  title: "Cursos em Video"
-  description: "Cursos de Front-End e Back-End, Marketing Digital, Banco de Dados"
+  description: "Framework Bootstrap, HTML5, CSS3."
 
 - url: "https://www.codecademy.com"
   title: "Code Academy"
-  description: "Cursos gratuitos de Desenvolvimento Web, Programação e Data Science"
-
-- url: "https://docs.microsoft.com/pt-br/dotnet/csharp/"
-  title: "C# Tutorials"
-  description: "Tutoriais da Microsoft sobre C#"
-
-- url: "https://www.freecodecamp.org/portuguese/learn/"
-  title: "FreeCodeCamp"
-  description: "Curso gratuito de Front-End e Back-End mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado"
-
-- url: "https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ"
-  title: "Go (Video)"
-  description: "Curso completo em português da linguagem Go, de zero a ninja! - Ellen Körbes"
-
-- url: "http://jstherightway.org/pt-br/"
-  title: "JavaScript The Right Way"
-  description: "Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas"
-
-- url: "https://www.lua.org/portugues.html"
-  title: "Lua"
-  description: "Linguagem de programação Lua"
-
-- url: "https://nodeschool.io/pt-br/"
-  title: "NODESCHOOL"
-  description: "Workshops Open Source construídos em Node e que rodam no seu terminal. Rode-os em casa ou em um workshop mais próximo"
-
-- url: "https://www.youtube.com/playlist?list=PLFHgwDaINE8SfRoij8IbTSl0_quQL3g64"
-  title: "Python-DevKids"
-  description: "Curso Básico de Python 3 para crianças"
-
-- url: "https://youtube.com/c/PythonparaZumbis"
-  title: "Python para Zumbis"
-  description: "Curso sobre a linguagem de programacao Python"
-  
-- url: "https://www.rust-lang.org/learn"
-  title: "Rust"
-  description: "Curso sobre a linguagem de programação Rust (em inglês)"
-
-- url: "https://www.sololearn.com/"
-  title: "SoloLearn"
-  description: "Cursos introdutórios para várias linguagens de programação"
-
-- url: "https://go-tour-br.appspot.com/welcome/1"
-  title: "Um tour por Go"
-  description: "Um tour pela linguagem de Programação Go"
-
-- url: "https://www.mentebinaria.com.br/"
-  title: "Mente Binária"
-  description: "Cursos gratuitos de Programação, Segurança e Jogos"
+  description: "Cursos gratuitos de Desenvolvimento Web, Programação e Data Science."
 
 - url: "https://github.com/Universidade-Livre/ciencia-da-computacao"
   title: "Curso de Ciência da Computação"
-  description: "Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira"
-
-- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A"
-  title: "Git e Github para Iniciantes"
-  description: "Tudo que você precisa para começar a versionar seus arquivos e contribuir com a comunidade opensource em vídeos curtos e práticos (por Willian Justen)."
-
-- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg"
-  title: "Git e Github na Vida Real"
-  description: "Um curso direto ao ponto para você aprender comandos realmente úteis no dia-a-dia e alguns fluxos de trabalho comuns em várias empresas do mundo (por Willian Justen)."
+  description: "Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira."
 
 - url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi"
   title: "Curso JS Moderno (ES6+)"
   description: "Conteúdo proveniente de um curso da Udemy chamado 'JS com TDD na Prática' que costumava ser pago. Apesar do conteúdo ser mais antigo, as features abordadas são bem atuais e utilizadas até hoje (por Willian Justen)."
 
-- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPlXj6USip_lCPzONUATJbE"
-  title: "Aprenda NextJS, GraphQL e Leaflet na prática!"
-  description: "Conteúdo proveniente de um curso da Udemy que costumava ser pago. Esse é um curso mais rápido e mais focado com o objetivo de que você aprenda as principais características e funcionalidades do NextJS e GraphQL para que já possa criar diversos projetos já ao final do curso (por Willian Justen)."
+- url: "https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r"
+  title: "Curso de Java (Vídeo)"
+  description: "Curso de Java básico, gratuito, com certificado e fórum."
+
+- url: "https://www.cursoemvideo.com/"
+  title: "Cursos em Vídeo"
+  description: "Cursos de Front-End e Back-End, Marketing Digital, Banco de Dados."
+
+- url: "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+  title: "C# Tutorials"
+  description: "Tutoriais da Microsoft sobre C#."
+
+- url: "https://www.freecodecamp.org/portuguese/learn/"
+  title: "FreeCodeCamp"
+  description: "Curso gratuito de Front-End e Back-End mais completo que você vai encontrar, com atividades e projetos, ao final receba um certificado."
+
+- url: "https://ebookfoundation.github.io/free-programming-books-search/"
+  title: "Free-programming-books"
+  description: "Lista de recursos de aprendizado gratuitos em vários idiomas. Como Livros, dicas, cursos, conjuntos de problemas, programação competitiva e podcast - screencast."
+
+- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg"
+  title: "Git e Github na Vida Real"
+  description: "Um curso direto ao ponto para você aprender comandos realmente úteis no dia-a-dia e alguns fluxos de trabalho comuns em várias empresas do mundo (por Willian Justen)."
+
+- url: "https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A"
+  title: "Git e Github para Iniciantes"
+  description: "Tudo que você precisa para começar a versionar seus arquivos e contribuir com a comunidade open source em vídeos curtos e práticos (por Willian Justen)."
+
+- url: "https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ"
+  title: "Go (Vídeo)"
+  description: "Curso completo em português da linguagem Go, de zero a ninja! - Ellen Körbes."
+
+- url: "http://jstherightway.org/pt-br/"
+  title: "JavaScript The Right Way"
+  description: "Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas."
+
+- url: "https://www.lua.org/portugues.html"
+  title: "Lua"
+  description: "Linguagem de programação Lua."
+
+- url: "https://www.mentebinaria.com.br/"
+  title: "Mente Binária"
+  description: "Cursos gratuitos de Programação, Segurança e Jogos."
+
+- url: "https://nodeschool.io/pt-br/"
+  title: "NODESCHOOL"
+  description: "Workshops Open Source construídos em Node e que rodam no seu terminal. Rode-os em casa ou em um workshop mais próximo."
+
+- url: "https://youtube.com/c/PythonparaZumbis"
+  title: "Python para Zumbis"
+  description: "Curso sobre a linguagem de programação Python."
+  
+- url: "https://www.youtube.com/playlist?list=PLFHgwDaINE8SfRoij8IbTSl0_quQL3g64"
+  title: "Python-DevKids"
+  description: "Curso Básico de Python 3 para crianças."
+
+- url: "https://www.rust-lang.org/learn"
+  title: "Rust"
+  description: "Curso sobre a linguagem de programação Rust (em inglês)."
+
+- url: "https://www.sololearn.com/"
+  title: "SoloLearn"
+  description: "Cursos introdutórios para várias linguagens de programação."
+
+- url: "https://go-tour-br.appspot.com/welcome/1"
+  title: "Um tour por Go"
+  description: "Um tour pela linguagem de programação Go."
