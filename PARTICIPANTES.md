@@ -161,6 +161,7 @@ Ao adicionar o seu nome, por favor observe:
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                  | https://github.com/jplpanceri             |
 | Joao Paulo Miranda Matias      | joaopaulomirandamatias@hotmail.com      | https://github.com/joaopaulomirandamatias |
 | João Vitor Astori Saletti      | joaovitorastore@gmail.com               | https://github.com/ancogamer              |
+| Jonathan B. da Silva Nunes     | jonathanbarreira@gmail.com              | https://github.com/jholl-b                |
 | Jonathan Lopes Pinheiro        | jonathancruzeiro123@gmail.com           | https://github.com/JonathanLopes403       |
 | José Lucas da S. Marques       | devmarques09@gmail.com                  | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                  | https://github.com/jozemaria              |
