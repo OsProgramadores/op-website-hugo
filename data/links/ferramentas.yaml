@@ -93,4 +93,7 @@ sources:
   title: "Computacional Brasil"
   description: "Site voltado para educação em computação."
   
+- url: "https://rosettacode.org/wiki/Rosetta_Code"
+  title: "Rosetta Code"
+  description: "Coleção de soluções para mais de 1200 tarefas computacionais, implementadas em várias linguagens."
 
