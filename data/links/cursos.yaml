@@ -92,3 +92,7 @@ sources:
 - url: "https://go-tour-br.appspot.com/welcome/1"
   title: "Um tour por Go"
   description: "Um tour pela linguagem de programação Go."
+
+- url: "https://microsoft.github.io/Data-Science-For-Beginners/#/"
+  title: "Data Science for Beginners"
+  description: "Guia da Microsoft para ensino de ciência de dados."

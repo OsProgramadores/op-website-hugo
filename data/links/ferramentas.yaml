@@ -64,3 +64,33 @@ sources:
 - url: "https://validator.w3.org/"
   title: "W3 HTML Validator"
   description: "Ferramenta para validação de documentos web, como HTML, XHTML, etc"
+  
+- url: "https://roadmap.sh/"
+  title: "Developer Roadmaps"
+  description: "Conjunto de roadmaps, guias e conteúdo educacional para ajudar desenvolvedores em seu aprendizado."
+  
+- url: "https://datavizproject.com/"
+  title: "Data Viz Project"
+  description: "Ferramenta que apresenta características e aplicações de vários tipos de visualizações de dados."
+  
+- url: "https://r-graph-gallery.com/"
+  title: "The R Graph Gallery"
+  description: "Coleção de gráficos, divididos pela sua aplicação, implementados em R."
+  
+- url: "https://www.python-graph-gallery.com/"
+  title: "Python Graph Gallery"
+  description: "Coleção de gráficos, divididos pela sua aplicação, implementados em Python."
+
+- url: "https://vas3k.com/blog/machine_learning/"
+  title: "Machine Learning for Everyone"
+  description: "Site com conteúdo explicando aprendizado de maquina de forma simples."
+  
+- url: "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12"
+  title: "Machine Learning for Humans"
+  description: "Explicação sobre tipos de aprendizado de maquinas."
+  
+- url: "https://www.computacional.com.br/"
+  title: "Computacional Brasil"
+  description: "Site voltado para educação em computação."
+  
+
