@@ -41,6 +41,10 @@ sources:
   title: "Learn Git Branching"
   description: "Aprendendo intuitivamente como funcionam os comandos de branching, como `checkout`, `merge` e `rebase`"
   
+- url: "https://learnxinyminutes.com/"
+  title: "Learn X in Y Minutes"
+  description: "Aprenda varios conceitos sobre computação e uma nova linguagem em poucos minutos"
+  
 - url: "https://vas3k.com/blog/machine_learning/"
   title: "Machine Learning for Everyone"
   description: "Site com conteúdo explicando aprendizado de maquina de forma simples."
