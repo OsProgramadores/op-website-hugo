@@ -36,6 +36,10 @@ sources:
 - url: "https://docs.microsoft.com/pt-br/dotnet/csharp/"
   title: "C# Tutorials"
   description: "Tutoriais da Microsoft sobre C#."
+  
+- url: "https://microsoft.github.io/Data-Science-For-Beginners/#/"
+  title: "Data Science for Beginners"
+  description: "Guia da Microsoft para ensino de ciência de dados."
 
 - url: "https://www.freecodecamp.org/portuguese/learn/"
   title: "FreeCodeCamp"
@@ -73,6 +77,10 @@ sources:
   title: "NODESCHOOL"
   description: "Workshops Open Source construídos em Node e que rodam no seu terminal. Rode-os em casa ou em um workshop mais próximo."
 
+- url: "https://sites.google.com/view/projetopythonparatodos/home"
+  title: "Projeto Python para todos"
+  description: "Curso sobre a linguagem de programação Python, com roteiros em Google Colab."
+
 - url: "https://youtube.com/c/PythonparaZumbis"
   title: "Python para Zumbis"
   description: "Curso sobre a linguagem de programação Python."
@@ -93,6 +101,3 @@ sources:
   title: "Um tour por Go"
   description: "Um tour pela linguagem de programação Go."
 
-- url: "https://microsoft.github.io/Data-Science-For-Beginners/#/"
-  title: "Data Science for Beginners"
-  description: "Guia da Microsoft para ensino de ciência de dados."
