@@ -1,6 +1,11 @@
 title: "Ferramentas"
 
 sources:
+
+- url: "https://arxiv.org/"
+  title: "Arxiv"
+  description: "Repositório de preprints de varías áreas, incluindo ciência de computação, matemática, estatística etc."
+
 - url: "https://caniuse.com/"
   title: "Can I Use"
   description: "Site para verificar a compatibilidade e funcionalidade de recursos web, tais como elementos do HTML e propriedades CSS"
@@ -33,6 +38,10 @@ sources:
   title: "GitHub Education"
   description: "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do GitHub para estudantes"
 
+- url: "https://news.ycombinator.com/"
+  title: "Hacker News"
+  description: "Site de notícias colaborativo voltado para ciência da computação e empreendedorismo"
+  
 - url: "http://www.guj.com.br/"
   title: "Guj"
   description: "Fórum brasileiro para programadores"
