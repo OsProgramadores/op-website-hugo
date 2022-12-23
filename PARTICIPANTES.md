@@ -161,6 +161,7 @@ Ao adicionar o seu nome, por favor observe:
 | Joao Paulo L. Panceri          | jplpanceri93@gmail.com                  | https://github.com/jplpanceri             |
 | Joao Paulo Miranda Matias      | joaopaulomirandamatias@hotmail.com      | https://github.com/joaopaulomirandamatias |
 | João Vitor Astori Saletti      | joaovitorastore@gmail.com               | https://github.com/ancogamer              |
+| Jonathan B. da Silva Nunes     | jonathanbarreira@gmail.com              | https://github.com/jholl-b                |
 | Jonathan Lopes Pinheiro        | jonathancruzeiro123@gmail.com           | https://github.com/JonathanLopes403       |
 | José Lucas da S. Marques       | devmarques09@gmail.com                  | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                  | https://github.com/jozemaria              |
@@ -181,6 +182,7 @@ Ao adicionar o seu nome, por favor observe:
 | Leo Baiano                     | ljunior2005@gmail.com                   | https://github.com/leobaiano              |
 | Leo Silva Souza                | leovano@protonmail.com                  | https://github.com/leovano                |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com                | https://github.com/galloaleonardo         |
+| Leonardo Grando                | lgrando@gmail.com                       | https://github.com/lgrando1               |
 | Leonardo Steffen               | No Email                                | https://github.com/leonhar001             |
 | Letícia Fontoura               | leticia.fontoura@live.com               | https://github.com/leticiafontoura        |
 | Letícia Freire                 | leticiafcs4@gmail.com                   | https://github.com/leticia-freire         |
