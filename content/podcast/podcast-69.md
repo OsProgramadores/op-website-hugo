@@ -8,6 +8,7 @@ banner = "img/banners/podcast-400px.png"
 
 ### Daniel Franco - Infrastructure Manager, Cloud na Liferay Inc.
 
+{{< spotify type="episode" id="7C9Jo2iFQF1mgNZzKrPmRR" width="80%">}}
 
 **Links**
 
@@ -42,8 +43,6 @@ banner = "img/banners/podcast-400px.png"
 [RHCP](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers)
 
 [Sepultura](https://en.wikipedia.org/wiki/Sepultura)
-
-{{< spotify type="episode" id="7C9Jo2iFQF1mgNZzKrPmRR" width="80%">}}
 
 **Os Programadores**
 

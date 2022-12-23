@@ -20,6 +20,8 @@ A partir daí, se dedicou exclusivamente aos seus sites Meio Bit, Digital Drops 
 
 Em 2018, vendeu o Meio Bit para o [Tecnoblog](https://tecnoblog.net/), mas seguiu como autor do site até março de 2020. Nessa data, entrou na equipe do [Olhar Digital](https://olhardigital.com.br/), e atualmente atual como editor de produtos, reviews e veículos.
 
+{{< spotify type="episode" id="5lk36wk26wY0gXM4Jr6tsu" width="80%">}}
+
 **Links**
 
 [Nick Ellis no Twitter](https://twitter.com/NickEllis)
@@ -44,8 +46,6 @@ Em 2018, vendeu o Meio Bit para o [Tecnoblog](https://tecnoblog.net/), mas segui
 [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_(TV_series))
 [Strange New Worlds](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds)
 
-
-{{< spotify type="episode" id="5lk36wk26wY0gXM4Jr6tsu" width="80%">}}
 
 **Os Programadores**
 

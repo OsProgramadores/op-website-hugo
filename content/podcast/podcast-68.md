@@ -8,6 +8,7 @@ banner = "img/banners/podcast-400px.png"
 
 ### Ramon Tramontini - Objective Head of US Operations
 
+{{< spotify type="episode" id="33RmBLUolupjRx1oqkOBCq" width="80%">}}
 
 **Links**
 
@@ -43,7 +44,6 @@ banner = "img/banners/podcast-400px.png"
 
 [Duna](https://en.wikipedia.org/wiki/Dune_(novel))
 
-{{< spotify type="episode" id="33RmBLUolupjRx1oqkOBCq" width="80%">}}
 
 **Os Programadores**
 
