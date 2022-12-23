@@ -37,14 +37,14 @@ sources:
 - url: "https://education.github.com/pack"
   title: "GitHub Education"
   description: "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do GitHub para estudantes"
-
-- url: "https://news.ycombinator.com/"
-  title: "Hacker News"
-  description: "Site de notícias colaborativo voltado para ciência da computação e empreendedorismo"
   
 - url: "http://www.guj.com.br/"
   title: "Guj"
   description: "Fórum brasileiro para programadores"
+
+- url: "https://news.ycombinator.com/"
+  title: "Hacker News"
+  description: "Site de notícias colaborativo voltado para ciência da computação e empreendedorismo"
 
 - url: "https://learngitbranching.js.org/"
   title: "Learn Git Branching"
@@ -66,10 +66,6 @@ sources:
   title: "Python Graph Gallery"
   description: "Coleção de gráficos, divididos pela sua aplicação, implementados em Python."
   
-- url: "https://repl.it"
-  title: "Repl.it"
-  description: "Um IDE no web browser. Suporte para diversas linguagens. Compartilhamento de código com terceiros"
-
 - url: "https://regex101.com/"
   title: "Regex101"
   description: "Ferramenta para testar suas expressões regulares em Php, Python, JavaScript e Go"
@@ -77,6 +73,10 @@ sources:
 - url: "http://www.regexpal.com/"
   title: "Regex Pal"
   description: "Outro site para testar expressões regulares"
+
+- url: "https://repl.it"
+  title: "Repl.it"
+  description: "Um IDE no web browser. Suporte para diversas linguagens. Compartilhamento de código com terceiros"
 
 - url: "http://rextester.com/l/pascal_online_compiler"
   title: "RexTester"

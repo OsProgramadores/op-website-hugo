@@ -74,7 +74,7 @@ sources:
   description: "Dezenas de ebooks sobre várias tecnologias, com a proposta de serem sucintos, como já diz no título. Há diversos, por exemplo: Bootstrap, .NET, Java, HTTP. (necessário cadastro para alguns)"
 
 - url: "https://books.goalkicker.com/"
-  title: "Syncfusion Ebooks"
+  title: "Programming Notes for Professionals books"
   description: "Mais de 40 livros de vários assuntos relacionados à programação, criados e reunidos pelos melhores do Stack Overflow"
 
 - url: "https://www.freecodecamp.org/news/the-php-handbook/?fbclid=IwAR2wdsG33W8ZnVCwbINvedG4lSlrJsviX5sGFo5cE6k6WJJeDqM6of8bu6I"
