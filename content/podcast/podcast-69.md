@@ -44,7 +44,6 @@ banner = "img/banners/podcast-400px.png"
 [Sepultura](https://en.wikipedia.org/wiki/Sepultura)
 
 {{< spotify type="episode" id="7C9Jo2iFQF1mgNZzKrPmRR" width="80%">}}
-https://open.spotify.com/episode/7C9Jo2iFQF1mgNZzKrPmRR?si=q9GC-wkMTX6mohcy8YkgTQ
 
 **Os Programadores**
 
