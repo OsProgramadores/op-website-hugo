@@ -36,6 +36,10 @@ sources:
 - url: "https://docs.microsoft.com/pt-br/dotnet/csharp/"
   title: "C# Tutorials"
   description: "Tutoriais da Microsoft sobre C#."
+  
+- url: "https://microsoft.github.io/Data-Science-For-Beginners/#/"
+  title: "Data Science for Beginners"
+  description: "Guia da Microsoft para ensino de ciência de dados."
 
 - url: "https://www.freecodecamp.org/portuguese/learn/"
   title: "FreeCodeCamp"
@@ -80,6 +84,10 @@ sources:
 - url: "https://www.youtube.com/playlist?list=PLFHgwDaINE8SfRoij8IbTSl0_quQL3g64"
   title: "Python-DevKids"
   description: "Curso Básico de Python 3 para crianças."
+  
+- url: "https://sites.google.com/view/projetopythonparatodos/home"
+  title: "Projeto Python para todos"
+  description: "Curso sobre a linguagem de programação Python, com roteiros em Google Colab."
 
 - url: "https://www.rust-lang.org/learn"
   title: "Rust"
@@ -92,3 +100,4 @@ sources:
 - url: "https://go-tour-br.appspot.com/welcome/1"
   title: "Um tour por Go"
   description: "Um tour pela linguagem de programação Go."
+

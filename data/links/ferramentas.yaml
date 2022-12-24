@@ -1,6 +1,11 @@
 title: "Ferramentas"
 
 sources:
+
+- url: "https://arxiv.org/"
+  title: "Arxiv"
+  description: "Repositório de preprints de varías áreas, incluindo ciência de computação, matemática, estatística etc."
+
 - url: "https://caniuse.com/"
   title: "Can I Use"
   description: "Site para verificar a compatibilidade e funcionalidade de recursos web, tais como elementos do HTML e propriedades CSS"
@@ -8,6 +13,18 @@ sources:
 - url: "https://codepen.io/"
   title: "Codepen"
   description: "Editor online para HTML, CSS e JavaScript, com suporte para fontes externas e pré-processadores, como Bootstrap, SASS, Babel"
+
+- url: "https://www.computacional.com.br/"
+  title: "Computacional Brasil"
+  description: "Site voltado para educação em computação."
+  
+- url: "https://datavizproject.com/"
+  title: "Data Viz Project"
+  description: "Ferramenta que apresenta características e aplicações de vários tipos de visualizações de dados."
+  
+- url: "https://roadmap.sh/"
+  title: "Developer Roadmaps"
+  description: "Conjunto de roadmaps, guias e conteúdo educacional para ajudar desenvolvedores em seu aprendizado."
 
 - url: "https://www.gimp.org/"
   title: "GIMP"
@@ -20,19 +37,35 @@ sources:
 - url: "https://education.github.com/pack"
   title: "GitHub Education"
   description: "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do GitHub para estudantes"
-
+  
 - url: "http://www.guj.com.br/"
   title: "Guj"
   description: "Fórum brasileiro para programadores"
 
+- url: "https://news.ycombinator.com/"
+  title: "Hacker News"
+  description: "Site de notícias colaborativo voltado para ciência da computação e empreendedorismo"
+
 - url: "https://learngitbranching.js.org/"
   title: "Learn Git Branching"
   description: "Aprendendo intuitivamente como funcionam os comandos de branching, como `checkout`, `merge` e `rebase`"
+  
+- url: "https://learnxinyminutes.com/"
+  title: "Learn X in Y Minutes"
+  description: "Aprenda varios conceitos sobre computação e uma nova linguagem em poucos minutos"
+  
+- url: "https://vas3k.com/blog/machine_learning/"
+  title: "Machine Learning for Everyone"
+  description: "Site com conteúdo explicando aprendizado de maquina de forma simples."
 
-- url: "https://repl.it"
-  title: "Repl.it"
-  description: "Um IDE no web browser. Suporte para diversas linguagens. Compartilhamento de código com terceiros"
-
+- url: "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12"
+  title: "Machine Learning for Humans"
+  description: "Explicação sobre tipos de aprendizado de maquinas."
+  
+- url: "https://www.python-graph-gallery.com/"
+  title: "Python Graph Gallery"
+  description: "Coleção de gráficos, divididos pela sua aplicação, implementados em Python."
+  
 - url: "https://regex101.com/"
   title: "Regex101"
   description: "Ferramenta para testar suas expressões regulares em Php, Python, JavaScript e Go"
@@ -41,9 +74,17 @@ sources:
   title: "Regex Pal"
   description: "Outro site para testar expressões regulares"
 
+- url: "https://repl.it"
+  title: "Repl.it"
+  description: "Um IDE no web browser. Suporte para diversas linguagens. Compartilhamento de código com terceiros"
+
 - url: "http://rextester.com/l/pascal_online_compiler"
   title: "RexTester"
   description: "Compilador online de Java, C, C#, C++, JavaScript, Lua, Php, Python, Ruby, Scala, entre outros"
+  
+- url: "https://rosettacode.org/wiki/Rosetta_Code"
+  title: "Rosetta Code"
+  description: "Coleção de soluções para mais de 1200 tarefas computacionais, implementadas em várias linguagens."
 
 - url: "https://sqlzoo.net/"
   title: "SQL Zoo"
@@ -52,6 +93,10 @@ sources:
 - url: "https://pt.stackoverflow.com/"
   title: "StackOverFlow"
   description: "Melhor fórum do mundo para programadores. Use com moderação"
+
+- url: "https://r-graph-gallery.com/"
+  title: "The R Graph Gallery"
+  description: "Coleção de gráficos, divididos pela sua aplicação, implementados em R."
 
 - url: "https://tinypng.com/"
   title: "TinyPng"
@@ -64,3 +109,4 @@ sources:
 - url: "https://validator.w3.org/"
   title: "W3 HTML Validator"
   description: "Ferramenta para validação de documentos web, como HTML, XHTML, etc"
+  
