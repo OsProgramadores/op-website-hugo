@@ -87,7 +87,7 @@ sources:
   
 - url: "https://sites.google.com/view/projetopythonparatodos/home"
   title: "Projeto Python para todos"
-  description: "Curso sobre a linguagem de programação Python, com roteiros em Google Colab."
+  description: "Curso sobre a linguagem de programação Python, com roteiros em Google Colab. (Por Anibal Azevedo)"
 
 - url: "https://www.rust-lang.org/learn"
   title: "Rust"
