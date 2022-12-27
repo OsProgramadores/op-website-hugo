@@ -16,6 +16,8 @@ O Rafael começou a contribuir com Software Livre em meados de 2012, com traduç
 
 Rafael também contribui com patches para corrigir problemas, sugere melhorias quando não consegue implementar e ajuda na implementação de CI/CD para automatizar fluxo de atualização.
 
+{{< spotify type="episode" id="10c3GCWI8MnSJ4mOvOPJnR" width="80%">}}
+
 **Links**
 
 [Rafael no Twitter](https://twitter.com/rafaelffbr1?lang=en)
@@ -39,8 +41,6 @@ Rafael também contribui com patches para corrigir problemas, sugere melhorias q
 **Jogos**
 
 [DDrace Network](https://ddnet.tw/)
-
-{{< spotify type="episode" id="10c3GCWI8MnSJ4mOvOPJnR" width="80%">}}
 
 **Os Programadores**
 
