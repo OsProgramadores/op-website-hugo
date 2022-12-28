@@ -4,6 +4,10 @@ sources:
 - url: "https://osprogramadores.com/dicas-bash/#1"
   title: "Bash Dicas & Truques"
   description: "Bash Dicas & Truques - autoria de Marco Paganini"
+  
+- url: "https://www.bigbookofr.com/index.html"
+  title: "Big Book of R"
+  description: "Lista de livros (pagos ou gratuitos) que envolvem a linguagem R, separado por diversas áreas"
 
 - url: "http://devdocs.io/"
   title: "DevDocs"

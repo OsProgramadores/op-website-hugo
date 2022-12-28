@@ -77,7 +77,11 @@ sources:
 - url: "https://www.python-graph-gallery.com/"
   title: "Python Graph Gallery"
   description: "Coleção de gráficos, divididos pela sua aplicação, implementados em Python."
-  
+
+- url: "https://www.r-bloggers.com/"
+  title: "R-Blogglers"
+  description: "Notícias e tutoriais sobre a linguagem R, contribuída por centenas de blogglers que escrevem sobre esta linguagem"
+
 - url: "https://regex101.com/"
   title: "Regex101"
   description: "Ferramenta para testar suas expressões regulares em Php, Python, JavaScript e Go"
