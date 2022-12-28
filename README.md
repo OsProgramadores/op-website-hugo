@@ -54,7 +54,7 @@ Uma vez satisfeito com as suas alterações:
 
 ### Sugestões para uma boa postagem.
 
-1. Caso sugira um novo [link](https://osprogramadores.com/links/), por favor manter a orgem alfabética baseada no campo title.
+1. Caso sugira um novo [link](https://osprogramadores.com/links/), por favor manter a ordem alfabética baseada no campo title.
 1. Por favor, confirmar se o link é inédito.
 
 Envie seus comentários para info@osprogramadores.com ou participe de nosso [grupo no Telegram](https://t.me/osprogramadores).
