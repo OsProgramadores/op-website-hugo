@@ -65,6 +65,10 @@ sources:
   title: "JavaScript The Right Way"
   description: "Guia com a intenção de apresentar novos desenvolvedores ao JavaScript e ajudar desenvolvedores experientes a aprenderem mais sobre as melhores práticas."
 
+- url: "https://pt.khanacademy.org/"
+  title: "Khan Academy"
+  description: "Vários cursos onlines gratuitos, desde matérias do ensino fundamental até computação"
+
 - url: "https://www.lua.org/portugues.html"
   title: "Lua"
   description: "Linguagem de programação Lua."
@@ -87,7 +91,7 @@ sources:
   
 - url: "https://sites.google.com/view/projetopythonparatodos/home"
   title: "Projeto Python para todos"
-  description: "Curso sobre a linguagem de programação Python, com roteiros em Google Colab."
+  description: "Curso sobre a linguagem de programação Python, com roteiros em Google Colab. (Por Anibal Azevedo)"
 
 - url: "https://www.rust-lang.org/learn"
   title: "Rust"

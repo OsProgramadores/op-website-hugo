@@ -4,6 +4,10 @@ sources:
 - url: "https://osprogramadores.com/dicas-bash/#1"
   title: "Bash Dicas & Truques"
   description: "Bash Dicas & Truques - autoria de Marco Paganini"
+  
+- url: "https://www.bigbookofr.com/index.html"
+  title: "Big Book of R"
+  description: "Lista de livros (pagos ou gratuitos) que envolvem a linguagem R, separado por diversas áreas"
 
 - url: "http://devdocs.io/"
   title: "DevDocs"
@@ -61,6 +65,10 @@ sources:
   title: "PHP do jeito certo"
   description: "Site com as melhores práticas para programadores PHP desenvolverem software dentro dos padrões adotados pela comunidade"
 
+- url: "https://books.goalkicker.com/"
+  title: "Programming Notes for Professionals books"
+  description: "Mais de 40 livros de vários assuntos relacionados à programação, criados e reunidos pelos melhores do Stack Overflow"
+
 - url: "https://www.ime.usp.br/~pf/algoritmos/"
   title: "Projeto de Algoritmos (em C)"
   description: "Algoritmos diversos implementados na linguagem de programação C."
@@ -72,10 +80,6 @@ sources:
 - url: "https://www.syncfusion.com/ebooks/"
   title: "Syncfusion Ebooks"
   description: "Dezenas de ebooks sobre várias tecnologias, com a proposta de serem sucintos, como já diz no título. Há diversos, por exemplo: Bootstrap, .NET, Java, HTTP. (necessário cadastro para alguns)"
-
-- url: "https://books.goalkicker.com/"
-  title: "Programming Notes for Professionals books"
-  description: "Mais de 40 livros de vários assuntos relacionados à programação, criados e reunidos pelos melhores do Stack Overflow"
 
 - url: "https://www.freecodecamp.org/news/the-php-handbook/?fbclid=IwAR2wdsG33W8ZnVCwbINvedG4lSlrJsviX5sGFo5cE6k6WJJeDqM6of8bu6I"
   title: "The PHP Handbook"

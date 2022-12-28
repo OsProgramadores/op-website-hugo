@@ -6,6 +6,10 @@ sources:
   title: "Arxiv"
   description: "Repositório de preprints de varías áreas, incluindo ciência de computação, matemática, estatística etc."
 
+- url: "https://github.com/sindresorhus/awesome"
+  title: "Awesome List"
+  description: "Repositório no Github com listas Awesome sobre todos os tipos de tópicos interessantes"
+
 - url: "https://caniuse.com/"
   title: "Can I Use"
   description: "Site para verificar a compatibilidade e funcionalidade de recursos web, tais como elementos do HTML e propriedades CSS"
@@ -26,6 +30,10 @@ sources:
   title: "Developer Roadmaps"
   description: "Conjunto de roadmaps, guias e conteúdo educacional para ajudar desenvolvedores em seu aprendizado."
 
+- url: "https://www.itl.nist.gov/div898/handbook/"
+  title: "Engineering Statistics Handbook"
+  description: "Handbook com conteúdos estatísticos."
+
 - url: "https://www.gimp.org/"
   title: "GIMP"
   description: "Editor de imagens grátis e Open Source"
@@ -45,6 +53,10 @@ sources:
 - url: "https://news.ycombinator.com/"
   title: "Hacker News"
   description: "Site de notícias colaborativo voltado para ciência da computação e empreendedorismo"
+  
+- url: "https://www.kaggle.com/"
+  title: "Kaggle"
+  description: "Comunidade voltada para aprendizado de máquina e ciência de dados. O site contém cursos e competições"
 
 - url: "https://learngitbranching.js.org/"
   title: "Learn Git Branching"
@@ -65,7 +77,11 @@ sources:
 - url: "https://www.python-graph-gallery.com/"
   title: "Python Graph Gallery"
   description: "Coleção de gráficos, divididos pela sua aplicação, implementados em Python."
-  
+
+- url: "https://www.r-bloggers.com/"
+  title: "R-Blogglers"
+  description: "Notícias e tutoriais sobre a linguagem R, contribuída por centenas de blogglers que escrevem sobre esta linguagem"
+
 - url: "https://regex101.com/"
   title: "Regex101"
   description: "Ferramenta para testar suas expressões regulares em Php, Python, JavaScript e Go"
@@ -85,6 +101,10 @@ sources:
 - url: "https://rosettacode.org/wiki/Rosetta_Code"
   title: "Rosetta Code"
   description: "Coleção de soluções para mais de 1200 tarefas computacionais, implementadas em várias linguagens."
+  
+- url: "https://scratch.mit.edu/"
+  title: "Scratch"
+  description: "Linguagem de programação voltada para o ensino de computação para crianças"
 
 - url: "https://sqlzoo.net/"
   title: "SQL Zoo"
@@ -97,6 +117,10 @@ sources:
 - url: "https://r-graph-gallery.com/"
   title: "The R Graph Gallery"
   description: "Coleção de gráficos, divididos pela sua aplicação, implementados em R."
+  
+- url: "https://www.tabnews.com.br/"
+  title: "TabNews"
+  description: "Conteúdos para quem trabalha com programação e tecnologia."
 
 - url: "https://tinypng.com/"
   title: "TinyPng"
