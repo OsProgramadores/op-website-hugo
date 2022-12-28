@@ -474,6 +474,10 @@ sources:
   title: "MySQL BR"
   description: "Grupo brasileiro destinado para discussões relacionadas ao MySQL"
 
+- url: "https://t.me/nestjsbr"
+  title: "NestJS Brasil"
+  description: "Grupo brasileiro sobre NestJS"
+
 - url: "https://t.me/NetworkersBR"
   title: "NETWORKERS BR"
   description: "Grupo brasileiro sobre tecnologias e certificações da Cisco (oriundo do Blog CCNA)"
@@ -701,6 +705,10 @@ sources:
 - url: "https://t.me/tudosobreti"
   title: "TUDO SOBRE T.I"
   description: "Canal de informações sobre TI"
+  
+- url: "https://t.me/typescriptbr"
+  title: "TypeScript Brasil"
+  description: "Grupo brasileiro dedicado à linguagem de programação TypeScript"
 
 - url: "https://t.me/UbuntuBrasilOficial"
   title: "Ubuntu Brasil Oficial"
