@@ -45,6 +45,10 @@ sources:
 - url: "https://education.github.com/pack"
   title: "GitHub Education"
   description: "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do GitHub para estudantes"
+
+- url: "https://grasshopper.app/pt_br/"
+  title: "Grasshopper"
+  description: "App para aprendizado de programação para iniciantes"
   
 - url: "http://www.guj.com.br/"
   title: "Guj"
@@ -53,6 +57,10 @@ sources:
 - url: "https://news.ycombinator.com/"
   title: "Hacker News"
   description: "Site de notícias colaborativo voltado para ciência da computação e empreendedorismo"
+  
+- url: "https://i.am.ai/"
+  title: "I.am.ai"
+  description: "Site com exemplos de utilização de inteligência artificial e roadmap de como aprender inteligência artificial."  
   
 - url: "https://www.kaggle.com/"
   title: "Kaggle"
