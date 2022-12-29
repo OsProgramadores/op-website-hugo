@@ -52,4 +52,9 @@ Uma vez satisfeito com as suas alterações:
 1. Fique atento a emails vindos dos admins, com sugestões de alteração. Os admins pedem encarecidamente que respostas sejam dadas no menor tempo possível. Pedidos sem resposta em 7 dias causarão o fechamento do PR.
 1. Uma vez aprovado, visite http://osprogramadores.com após 15 minutos e verifique a sua mudança no ar.
 
-Envie seus comentários para info@osprogramadores.com ou participe de nosso [grupo no Telegram](https://github.com/spf13/hugo/releases).
+### Sugestões para uma boa postagem.
+
+1. Caso sugira um novo [link](https://osprogramadores.com/links/), por favor manter a ordem alfabética baseada no campo title.
+1. Por favor, confirmar se o link é inédito.
+
+Envie seus comentários para info@osprogramadores.com ou participe de nosso [grupo no Telegram](https://t.me/osprogramadores).
