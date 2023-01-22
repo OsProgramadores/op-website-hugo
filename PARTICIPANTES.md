@@ -163,6 +163,7 @@ Ao adicionar o seu nome, por favor observe:
 | João Vitor Astori Saletti      | joaovitorastore@gmail.com               | https://github.com/ancogamer              |
 | Jonathan B. da Silva Nunes     | jonathanbarreira@gmail.com              | https://github.com/jholl-b                |
 | Jonathan Lopes Pinheiro        | jonathancruzeiro123@gmail.com           | https://github.com/JonathanLopes403       |
+| Jorge Tarin Ibañez Neto        | jorge.tariin@gmail.com                  | https://github.com/jorge-tarin            |
 | José Lucas da S. Marques       | devmarques09@gmail.com                  | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                  | https://github.com/jozemaria              |
 | José Rodrigo de Sousa          | rodrigo.ka1709@gmail.com                | https://github.com/Rodrigo1809            |
