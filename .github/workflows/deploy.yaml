@@ -64,20 +64,20 @@ jobs:
       - name: Checkout op-website-hugo
         uses: actions/checkout@v3
         with:
-          path: website
+          path: op-website-hugo
           persist-credentials: false
           submodules: true  # Fetch Hugo themes.
 
       - name: Checkout op-desafios
         uses: actions/checkout@v3
         with:
-          path: desafios
+          path: op-desafios
           repository: osprogramadores/op-desafios
 
       - name: Checkout op-scoreboard
         uses: actions/checkout@v3
         with:
-          path: scoreboard
+          path: op-scoreboard
           repository: osprogramadores/op-scoreboard
 
       - name: Setup Hugo
@@ -86,20 +86,20 @@ jobs:
           hugo-version: '0.59.1'
 
       - name: Build scoreboard binary
-        run: pushd scoreboard && go build -v && popd
+        run: pushd op-scoreboard && go build -v && popd
 
       - name: Generate scoreboard
         run: |
-          pushd scoreboard && ./op-scoreboard --config="config/config.toml" --token="${{ secrets.auth_token }}" && popd
+          pushd op-scoreboard && ./op-scoreboard --config="config/config.toml" --token="${{ secrets.auth_token }}" && popd
 
       - name: Build Site
-        run: pushd website && hugo -v && popd
+        run: pushd op-website-hugo && hugo -v && popd
 
       - name: Deploy using rsync
         uses: burnett01/rsync-deployments@4.0
         with:
           switches: -avpzcr --delete
-          path: website/public/
+          path: op-website-hugo/public/
           remote_host: jupiter.osprogramadores.com
           remote_port: 2345
           remote_path: html/
