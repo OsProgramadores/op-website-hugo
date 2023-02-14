@@ -90,7 +90,7 @@ jobs:
 
       - name: Generate scoreboard
         run: |
-          pushd scoreboard && ./op-scoreboard --config="../website/ci/configs/scoreboard-config.toml" --token="${{ secrets.auth_token }}" && popd
+          pushd scoreboard && ./op-scoreboard --config="config/config.toml" --token="${{ secrets.auth_token }}" && popd
 
       - name: Build Site
         run: pushd website && hugo -v && popd
