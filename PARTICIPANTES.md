@@ -55,6 +55,7 @@ Ao adicionar o seu nome, por favor observe:
 | Bernardo Campos                | No Email                                | https://github.com/bernardocamps          |
 | Breno Ferreira Lima            | brenoferreiralima@gmail.com             | https://github.com/brenoferreiralima      |
 | Bruce Lopes Cavalcante         | brucelopesgithub@gmail.com              | https://github.com/Bruc3W                 |
+| Bruno Oliveira Freire Silva    | b_bruno@live.com                        | https://github.com/bnools                 |
 | Bruno Santana Andrade          | brunosanadev@gmail.com                  | https://github.com/brunosana              |
 | Caio Cavalcanti Slompo Muniz   | caiocsmuniz1@gmail.com                  | https://github.com/caiomuniz              |
 | Carlos Alves                   | cbcalves@gmail.com                      | https://github.com/cbcalves               |
