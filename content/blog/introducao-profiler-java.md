@@ -268,7 +268,7 @@ Como o foco do artigo é o profiling, já entrego o spoiler do que vamos utiliza
 
 Operações de I/O, geralmente tem um custo bem significativo, porque dependem de alguns fatores, como velocidade da internet ou a velocidade de ler ou escrever no disco. Neste caso, quando chamamos o método do *println*, escrevemos uma linha por vez no terminal, que multiplicado pela quantidade de vezes que o método é chamado, causa esse gargalo que estamos vendo.
 
-Com o **BufferedWriter**, nós vamos acumulando essas linhas em um "buffer" em memória e escrevemos várias delas de uma vez só quando o buffer atinge o limite ou caso a gente force isso acontecer, o que reduz bastante as operações de I/O no código.
+Com o **BufferedWriter**, nós vamos acumulando essas linhas em um "buffer" em memória e escrevemos várias delas de uma vez só quando o buffer atinge o limite ou caso a gente force isso acontecer, o que reduz bastante as operações de I/O no código. Tem um [artigo(em Inglês)](oracle.com/technical-resources/articles/javase/perftuning.html) da Oracle bastante interessante, que mostra várias estratégias de aumentar a performance do programa quando se lida com I/O.
 
 A primeira modificação que vamos fazer é adicionar uma variável global dentro da classe Main, antes do método main:
 
@@ -389,4 +389,14 @@ O que aparece agora no snapshot quando executamos o programa é o seguinte:
 
 Aqui, notamos que as informações mostradas são acerca da quantidade de objetos alocados, separados por cada classe que eles pertencem, e o quanto de memória eles ocupam na heap da máquina virtual do Java.
 
-Essas informações são bastante importantes quando você está analisando o seu código procurando informações relacionadas ao consumo de memória do seu programa.
+Essas informações são bastante importantes quando você está analisando o teu código procurando informações relacionadas ao consumo de memória do teu programa.
+
+## Considerações finais
+
+Neste artigos, tivemos uma pequena introdução acerca das ferramentas de profiling, desde a configuração até como utilizá-la para resolver problemas, utilizando o Java e o VisualVM como exemplo.
+
+Obviamente a ferramenta possui bem mais recursos disponíveis e que auxiliam bastante, então vale a pena dar uma olhada na documentação oficial para ver tudo que ela pode oferecer.
+
+Além disso, existem outras ferramentas de profiling pagas com mais recursos a disposição, mas o uso do VisualVM ajuda bastante na compreensão do mecanismo de um profiler e você pode aproveitar isto quando for utilizar outras ferramentas distintas.
+
+Dessa forma, vale a pena entender como essas ferramentas funcionam, pois elas irão te ajudar bastante a melhorar a performance e qualidade do software que você cria.
