@@ -31,6 +31,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexsandro Felix               | felix@ffelix.eti.br                     | https://github.com/asfelix                |
 | Alexsandro Matias              | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
+| Alisson Soares da Silva        | alissonsoaressocial02@gmail.com         | https://github.com/soaresSilva            |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
