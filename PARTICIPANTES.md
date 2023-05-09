@@ -171,6 +171,7 @@ Ao adicionar o seu nome, por favor observe:
 | José Rodrigo de Sousa          | rodrigo.ka1709@gmail.com                | https://github.com/Rodrigo1809            |
 | José Thiago dos S. Moreira     | moreira.joset@gmail.com                 | https://github.com/josethiago             |
 | José Ulisses de C. C. Pinto    | joseulisses0@gmail.com                  | https://github.com/Zezola                 |
+| Josue Paulo de Lima            | paulolima899@gmail.com                  | https://github.com/JosuePLima             |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                  | https://github.com/ojulianos              |
 | Juliano Massanetto             | juliano.massanetto@gmail.com            | https://github.com/JMass1                 |
 | Julio César Santos             | stjuliomn@gmail.com                     | https://github.com/juliocst               |
