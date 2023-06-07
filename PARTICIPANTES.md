@@ -23,6 +23,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alesandro Ferreira da Silva    | silva_alesandro@outlook.com             | https://github.com/alleSilva              |
 | Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com               | https://github.com/TeijIW                 |
 | Alex Almeida Andrade           | alex.aldr@gmail.com                     | https://github.com/alexaldr               |
+| Alex Fernandes Nunes           | alexfn.dev.job@gmail.com                | https://github.com/alexfn93/alexfn93      |
 | Alex Wong de Freitas           | otaru1921@gmail.com                     | https://github.com/otaru1921              |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com                | https://github.com/Alexandre2539          |
 | Alexandre Oliveira             | alexandreferreiradeoliveira40@gmail.com | https://github.com/AlexandreOliver        |
