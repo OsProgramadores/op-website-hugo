@@ -272,6 +272,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com               | https://github.com/RafaelDSS              |
 | Rafael Perez Garcia            | rafaelsfs@gmail.com                     | https://github.com/rafaelsfs              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                   | https://github.com/raffaelleao            |
+| Raimundo Alves Nunes Neto      | otenneto123@gmail.com                   | https://github.com/donumiad               |
 | Renata Miranda Rabelo Nésio    | renata.nesio2@gmail.com                 | https://github.com/renatanesio            |
 | Ricardo Severo                 | ricardosilva.official@outlook.com       | https://github.com/ricardosevero          |
 | Rick-oly                       | hoa98hoa@gmail.com                      | https://github.com/pand-oly               |
