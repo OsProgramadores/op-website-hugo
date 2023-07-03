@@ -48,6 +48,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
 | Arlesson Jaques                | No Email                                | https://github.com/Schuarzem              |
 | Arthur Alves Reis              | art4321@outlook.com.br                  | https://github.com/itsArthurAlves         |
+| Arthur Augusto Cândido Luércio | megakratosgames0@gmail.com              | https://github.com/RetorneAoNada          |
 | Arthur Flavio de Abreu Tavares | arthurabreu00@gmail.com                 | https://github.com/arthurabreu00          |
 | Arthur Rocha Fontes            | arthur9869@gmail.com                    | https://github.com/Arthurrochaa           |
 | Augusto Cézar Lisboa Dionísio  | yigudos@gmail.com                       | https://github.com/yigudo                 |
