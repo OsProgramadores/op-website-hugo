@@ -300,6 +300,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ruhan Macedo                   | ruhanmacedo@outlook.com                 | https://github.com/ruhanmacedo            |
 | Samuel Evangelista Pereira     | sam.pereirabr@gmail.com                 | https://github.com/SamPereirabr           |
 | Samuel Magnun Mota             | smagnun@gmail.com                       | https://github.com/smagnun                |
+| Samuel Martins Vilhalva        | No Email                                | https://github.com/VILHALVA               |
 | Samuel Ramos                   | samramox@gmail.com                      | https://github.com/samuelramox            |
 | Savio S. Gusmão                | saviosg@outlook.com                     | https://github.com/saviosg                |
 | Simon James Shurety            | simonjshurety@gmail.com                 | https://github.com/Simonjshurety          |
