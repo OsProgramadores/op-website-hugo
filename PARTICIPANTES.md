@@ -321,6 +321,7 @@ Ao adicionar o seu nome, por favor observe:
 | Vagner Bessa                   | bessavagner@gmail.com                   | https://github.com/bessavagner            |
 | Vagner Cavalcante da silva     | vagnermasked@gmail.com                  | https://github.com/vagnerzt               |
 | Valdinei de Paula Junior       | valdineidepaulajunior@gmail.com         | https://github.com/ValdineiJunior         |
+| Valdinei de Paula Junior Teste | valdineidepaulajunior@gmail.com         | https://github.com/ValdineiJunior         |
 | Valdinei Ferreira              | valdineifer@outlook.com                 | https://github.com/valdineifer            |
 | Vanessa Souza Machado          | machado.vanessa32@gmail.com             | https://github.com/Vanessamachado93       |
 | Victor Eduardo Santos Soares   | v_eduardo@live.com                      | https://github.com/veduardo93             |
