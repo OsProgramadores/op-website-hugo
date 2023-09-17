@@ -223,7 +223,11 @@ Ao adicionar o seu nome, por favor observe:
 | Marcelo De Souza Batista       | batista.marcelo34@gmail.com             | https://github.com/marcellobatiista       |
 | Marcelo Kortkamp               | marcelusmedius@gmail.com                | https://github.com/kortkamp               |
 | Marcelo Ribeiro                | No Email                                | https://github.com/mortadeloSalaminho     |
+<<<<<<< HEAD
 | Marcelo S. de Araújo |         | marcelosantsaraujo@gmail.com            | https://github.com/solecram               |
+=======
+| Marcelo S. de Araújo           | marcelosantsaraujo@gmail.com            | https://github.com/solecram               |
+>>>>>>> parent of 535bc1b (Correção do problema incorrect number of rows)
 | Marcelo Vinicius Campos Amedi  | marceloamedi@gmail.com                  | https://github.com/marceloamedi           |
 | Marcio Andre Sieburger         | sieburger@protonmail.com                | https://github.com/sieburger              |
 | Marcio Filadelfo               | marcio.kabana@gmail.com                 | https://github.com/marciofiladelfo        |
