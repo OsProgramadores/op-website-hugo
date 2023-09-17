@@ -1,6 +1,6 @@
 +++
 date = "2023-03-06T14:27:00-03:00"
-title = "E75 - Brian Kenighan"
+title = "E75 - Brian Kernighan"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
 banner = "img/banners/podcast-400px.png"
