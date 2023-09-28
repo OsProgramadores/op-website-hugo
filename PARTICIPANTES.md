@@ -278,6 +278,7 @@ Ao adicionar o seu nome, por favor observe:
 | Pedro Lôbo Nascimento          | pedrolnascimento2004@gmail.com          | https://github.com/m1thrandirr            |
 | Rafael Barros Pires            | rafaelbpires@gmail.com                  | https://github.com/bpires                 |
 | Rafael De Souza Santos         | rafaeldss199916@gmail.com               | https://github.com/RafaelDSS              |
+| Rafael Pereira Sá Brito        | rpsbrito@proton.me                      | https://github.com/rafaelpsb              |
 | Rafael Perez Garcia            | rafaelsfs@gmail.com                     | https://github.com/rafaelsfs              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                   | https://github.com/raffaelleao            |
 | Raimundo Alves Nunes Neto      | otenneto123@gmail.com                   | https://github.com/donumiad               |
