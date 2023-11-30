@@ -323,6 +323,7 @@ Ao adicionar o seu nome, por favor observe:
 | Tiago Dias Batista             | tiago@webdeleve.net                     | https://github.com/tigo-di                |
 | Tsuki A. Garrit dos Santos     | Tsuki52Garrit@gmail.com                 | https://github.com/52Angie52              |
 | Tyrone Macedo Damasceno        | tyronedamasceno@gmail.com               | https://github.com/tyronedamasceno        |
+| Uiratan Cavalcante             | uiratan@gmail.com                       | https://github.com/uiratan                |
 | Vagner Bessa                   | bessavagner@gmail.com                   | https://github.com/bessavagner            |
 | Vagner Cavalcante da silva     | vagnermasked@gmail.com                  | https://github.com/vagnerzt               |
 | Valdinei de Paula Junior       | valdineidepaulajunior@gmail.com         | https://github.com/ValdineiJunior         |
