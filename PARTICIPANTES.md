@@ -42,6 +42,7 @@ Ao adicionar o seu nome, por favor observe:
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                  | https://github.com/andresansil            |
 | André Taveira                  | andretaveirati@gmail.com                | https://github.com/taveiradev             |
+| Angela Talyta                  | tatazinhagms2@gmail.com                 | https://github.com/tatazinhaang           |
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
