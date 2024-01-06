@@ -80,7 +80,7 @@ func checkParticipantes(r io.Reader) error {
 
 		// Must have five columns.
 		if len(columns) != 5 {
-			return fmt.Errorf("line %d: incorrect number of rows. Want 5, got %d", linecounter, len(columns))
+			return fmt.Errorf("line %d: incorrect number of columns. Want 5, got %d", linecounter, len(columns))
 		}
 
 		// Make sure columns align. This is UTF-8 aware.
