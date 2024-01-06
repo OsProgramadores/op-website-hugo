@@ -139,7 +139,7 @@ func checkParticipantes(r io.Reader) error {
 	// an empty line (nothing after the '\n').  Anything in 'lines' here means
 	// there's an entire line without a new line at the end of the file.
 	if line != "" {
-		return fmt.Errorf("Last line in the file MUST end in a LF (0x10) character (Some editors remove it automatically): %q", line)
+		return fmt.Errorf("Missing line-feed (0x10) character at the end of the file. If using VSCode, check https://stackoverflow.com/questions/44704968/visual-studio-code-insert-newline-at-the-end-of-files. Line: %q", line)
 	}
 
 	// Make sure we have at least one valid participant.
