@@ -39,6 +39,7 @@ Ao adicionar o seu nome, por favor observe:
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
+| Andre Luiz dos Santos Pires    | andreldsantosp@gmail.com                | https://github.com/AndreLuizpDev          |
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                  | https://github.com/andresansil            |
 | André Taveira                  | andretaveirati@gmail.com                | https://github.com/taveiradev             |
