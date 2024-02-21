@@ -79,6 +79,7 @@ Ao adicionar o seu nome, por favor observe:
 | Daniel Samper                  | dr.hongo@gmail.com                      | https://github.com/daniel-samper          |
 | Daniel Santos Rodrigues        | danielrodrigues.dev@gmail.com           | https://github.com/danniel-rodrigues      |
 | Danrley Senegalha Pires        | dansenpir@protonmail.com                | https://github.com/dansenpir              |
+| Davi Genari Larangeira         | davigenari@hotmail.com                  | https://github.com/davigenari             |
 | David GesRob                   | david81br@gmail.com                     | https://github.com/david81brs             |
 | Davidson Lucas                 | dvdsoncomp@gmail.com                    | https://github.com/dvdson                 |
 | Denis Almeida                  | denis.meida@gmail.com                   | https://github.com/denisvba               |
