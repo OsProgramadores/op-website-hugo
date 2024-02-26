@@ -118,6 +118,7 @@ Ao adicionar o seu nome, por favor observe:
 | Fernando P. Marques Jr.        | fernandopozomqs@gmail.com               | https://github.com/Fernando-Pozo          |
 | Fidelis Guimarães              | atosfiel@gmail.com                      | https://github.com/fidelisfelipe          |
 | Flávio Júnior Avelino da Silva | flaviojunior.work@gmail.com             | https://github.com/flavio-junior          |
+| Francisco Eduardo P. S. Silva  | sudo.franciscosilva20@gmail.com         | https://github.com/Francisco2002          |
 | Francisco Jose de Assis Cunha  | fjacunha@gmail.com                      | https://github.com/fjoseacunha            |
 | Frederico Gomes de Paiva       | fredericopaiva@gmail.com                | https://github.com/fredpaiva42            |
 | Gabriel Barbosa                | gabrieltads2016@gmail.com               | https://github.com/gabrielrbarbosa        |
