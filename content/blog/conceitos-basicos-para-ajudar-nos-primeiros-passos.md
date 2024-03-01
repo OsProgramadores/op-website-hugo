@@ -196,7 +196,7 @@ Relembrando, neste artigo, abordamos os seguintes tópicos:
 * O que é um **Terminal**
 * Alguns **commandos básicos** para navegação no terminal
 
-Acreditamos que após esta leitura, você está mais do que apto para dar prosseguimento à sua jornada!
+> Acreditamos que após esta leitura, você está mais do que apto para dar prosseguimento à sua jornada!
 
 **Para dar continuidade em seus estudos agora vá para o artigo [por onde começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/).** 
 
