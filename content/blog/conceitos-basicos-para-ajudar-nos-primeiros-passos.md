@@ -124,7 +124,7 @@ Neste exemplo, o seu diretório de trabalho após utilizar o comando deverá ser
 #### Criando Novos Diretórios
 
 Para criar novos diretórios dentro do terminal você pode usar o comando `MKDIR`. Este comando funciona de maneira análoga ao comando `cd`, 
-no sentido que você pode passar tanto um caminho complete como não.
+no sentido que você pode passar tanto um caminho completo, como não.
 
 Vamos seguir com nosso exemplo e criar um diretório chamado `codigo` dentro do diretório `Documentos`. Para fazer isso você deve realizar as seguintes verificações:
 1. Conferir se o seu diretório atual é o diretório `Documentos`. 
