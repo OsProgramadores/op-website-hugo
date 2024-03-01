@@ -9,7 +9,9 @@ banner = "img/banners/background-code.webp"
 Uma pergunta frequente de vários participantes do [OsProgramadores no Telegram](https://t.me/osprogramadores) é: "Por onde eu começo?" e "como posso me preparar para conseguir o primeiro estágio ou o primeiro emprego na área de programação?" 
 
 Para começar com programação é recomendável usar um computador para criar e testar programas. A prática é essencial para reforçar o que foi aprendido através de vídeos e livros. 
-Caso você não tenha um computador, existem vários programas que você pode usar mas recomendamos a instalação e uso da [App do Replit](https://replit.com/mobile). 
+Caso você não tenha um computador, existem vários programas que você pode usar mas recomendamos a instalação e uso da [App do Replit](https://replit.com/mobile).
+
+> **[Recomendamos a leitura deste artigo para lhe ensinar alguns conceitos essenciais que serão muito úteis nesta sua jornada para se tornar um programador.](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/)**
 
 Qualquer sistema operacional pode ser usado no aprendizado, [Windows](https://www.microsoft.com/en-ca/windows), [Linux](https://en.wikipedia.org/wiki/Linux) ou [macOS](https://en.wikipedia.org/wiki/MacOS). Use o que você tem acesso para aprender. Também não se preocupe com qual editor de programas ou [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) usar. Escolha algo simples e se concentre em aprender a programar. Se você não souber qual editor de programas usar, recomendamos o [Visual Studio Code](https://code.visualstudio.com/)
 
