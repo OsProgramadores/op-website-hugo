@@ -38,6 +38,7 @@ O seu caminho inicial pode parecer ser um pouco mais longo, pois terá que apren
 
 Ao programar você está, a grosso modo, instruindo o computador a realizar uma sequência de instruções da forma que você deseja. Ou seja, o código que você gerar é responsável por orientar o computador
 em todos os três escopos:
+
 * O que fazer?
   * É o seu código que vai "falar" para o computador o que deve ser feito.
 * Como fazer?
@@ -58,6 +59,7 @@ dos recursos disponíveis de um computador.
 ### O Sistemas de Arquivo
 
 A próxima etapa agora é compreender como os dados são armazenados no disco de um computador. Uma boa forma de fazer isso é através [deste artigo do lucas linux](https://www.lucaslinux.com/post/sistema-de-arquivos-linux).
+
 > Mas o meu computador não é linux, é Windows.
 
 Qualquer sistema operacional pode ser usado, quer seja [Windows](https://www.microsoft.com/en-ca/windows), [Linux](https://en.wikipedia.org/wiki/Linux) ou [macOS](https://en.wikipedia.org/wiki/MacOS).
@@ -111,7 +113,8 @@ Exemplo da outra forma de usar o comando `cd`:
 cd /home/username/Documentos/
 ```
 
-Neste exemplo, o seu diretório de trabalho após utilizar o comando deverá ser `Documentos`
+Neste exemplo, o seu diretório de trabalho após utilizar o comando deverá ser `Documentos`.
+
 > Para um caso de uso real, você pode substituir a palavra _username_ pelo seu nome de usuário.
 
 #### Criando Novos Diretórios
@@ -172,6 +175,7 @@ Novamente, valide o resultado da sua operação executando o comando `ls` para c
 > Okay, entendi. Agora, e se eu tiver um diretório com arquivos dentros, o que eu faço?
 
 Nesta ocasião, você poderá combinar estes comandos que aprendeu neste artigo para:
+
 * alterar o diretório atual para o diretório que deseja remover os arquivos
 * remover os arquivos que deseja
 * alterar o diretório atual para exibir o diretório que deseja remover
