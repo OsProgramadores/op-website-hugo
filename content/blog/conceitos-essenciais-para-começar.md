@@ -1,5 +1,5 @@
 +++
-title = "Conceitos básicos para ajudar nos primeiros passos"
+title = "Conceitos essenciais para começar"
 date = "2024-02-29T18:50:00-03:00"
 tags = ["programação", "desafios", "github", "programação", "tutorial"]
 categories = ["artigos", "desafios"]
@@ -9,9 +9,6 @@ banner = "img/banners/Le_Penseur_in_the_Jardin_du_Musée_Rodin,_Paris_14_June_20
 
 Por vezes, algumas pessoas acabam encontrando dificuldades para iniciar na programação e encontram-se um pouco perdidas em meio à quantidade de recursos e opções disponíveis.
 Aqui nos programadores, buscamos ajudar a todos da melhor forma possível. 
-
-Tendo em vista a recente dificuldades de diversos novatos, decidi redigir este artigo que trará alguns conceitos básicos para lhe auxiliar
-nesta jornada para começar no mundo da programação. E então, vamos começar?
 
 Sem sombra de dúvida, uma das perguntas mais comuns [no nosso grupo no telegram](https://t.me/osprogramadores) de quem está querendo iniciar é: 
 
@@ -49,13 +46,7 @@ em todos os três escopos:
   * O computador não entende que algo pode ser feito de diversas maneiras, ele não tem essa capacidade. A capacidade dele é de seguir as instruções fornecidas, então o porquê de algo ser feito de tal forma
 é algo dependente do programador e não do computador.
 
-> Notavelmente, quanto maior o seu entendimento sobre o funcionamento de um computador, a tendência é que o seu código seja mais preciso e faça um melhor uso dos recursos dele. 
-
-Um exemplo onde é necessário um alto nível de compreensão sobre o funcionamento do computador é para o desenvolvimento de [_drivers_](https://pt.wikipedia.org/wiki/Driver_de_dispositivo). Para quem não sabe, os _drivers_ são componentes
-essenciais que permitem que o seu sistema operacional se comunique, de maneira adequada, com o equipamento (o famoso [_hardware_](https://pt.wikipedia.org/wiki/Hardware)).
-
-Isto não significa que você **precise** chegar neste mesmo nível de domínio para iniciar a sua jornada, **muito pelo contrário!** Tendo o conhecimento inicial e uma noção básica do que é e como funciona um computador,
-você já estará mais do que apto para seguir adiante!
+Notavelmente, quanto maior o seu entendimento sobre o funcionamento de um computador, a tendência é que o seu código seja mais preciso e faça um melhor uso dos recursos dele! 
 
 ### O que é um computador?
 Para entender o que é um computador, recomendamos a [leitura deste artigo do IFBA](http://www.ifba.edu.br/professores/antoniocarlos/index_arquivos/resumodearquiteturadecomputadores.pdf). O artigo é de nível
@@ -88,6 +79,8 @@ o tempo que você gasta para alterar os ambientes e trocar de projeto. Usuários
 parecer assustador a princípio! 
 
 > Os comandos para terminal são um mundo a parte, e apesar de parecerem desafiadores, eles estão ali para lhe auxiliar! Não tenha medo deles, eles são ferramentas feitas para otimizar o seu fluxo de trabalho.
+> 
+> [Temos um vídeo introdutório ao terminal do linux disponível no YouTube.](https://www.youtube.com/watch?v=CFWttwWZSAQ)
 
 #### Navegação Básica no terminal
 
