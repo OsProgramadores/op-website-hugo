@@ -198,6 +198,10 @@ Relembrando, neste artigo, abordamos os seguintes tópicos:
 
 Acreditamos que após esta leitura, você está mais do que apto para dar prosseguimento à sua jornada!
 
-Recomendamos que você faça os [desafios do grupo](https://osprogramadores.com/desafios/). Caso tenha dificuldades com os exercícios, ou dúvidas, faça perguntas no [grupo no telegram](https://t.me/osprogramadores).
+**Para dar continuidade em seus estudos agora vá para o artigo [por onde começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/).** 
+
+Também recomendamos que você faça os [desafios do grupo](https://osprogramadores.com/desafios/) após ter lido os artigos.
+
+Caso tenha dificuldades com os exercícios, ou dúvidas, faça perguntas no [grupo no telegram](https://t.me/osprogramadores).
 
 
