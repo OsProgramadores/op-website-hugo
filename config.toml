@@ -4,8 +4,6 @@ theme = "hugo-universal-theme"
 languageCode = "pt_BR"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "pt"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-2841944-4"
 
 # Define the number of posts per page
 paginate = 12
@@ -57,6 +55,9 @@ paginate = 12
     author = "mpinheir"
     defaultKeywords = ["programacao", "programas", "coding", "desenvolvimento", "desenvolvedores", "codigo"]
     defaultDescription = "Site do grupo OsProgramadores do Telegram."
+
+    # Google Analytics tag
+    GoogleAnalyticsID = "G-7GDSDS6SYL"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyDZVbStKYDIN7PJsACJnzeN470RAqv6Wb0"
