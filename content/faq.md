@@ -10,9 +10,17 @@ markup = "markdown"
 
 O grupo foi criado por um grupo de amigos, veteranos em diversas áreas de computação e eletrônica, com o intuito de ajudar aqueles que estão começando a programar. A participação é completamente gratuita, mas pedimos que os novos integrantes leiam as [Regras](https://osprogramadores.com/regras) para evitar problemas.
 
+## Por onde eu começo?
+
+Temos alguns ótimos artigos introdutórios aqui no site! Recomendamos que você comece por [este artigo](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/), leia-o com calma e atenção. Após concluí-lo, continue seus estudos através [deste artigo](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/).
+
 ## Posso fazer perguntas sobre o X?
 
 Sim, desde que X seja ligado a programação e a computadores em geral. A conversa no grupo é variada, mas é importante não desviar o assunto do grupo para temas não relacionados. Tópicos particularmente não recomendados incluem política, sexualidade e qualquer outro tópico polêmico que não esteja relacionado à área. Tópicos envolvendo ilegalidade de qualquer forma sujeitam o autor a banimento imediato e irreversível.
+
+## Posso perguntar se posso perguntar?
+
+[Temos um artigo sobre este tópico](https://osprogramadores.com/blog/2020/09/11/como-perguntar/), mas de modo geral, perguntar se alguém sabe de A ou B para então perguntar o que precisa saber sobre A ou B não é uma forma eficiente de se comunicar... Recomendamos a leitura do artigo.
 
 ## Posso colocar anúncios de emprego no grupo?
 
