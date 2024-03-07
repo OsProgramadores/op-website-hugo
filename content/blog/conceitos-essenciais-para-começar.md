@@ -195,10 +195,10 @@ Relembrando, neste artigo, abordamos os seguintes tópicos:
 
 > Acreditamos que após esta leitura, você está mais do que apto para dar prosseguimento à sua jornada!
 
-**Para dar continuidade em seus estudos agora vá para o artigo [por onde começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/).** 
+Para dar continuidade em seus estudos agora vá para o artigo [por onde começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/). 
+
+**Há um ótimo [material sobre Introdução à Ciência da Computação feito por Harvard](https://youtu.be/SYZkrqW8oJc?si=7In3_gUFxc-8pe1f) que recomendamos.**
 
 Também recomendamos que você faça os [desafios do grupo](https://osprogramadores.com/desafios/) após ter lido os artigos.
 
 Caso tenha dificuldades com os exercícios, ou dúvidas, faça perguntas no [grupo no telegram](https://t.me/osprogramadores).
-
-
