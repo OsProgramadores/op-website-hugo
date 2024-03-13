@@ -341,6 +341,7 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com                 | https://github.com/victorhsanjos          |
 | Victor Marques Zamith          | victor.zamith@gmail.com                 | https://github.com/vzamith                |
 | Vinicius Becker de Souza       | viniciusdesouza.becker@gmail.com        | https://github.com/viniciusbeckerdesouza  |
+| Vinicius de Souza Silva        | vinesdd@gmail.com                       | https://github.com/vinesdd                |
 | Vinicius Guarnieri             | vinicius.viniciusguarnieri@gmail.com    | https://github.com/ViniciusGuarnieri      |
 | Vinicius Oliveira Queiroz      | viniciusqueiroz.voq@gmail.com           | https://github.com/ViniciusQueiroz-VQ     |
 | Wanderley Caloni               | wanderley.caloni@bitforge.com.br        | https://github.com/Caloni                 |
