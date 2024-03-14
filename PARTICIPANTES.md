@@ -159,6 +159,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jackson Osvaldo da Silva Braga | jacksonosvaldo@live.com                 | https://github.com/JacksonOsvaldo         |
 | Jackson Santos de Jesus        | jackson@bsd.com.br                      | https://github.com/meiotexto              |
 | Janaina Oliveira da Silva      | euinaoficial@gmail.com                  | https://github.com/euina                  |
+| Jean André                     | jeanv_lima@outlook.com                  | https://github.com/jeansdev1              |
 | Jean Pablo Costa Dos Santos    | Jesantoxfachmann@gmail.com              | https://github.com/Jesantox               |
 | Jeferson Dariva Marcante       | jefemarcante@hotmail.com                | https://github.com/JefersonMarcante       |
 | Jeferson Rodrigo Stefani       | jefersonrodrigostefani@gmail.com        | https://github.com/jefersonrodrigostefani |
