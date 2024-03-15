@@ -29,14 +29,13 @@ Ao adicionar o seu nome, por favor observe:
 | Alexandre Ferreira             | alexandre4fl@hotmail.com                | https://github.com/Alexandre2539          |
 | Alexandre Oliveira             | alexandreferreiradeoliveira40@gmail.com | https://github.com/AlexandreOliver        |
 | Alexandre Pierre               | alexandrempierre@gmail.com              | https://github.com/alexandrempierre       |
-| Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com             | https://github.com/apfmiranda             
+| Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com             | https://github.com/apfmiranda             |
 | Alexsandro Felix               | felix@ffelix.eti.br                     | https://github.com/asfelix                |
 | Alexsandro Matias              | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Alisson Soares da Silva        | alissonsoaressocial02@gmail.com         | https://github.com/soaresSilva            |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
-| Anne souza                     | annesouzpy@gmail.com                    | https://github.com/annes27
-| Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               
+| Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
@@ -47,7 +46,8 @@ Ao adicionar o seu nome, por favor observe:
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
-| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45                |
+| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45  
+| Anne Souza                     | annesouzpy@gmail.com                    | https://github.com/annes27 
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
 | Arlesson Jaques                | No Email                                | https://github.com/Schuarzem              |
 | Arthur Alves Reis              | art4321@outlook.com.br                  | https://github.com/itsArthurAlves         |
