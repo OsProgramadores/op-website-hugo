@@ -12,7 +12,7 @@ Ao adicionar o seu nome, por favor observe:
   atual.
 
 | Nome                           | Email                                   | Github Page                               |
-| ------------------------------ | --------------------------------------- | ----------------------------------------- |
+|--------------------------------|-----------------------------------------|-------------------------------------------|
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
@@ -47,6 +47,7 @@ Ao adicionar o seu nome, por favor observe:
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
 | Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45                 |
+| Anne Souza                     | annesouzpy@gmail.com                    | https://githur.com/annes27                |
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
 | Arlesson Jaques                | No Email                                | https://github.com/Schuarzem              |
 | Arthur Alves Reis              | art4321@outlook.com.br                  | https://github.com/itsArthurAlves         |
