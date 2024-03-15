@@ -12,7 +12,7 @@ Ao adicionar o seu nome, por favor observe:
   atual.
 
 | Nome                           | Email                                   | Github Page                               |
-| ------------------------------ | --------------------------------------- | ----------------------------------------- |
+|--------------------------------|-----------------------------------------|-------------------------------------------|
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
@@ -39,14 +39,15 @@ Ao adicionar o seu nome, por favor observe:
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
-| Andre Luiz dos Santos Pires    | andreldsantosp@gmail.com                | https://github.com/AndreLuizpDev          |
+| Andre Luiz dos Santos Pires    | andreldsantosp@gmail.com                | https://github.com/AndreLuizpDev          | 
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                  | https://github.com/andresansil            |
 | André Taveira                  | andretaveirati@gmail.com                | https://github.com/taveiradev             |
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
-| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45                 |
+| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45  
+| Anne Souza                     | annesouzpy@gmail.com                    | https://github.com/annes27 
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
 | Arlesson Jaques                | No Email                                | https://github.com/Schuarzem              |
 | Arthur Alves Reis              | art4321@outlook.com.br                  | https://github.com/itsArthurAlves         |
