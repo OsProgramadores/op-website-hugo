@@ -14,8 +14,8 @@ Ao adicionar o seu nome, por favor observe:
 | Nome                           | Email                                   | Github Page                               |
 | ------------------------------ | --------------------------------------- | ----------------------------------------- |
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
-| Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |
 | Adijanyo Tavares               | adijanyotavares.at17@gmail.com          | https://github.com/adijanyo               |      
+| Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |    
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br              | https://github.com/arlima                 |
 | Afonso Augusto Rodrigues       | afonsoaugustoventura@gmail.com          | https://github.com/afonsoaugusto          |
