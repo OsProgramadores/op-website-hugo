@@ -34,6 +34,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexsandro Matias              | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Alisson Soares da Silva        | alissonsoaressocial02@gmail.com         | https://github.com/soaresSilva            |
+| Amanda dos Santos Cavalcante   | cavalcanteama@gmail.com                 | https://github.com/Amandextra
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
