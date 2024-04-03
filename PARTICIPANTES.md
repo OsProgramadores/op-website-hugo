@@ -342,6 +342,7 @@ Ao adicionar o seu nome, por favor observe:
 | Victor Hugo Gomes Nascimento   | labatata101@linuxmail.org               | https://github.com/LaBatata101            |
 | Victor Hugo Santana dos Anjos  | victorhsanjos@gmail.com                 | https://github.com/victorhsanjos          |
 | Victor Marques Zamith          | victor.zamith@gmail.com                 | https://github.com/vzamith                |
+| Victor Vinícius S. de Souza    | vs.developer.vs310@gmail.com            | https://github.com/victorvssouza          |
 | Vinicius Becker de Souza       | viniciusdesouza.becker@gmail.com        | https://github.com/viniciusbeckerdesouza  |
 | Vinicius de Souza Silva        | vinesdd@gmail.com                       | https://github.com/vinesdd                |
 | Vinicius Guarnieri             | vinicius.viniciusguarnieri@gmail.com    | https://github.com/ViniciusGuarnieri      |
