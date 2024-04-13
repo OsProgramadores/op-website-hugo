@@ -1,5 +1,5 @@
 +++
-title = "Por onde começar?"
+title = "Olá mundo!"
 date = "2019-03-12T08:26:00-07:00"
 tags = ["programação"]
 categories = ["linguagens"]
@@ -11,7 +11,9 @@ Uma pergunta frequente de vários participantes do [OsProgramadores no Telegram]
 Para começar com programação é recomendável usar um computador para criar e testar programas. A prática é essencial para reforçar o que foi aprendido através de vídeos e livros. 
 Caso você não tenha um computador, existem vários programas que você pode usar mas recomendamos a instalação e uso da [App do Replit](https://replit.com/mobile).
 
-> **[Recomendamos a leitura deste artigo para lhe ensinar alguns conceitos essenciais que serão muito úteis nesta sua jornada para se tornar um programador.](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/)**
+> **[Recomendamos fortemente a leitura deste artigo para lhe ensinar alguns conceitos essenciais que serão muito úteis nesta sua jornada para se tornar um programador.](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/)**
+
+Não deixe de ler o arigo acima antes de prosseguir com a leitura a seguir.
 
 Qualquer sistema operacional pode ser usado no aprendizado, [Windows](https://www.microsoft.com/en-ca/windows), [Linux](https://en.wikipedia.org/wiki/Linux) ou [macOS](https://en.wikipedia.org/wiki/MacOS). Use o que você tem acesso para aprender. Também não se preocupe com qual editor de programas ou [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) usar. Escolha algo simples e se concentre em aprender a programar. Se você não souber qual editor de programas usar, recomendamos o [Visual Studio Code](https://code.visualstudio.com/)
 
