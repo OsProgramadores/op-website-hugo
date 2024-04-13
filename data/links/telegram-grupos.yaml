@@ -106,6 +106,10 @@ sources:
   title: "Citrix XenServer"
   description: "Grupo sobre  Citrix XenServer"
 
+- url: "https://t.me/clubedosprogramadores"
+  title: "Clube dos Programadores"
+  description: "Comunidade brasileira de desenvolvimento de software"
+
 - url: "https://t.me/CodeIgniterBrasil"
   title: "CodeIgniter Brasil"
   description: "Grupo focado para trocar conhecimentos e tirar dúvidas sobre Framework CodeIgniter"
@@ -686,6 +690,10 @@ sources:
   title: "Tecnologia Cisco BR"
   description: "Grupo brasileiro de Tecnologias Cisco"
 
+- url: "https://t.me/tecnologiadainfo"
+  title: "Tecnologia da Informação"
+  description: "Grupo focado em assuntos de Tecnologia da informação, programação e correlatos"
+
 - url: "https://t.me/terminalgnulinux"
   title: "terminalgnulinux"
   description: "Grupo para conversa sobre qualquer distro GNU/Linux"
@@ -762,18 +770,3 @@ sources:
   title: "ZimBrasil"
   description: "Grupo brasileiro de discussão, apoio e idéias sobre Zimbra"
 
-- url: "https://t.me/ProgramadoresBrasil"
-  title: "Linguagens de Programação"
-  description: "Grupo para compartilhar conhecimento e tirar dúvidas sobre diversas linguagens de programação"
-
-- url: "https://t.me/clubedosprogramadores"
-  title: "Clube dos Programadores"
-  description: "Comunidade brasileira de desenvolvimento de software"
-
-- url: "https://t.me/tecnologiadainfo"
-  title: "Tecnologia da Informação"
-  description: "Grupo focado em assuntos de Tecnologia da informação, programação e correlatos"
-
-- url: "https://t.me/devs_brasil"
-  title: "Developers"
-  description: "Grupo para desenvolvedores que trabalham, estudam ou simplesmente querem aprender qualquer linguagem ou tecnologia"
