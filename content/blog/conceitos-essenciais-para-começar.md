@@ -5,7 +5,6 @@ tags = ["programação", "desafios", "github", "programação", "tutorial"]
 categories = ["artigos", "desafios"]
 banner = "img/banners/Le_Penseur_in_the_Jardin_du_Musée_Rodin,_Paris_14_June_2015.jpg"
 +++
-# Introdução
 
 Por vezes, algumas pessoas acabam encontrando dificuldades para iniciar na programação e encontram-se um pouco perdidas em meio à quantidade de recursos e opções disponíveis.
 Aqui nos programadores, buscamos ajudar a todos da melhor forma possível. 
