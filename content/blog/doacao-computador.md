@@ -3,7 +3,7 @@ title = "Doação de computadores usados"
 date = "2024-04-13T16:19:00-07:00"
 tags = ["programação","IA"]
 categories = ["linguagens", "ferramentas"]
-banner = "img/banners/languages.webp"
+banner = "img/banners/girl-using-computer.webp"
 +++
 
 Nos últimos três anos, o Grupo OsProgramadores tem desempenhado um papel significativo ao fornecer acesso à tecnologia para aqueles que de outra forma não teriam condições de adquirir um computador. Por meio de doações generosas, o grupo já distribuiu mais de 70 computadores usados para pessoas em todo o Brasil. Essa iniciativa tem como objetivo principal ajudar indivíduos a ingressarem no mundo da programação, abrindo portas para oportunidades educacionais e profissionais.
