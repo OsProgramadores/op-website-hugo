@@ -6,8 +6,6 @@ categories = ["artigos", "projetos"]
 banner = "img/banners/background-code.webp"
 +++
 
-# Projeto Portal Estágio
-
 O [Portal Estágio](https://portalestagio.com/) é uma oportunidade para quem quiser aprender a trabalhar em grupo e contribuir com um projeto open source. O projeto está em desenvolvimento e precisamos de pessoas interessadas em colaborar e levar o projeto a frente.
 
 Objetivos do projeto:
