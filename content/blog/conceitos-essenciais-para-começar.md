@@ -13,7 +13,7 @@ Sem sombra de dúvida, uma das perguntas mais comuns [no nosso grupo no telegram
 
 > "**Por onde eu começo?**"
 
-Comumente, direcionamos as pessoas aos artigos introdutórios como [por onde começar]({{< ref "/blog/ola-mundo.md" >}} ) e na sequência, também encaminhamo-nas para o [desafio 01](https://osprogramadores.com/desafios/d01/).
+Comumente, direcionamos as pessoas aos artigos introdutórios como o [Olá Mundo]({{< ref "/blog/ola-mundo.md" >}} ) e na sequência, também encaminhamo-nas para o [desafio 01](https://osprogramadores.com/desafios/d01/).
 
 Estes artigos são ótimos para **quem já tem uma boa base**! Porém, **e se esse não for o seu caso**? 
 
