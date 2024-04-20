@@ -73,6 +73,10 @@ sources:
 - url: "https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12"
   title: "Machine Learning for Humans"
   description: "Explicação sobre tipos de aprendizado de maquinas."
+
+- url: "https://phphub.net/regex/"
+  title: "PHPrex"
+  description: "Ferramenta para testar e visualizar suas expressões regulares em Php"
   
 - url: "https://www.python-graph-gallery.com/"
   title: "Python Graph Gallery"
