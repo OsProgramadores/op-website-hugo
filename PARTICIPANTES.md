@@ -348,6 +348,7 @@ Ao adicionar o seu nome, por favor observe:
 | Vinicius de Souza Silva        | vinesdd@gmail.com                       | https://github.com/vinesdd                |
 | Vinicius Guarnieri             | vinicius.viniciusguarnieri@gmail.com    | https://github.com/ViniciusGuarnieri      |
 | Vinicius Oliveira Queiroz      | viniciusqueiroz.voq@gmail.com           | https://github.com/ViniciusQueiroz-VQ     |
+| Walliton jose siqueira pereira | Wallitonccb@gmail.com                   | https://github.com/WallitonSiqueira       | 
 | Wanderley Caloni               | wanderley.caloni@bitforge.com.br        | https://github.com/Caloni                 |
 | Washington Araújo Ramos        | No Email                                | https://github.com/WashingtonARamos       |
 | Wellington Domiciano           | wldomiciano@gmail.com                   | https://github.com/wldomiciano            |
