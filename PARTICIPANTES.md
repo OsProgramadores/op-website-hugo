@@ -199,6 +199,7 @@ Ao adicionar o seu nome, por favor observe:
 | Klisóstom Sousa Da Silva       | klis@pm.me                              | https://github.com/klisostom              |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                  | https://github.com/kyldery                |
 | Lauro Silveira Neto            | laurosn@gmail.com                       | https://github.com/laurosn                |
+| Lenin Costa da Rosa            | lenincostta@gmail.com                   | https://github.com/lenincst               |
 | Leo Baiano                     | ljunior2005@gmail.com                   | https://github.com/leobaiano              |
 | Leo Silva Souza                | leovano@protonmail.com                  | https://github.com/leovano                |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com                | https://github.com/galloaleonardo         |
