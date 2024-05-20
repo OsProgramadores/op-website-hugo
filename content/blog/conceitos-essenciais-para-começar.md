@@ -13,7 +13,7 @@ Sem sombra de dúvida, uma das perguntas mais comuns [no nosso grupo no telegram
 
 > "**Por onde eu começo?**"
 
-Comumente, direcionamos as pessoas aos artigos introdutórios como o [Olá Mundo]({{< ref "/blog/ola-mundo.md" >}} ) e na sequência, também encaminhamo-nas para o [desafio 01](https://osprogramadores.com/desafios/d01/).
+Comumente, direcionamos as pessoas aos artigos introdutórios como o [Olá Mundo]({{< ref "/blog/ola-mundo.md" >}} ) e na sequência, também encaminhamo-nas para o [desafio 01]({{< ref "/desafios/d01.md" >}}).
 
 Estes artigos são ótimos para **quem já tem uma boa base**! Porém, **e se esse não for o seu caso**? 
 
@@ -88,8 +88,8 @@ ___
 
 >Agora seria bom você consolidar o entendimento sobre o que é um [terminal](https://pt.wikipedia.org/wiki/Terminal_(inform%C3%A1tica)). 
 
-Em nosso [artigo introdutório](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/) e,
-principalmente, no [desafio 01](https://osprogramadores.com/desafios/d01/), você precisará usar um terminal para inserir os comandos necessários.
+Em nosso [artigo introdutório]({{< ref "/blog/ola-mundo.md" >}} ) e,
+principalmente, no [desafio 01]({{< ref "/desafios/d01.md" >}})), você precisará usar um terminal para inserir os comandos necessários.
 
 Os artigos são bem completos e possuem os comandos necessários para quase todas as operações, porém há algumas coisas que são importantes que ficaram de fora deles, como, por exemplo, a navegação entre diretórios.
 
@@ -226,7 +226,7 @@ Se aprofundar neles pode acabar lhe desviando do que é mais importante agora. S
 
 ### Para dar continuidade em seus estudos agora, recomendamos os seguintes passos:
 
-1. Vá para o artigo [por onde começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/). 
+1. Vá para o artigo [Olá Mundo]({{< ref "/blog/ola-mundo.md" >}} ).
 2. **Há um ótimo [material sobre Introdução à Ciência da Computação feito por Harvard](https://youtu.be/SYZkrqW8oJc?si=7In3_gUFxc-8pe1f) que recomendamos.**
 3. Também recomendamos que você faça os [desafios do grupo](https://osprogramadores.com/desafios/) após ter lido os artigos.
 4. Caso tenha dificuldades com os exercícios, ou dúvidas, faça perguntas no [grupo no telegram](https://t.me/osprogramadores).
