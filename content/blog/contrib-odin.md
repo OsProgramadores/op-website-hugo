@@ -17,9 +17,9 @@ No [grupo do Telegram do OsProgramadores](https://t.me/osprogramadores) eu via o
 
 Decidi tornar isso tangível e comecei a estudar [PHP](https://www.php.net/manual/pt_BR/index.php) já que a maioria das vagas ofertadas na minha região (Bauru - SP), eram para programadores PHP.  
 
-Estudei o básico da síntaxe e comecei a fazer os [desafios do grupo](https://osprogramadores.com/desafios/). Completei o [desafio #2 sobre números primos](http://osprogramadores.com/desafios/d02/). 
+Estudei o básico da síntaxe e comecei a fazer os [desafios do grupo]({{< ref "/desafios/" >}} ). Completei o [desafio #2 sobre números primos](http://osprogramadores.com/desafios/d02/). 
 
-Na semana seguinte, após concluir o [desafio 2](http://osprogramadores.com/desafios/d02/), eu tive um teste para estágio e neste teste me deram uma folha de papel e pediram pra eu fazer um algoritmo em PHP para listar números primos. Foi uma grande coincidência pois a lógica estava fresquinha na cabeça e fui bem suceido no teste. 
+Na semana seguinte, após concluir o [desafio 2]({{< ref "/desafios/d02.md" >}}), eu tive um teste para estágio e neste teste me deram uma folha de papel e pediram pra eu fazer um algoritmo em PHP para listar números primos. Foi uma grande coincidência pois a lógica estava fresquinha na cabeça e fui bem suceido no teste. 
 
 Deste ponto em diante, minha carreira foi avançanco, fui efetivado, troquei de empresa e permaneci trabalhando com PHP, mas resolvi estudar [Go](https://golang.org/) pois estava muito intrigado sobre tudo que diziam sobre a linguagem.
 
@@ -37,7 +37,7 @@ Chegado o fim do prazo do desafio eu estava com tudo feito e na semana seguinte 
 
 Faz mais de três anos que o [grupo do OsProgramadores](https://t.me/osprogramadores) me possibilitou entrar na área, e hoje eu consegui um ótimo emprego em uma empresa de renome a nível nacional.
 
-O que você está esperando para começar a fazer os [desafios do grupo do OsProgramadores](https://osprogramadores.com/desafios/) e levar sua carreira a frente?
+O que você está esperando para começar a fazer os [desafios do grupo do OsProgramadores]({{< ref "/desafios/" >}} ) e levar sua carreira a frente?
 
 Quer saber mais sobre mim? Confira o [meu GitHub](https://github.com/cegielkowski).
 
