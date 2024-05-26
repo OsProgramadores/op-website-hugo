@@ -1,5 +1,5 @@
 +++
-date = "2024-05-26T17:55:00-03:00"
+date = "2024-05-25T13:00:00-03:00"
 title = "E80 - Magno Lomardo"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
