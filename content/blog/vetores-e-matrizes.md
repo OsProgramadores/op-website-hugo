@@ -6,7 +6,7 @@ tags = ["matrizes","vetores"]
 banner = "img/banners/cube-matrix.webp"
 +++
 
-Recomendamos a leitura do artigo sobre [Por onde Começar](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/), antes da leitura deste artigo.
+Recomendamos a leitura do artigo sobre [Olá Mundo]({{< ref "/blog/ola-mundo.md" >}}), antes da leitura deste artigo.
 
 ## Variáveis, conceitos básicos
 
