@@ -17,7 +17,7 @@ No [grupo do Telegram do OsProgramadores](https://t.me/osprogramadores) eu via o
 
 Decidi tornar isso tangível e comecei a estudar [PHP](https://www.php.net/manual/pt_BR/index.php) já que a maioria das vagas ofertadas na minha região (Bauru - SP), eram para programadores PHP.  
 
-Estudei o básico da síntaxe e comecei a fazer os [desafios do grupo]({{< ref "/desafios/" >}} ). Completei o [desafio #2 sobre números primos](http://osprogramadores.com/desafios/d02/). 
+Estudei o básico da síntaxe e comecei a fazer os [desafios do grupo]({{< ref "/desafios/" >}} ). Completei o [desafio #2 sobre números primos]({{< ref "/desafios/d02.md" >}} ). 
 
 Na semana seguinte, após concluir o [desafio 2]({{< ref "/desafios/d02.md" >}}), eu tive um teste para estágio e neste teste me deram uma folha de papel e pediram pra eu fazer um algoritmo em PHP para listar números primos. Foi uma grande coincidência pois a lógica estava fresquinha na cabeça e fui bem suceido no teste. 
 
