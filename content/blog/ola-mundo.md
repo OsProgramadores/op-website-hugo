@@ -21,7 +21,7 @@ Escolha uma linguagem de programação como [Python](https://wiki.python.org.br/
 
 Se o seu interesse é desenvolvimento front-end, recomendamos seguir a trilha de [HTML + CSS e depois JavaScript do Freecodecamp](https://www.freecodecamp.org/portuguese/learn/).
 
-Se seu interesse for em outras linguagens, na seção de [Links do site Osprogramadores]({{< ref "/links/" >}} ) você encontrará tutoriais e documentações que irão ajudar no aprendizado de várias linguagens de programação.
+Se seu interesse for em outras linguagens, na seção de [Links do site Osprogramadores]({{< relref "/links/" >}} ) você encontrará tutoriais e documentações que irão ajudar no aprendizado de várias linguagens de programação.
 
 Recomendamos que você assista dois videos que estão no Canal do OsProgramadores no Youtube:
 1-[Introdução ao Terminal do Linux](https://www.youtube.com/watch?v=CFWttwWZSAQ&t=1s)
