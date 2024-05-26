@@ -11,7 +11,7 @@ Uma pergunta frequente de vários participantes do [OsProgramadores no Telegram]
 Para começar com programação é recomendável usar um computador para criar e testar programas. A prática é essencial para reforçar o que foi aprendido através de vídeos e livros. 
 Caso você não tenha um computador, existem vários programas que você pode usar mas recomendamos a instalação e uso da [App do Replit](https://replit.com/mobile).
 
-> **[Recomendamos fortemente a leitura deste artigo para lhe ensinar alguns conceitos essenciais que serão muito úteis nesta sua jornada para se tornar um programador.](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/)**
+> **[Recomendamos fortemente a leitura deste artigo para lhe ensinar alguns conceitos essenciais que serão muito úteis nesta sua jornada para se tornar um programador.]({{< ref "/blog/conceitos-essenciais-para-começar.md" >}} )
 
 Não deixe de ler o arigo acima antes de prosseguir com a leitura a seguir.
 
@@ -21,7 +21,7 @@ Escolha uma linguagem de programação como [Python](https://wiki.python.org.br/
 
 Se o seu interesse é desenvolvimento front-end, recomendamos seguir a trilha de [HTML + CSS e depois JavaScript do Freecodecamp](https://www.freecodecamp.org/portuguese/learn/).
 
-Se seu interesse for em outras linguagens, na seção de [Links do site Osprogramadores](https://osprogramadores.com/links/) você encontrará tutoriais e documentações que irão ajudar no aprendizado de várias linguagens de programação.
+Se seu interesse for em outras linguagens, na seção de [Links do site Osprogramadores]({{< ref "/links/" >}} ) você encontrará tutoriais e documentações que irão ajudar no aprendizado de várias linguagens de programação.
 
 Recomendamos que você assista dois videos que estão no Canal do OsProgramadores no Youtube:
 1-[Introdução ao Terminal do Linux](https://www.youtube.com/watch?v=CFWttwWZSAQ&t=1s)
@@ -111,7 +111,7 @@ else:
 
 Uma vez que esta parte básica tenha sido entendida, você pode partir para projetos mais complexos pois o que foi descrito acima é o básico de qualquer programa.
 
-Recomendamos que você faça os [desafios do grupo](https://osprogramadores.com/desafios/).
+Recomendamos que você faça os [desafios do grupo]({{< ref "/desafios/" >}} ).
 
 Caso tenha dificuldades com os exercícios, faça perguntas no [grupo no telegram](https://t.me/osprogramadores)
 
