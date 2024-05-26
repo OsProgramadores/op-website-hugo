@@ -16,7 +16,7 @@ Objetivos do projeto:
 
 3. Permitir a você criar um portfolio no [GitHub](https://github.com), mostrando suas contribuições para o projeto.
 
-4. Incentivar o aprendizado de [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), [Git](https://osprogramadores.com/desafios/d01/), [GitHub](https://osprogramadores.com/desafios/d01/), [JavaScript](https://www.w3schools.com/js/default.asp), [React](https://www.w3schools.com/react/default.asp), [NextJS](https://nextjs.org/learn), [Tailwinds](https://v2.tailwindcss.com/docs), etc.
+4. Incentivar o aprendizado de [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/default.asp), [Git]({{< ref "/desafios/d01.md" >}} ), [GitHub]({{< ref "/desafios/d01.md" >}} ), [JavaScript](https://www.w3schools.com/js/default.asp), [React](https://www.w3schools.com/react/default.asp), [NextJS](https://nextjs.org/learn), [Tailwinds](https://v2.tailwindcss.com/docs), etc.
 
 Pré-requisitos:
 
