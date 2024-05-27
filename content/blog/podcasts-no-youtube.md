@@ -1,6 +1,6 @@
 +++
-date = "2024-05-27T14:00:00-03:00"
 title = "Podcasts disponíveis no youtube"
+date = "2024-05-27T14:00:00-03:00"
 tags = ["video", "youtube"]
 categories = ["video"]
 banner = "img/banners/podcast-mic-with-ai-brain.png"
