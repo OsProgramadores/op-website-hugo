@@ -23,7 +23,7 @@ Na semana seguinte, após concluir o [desafio 2](http://osprogramadores.com/desa
 
 Deste ponto em diante, minha carreira foi avançanco, fui efetivado, troquei de empresa e permaneci trabalhando com PHP, mas resolvi estudar [Go](https://golang.org/) pois estava muito intrigado sobre tudo que diziam sobre a linguagem.
 
-Comprei um curso básico sobre [Go](https://golang.org/), gostei bastante e voltei a fazer os desafios do grupo, e adivinha? Fiz o desafio dos números primos em Go, com [Goroutines](https://gobyexample.com/goroutines e [teste unitário](https://edsoncelio.github.io/posts/testes-unitarios-golang-/) e ficou bem legal. 
+Comprei um curso básico sobre [Go](https://golang.org/), gostei bastante e voltei a fazer os desafios do grupo, e adivinha? Fiz o desafio dos números primos em Go, com [Goroutines](https://gobyexample.com/goroutines) e [teste unitário](https://edsoncelio.github.io/posts/testes-unitarios-golang-/) e ficou bem legal. 
 
 Advinha o que eu fiz? Postei o código no [Linkedin](https://linkedin.com), contando sobre o desafio e um método que utilizei pra resolver o desafio e foi então que o diretor de uma grande empresa nacional me achou e me convidou pra fazer um desafio técnico da empresa. Aceitei o desafio. 
 
