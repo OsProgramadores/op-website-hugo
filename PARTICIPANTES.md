@@ -309,6 +309,7 @@ Ao adicionar o seu nome, por favor observe:
 | Romeu Alfa                     | nrzcode@protonmail.com                  | https://github.com/NRZCode                |
 | Rômulo Silva                   | romulo_lss@hotmail.com                  | https://github.com/RomuloHe4rt            |
 | Ronaldo Ferreira de Oliveira   | rfdeoliveira.pmsp@gmail.com             | https://github.com/rfdeoliveira           |
+| Ronaldo Francisco Alves Silva  | ronaldofas@gmail.com                    | https://github.com/ronaldofas             |
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com                | https://github.com/ronanlutiane           |
 | Roney Cacau Alves              | roneycacau@gmail.com                    | https://github.com/roneycacau             |
 | Ruan Costa Campos              | ruancostadev@gmail.com                  | https://github.com/ruancostacampos        |
