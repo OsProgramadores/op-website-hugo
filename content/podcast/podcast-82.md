@@ -7,7 +7,7 @@ banner = "img/banners/podcast-400px.png"
 +++
 
 
-{{< spotify type="episode" id="0sclJUrgQxQdVa5aBu2m5W" width="80%">}}
+{{< spotify type="episode" id="54roVBcJZXOHpgv7vW8oGw" width="80%">}}
 
 Ingo Hoffman é Gerente na RedHat e mora no Reino Unido há 11 anos.
 
@@ -30,6 +30,10 @@ ___
 - [The Legend of Zelda: Tears of the Kingdom](https://en.m.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom)
 - [Trilogia Mass Effect (em inglês)](https://en.m.wikipedia.org/w/index.php?title=Mass_Effect&diffonly=true#Mass_Effect_Trilogy)
 - [Horizon Zero Dawn](https://en.m.wikipedia.org/wiki/Horizon_Zero_Dawn)
+
+**Contato**
+
+- Telegram - pingar @ynfbzoen no [nosso grupo do telegram](https://t.me/osprogramadores)
 
 **Editor do Episódio**
 
