@@ -53,8 +53,8 @@ Se você acredita estar sendo perseguido por outro participante, ou observou qua
 No momento há algumas opções: 
 
 * [Na sessão de Podcasts em nosso site](https://osprogramadores.com/podcast/)
-* [No Youtube](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
-  * onde você pode ver os episódios gravados no formato **videocast** ([episódio 80 adiante](https://www.youtube.com/watch?v=4nBKN0eUToI)); 
+* [No Youtube](https://www.youtube.com/@OsProgramadores?sub_confirmation=1)
+  * onde você pode ver os episódios gravados no formato **videocast** ([episódio 80 adiante](https://www.youtube.com/watch?v=4nBKN0eUToI&sub_confirmation=1)); 
   * como também pode ouvir o áudio de todos os nossos episódios.
 * [No Spotify](https://open.spotify.com/show/0IrqGbURcNnumdHVkfKIFA)
   * onde você pode ouvir o áudio de todos os episódios do nosso podcast.
