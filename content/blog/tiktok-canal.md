@@ -10,5 +10,5 @@ Criamos o [canal do Tiktok do OsProgramadores](https://www.tiktok.com/@osprogram
 
 Deixem o seu follow no canal e participem das discussões em nosso [grupo do OsProgramadores no Telegram](https://t.me/osprogramadores).
 
-[![Canal do YouTube](/img/banners/osprogramadores-400px.jpg)](https://www.youtube.com/watch?v=eKU9gsFPMkw "Site do Grupo")
+[![Canal do Tiktok](/img/banners/osprogramadores-400px.jpg)](https://www.youtube.com/watch?v=eKU9gsFPMkw "Site do Grupo")
 
