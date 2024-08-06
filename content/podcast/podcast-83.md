@@ -7,8 +7,7 @@ banner = "img/banners/podcast-400px.png"
 +++
 
 
-[//]: # ({{< spotify type="episode" id="0sclJUrgQxQdVa5aBu2m5W" width="80%">}})
-[//]: # (quando tiver publicado a versão em áudio, editar o id na linha acima)
+{{< spotify type="episode" id="13wD6Npnrs1BOLMvBuJdbC" width="80%">}}
 
 Lays Rodrigues atua como Senior Software Engineer na Stone (Bota pra girar no modo Stone!). 
 Especializada em utilizar AWS, Terraform e *[insira aqui uma linguagem de programação]* para entregar o melhor valor possível ao negócio. 
