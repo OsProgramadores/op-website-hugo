@@ -209,6 +209,7 @@ Ao adicionar o seu nome, por favor observe:
 | Letícia Freire                 | leticiafcs4@gmail.com                   | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                  | https://github.com/ligiasalzano           |
 | Luan Henrique dos Santos Silva | luanhsantos14@gmail.com                 | https://github.com/luanhmilano            |
+| Luan Zanetich Acquafreda       | luanzanetich@gmail.com                  | https://github.com/luanzanetich           |
 | Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com                 | https://github.com/Cegielkowski           |
 | Lucas Dantas de Oliveira       | ldantasdev@gmail.com                    | https://github.com/lucantas               |
 | Lucas Felipe Turos             | lucasturos@gmail.com                    | https://github.com/lucasfturos            |
