@@ -7,7 +7,7 @@ banner = "img/banners/podcast-400px.png"
 +++
 
 
-[//]: # ({{< spotify type="episode" id="13wD6Npnrs1BOLMvBuJdbC" width="80%">}})
+{{< spotify type="episode" id="278KdRiw2CEe5TxWk2krEV" width="80%">}}
 
 Claudio Miranda é Analista de BI na Supergasbras.
 
