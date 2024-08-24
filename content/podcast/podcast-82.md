@@ -16,7 +16,7 @@ Ingo Hoffman é Gerente na RedHat e mora no Reino Unido há 11 anos.
 >
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=PKE1TpbgnJ4).
 
-
+{{< youtube PKE1TpbgnJ4 >}}
 ___
 
 **Livros**

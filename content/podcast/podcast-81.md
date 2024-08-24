@@ -16,6 +16,7 @@ Marcos Leandro é Desenvolvedor Full Stack.
 > 
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=td2gkzHyUaI).
  
+{{< youtube td2gkzHyUaI >}}
 
 ___
 
