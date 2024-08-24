@@ -89,7 +89,7 @@ ___
 >Agora seria bom você consolidar o entendimento sobre o que é um [terminal](https://pt.wikipedia.org/wiki/Terminal_(inform%C3%A1tica)). 
 
 Em nosso [artigo introdutório]({{< ref "/blog/ola-mundo.md" >}} ) e,
-principalmente, no [desafio 01]({{< ref "/desafios/d01.md" >}})), você precisará usar um terminal para inserir os comandos necessários.
+principalmente, no [desafio 01]({{< ref "/desafios/d01.md" >}}), você precisará usar um terminal para inserir os comandos necessários.
 
 Os artigos são bem completos e possuem os comandos necessários para quase todas as operações, porém há algumas coisas que são importantes que ficaram de fora deles, como, por exemplo, a navegação entre diretórios.
 
