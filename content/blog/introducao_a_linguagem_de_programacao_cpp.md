@@ -34,6 +34,7 @@ Aprenda a dar os primeiros passos no C++, uma das linguagens mais poderosas e ve
     -   [7.1. Aplicação de Conceitos de Álgebra e Geometria](#71-aplicação-de-conceitos-de-álgebra-e-geometria)
 -   [8. Exercícios Práticos e Desafios](#8-exercícios-práticos-e-desafios)
 -   [9. Conclusão](#9-conclusão)
+-   [10. Referências](#10-referências)
 
 # 1. Introdução {#1-introdução}
 
@@ -330,6 +331,122 @@ Além dessas aplicações diretas, o uso de conceitos matemáticos como séries 
 
 Esses conceitos matemáticos são relevantes e importantes em áreas como desenvolvimento de jogos, simulações físicas e computação gráfica, onde a precisão e a eficiência no controle de dados. A compreensão de como a álgebra linear e a lógica de somatórios podem ser aplicadas ao acesso e manipulação de vetores e matrizes torna-se, portanto, uma ferramenta poderosa na criação de sistemas de alta performance e na solução de problemas computacionais complexos.
 
+A seguir é demonstrado um exemplo básico para demonstrar esses conceitos onde é desenhado um círculo, um triângulo e um quadrado no terminal.
+
+```cpp
+#include <iostream>
+#include <vector>
+
+// Definindo o tamanho da grade
+const int largura = 41;
+const int altura = 11;
+
+// Função para desenhar um círculo na grade
+void desenhaCirculo(int cx, int cy, int raio,
+                    std::vector<std::vector<char>> &grade) {
+    // Itera sobre cada ponto na área que pode conter o círculo
+    for (int y = cy - raio; y <= cy + raio; ++y) {
+        // Verifica se o ponto está dentro dos limites da grade
+        if (y < 0 || y >= altura)
+            continue;
+        for (int x = cx - raio; x <= cx + raio; ++x) {
+            // Verifica se o ponto está dentro dos limites da grade
+            if (x < 0 || x >= largura)
+                continue;
+            // Calcula a distância do ponto (x, y) ao centro (cx, cy)
+            int dx = x - cx;
+            int dy = y - cy;
+            // Verifica se o ponto está dentro do círculo
+            if ((dx * dx + dy * dy) <= (raio * raio)) {
+                grade[y][x] = '*'; // Marca o ponto na grade
+            }
+        }
+    }
+}
+
+// Função para desenhar um quadrado na grade
+void desenhaQuadrado(int x0, int y0, int lado,
+                     std::vector<std::vector<char>> &grade) {
+    // Itera sobre cada linha do quadrado
+    for (int y = y0; y < y0 + lado; ++y) {
+        // Verifica se a linha está dentro dos limites da grade
+        if (y < 0 || y >= altura)
+            continue;
+        // Itera sobre cada coluna do quadrado
+        for (int x = x0; x < x0 + lado; ++x) {
+            // Verifica se a coluna está dentro dos limites da grade
+            if (x < 0 || x >= largura)
+                continue;
+            grade[y][x] = '*';
+        }
+    }
+}
+
+// Função para desenhar um triângulo na grade
+void desenhaTriangulo(int x0, int y0, int alturaTriangulo,
+                      std::vector<std::vector<char>> &grade) {
+    // Itera sobre cada linha do triângulo
+    for (int y = 0; y < alturaTriangulo; ++y) {
+        // Verifica se a linha está dentro dos limites da grade
+        if (y0 + y < 0 || y0 + y >= altura)
+            continue;
+        // Itera sobre as colunas para formar a base do triângulo
+        for (int x = -y; x <= y; ++x) {
+            // Verifica se a coluna está dentro dos limites da grade
+            if (x0 + x < 0 || x0 + x >= largura)
+                continue;
+            grade[y0 + y][x0 + x] = '*';
+        }
+    }
+}
+
+int main() {
+    const int raio = 4;            // Define o raio do círculo
+    const int ladoQuadrado = 7;    // Define o lado do quadrado
+    const int alturaTriangulo = 7; // Define a altura do triângulo
+
+    // Inicializa a grade com espaços em branco usando vetor de vetores
+    std::vector<std::vector<char>> grade(altura,
+                                         std::vector<char>(largura, ' '));
+
+    // Calcula a coordenada X do centro da grade
+    const int centroX = largura / 2;
+    // Calcula a coordenada Y do centro da grade
+    const int centroY = altura / 2;
+
+    // Desenha o quadrado à esquerda
+    desenhaQuadrado(5, centroY - ladoQuadrado / 2, ladoQuadrado, grade);
+
+    // Desenha o círculo no centro
+    desenhaCirculo(centroX, centroY, raio, grade);
+
+    // Desenha o triângulo à direita
+    desenhaTriangulo(largura - 8, centroY - alturaTriangulo / 2,
+                     alturaTriangulo, grade);
+
+    // Imprime a grade com as formas geometricas
+    for (int y = 0; y < altura; ++y) {
+        for (int x = 0; x < largura; ++x) {
+            std::cout << grade[y][x];
+        }
+        std::cout << '\n';
+    }
+
+    return 0;
+}
+
+// Saída:
+//                 *
+//  *******      *****          *
+//  *******     *******        ***
+//  *******     *******       *****
+//  *******    *********     *******
+//  *******     *******     *********
+//  *******     *******    ***********
+//  *******      *****    *************
+//                 *
+```
+
 # 8. Exercícios Práticos e Desafios {#8-exercícios-práticos-e-desafios}
 
 Para consolidar o aprendizado, é essencial praticar constantemente e buscar inspiração na internet, explorando repositórios ou aplicando ideias próprias. Na aba **Desafios** do site oferece uma série de desafios focados em problemas recorrentes na ciência da computação. Além disso, no site da "Python Brasil", é possível encontrar diversos exercícios para praticar lógica de programação, estruturas de dados e programação orientada a objetos
@@ -337,3 +454,10 @@ Para consolidar o aprendizado, é essencial praticar constantemente e buscar ins
 # 9. Conclusão {#9-conclusão}
 
 Ao concluir este artigo, você já deve ter adquirido uma boa compreensão dos conceitos básicos de C++, desde a configuração do ambiente de desenvolvimento até uma visão geral da aplicação da matemática na programação. Para aprofundar seus estudos, recomenda-se explorar recursos como as documentações disponíveis nos sites cplusplus.com, cppreference.com e learn.microsoft.com são excelentes para expandir seu conhecimento. Se ainda restarem dúvidas sobre os tópicos abordados, participar de grupos de estudo ou comunidades de programadores, como o grupo no Telegram "Os Programadores", pode ser uma excelente oportunidade para discutir questões e compartilhar experiências com outros desenvolvedores.
+
+# 10. Referências {#10-referências}
+
+1. C++. Wikipédia, 2023 Disponível em <https://pt.wikipedia.org/wiki/C%2B%2B>. Acesso em: 22 de agosto de 2024.
+2. MUFATTO, Gabriel Vinicius. C++ - A evolução do C. Unicentro, 2023. Disponível em: <https://www3.unicentro.br/petfisica/2023/07/28/c-a-evolucao-do-c/>. Acesso em: 22 de agosto de 2024.
+3. O QUE é a linguagem de programação C++?. ICTEA. Disponível em: <https://www.ictea.com/cs/index.php?rp=%2Fknowledgebase%2F8858%2FiQue-es-el-lenguaje-de-programacion-Cplusplus.html&language=portuguese-pt>. Acesso em: 22 de agosto de 2024.
+4. OPERADORES em C e C++. Wikipédia, 2020. Disponível em: <https://pt.wikipedia.org/wiki/Operadores_em_C_e_C%2B%2B>. Acesso em: 22 de agosto de 2024.
