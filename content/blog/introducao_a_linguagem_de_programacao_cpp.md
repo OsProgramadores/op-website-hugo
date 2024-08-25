@@ -6,7 +6,7 @@ categories = ["artigos", "linguagens"]
 banner = "img/banners/hello_world_cpp.png"
 +++
 
-Aprenda a dar os primeiros passos no C++, uma das linguagens mais poderosas e versáteis da programação! Neste artigo, você aprenderá a criar seu primeiro programa "Hello World", configurar seu ambiente de desenvolvimento, e explorar ferramentas e conceitos essenciais. Desde a história do C++ até a aplicação de conceitos matemáticos, esse guia cobre tudo o que você precisa para começar. Além disso, você descobrirá como o C++ é amplamente utilizado em áreas como desenvolvimento de jogos, sistemas operacionais e até mesmo em robótica.
+Olá, meu nome é [Lucas Turos](https://github.com/lucasfturos) e estou aqui para te ajudar a dar os primeiros passos no C++, uma das linguagens mais poderosas e versáteis da programação! Neste artigo, você aprenderá a criar seu primeiro programa "Hello World", configurar seu ambiente de desenvolvimento, e explorar ferramentas e conceitos essenciais. Desde a história do C++ até a aplicação de conceitos matemáticos, esse guia cobre tudo o que você precisa para começar.
 
 ## Índice
 
