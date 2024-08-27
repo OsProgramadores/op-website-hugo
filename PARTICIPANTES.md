@@ -362,4 +362,5 @@ Ao adicionar o seu nome, por favor observe:
 | Williams Lima Nunes Coelho     | williamsxlima@yahoo.com                 | https://github.com/WilliamsLima777        |
 | Wilque Muriel                  | wilque.m1234@gmail.com                  | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                                | https://github.com/yagodematos            |
+| Yan Ferreira                   | yanfvc@gmail.com                        | https://github.com/yanvferreira           |
 | Zilton Sales                   | No Email                                | https://github.com/sokolov13              |
