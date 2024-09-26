@@ -10,7 +10,7 @@ Srikar Kadavakuti (KC) é Senior DevOps Engineer na Boeing e conta um pouco sobr
 
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=Jx8aHxBGVD0&t=1s).
 
-{{< youtube c4RasP0vsto >}}
+{{< youtube Jx8aHxBGVD0 >}}
 
 #### Links do KC nas redes
 
