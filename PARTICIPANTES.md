@@ -370,4 +370,4 @@ Ao adicionar o seu nome, por favor observe:
 | Yago de Matos                  | No Email                                | https://github.com/yagodematos            |
 | Yan Ferreira                   | yanfvc@gmail.com                        | https://github.com/yanvferreira           |
 | Zilton Sales                   | No Email                                | https://github.com/sokolov13              |
-| Fernando Serrano Roza          | fernandojefferson321@gmail.com          | https://github.com/fernandojeff           |      
+| Fernando Jefferson Serrano     | fernandojefferson321@gmail.com          | https://github.com/fernandojeff           |      
