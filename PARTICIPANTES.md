@@ -19,8 +19,8 @@ Ao adicionar o seu nome, por favor observe:
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br              | https://github.com/arlima                 |
 | Afonso Augusto Rodrigues       | afonsoaugustoventura@gmail.com          | https://github.com/afonsoaugusto          |
 | Alan Ariel de Souza Cordeiro   | souzacordeiroalann@gmail.com            | https://github.com/soualann               |
-| Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
 | Alcione Ferreira               | sombra@alcionesytes.net                 | https://github.com/ksombrah               |
+| Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
 | Alesandro Ferreira da Silva    | silva_alesandro@outlook.com             | https://github.com/alleSilva              |
 | Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com               | https://github.com/TeijIW                 |
 | Alex Almeida Andrade           | alex.aldr@gmail.com                     | https://github.com/alexaldr               |
