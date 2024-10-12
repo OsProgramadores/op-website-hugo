@@ -20,7 +20,6 @@ Ao adicionar o seu nome, por favor observe:
 | Afonso Augusto Rodrigues       | afonsoaugustoventura@gmail.com          | https://github.com/afonsoaugusto          |
 | Alan Ariel de Souza Cordeiro   | souzacordeiroalann@gmail.com            | https://github.com/soualann               |
 | Alcione Ferreira               | sombra@alcionesytes.net                 | https://github.com/ksombrah               |
-| Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
 | Alesandro Ferreira da Silva    | silva_alesandro@outlook.com             | https://github.com/alleSilva              |
 | Alessandro Teiji M. Watanabe   | alessandro.tw10@gmail.com               | https://github.com/TeijIW                 |
 | Alex Almeida Andrade           | alex.aldr@gmail.com                     | https://github.com/alexaldr               |
@@ -35,6 +34,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexsandro Matias              | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Alisson Soares da Silva        | alissonsoaressocial02@gmail.com         | https://github.com/soaresSilva            |
+| Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
