@@ -34,7 +34,6 @@ Ao adicionar o seu nome, por favor observe:
 | Alexsandro Matias              | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Alisson Soares da Silva        | alissonsoaressocial02@gmail.com         | https://github.com/soaresSilva            |
-| Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
@@ -60,7 +59,6 @@ Ao adicionar o seu nome, por favor observe:
 | Bassam Basil Junior            | bassambjg5@gmail.com                    | https://github.com/Bassambj               |
 | Bernardo Campos                | No Email                                | https://github.com/bernardocamps          |
 | Breno Ferreira Lima            | brenoferreiralima@gmail.com             | https://github.com/brenoferreiralima      |
-| Breno Santos da Silva          | brenosantosgomes@gmail.com              | https://github.com/brenosantos            |
 | Bruce Lopes Cavalcante         | brucelopesgithub@gmail.com              | https://github.com/Bruc3W                 |
 | Bruno Oliveira Freire Silva    | b_bruno@live.com                        | https://github.com/bnools                 |
 | Bruno Santana Andrade          | brunosanadev@gmail.com                  | https://github.com/brunosana              |
@@ -210,7 +208,6 @@ Ao adicionar o seu nome, por favor observe:
 | Letícia Fontoura               | leticia.fontoura@live.com               | https://github.com/leticiafontoura        |
 | Letícia Freire                 | leticiafcs4@gmail.com                   | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                  | https://github.com/ligiasalzano           |
-| Luan Dantas da Silva           | luandantasr2d2@gmail.com                | https://github.com/luan-dantas            |
 | Luan Henrique dos Santos Silva | luanhsantos14@gmail.com                 | https://github.com/luanhmilano            |
 | Luan Zanetich Acquafreda       | luanzanetich@gmail.com                  | https://github.com/luanzanetich           |
 | Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com                 | https://github.com/Cegielkowski           |
