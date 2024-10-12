@@ -59,6 +59,7 @@ Ao adicionar o seu nome, por favor observe:
 | Bassam Basil Junior            | bassambjg5@gmail.com                    | https://github.com/Bassambj               |
 | Bernardo Campos                | No Email                                | https://github.com/bernardocamps          |
 | Breno Ferreira Lima            | brenoferreiralima@gmail.com             | https://github.com/brenoferreiralima      |
+| Breno Santos da Silva          | brenosantosgomes@gmail.com              | https://github.com/brenosantos            |
 | Bruce Lopes Cavalcante         | brucelopesgithub@gmail.com              | https://github.com/Bruc3W                 |
 | Bruno Oliveira Freire Silva    | b_bruno@live.com                        | https://github.com/bnools                 |
 | Bruno Santana Andrade          | brunosanadev@gmail.com                  | https://github.com/brunosana              |
