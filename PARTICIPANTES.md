@@ -123,6 +123,7 @@ Ao adicionar o seu nome, por favor observe:
 | Felipe M. Ferreira             | felipe.m.frrr@gmail.com                 | https://github.com/felipefrr              |
 | Felipe Quirino Araujo          | felipeqaraujo@hotmail.com               | https://github.com/Felipedroid            |
 | Felipe Tiburcio de Araújo      | felipe.tiburcio@gmail.com               | https://github.com/felipe-tiburcio        |
+| Fernando J. Serrano Roza       | fernandojefferson321@gmail.com          | https://github.com/fernandojeff           |
 | Fernando P. Marques Jr.        | fernandopozomqs@gmail.com               | https://github.com/Fernando-Pozo          |
 | Fidelis Guimarães              | atosfiel@gmail.com                      | https://github.com/fidelisfelipe          |
 | Flávio Júnior Avelino da Silva | flaviojunior.work@gmail.com             | https://github.com/flavio-junior          |
@@ -373,4 +374,4 @@ Ao adicionar o seu nome, por favor observe:
 | Wilque Muriel                  | wilque.m1234@gmail.com                  | https://github.com/Wilque                 |
 | Yago de Matos                  | No Email                                | https://github.com/yagodematos            |
 | Yan Ferreira                   | yanfvc@gmail.com                        | https://github.com/yanvferreira           |
-| Zilton Sales                   | No Email                                | https://github.com/sokolov13              |
+| Zilton Sales                   | No Email                                | https://github.com/sokolov13              |      
