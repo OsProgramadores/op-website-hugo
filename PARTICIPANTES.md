@@ -74,6 +74,7 @@ Ao adicionar o seu nome, por favor observe:
 | Daniel Carvalho                | codecodic7@gmail.com                    | https://github.com/KDEboy                 |
 | Daniel Chaves de Lima          | danielchaves001@gmail.com               | https://github.com/danielcdl              |
 | Daniel Christian de O. Rosa    | daniel.c.rosa@gmail.com                 | https://github.com/DanielRosa74           |
+| Daniel Donizete Cunha da silva | devd.nika@gmail.com                     | https://github.com/Donicad                |
 | Daniel Ferraz dos santos       | danielferraz.contato@gmail.com          | https://github.com/danielferraz-git       |
 | Daniel Haas Becattini Lima     | danielhaas.lima@gmail.com               | https://github.com/Daniel-Haas-B          |
 | Daniel Magalhães Bicalho       | danielmbicalho@gmail.com                | https://github.com/danielmbicalho         |
