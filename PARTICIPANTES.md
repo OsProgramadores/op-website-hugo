@@ -35,6 +35,7 @@ Ao adicionar o seu nome, por favor observe:
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
 | Alisson Soares da Silva        | alissonsoaressocial02@gmail.com         | https://github.com/soaresSilva            |
 | Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
+| Allber Fellype Soares Ferreira | allber31415@gmail.com                   | https://github.com/JamesStewart-314       |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
