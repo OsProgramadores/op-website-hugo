@@ -37,6 +37,7 @@ Ao adicionar o seu nome, por favor observe:
 | Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
+| Anderson Souza Gomes           | derson3001@gmai.com                     | https://github.com/anderson3001           |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
