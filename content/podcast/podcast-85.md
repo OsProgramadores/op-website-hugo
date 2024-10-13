@@ -7,7 +7,8 @@ banner = "img/banners/podcast-400px.png"
 +++
 
 
-[//]: # ({{< spotify type="episode" id="278KdRiw2CEe5TxWk2krEV" width="80%">}})
+{{< spotify type="episode" id="5pOD2LirEqW8NmkNscY83L" width="80%">}}
+
 
 Gabs Ferreira é Lead dev advocate  @meteorjs , tech content creator and proud brazilian. 🇧🇷
 
