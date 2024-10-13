@@ -6,9 +6,11 @@ tags = ["podcast","osprogramadores"]
 banner = "img/banners/podcast-400px.png"
 +++
 
+{{< spotify type="episode" id="46wIS9nZm0rWF3oN4LFmrc" width="80%">}}
+
 Srikar Kadavakuti (KC) é Senior DevOps Engineer na Boeing e conta um pouco sobre sua vida profissional e o que aproximou ele da tecnologia
 
-> Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=Jx8aHxBGVD0&t=1s).
+> Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=Jx8aHxBGVD0).
 
 {{< youtube Jx8aHxBGVD0 >}}
 
