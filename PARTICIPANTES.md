@@ -304,6 +304,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rafael Perez Garcia            | rafaelsfs@gmail.com                     | https://github.com/rafaelsfs              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                   | https://github.com/raffaelleao            |
 | Raimundo Alves Nunes Neto      | otenneto123@gmail.com                   | https://github.com/donumiad               |
+| Raudinei de Jesus Mauricio     | rjmauricio95@gmail.com                  | https://github.com/RaudineiMauricio       |
 | Renata Miranda Rabelo Nésio    | renata.nesio2@gmail.com                 | https://github.com/renatanesio            |
 | Renato Oliveira da Silva       | renatohanks@gmail.com                   | https://github.com/renatohanks            |
 | Ricardo Severo                 | ricardosilva.official@outlook.com       | https://github.com/ricardosevero          |
