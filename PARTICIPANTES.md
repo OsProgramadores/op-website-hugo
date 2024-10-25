@@ -29,6 +29,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexandre Correa Raeder        | argto88@gmail.com                       | https://github.com/acraeder               |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com                | https://github.com/Alexandre2539          |
 | Alexandre Oliveira             | alexandreferreiradeoliveira40@gmail.com | https://github.com/AlexandreOliver        |
+| Alexandre Paloschi Horta       | alexandre.horta@gmail.com               | https://github.com/AlexPHorta             |
 | Alexandre Pierre               | alexandrempierre@gmail.com              | https://github.com/alexandrempierre       |
 | Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com             | https://github.com/apfmiranda             |
 | Alexsandro Felix               | felix@ffelix.eti.br                     | https://github.com/asfelix                |
