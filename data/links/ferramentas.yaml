@@ -133,4 +133,11 @@ sources:
 - url: "https://validator.w3.org/"
   title: "W3 HTML Validator"
   description: "Ferramenta para validação de documentos web, como HTML, XHTML, etc"
-  
+
+- url: "https://www.ime.usp.br/~pf/"
+  title: "Paulo Feofiloff (Feofilov)"
+  description: "Repositório de materiais educacionais focados em ciência da computação e programação"
+
+- url: "https://pt.wikiversity.org/wiki"
+  title: "Wikiversity"
+  description: "Plataforma colaborativa de aprendizado que faz parte da Fundação Wikimedia"
