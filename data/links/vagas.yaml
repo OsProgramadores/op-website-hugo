@@ -42,6 +42,10 @@ sources:
   title: "IT Jobs PE"
   description: "[Telegram] Canal de vagas na área de TI em Pernambuco"
 
+- url: "https://t.me/osprogramadores_vagas"
+  title: "OsProgramadores-vagas"
+  description: "[Telegram] Canal de vagas de trabalho divulgadas por participantes do grupo OsProgramadores"
+
 - url: 'https://github.com/phpdevbr/vagas'
   title: 'PHP-DEV Brasil'
   description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores PHP via issues do Github.'
