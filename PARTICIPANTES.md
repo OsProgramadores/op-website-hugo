@@ -138,6 +138,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Lampa da Cunha         | gabriellampa@gmail.com                  | https://github.com/icaroraci/             |
 | Gabriel Mendonça               | gabrielmendoncanf@gmail.com             | https://github.com/brunoom1               |
 | Gabriel Rocha                  | gabriel.gabrielroch@gmail.com           | https://github.com/G4BR13LR0CH4           |
+| Gabriel Rocha Ferreira         | osprogramadores@gabrf.com               | https://github.com/GabrielRF              |
 | Gabriel Thiago da S. Ferreira  | gabriel.ferreira@dcomp.ufs.br           | https://github.com/GabrielF9              |
 | Geraldo Júnior                 | geraldo.junior0207@gmail.com            | https://github.com/GeraldinJr             |
 | Giovane Da Silva Sobrinho      | giovane.sobrinho@gmail.com              | https://github.com/silvasobrinho          |
