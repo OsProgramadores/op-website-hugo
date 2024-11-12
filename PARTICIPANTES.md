@@ -197,6 +197,7 @@ Ao adicionar o seu nome, por favor observe:
 | José Rubens dos S. Oliveira    | rubensdossantos.dev@gmail.com           | https://github.com/kaetaen                |
 | José Thiago dos S. Moreira     | moreira.joset@gmail.com                 | https://github.com/josethiago             |
 | José Ulisses de C. C. Pinto    | joseulisses0@gmail.com                  | https://github.com/Zezola                 |
+| Joseildo Andrade V. Dos S. Jr  | joseildoandrade1405@gmail.com           | https://github.com/joseildoandrade12      |
 | Josue Paulo de Lima            | paulolima899@gmail.com                  | https://github.com/JosuePLima             |
 | Juliano da Silva Silva         | juliano.sil6@gmail.com                  | https://github.com/ojulianos              |
 | Juliano Massanetto             | juliano.massanetto@gmail.com            | https://github.com/JMass1                 |
