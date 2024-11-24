@@ -6,12 +6,12 @@ categories = ["linguagens"]
 banner = "img/banners/languages.webp"
 +++
 
-## Introdução
-
 O uso de ponteiros em C é um dos aspectos mais poderosos e importantes da
 linguagem, e ainda assim, um dos mais confusos para os iniciantes. O objetivo
 deste documento é fornecer uma  introdução básica ao funcionamento e uso de
 ponteiros em C.
+
+<!--more-->
 
 Importante:  Vários conceitos foram simplificados para ajudar a compreensão do
 tópico principal, tais como a representação exata de números em memória,

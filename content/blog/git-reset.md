@@ -6,14 +6,14 @@ categories = ["git"]
 banner = "img/banners/git.webp"
 +++
 
-## Help! Múltiplos desafios no meu PR!
-
 Este artigo contem uma explicação para uma pergunta frequente: "Por que o meu
 PR tem múltiplos desafios se eu já enviei os anteriores?"
 
 TL;DR: Este problema acontece quando o usuário começa um novo desafio sem
 sincronizar o repositório local com o conteúdo do repositório _upstream_
 (nesse caso, osprogramadores).
+
+<!--more-->
 
 ## Conceitos importantes
 
@@ -122,14 +122,14 @@ Complicado? Vamos por partes:
 Antes de começar um novo desafio (ou qualquer outra modificação), tenha
 certeza de que o seu repositório está idêntico ao upstream/master:
 
-```bash
+```
 git remote update
 git reset upstream/master --hard
 ```
 
 Trabalhe normalmente. Antes de enviar o push, execute:
 
-```bash
+```
 git pull -r upstream master
 ```
 

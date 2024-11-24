@@ -13,6 +13,8 @@ A segunda é que não existe uma forma, linguagem ou área para entrar rápido n
 
 Tudo vai depender exclusivamente de você, e dito isso, vamos começar nossa aventura.
 
+<!--more-->
+
 Uma dúvida comum dos iniciantes é: "Qual é a melhor linguagem pra aprender?".
 Te digo que não existe melhor linguagem, mas sim linguagens diferentes para resolver problemas diferentes.
 

@@ -7,3 +7,4 @@ Untitled.ipynb
 *.orig
 .vs
 .idea
+.hugo_build.lock

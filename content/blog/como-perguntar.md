@@ -6,8 +6,6 @@ categories = ["artigos"]
 banner = "img/banners/como-perguntar-banner.webp"
 +++
 
-## Não pergunte se pode perguntar, apenas pergunte
-
 De vez em quando, em chats do Telegram, ou outros programas de chat, vemos alguém fazer uma pergunta assim:
 
 >José: Alguém aqui entende de C#?
@@ -15,6 +13,8 @@ De vez em quando, em chats do Telegram, ou outros programas de chat, vemos algu�
 Esta não é uma uma boa pergunta, por diversos motivos. O que esta pessoa está realmente perguntando é:
 
 >José: Alguém aqui entende de C# e está disposto a se comprometer a responder uma dúvida minha que talvez nem esteja relacionada a C#?
+
+<!--more-->
 
 Há vários motivos pelos quais uma pessoa que **TENHA** o conhecimento para responder a sua dúvida **NÃO** iria se dispor a ajuda-lo. Ao fazer uma pergunta assim você está pedindo mais do que acha que está pedindo.
 

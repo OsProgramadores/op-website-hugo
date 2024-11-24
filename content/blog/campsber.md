@@ -8,6 +8,8 @@ banner = "img/banners/campsber.webp"
 
 Olá pessoal, tudo bem? Meu nome é Bernardo e vou contar um pouco da minha jornada. Espero que sirva de inspiração para alguém, assim como as histórias que ouvi aqui no grupo me inspiraram.
 
+<!--more-->
+
 #### O início
 Nasci no finalzinho da década de 80 em uma cidade chamada Patos de Minas. Com seus pouco mais de 100.000 habitantes e longe da capital, a internet era a única conexão com o “mundo lá fora”. Meu primeiro contato com computador, um modelo 486, foi por volta dos meus 7-8 anos de idade. Ele veio com alguns jogos instalados e a única forma de instalar outros jogos era através de um disquete de 1.44 MB.
 

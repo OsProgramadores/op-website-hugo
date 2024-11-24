@@ -83,7 +83,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.59.1'
+          hugo-version: '0.139.2'
 
       - name: Build scoreboard binary
         run: pushd op-scoreboard && go build -v && popd
@@ -93,7 +93,7 @@ jobs:
           pushd op-scoreboard && ./op-scoreboard --config="config/config.toml" --token="${{ secrets.auth_token }}" && popd
 
       - name: Build Site
-        run: pushd op-website-hugo && hugo -v && popd
+        run: pushd op-website-hugo && hugo && popd
 
       - name: Deploy using rsync
         uses: burnett01/rsync-deployments@4.0
