@@ -9,6 +9,8 @@ banner = "img/banners/lucas.webp"
 
 Meu nome é [Lucas Cegielkowski Guimarães](https://github.com/cegielkowski) e vou contar para vocês um pouco da minha história nestes mais de 3 anos que participo do grupo [OsProgramadores](https://t.me/osprogramadores). 
 
+<!--more-->
+
 Eu comecei no mundo do desenvolvimento em 2017. Eu estava no segundo ano da faculdade, aprendendo [C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)), e querendo um estágio na área. Naquela época eu estagiava como técnico de informática, focado na parte de infraestrutura, e vi que não era o que eu gostaria de fazer para sempre. 
 
 Comecei então a estudar sobre desenvolvimento para conseguir um estagio na area e, como todo bom estudante, estava totalmente perdido. Foi nessa época que comecei a utilizar o [Telegram](https://telegram.org/) e a procurar por grupos de programação e acabei encontrando o [grupo OsProgramadores](https://t.me/osprogramadores).

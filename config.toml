@@ -6,7 +6,10 @@ languageCode = "pt_BR"
 defaultContentLanguage = "pt"
 
 # Define the number of posts per page
-paginate = 12
+pagination.PagerSize = 12
+
+# Render HTML in articles.
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [menu]
 

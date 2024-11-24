@@ -1,14 +1,14 @@
 +++
-title = "Como Conectar Replit ao GitHub"
+title = "Como Conectar o Replit ao GitHub"
 date = "2023-09-19T07:20:00-00:00"
 tags = ["replit", "github"]
 categories = ["artigos"]
 banner = "img/banners/replitGit.jpg"
 +++
 
-# Como Conectar seu Projeto do Replit à sua Conta no GitHub
-
 Conectar seu projeto no Replit à sua conta no GitHub por meio de uma chave SSH é uma maneira eficiente de gerenciar seus repositórios remotamente. Com esta configuração, você poderá realizar commits e push de código para seus repositórios GitHub diretamente do Replit. Neste tutorial, vamos orientá-lo passo a passo sobre como realizar essa configuração.
+
+<!--more-->
 
 1. Primeiro, acesse o [site do Replit](https://replit.com/~).
 

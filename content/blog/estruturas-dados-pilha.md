@@ -1,14 +1,20 @@
 +++
- categories = ["algoritmo"]
- date = "2017-09-10T19:42:00-03:00"
- tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
- title = "Estrutura de dados: pilha"
- banner = "img/banners/pilha-pratos.jpg"
+categories = ["algoritmo"]
+date = "2017-09-10T19:42:00-03:00"
+tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
+title = "Estrutura de dados: pilha"
+banner = "img/banners/pilha-pratos.jpg"
 +++
 
 ## Estruturas de dados: Pilha
 
-Pilha é uma estrutura de dados muito comum em sistemas computacionais. Dentre as várias soluções possíveis que a pilha permite podemos citar:
+Pilha é uma estrutura de dados muito comum em sistemas computacionais. Nesse
+artigo introduziremos o conceito de pilha e as várias soluções possíveis que
+esta estrutura permite.
+
+<!--more-->
+
+Como exemplos, podemos citar:
 
 - Inversão de listas
 - Armazenar dados

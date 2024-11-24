@@ -1,5 +1,5 @@
 +++
-title = "Inteligência Artificial ajudando você"
+title = "A Inteligência Artificial ajudando você"
 date = "2024-04-13T14:26:00-07:00"
 tags = ["programação","IA"]
 categories = ["linguagens", "ferramentas"]
@@ -7,6 +7,8 @@ banner = "img/banners/letters.webp"
 +++
 
 Aprender a programar pode parecer uma tarefa assustadora para muitas pessoas, especialmente para aqueles que não têm experiência prévia na área da computação. No entanto, com os avanços da tecnologia, a inteligência artificial (IA) está se tornando uma aliada poderosa para facilitar esse processo de aprendizado. Neste artigo, vamos explorar como a IA pode ajudar pessoas com pouco ou nenhum conhecimento em programação a começar sua jornada rumo ao domínio dessa habilidade tão valiosa.
+
+<!--more-->
 
 ## 1. Introdução ao mundo da programação
 

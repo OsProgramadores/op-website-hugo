@@ -14,6 +14,8 @@ outro fato relevante é que quanto mais linguagens alguém sabe, mais fácil é 
 aprendizado de novas linguagens, já que todas apresentam vários conceitos
 comuns.
 
+<!--more-->
+
 Se você está começando, as informações abaixo podem ser de alguma ajuda para saber
 por onde começar.
 
