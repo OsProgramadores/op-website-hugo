@@ -16,4 +16,3 @@ Se esta mensagem persistir, favor entrar em contato com um dos admins do grupo n
 * [Marco Paganini](t.me/mpaganini)
 * [Marcelo Pinheiro](t.me/mpinheir)
 * [Sérgio Correia](t.me/qrwteyrutiyoup)
-* [Bernardino Campos](t.me/Bcampos)
