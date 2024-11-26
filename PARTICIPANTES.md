@@ -222,13 +222,14 @@ Ao adicionar o seu nome, por favor observe:
 | Letícia Freire                 | leticiafcs4@gmail.com                   | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                  | https://github.com/ligiasalzano           |
 | Luan Dantas da Silva           | luandantasr2d2@gmail.com                | https://github.com/luan-dantas            |
-| Luan Henrique dos Santos Silva | luanhsantos14@gmail.com                 | https://github.com/luanhmilano            |
+| Luan Henrique dos Santos Silva | luanhsantos14@gmail.com                 | https://github.com/luanhmilano
 | Luan Zanetich Acquafreda       | luanzanetich@gmail.com                  | https://github.com/luanzanetich           |
 | Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com                 | https://github.com/Cegielkowski           |
 | Lucas Dantas de Oliveira       | ldantasdev@gmail.com                    | https://github.com/lucantas               |
 | Lucas Felipe Turos             | lucasturos@gmail.com                    | https://github.com/lucasfturos            |
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br           | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br            | https://github.com/Harrisoned             |
+| Lucas Hyago Fonseca Pimentel   | lucaspimentel436@gmail.com              | https://github.com/strelogg               |
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com               | https://github.com/lucasmgon              |
 | Lucas Rodrigues Santos         | rodrigues-i@outlook.com                 | https://github.com/rodrigues-i            |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com                 | https://github.com/lucasbrito-dev         |
