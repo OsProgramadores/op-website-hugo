@@ -8,8 +8,12 @@ defaultContentLanguage = "pt"
 # Define the number of posts per page
 pagination.PagerSize = 12
 
-# Render HTML in articles.
-ignoreLogs = ['warning-goldmark-raw-html']
+# Allow rendering of inline html (hi-scores are merged into scores.md by
+# http://github.com/osprogramadores/op-scoreboard).
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
 
