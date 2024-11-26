@@ -229,6 +229,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Felipe Turos             | lucasturos@gmail.com                    | https://github.com/lucasfturos            |
 | Lucas Gabriel Sotero Silva     | lucas.silva@amazingtec.com.br           | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva           | lucas.harrison@certto.com.br            | https://github.com/Harrisoned             |
+| Lucas Hyago Fonseca Pimentel   | lucaspimentel436@gmail.com              | https://github.com/strelogg               |
 | Lucas Matheus Gonçalves        | lucas.66matheus@gmail.com               | https://github.com/lucasmgon              |
 | Lucas Rodrigues Santos         | rodrigues-i@outlook.com                 | https://github.com/rodrigues-i            |
 | Lucas Soares de Brito          | lucasbritodev@gmail.com                 | https://github.com/lucasbrito-dev         |
