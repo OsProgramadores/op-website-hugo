@@ -222,7 +222,8 @@ Ao adicionar o seu nome, por favor observe:
 | Letícia Freire                 | leticiafcs4@gmail.com                   | https://github.com/leticia-freire         |
 | Ligia Salzano                  | ligiasalzano@gmail.com                  | https://github.com/ligiasalzano           |
 | Luan Dantas da Silva           | luandantasr2d2@gmail.com                | https://github.com/luan-dantas            |
-| Luan Henrique dos Santos Silva | luanhsantos14@gmail.com                 | https://github.com/luanhmilano            |
+| Luan Henrique dos Santos Silva | luanhsantos14@gmail.com                 | https://github.com/luanhmilano
+| Lucas Hyago Fonseca Pimentel   | lucaspimentel436@gmail.com              | https://github.com/strelogg               |
 | Luan Zanetich Acquafreda       | luanzanetich@gmail.com                  | https://github.com/luanzanetich           |
 | Lucas Cegielkowski Guimarães   | Cegielkowski@icloud.com                 | https://github.com/Cegielkowski           |
 | Lucas Dantas de Oliveira       | ldantasdev@gmail.com                    | https://github.com/lucantas               |
