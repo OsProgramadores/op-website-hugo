@@ -40,7 +40,7 @@ Felizmente, existem muitos casos de sucesso que demonstram como a IA pode ser um
 
 ## 6. Exemplo de programa de aprendizado de JavaScript utilizando IA
 
-Vamos considerar um exemplo de como a inteligência artificial pode ser usada para montar um programa de aprendizado para alguém que queira aprender a programar em JavaScript. 
+Vamos considerar um exemplo de como a inteligência artificial pode ser usada para montar um programa de aprendizado para alguém que queira aprender a programar em JavaScript.
 
 ### Passo 1: Avaliação inicial
 A IA realiza uma avaliação inicial do nível de habilidade do aluno em JavaScript, analisando seu conhecimento prévio, experiência e objetivos de aprendizado.
