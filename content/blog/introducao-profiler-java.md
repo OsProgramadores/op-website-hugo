@@ -342,7 +342,7 @@ public class Main {
 
     private static final BufferedWriter WRITER = new BufferedWriter(new OutputStreamWriter(System.out));
 
-    private static final Pattern PATTERN = 
+    private static final Pattern PATTERN =
         Pattern.compile("^(?=.{1,64}@)[A-Za-z0-9_-]+(\\.[A-Za-z0-9_-]+)*@[^-][A-Za-z0-9-]+(\\.[A-Za-z0-9-]+)*(\\.[A-Za-z]{2,})$");
 
     // Os outros métodos não mudam
@@ -363,7 +363,7 @@ Agora, basta executarmos o novo código com essas modificações adicionadas e v
 
 ![optimization-is-valid-email](/img/conteudos-de-artigos/introducao-profiler-java/optimization_isValidEmail.webp)
 
-Pronto, notou-se uma queda de aproximadamente 50% do tempo de execução do método e o aumento da performance do programa. 
+Pronto, notou-se uma queda de aproximadamente 50% do tempo de execução do método e o aumento da performance do programa.
 
 O método *printEmailLine* voltou a ser o método que mais consome tempo do programa, mas não será necessário fazer mais modificações, foi possível abaixar o tempo do programa em 10s, o que é ótimo.
 
