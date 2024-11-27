@@ -8,7 +8,7 @@ banner = "img/banners/podcast-400px.png"
 
 ### Daniel Rosa - Colaborador do freeCodeCamp
 
-Daniel Rosa é bacharel formado em Letras e mestre em Linguística Aplicada pela [UFRGS](http://www.ufrgs.br/ufrgs/inicial) do Rio Grande do Sul. 
+Daniel Rosa é bacharel formado em Letras e mestre em Linguística Aplicada pela [UFRGS](http://www.ufrgs.br/ufrgs/inicial) do Rio Grande do Sul.
 
 Trabalhou como professor de inglês durante 20 anos e também foi tradutor por 10 anos.
 

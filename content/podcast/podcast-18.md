@@ -14,11 +14,11 @@ Sempre me interessei por programação, desde os 9 anos de idade quando "copiava
 
 Tenho hoje por volta de 18 anos de experiência com desenvolvimento de software seja embarcado([firmware](https://pt.wikipedia.org/wiki/Firmware)), web, desktop, [gui](https://pt.wikipedia.org/wiki/Interface_gr%C3%A1fica_do_utilizador), mobile, backend. Trabalho na holanda para a [ASML](https://www.asml.com/en), uma empresa de [litografia](https://www.tecmundo.com.br/processadores/59510-litografia-feito-processador-infografico.htm), ou seja cria máquinas que produzem microchips, com clientes como Samsung, Intel e muitas outras fabricantes de chips.
 
-Tenho por hobby, fora programação, video games desde basicamente 7 anos aonde comecei com um [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) a desvendar mundos fantásticos, passando por uma longa vida de jogos no computador e video games, como [Nintendinho](https://pt.wikipedia.org/wiki/Nintendo_Entertainment_System)(8bits), [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System), Playstation 2, 3, 4 e ansiosamente esperando pra comprar um [PS5](https://www.playstation.com/en-ca/ps5/). Eu acumulo por volta da mesma quantidade de tempo de um curso tecnológico em horas de jogos. 
+Tenho por hobby, fora programação, video games desde basicamente 7 anos aonde comecei com um [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600) a desvendar mundos fantásticos, passando por uma longa vida de jogos no computador e video games, como [Nintendinho](https://pt.wikipedia.org/wiki/Nintendo_Entertainment_System)(8bits), [SNES](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System), Playstation 2, 3, 4 e ansiosamente esperando pra comprar um [PS5](https://www.playstation.com/en-ca/ps5/). Eu acumulo por volta da mesma quantidade de tempo de um curso tecnológico em horas de jogos.
 
 Mais recentemente também fui apresentado, é depois de velho já, ao RPG de mesa(D&D) e ao jogo de cartas [Magic The Gathering](https://magic.wizards.com/en), por amigos e isso virou um hobby tão importante quanto os video games.
 
-Também viajamos bastante dentro e fora do Brasil, antes de nos mudarmos para a Holanda. 
+Também viajamos bastante dentro e fora do Brasil, antes de nos mudarmos para a Holanda.
 
 
 {{< spotify type="episode" id="6tHL8wnQApSF6toGJ4o0t1" width="80%">}}

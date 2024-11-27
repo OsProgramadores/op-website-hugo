@@ -8,7 +8,7 @@ banner = "img/banners/podcast-400px.png"
 
 ### Amanda Shafack - Flutter developer at Ejara
 
-Amanda Shafack is a [Flutter](https://flutter.dev/) developer at [Ejara](https://www.ejara.io/); a startup based in Douala, Cameroon, that champions the fintech space (investment and savings)  in central Africa. 
+Amanda Shafack is a [Flutter](https://flutter.dev/) developer at [Ejara](https://www.ejara.io/); a startup based in Douala, Cameroon, that champions the fintech space (investment and savings)  in central Africa.
 
 Due to her curious nature and interest in volunteerism, She began volunteering with the [Google Developers Group](https://developers.google.com/community/gdg) (GDG) and [Women Techmakers](https://developers.google.com/womentechmakers) (WTM) tech communities in Buea, Cameroon and eventually became the Ambassador for WTM Buea and a GDG Co-organizer from 2017 to 2020. She has contributed to the growth of the female tech ecosystem in Buea, which now has over 200 active members. Amanda eventually became highly passionate about building tech communities through education and technology. She continues to drive initiatives that contribute to the growth of the tech ecosystem in Buea.
 

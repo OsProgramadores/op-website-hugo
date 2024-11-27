@@ -19,7 +19,7 @@ Leticia trabalha hoje como engenheira de software na [Stripe](https://stripe.com
 [Blog da Leticia](https://leportella.com/)
 
 [Twitter Leticia](https://twitter.com/leleportella)
- 
+
 [Twitter Pizza de Dados](https://twitter.com/pizzadedados)
 
 ***Livros***

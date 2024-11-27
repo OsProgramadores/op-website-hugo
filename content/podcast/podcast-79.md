@@ -12,7 +12,7 @@ banner = "img/banners/podcast-400px.png"
 Michael Dehaan é o Criador do Ansible.
 
 
-**Links**   
+**Links**
 - [Ansible](https://www.ansible.com/)
 - [RedHat](https://www.redhat.com/)
 - [Michael DeHaan's Website](https://www.michaeldehaan.net/)
@@ -28,7 +28,7 @@ Michael Dehaan é o Criador do Ansible.
 - [Electronic Arts](https://www.ea.com/)
 - [SpaceX](https://www.spacex.com/)
 
-**Livros**  
+**Livros**
 - [Ansible](https://www.ansible.com/)
 - [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game)
 - [Dune](https://en.wikipedia.org/wiki/Dune_%28franchise)
@@ -55,4 +55,3 @@ Michael Dehaan é o Criador do Ansible.
 - [Grupo no Telegram](https://t.me/osprogramadores)
 - [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 - [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-

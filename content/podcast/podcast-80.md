@@ -9,7 +9,7 @@ banner = "img/banners/podcast-400px.png"
 
 {{< spotify type="episode" id="1xt6kbqc7QLJPG8gDGjqMv" width="80%">}}
 
-Magno Lomardo é desenvolvedor full stack, atua na área a aproximadamente 2 décadas.  
+Magno Lomardo é desenvolvedor full stack, atua na área a aproximadamente 2 décadas.
 
 > Este episódio é o primeiro experimento onde a gravação é feita com áudio **e vídeo**.
 Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=4nBKN0eUToI), ou no player abaixo.
@@ -49,4 +49,3 @@ ___
 - [Grupo no Telegram](https://t.me/osprogramadores)
 - [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 - [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-

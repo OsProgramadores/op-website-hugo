@@ -17,8 +17,8 @@ banner = "img/banners/podcast-400px.png"
 ___
 
 In this episode, we talk with Ray Augé, Principal Software Engineer at Liferay and a passionate advocate for open-source
-software. Ray is deeply involved in the open-source community as a member of the Apache Software Foundation and a 
-committer or PMC member on several Apache projects, including Aries, Felix, and Geronimo. He also represents Liferay 
+software. Ray is deeply involved in the open-source community as a member of the Apache Software Foundation and a
+committer or PMC member on several Apache projects, including Aries, Felix, and Geronimo. He also represents Liferay
 Inc. at the Eclipse Foundation, contributes to bndtools.org, and supports numerous projects seeking modularity expertise.
 
 During our conversation, Ray shares insights into his career and provides recommendations to those who wish to follow a

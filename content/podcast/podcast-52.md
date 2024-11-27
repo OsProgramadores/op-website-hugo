@@ -8,7 +8,7 @@ banner = "img/banners/podcast-400px.png"
 
 ### André Carvalho - Production Engineer no Facebook
 
-André Carvalho é mestre em Engenharia da Computacao pela [UFRJ](https://ufrj.br/en/) e trabalha como Production Engineer no [Facebook](https://www.facebook.com/) há dois anos. 
+André Carvalho é mestre em Engenharia da Computacao pela [UFRJ](https://ufrj.br/en/) e trabalha como Production Engineer no [Facebook](https://www.facebook.com/) há dois anos.
 
 Anteriormente, trabalhou na [Globo.com](https://www.globo.com/) como um dos desenvolvedores do [Tsuru](https://tsuru.io/), um [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) open source escrito em [Go](https://go.dev/). Curte muito se aprofundar ao maximo em sistemas complexos para entender como eles funcionam."
 

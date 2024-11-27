@@ -20,7 +20,7 @@ Este repositório contém o fonte do website, que usa o [Hugo](http://gohugo.io)
 
 1. Crie uma conta no GitHub.
 1. Faça um *Fork* deste repositório no Github (Botão `Fork` no canto superior direito da tela).
-1. Instale o git (CLI) na sua máquina: 
+1. Instale o git (CLI) na sua máquina:
     1. Instruções genéricas: https://git-scm.com/downloads
     1. Debian ou variações (Ubuntu, Mint, etc), use: `sudo apt-get install git`
 1. Acesse a linha de comando (Windows) ou abra um terminal (Linux ou OSX).
@@ -43,7 +43,7 @@ Este repositório contém o fonte do website, que usa o [Hugo](http://gohugo.io)
 ### Enviando o Pull Request (PR)
 
 Uma vez satisfeito com as suas alterações:
-    
+
 1. Verifique que os arquivos corretos foram alterados com `git status`
 1. Verifique o diff com `git diff`
 1. Faça um commit das alterações com `git commit`. Faça uma descrição breve da alteração na primeira linha do commit (terminado com um ponto). Se maiores informações forem necessárias, use as linhas subsequentes.

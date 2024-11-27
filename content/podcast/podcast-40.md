@@ -8,7 +8,7 @@ banner = "img/banners/podcast-400px.png"
 
 ### Jucy Cabrera - Software Engineer em Dublin
 
-A Jucy é programadora a um tempão mas sempre correndo atrás de aprender as coisas. 
+A Jucy é programadora a um tempão mas sempre correndo atrás de aprender as coisas.
 
 Ela ama compartilhar conhecimento e ajudar mulheres a entrarem e a permanecerem na área de tecnologia.
 

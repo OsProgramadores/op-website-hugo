@@ -42,4 +42,3 @@ Keit Oliveira tem 28 anos e é Head de Desenvolvimento de Software na Arcotech d
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-

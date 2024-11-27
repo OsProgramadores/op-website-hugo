@@ -42,9 +42,9 @@ Ao adicionar o seu nome, por favor observe:
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
 | Anderson Souza Gomes           | derson3001@gmai.com                     | https://github.com/anderson3001           |
-| Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
+| Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        |
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
-| Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
+| Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                |
 | Andre Luiz dos Santos Pires    | andreldsantosp@gmail.com                | https://github.com/AndreLuizpDev          |
 | André Luiz Félix da Rosa       | Andre2011349@aluno.univesp.br           | https://github.com/Andre2011349           |
 | André Santos da Silva          | andretec1979@gmail.com                  | https://github.com/andresansil            |
@@ -147,7 +147,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gleydson José da Silva         | gleydsonjosewarface@hotmail.com         | https://github.com/gleydsonjose           |
 | Guilherme Ribeiro de Carvalho  | guiribeirodev@gmail.com                 | https://github.com/guiribeirodev          |
 | Gustavo de Almeida             | gustavofcma@gmail.com                   | https://github.com/gustavofcma            |
-| Hamon de Córdova Jorge         | hamoncj@gmail.com                       | https://github.com/hamonCordova           | 
+| Hamon de Córdova Jorge         | hamoncj@gmail.com                       | https://github.com/hamonCordova           |
 | Heberth Augusto Silva Gomes    | heberth.augusto@gmail.com               | https://github.com/Heberth6               |
 | Heitor Souza                   | sousaheitorcv@outlook.com               | https://github.com/sousaheitorcv          |
 | Helio Loureiro                 | helio@loureiro.eng.br                   | https://github.com/helioloureiro          |
@@ -241,7 +241,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luiz Felipe Machado            | luizfelmach@gmail.com                   | https://github.com/luizfelmach            |
 | Luiz Fellipe de Souza Lindo    | luizfellipebr03@gmail.com               | https://github.com/luizfellips            |
 | Luiz Torres Junior             | luiztrjunior@hotmail.com                | https://github.com/luiztorresjr           |
-| Luiza Vitória Costa Linda      | luuhcosta290@gmail.com                  | https://github.com/luiiza0                | 
+| Luiza Vitória Costa Linda      | luuhcosta290@gmail.com                  | https://github.com/luiiza0                |
 | Lukas Pol dos S. Paes          | lukaspaespol@gmail.com                  | https://github.com/LukasPol               |
 | Magno Gonçalves Gurgel Lomardo | magnussolidus@gmail.com                 | https://github.com/magnussolidus          |
 | Magnu Windell Araujo Santos    | magnuwindell@gmail.com                  | https://github.com/maagwiin               |
@@ -372,7 +372,7 @@ Ao adicionar o seu nome, por favor observe:
 | Vinicius de Souza Silva        | vinesdd@gmail.com                       | https://github.com/vinesdd                |
 | Vinicius Guarnieri             | vinicius.viniciusguarnieri@gmail.com    | https://github.com/ViniciusGuarnieri      |
 | Vinicius Oliveira Queiroz      | viniciusqueiroz.voq@gmail.com           | https://github.com/ViniciusQueiroz-VQ     |
-| Walliton jose siqueira pereira | Wallitonccb@gmail.com                   | https://github.com/WallitonSiqueira       | 
+| Walliton jose siqueira pereira | Wallitonccb@gmail.com                   | https://github.com/WallitonSiqueira       |
 | Wanderley Caloni               | wanderley.caloni@bitforge.com.br        | https://github.com/Caloni                 |
 | Washington Araújo Ramos        | No Email                                | https://github.com/WashingtonARamos       |
 | Wellington Domiciano           | wldomiciano@gmail.com                   | https://github.com/wldomiciano            |

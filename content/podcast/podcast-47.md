@@ -44,4 +44,3 @@ André Cardoso é desenvolvedor e designer de jogos e criador do [canal do Youtu
 [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 
 [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
