@@ -14,13 +14,13 @@ banner = "img/banners/podcast-400px.png"
 {{< youtube CAFtOHAwWSI >}}
 
 ___
-Neste episódio, conversamos com Rodolfo Pinto, educador e especialista em tecnologia na Direção Regional de Educação. 
+Neste episódio, conversamos com Rodolfo Pinto, educador e especialista em tecnologia na Direção Regional de Educação.
 Ele atua como K-5 Computer Science e é Facilitador do Code.org, Formador de Professores, Criador de Conteúdo
-e Palestrante. Rodolfo compartilha sua visão sobre a importância do ensino de ciência da computação desde cedo, 
+e Palestrante. Rodolfo compartilha sua visão sobre a importância do ensino de ciência da computação desde cedo,
 além de oferecer insights sobre metodologias eficazes para educadores e as tecnologias que utiliza em seu trabalho.
 
 Se você busca inspiração profissional na área de educação ou deseja aprender mais sobre como integrar tecnologia nas
-escolas, esta conversa está repleta de insights valiosos. 
+escolas, esta conversa está repleta de insights valiosos.
 
 > Participe das discussões e fique por dentro das novidades no nosso grupo do Telegram!
 

@@ -18,13 +18,13 @@ ___
 
 Neste episódio, conversamos com Johnathan Fercher, Tech Lead no Mercado Livre, um dos principais nomes da área de
 tecnologia na América Latina. Johnathan compartilha sua trajetória profissional, desafios enfrentados em uma empresa
-de grande escala e suas responsabilidades na liderança técnica. 
-Durante a conversa, ele fala sobre as tecnologias, metodologias de trabalho e as práticas de desenvolvimento que 
+de grande escala e suas responsabilidades na liderança técnica.
+Durante a conversa, ele fala sobre as tecnologias, metodologias de trabalho e as práticas de desenvolvimento que
 fazem parte de seu dia a dia como líder técnico.
 
 Se você quer entender mais sobre os bastidores do desenvolvimento de software em uma grande plataforma de
 e-commerce ou busca inspiração para crescer na carreira de tecnologia, este episódio está repleto de dicas e insights
-valiosos. 
+valiosos.
 
 > Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
 

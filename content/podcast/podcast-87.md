@@ -24,7 +24,7 @@ Este episódio explora em detalhes:
 * Insights de Wesley sobre o uso das ferramentas avançadas da ZIVA em um estúdio líder da indústria como a DNEG
 
 
-Se você é um artista aspirante ou um entusiasta de tecnologia, essa conversa está repleta de insights inspiradores da trajetória do Wesley. 
+Se você é um artista aspirante ou um entusiasta de tecnologia, essa conversa está repleta de insights inspiradores da trajetória do Wesley.
 Junte-se a nós no Telegram no [Grupo Os Programadores](ttps://t.me/osprogramadores) para mais discussões e novidades da nossa comunidade!
 
 #### Links do Wesley nas redes

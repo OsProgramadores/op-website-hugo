@@ -150,4 +150,3 @@ pagination.PagerSize = 12
     enable = true
     title = "Artigos Recentes"
     subtitle = ""
-

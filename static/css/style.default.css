@@ -1757,7 +1757,7 @@ fieldset[disabled] .btn-template-primary.active {
 .bar.background-pentagon {
   background: url('../img/background.svg');
   background-size: 70%;
-  
+
 }
 @media (max-width: 991px) {
   .bar.background-pentagon {
@@ -3535,7 +3535,7 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
+ *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,

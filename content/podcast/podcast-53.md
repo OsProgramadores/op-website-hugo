@@ -8,9 +8,9 @@ banner = "img/banners/podcast-400px.png"
 
 ### Nilay Yenner - Program Manager in the Flutter DevRel team at Google
 
-Nilay works as a Program Manager in the [Flutter DevRel team](https://flutter.dev/community). Her work is specifically around [Flutter](https://flutter.dev/) events and community programs. 
+Nilay works as a Program Manager in the [Flutter DevRel team](https://flutter.dev/community). Her work is specifically around [Flutter](https://flutter.dev/) events and community programs.
 
-She started working as a software developer, and then became a project manager. Her volunteer work with user groups got her in the community world and eventually in Google. 
+She started working as a software developer, and then became a project manager. Her volunteer work with user groups got her in the community world and eventually in Google.
 
 
 {{< spotify type="episode" id="4v5rgPhOWonK3Am1huq5JD" width="80%">}}

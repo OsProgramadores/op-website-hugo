@@ -4,7 +4,7 @@ sources:
 - url: "https://osprogramadores.com/dicas-bash/#1"
   title: "Bash Dicas & Truques"
   description: "Bash Dicas & Truques - autoria de Marco Paganini"
-  
+
 - url: "https://www.bigbookofr.com/index.html"
   title: "Big Book of R"
   description: "Lista de livros (pagos ou gratuitos) que envolvem a linguagem R, separado por diversas áreas"
@@ -15,11 +15,11 @@ sources:
 
 - url: "https://leanpub.com/dockerparadesenvolvedores"
   title: "Docker para Desenvolvedores"
-  description: "Ebook focado nas necessidades do desenvolvedor que se interessar pelo Docker"  
+  description: "Ebook focado nas necessidades do desenvolvedor que se interessar pelo Docker"
 
 - url: "http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf"
   title: "Estruturas de dados"
-  description: "Livro sobre Estrutura de Dados - Autor: Professor Ivan Luiz Marques Ricarte - UNICAMP. O material está disponível em licença CC-BY, ou seja, pode ser utilizado desde que o autor seja mantido e citado."  
+  description: "Livro sobre Estrutura de Dados - Autor: Professor Ivan Luiz Marques Ricarte - UNICAMP. O material está disponível em licença CC-BY, ou seja, pode ser utilizado desde que o autor seja mantido e citado."
 
 - url: "http://piazinho.com.br/download/expressoes-regulares-3-tabelas.pdf"
   title: "Expressões Regulares"
@@ -40,7 +40,7 @@ sources:
 - url: "https://www.caelum.com.br/apostila-java-orientacao-objetos/"
   title: "Java OO"
   description: "Apostila online de Java Orientado a Objetos, distribuída pela Caelum gratuitamente"
- 
+
 - url: "https://www.caelum.com.br/apostila-java-web/"
   title: "Java para Web"
   description: "Apostila de Java para Web"
@@ -56,7 +56,7 @@ sources:
 - url: "https://vimbook.gitbook.io/vimbook/"
   title: "Livro sobre o vim"
   description: "Livro sobre o editor de texto vim"
- 
+
 - url: "http://php.net/manual/pt_BR/index.php"
   title: "PHP"
   description: "PHP documentação com tutoriais em português"

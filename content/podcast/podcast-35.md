@@ -8,15 +8,15 @@ banner = "img/banners/podcast-400px.png"
 
 ### Megane Dreyfuss Lande - Co founder and COO @ the Developers.institute
 
-Megane is Co founder and Chief Operating Officer @ the [Developers.institute](https://developers.institute/en/). 
+Megane is Co founder and Chief Operating Officer @ the [Developers.institute](https://developers.institute/en/).
 
-She is a marketing and education professional with over 5 years of experience. 
+She is a marketing and education professional with over 5 years of experience.
 
-She cofounded and managed the [TheFamily](https://joinlion.co/), Lion, The first free but highly selective school for startup employees and  worked for several startups. 
+She cofounded and managed the [TheFamily](https://joinlion.co/), Lion, The first free but highly selective school for startup employees and  worked for several startups.
 
-She worked as an Account Strategist for the French Telco, @ Google and as UK Sales manager for [Criteo](https://www.criteo.com/), a software startup. 
+She worked as an Account Strategist for the French Telco, @ Google and as UK Sales manager for [Criteo](https://www.criteo.com/), a software startup.
 
-Megane is also a public speaker and teacher on various Massive Open Online Courses (MOOC) platforms  in Spain, France and the US. She speaks fluent French, Hebrew and English and lived and worked in 7 different countries. 
+Megane is also a public speaker and teacher on various Massive Open Online Courses (MOOC) platforms  in Spain, France and the US. She speaks fluent French, Hebrew and English and lived and worked in 7 different countries.
 
 She is passionated about [Ukulele](https://en.wikipedia.org/wiki/Ukulele).
 

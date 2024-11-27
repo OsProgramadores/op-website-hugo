@@ -116,5 +116,3 @@ Uma vez que esta parte básica tenha sido entendida, você pode partir para proj
 Recomendamos que você faça os [desafios do grupo](https://osprogramadores.com/desafios/).
 
 Caso tenha dificuldades com os exercícios, faça perguntas no [grupo no telegram](https://t.me/osprogramadores)
-
-

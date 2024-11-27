@@ -25,7 +25,7 @@ sources:
 - url: "https://datavizproject.com/"
   title: "Data Viz Project"
   description: "Ferramenta que apresenta características e aplicações de vários tipos de visualizações de dados."
-  
+
 - url: "https://roadmap.sh/"
   title: "Developer Roadmaps"
   description: "Conjunto de roadmaps, guias e conteúdo educacional para ajudar desenvolvedores em seu aprendizado."
@@ -45,7 +45,7 @@ sources:
 - url: "https://education.github.com/pack"
   title: "GitHub Education"
   description: "Assinatura de ferramentas, créditos em sites de armazenamento e hosting, repositórios privados grátis e muito mais no pack do GitHub para estudantes"
-  
+
 - url: "http://www.guj.com.br/"
   title: "Guj"
   description: "Fórum brasileiro para programadores"
@@ -53,7 +53,7 @@ sources:
 - url: "https://news.ycombinator.com/"
   title: "Hacker News"
   description: "Site de notícias colaborativo voltado para ciência da computação e empreendedorismo"
-  
+
 - url: "https://www.kaggle.com/"
   title: "Kaggle"
   description: "Comunidade voltada para aprendizado de máquina e ciência de dados. O site contém cursos e competições"
@@ -61,11 +61,11 @@ sources:
 - url: "https://learngitbranching.js.org/"
   title: "Learn Git Branching"
   description: "Aprendendo intuitivamente como funcionam os comandos de branching, como `checkout`, `merge` e `rebase`"
-  
+
 - url: "https://learnxinyminutes.com/"
   title: "Learn X in Y Minutes"
   description: "Aprenda varios conceitos sobre computação e uma nova linguagem em poucos minutos"
-  
+
 - url: "https://vas3k.com/blog/machine_learning/"
   title: "Machine Learning for Everyone"
   description: "Site com conteúdo explicando aprendizado de maquina de forma simples."
@@ -101,11 +101,11 @@ sources:
 - url: "http://rextester.com/l/pascal_online_compiler"
   title: "RexTester"
   description: "Compilador online de Java, C, C#, C++, JavaScript, Lua, Php, Python, Ruby, Scala, entre outros"
-  
+
 - url: "https://rosettacode.org/wiki/Rosetta_Code"
   title: "Rosetta Code"
   description: "Coleção de soluções para mais de 1200 tarefas computacionais, implementadas em várias linguagens."
-  
+
 - url: "https://scratch.mit.edu/"
   title: "Scratch"
   description: "Linguagem de programação voltada para o ensino de computação para crianças"

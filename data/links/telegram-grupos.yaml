@@ -717,7 +717,7 @@ sources:
 - url: "https://t.me/tudosobreti"
   title: "TUDO SOBRE T.I"
   description: "Canal de informações sobre TI"
-  
+
 - url: "https://t.me/typescriptbr"
   title: "TypeScript Brasil"
   description: "Grupo brasileiro dedicado à linguagem de programação TypeScript"
@@ -773,4 +773,3 @@ sources:
 - url: "https://t.me/zimBrasil"
   title: "ZimBrasil"
   description: "Grupo brasileiro de discussão, apoio e idéias sobre Zimbra"
-

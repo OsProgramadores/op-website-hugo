@@ -14,4 +14,3 @@ Deixem o seu follow no canal e participem das discussões em nosso [grupo do OsP
 
 
 [![Canal do Tiktok](/img/banners/osprogramadores-400px.jpg)](https://www.tiktok.com/@osprogramadores "Site do Grupo")
-

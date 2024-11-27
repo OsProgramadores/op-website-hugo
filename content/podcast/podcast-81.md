@@ -13,9 +13,9 @@ Marcos Leandro é Desenvolvedor Full Stack.
 
 
 > Este episódio é o segundo experimento onde a gravação é feita com áudio **e vídeo**.
-> 
+>
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=td2gkzHyUaI).
- 
+
 {{< youtube td2gkzHyUaI >}}
 
 ___
@@ -39,4 +39,3 @@ ___
 - [Grupo no Telegram](https://t.me/osprogramadores)
 - [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 - [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-
