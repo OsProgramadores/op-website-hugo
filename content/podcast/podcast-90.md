@@ -10,7 +10,7 @@ banner = "img/banners/podcast-400px.png"
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=ixhjbWCrh_8).
 
 
-[//]: # ({{< spotify type="episode" id="3tiSltOTxRuAXrwoNuM54w" width="80%">}})
+{{< spotify type="episode" id="5yov4OhZJdsmXQgjkXL0TK" width="80%">}}
 
 {{< youtube ixhjbWCrh_8 >}}
 
