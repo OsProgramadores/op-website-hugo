@@ -11,6 +11,9 @@ banner = "img/banners/podcast-400px.png"
 
 
 
+{{< spotify type="episode" id="6sSWFoDGrXit7KWJX5bobj" width="80%">}}
+
+
 {{< youtube GJtoEF3K1Nc >}}
 
 ___
