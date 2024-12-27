@@ -60,7 +60,7 @@ em todos os três escopos:
 Notavelmente, quanto maior o seu entendimento sobre o funcionamento de um computador, a tendência é que o seu código seja mais preciso e faça um melhor uso dos recursos dele!
 
 ## O que é um computador?
-Para entender o que é um computador, recomendamos a [leitura deste artigo do IFBA](http://www.ifba.edu.br/professores/antoniocarlos/index_arquivos/resumodearquiteturadecomputadores.pdf). O artigo é de nível
+Para entender o que é um computador, recomendamos a [leitura deste artigo do IFBA](https://web.archive.org/web/20240707101340/https://www.ifba.edu.br/professores/antoniocarlos/index_arquivos/resumodearquiteturadecomputadores.pdf). O artigo é de nível
 introdutório, com uma abordagem amigável e de fácil compreensão, mesmo para quem não é da área.
 
 Há também estes artigos da [FreeCodeCamp](https://www.freecodecamp.org/) que abordam um tópico mais específico, mas que ainda são imporantes:
