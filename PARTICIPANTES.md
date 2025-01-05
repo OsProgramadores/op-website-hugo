@@ -271,7 +271,9 @@ Ao adicionar o seu nome, por favor observe:
 | Matheus Barbosa Souza          | mbscbsjbs@gmail.com                     | https://github.com/WhoisBsa               |
 | Matheus Dias Vieira            | matheuspvh13@gmail.com                  | https://github.com/koalapvh13             |
 | Matheus Dourado                | matheusdouradobr@gmail.com              | https://github.com/matheusdouradobr       |
+| Matheus Henrique Almeida       | Matheusalmeidablack15@gmail.com         | https://github.com/imperadorounico |
 | Matheus Ferreira               | matheusfersilva.10@gmail.com            | https://github.com/matheusfer10           |
+| Matheus Henrique Almeida       | Matheusalmeidablack15@gmail.com         | https://github.com/imperadorounico |
 | Mattheus Couto                 | matius.couto@gmail.com                  | https://github.com/Matiusco               |
 | Maurício Taffarel              | mauruciotaffarel@gmail.com              | https://github.com/taffarel55             |
 | Maurilho Batista Moura Filho   | maurilhobatista450@gmail.com            | https://github.com/MaurilhoB              |
@@ -386,3 +388,4 @@ Ao adicionar o seu nome, por favor observe:
 | Yago de Matos                  | No Email                                | https://github.com/yagodematos            |
 | Yan Ferreira                   | yanfvc@gmail.com                        | https://github.com/yanvferreira           |
 | Zilton Sales                   | No Email                                | https://github.com/sokolov13              |
+
