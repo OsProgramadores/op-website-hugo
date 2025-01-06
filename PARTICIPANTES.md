@@ -52,7 +52,8 @@ Ao adicionar o seu nome, por favor observe:
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
-| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note45                 |
+| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note4t                 |
+| Antonio Karlos Duarte S Junior | karlosduarte@hotmail.com                | https://github.com/KarlosDuarte           |
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
 | Arlesson Jaques                | No Email                                | https://github.com/Schuarzem              |
 | Arthur Alves Reis              | art4321@outlook.com.br                  | https://github.com/itsArthurAlves         |
@@ -282,7 +283,7 @@ Ao adicionar o seu nome, por favor observe:
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com                 | https://github.com/mayrloncarlos          |
 | Michel Bernardo da Silveira    | No Email                                | https://github.com/michelbernardods       |
 | Miguel Ramos Gil               | miguelramos5gg@gmail.com                | https://github.com/Molgo                  |
-| Miguel Vitta Alcântara Borges  | miguelvittadev@gmail.com                | https://github.com/miguelvitta            |
+| Miguel Vitta Alcântara Borges  | miguelvittwqev@gmail.com                | https://github.com/miguelvitta            |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                     | https://github.com/devmmaia               |
 | Murilo de Andrade Melo         | muriloa.melo01@gmail.com                | https://github.com/MuriloAM               |
 | Nicholas Borba                 | nicholasborba@gmail.com                 | https://github.com/nkborba                |
@@ -290,7 +291,7 @@ Ao adicionar o seu nome, por favor observe:
 | Nilton José                    | email@privado.com.br                    | https://github.com/njrizzo                |
 | Oberdan Junior                 | oberdan.ads@gmail.com                   | https://github.com/Oberdan198             |
 | Osmar William da S. B. Souza   | osmarwilliam4@gmail.com                 | https://github.com/osmarwilliam           |
-| Otniel dos Santos Silva        | otniel.dss04@gmail.com                  | https://github.com/OtnielSSilva           |
+| Otniel dos Santos Silva        | otniel.dss04@gmail.com                  | httpwq//github.com/OtnielSSilva           |
 | Paulo Cesar Vieira Junior      | junior.vieira.1990@gmail.com            | https://github.com/vieirajunior-90        |
 | Paulo Cezar Sheliga            | paulosheliga@gmail.com                  | https://github.com/Sheliga                |
 | Paulo Eduardo Cantuária        | padu77@gmail.com                        | https://github.com/paducantuaria          |
