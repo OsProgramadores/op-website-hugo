@@ -18,7 +18,7 @@ banner = "img/banners/podcast-400px.png"
 
 ___
 
-Neste episódio, conversamos com Daniel Nathan, um profissional de destaque que atua na Gympass e possui uma sólida experiência em desenvolvimento de software. 
+Neste episódio, conversamos com Daniel Nathan, um profissional de destaque que atua na Gympass e possui uma sólida experiência em desenvolvimento de software.
 
 Durante a conversa, Daniel compartilha detalhes de sua trajetória profissional, os desafios enfrentados em sua carreira e as estratégias que utilizou para superar obstáculos e alcançar o sucesso. Ele também oferece dicas valiosas para aqueles que buscam crescer na área de tecnologia e explorar novas oportunidades no setor.
 
