@@ -52,8 +52,8 @@ Ao adicionar o seu nome, por favor observe:
 | Anthony Levi Tavares           | player559001@gmail.com                  | https://github.com/aCube1                 |
 | Anthony Louis G. Ferreira      | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
-| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note4t                 |
 | Antonio Karlos Duarte          | karlosduarte@hotmail.com                | https://github.com/KarlosDuarte           |
+| Antonio Lisbôa de Melo Neto    | antonion.2048@gmail.com                 | https://github.com/Note4t                 |
 | Ariane Carvalho                | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
 | Arlesson Jaques                | No Email                                | https://github.com/Schuarzem              |
 | Arthur Alves Reis              | art4321@outlook.com.br                  | https://github.com/itsArthurAlves         |
