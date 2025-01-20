@@ -13,7 +13,7 @@ Uma pergunta frequente de vários participantes do [OsProgramadores no Telegram]
 Para começar com programação é recomendável usar um computador para criar e testar programas. A prática é essencial para reforçar o que foi aprendido através de vídeos e livros.
 Caso você não tenha um computador, existem vários programas que você pode usar mas recomendamos a instalação e uso da [App do Replit](https://replit.com/mobile).
 
-> **[Recomendamos fortemente a leitura deste artigo para lhe ensinar alguns conceitos essenciais que serão muito úteis nesta sua jornada para se tornar um programador.](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/)**
+> **[Recomendamos fortemente a leitura deste artigo para lhe ensinar alguns conceitos essenciais que serão muito úteis nesta sua jornada para se tornar um programador.](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais/)**
 
 Não deixe de ler o artigo acima antes de prosseguir com a leitura a seguir.
 
