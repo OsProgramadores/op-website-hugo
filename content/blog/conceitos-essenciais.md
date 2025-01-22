@@ -2,7 +2,7 @@
 title = "Conceitos essenciais para começar"
 date = "2024-02-29T18:50:00-03:00"
 tags = ["programação", "desafios", "github", "programação", "tutorial"]
-categories = ["artigos", "desafios"]
+categories = ["artigos", "iniciantes"]
 banner = "img/banners/Le_Penseur_in_the_Jardin_du_Musée_Rodin,_Paris_14_June_2015.jpg"
 +++
 
