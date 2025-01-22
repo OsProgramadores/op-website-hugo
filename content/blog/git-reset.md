@@ -2,7 +2,7 @@
 title = "Help! Múltiplos desafios no meu PR!"
 date = "2024-11-02T13:00:00-07:00"
 tags = ["programação", "git"]
-categories = ["git"]
+categories = ["git", "iniciantes"]
 banner = "img/banners/git.webp"
 +++
 

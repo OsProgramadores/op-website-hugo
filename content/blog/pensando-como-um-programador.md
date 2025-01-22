@@ -2,7 +2,7 @@
 title = "Pensando como um Programador"
 date = "2024-06-19T00:30:00-03:00"
 tags = ["programação", "dicas"]
-categories = ["dicas"]
+categories = ["dicas", "iniciantes"]
 banner = "img/banners/building-things.png"
 +++
 

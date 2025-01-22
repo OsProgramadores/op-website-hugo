@@ -2,7 +2,7 @@
 title = "Por onde começar?"
 date = "2019-03-12T08:26:00-07:00"
 tags = ["programação"]
-categories = ["linguagens"]
+categories = ["linguagens", "iniciantes"]
 banner = "img/banners/background-code.webp"
 +++
 
