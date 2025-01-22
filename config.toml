@@ -108,7 +108,7 @@ pagination.PagerSize = 12
     search = true
 
 [params.carousel]
-    enable = false
+    enable = true
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
