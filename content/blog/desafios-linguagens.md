@@ -25,7 +25,7 @@ Crie uma interface web usando **HTML** e **CSS**, que solicite um valor inteiro,
 ---
 
 ## Desafio 03 - Conversão de Temperaturas
-Crie uma interface web com **HTML** e **CSS**, que solicite a temperatura e selecione na caixa de seleção 
+Crie uma interface web com **HTML** e **CSS**, que solicite a temperatura e selecione na caixa de seleção
 - Celsius para Fahrenheit
 - Fahrenheit para Celsius
 - Celsius para Kelvi
@@ -36,7 +36,7 @@ Após escolher a temperatura que deseja converter, utilize JavaScript para ler a
 ---
 
 ## Desafio 04 - I.M.C
-Crie uma interface web com **HTML** e **CSS** que solicite o **peso** e a **altura**. 
+Crie uma interface web com **HTML** e **CSS** que solicite o **peso** e a **altura**.
 Utilize **JavaScript** para ler os dados, calcular e exibir o **IMC** (Índice de Massa Corporal) com a classificação correspondente.
 
 ---
