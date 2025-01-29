@@ -59,4 +59,4 @@ Para garantir que seu programa funcione corretamente, siga os passos abaixo:
 
 1. **Teste o seu programa localmente**: Verifique se ele está operando conforme o esperado.
 2. **Envie para o seu repositório no GitHub**: Certifique-se de que o código esteja bem organizado e documentado.
-3. **Compartilhe o link do seu repositório**: Publique o link no grupo **Linguagens de Programação** para que todos possam conferir o seu trabalho!
+3. **Compartilhe o link do seu repositório**: Publique o link no grupo **Linguagens de Programação** e **OsProgramadores** para que todos possam conferir o seu trabalho!
