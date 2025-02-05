@@ -9,6 +9,7 @@ banner = "img/banners/podcast-400px.png"
 ###  Artur Souza - Business Engineering na Meta
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=nJBa56U522k).
 
+{{< spotify type="episode" id="7ko9g3GY8SlQkijl4hAEgI" width="80%">}}
 
 {{< youtube nJBa56U522k >}}
 
