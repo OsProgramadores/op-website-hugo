@@ -2,12 +2,12 @@
 
 Ao adicionar o seu nome, por favor observe:
 
-* Adicione o seu nome, email e página do github na lista abaixo.
-* A lista é ordenada por *nome*, seguida de *prenome* e *sobrenome*.
-* Emails inválidos serão rejeitados automaticamente.
-* URLs do github deverão ser no formato: `https://github.com/seu_usuario`
-* Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
-* Se necessário, realinhe as barras verticais de todos os nomes se o seu
+- Adicione o seu nome, email e página do github na lista abaixo.
+- A lista é ordenada por _nome_, seguida de _prenome_ e _sobrenome_.
+- Emails inválidos serão rejeitados automaticamente.
+- URLs do github deverão ser no formato: `https://github.com/seu_usuario`
+- Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
+- Se necessário, realinhe as barras verticais de todos os nomes se o seu
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
 
@@ -372,6 +372,7 @@ Ao adicionar o seu nome, por favor observe:
 | Vinicius de Souza Silva        | vinesdd@gmail.com                       | https://github.com/vinesdd                |
 | Vinicius Guarnieri             | vinicius.viniciusguarnieri@gmail.com    | https://github.com/ViniciusGuarnieri      |
 | Vinicius Oliveira Queiroz      | viniciusqueiroz.voq@gmail.com           | https://github.com/ViniciusQueiroz-VQ     |
+| Viviane Pimentel Lemos         | viviitap@gmail.com                      | https://github.com/lemosviviane           |
 | Walliton jose siqueira pereira | Wallitonccb@gmail.com                   | https://github.com/WallitonSiqueira       |
 | Wanderley Caloni               | wanderley.caloni@bitforge.com.br        | https://github.com/Caloni                 |
 | Washington Araújo Ramos        | No Email                                | https://github.com/WashingtonARamos       |
