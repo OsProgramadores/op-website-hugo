@@ -29,6 +29,9 @@ Este repositório contém o fonte do website, que usa o [Hugo](http://gohugo.io)
     ```
     git clone --recursive https://github.com/<seu_usuário_no_github>/op-website-hugo.git
     ```
+    >  **Nota:**
+    >  ```--recursive``` é um parâmetro usado para [clonar submódulos](https://git-scm.com/book/en/v2/Git-Tools-Submodules) de um repositório, sendo um pseudônimo do parâmetro ```--recurse-submodules```. A opção é ignorada pelo git se no projeto em questão não houver submódulos. Ou seja, se não houver por exemplo diretórios de projetos de terceiros no repositório.
+
 1. Crie um "remote" apontando para o repositório oficial (upstream):
     ```
     git remote add upstream https://github.com/OsProgramadores/op-website-hugo.git
