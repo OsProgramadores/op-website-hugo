@@ -11,11 +11,11 @@ banner = "img/banners/floating-smartphone.webp"
 Olá pessoal, me chamo Rubens dos Santos e sou um membro do grupo Os Programadores.
 Neste artigo iremos aprender a configurar o termux com git e github, além de algumas dicas para programar no smartphone.
 
-Mas o que é Termux? Termux é um emulador de terminal de código aberto para o sistema operacional Android. Não é o único disponivel, mas o que o difere dos outros aplicativos emuladores de terminal é o fato dele se assimilar a uma distro linux, possuindo um gerenciador de pacotes por exemplo, o que nos possibilita instalar bibliotecas e pacotes. 
+Mas o que é Termux? Termux é um emulador de terminal de código aberto para o sistema operacional Android. Não é o único disponivel, mas o que o difere dos outros aplicativos emuladores de terminal é o fato dele se assimilar a uma distro linux, possuindo um gerenciador de pacotes por exemplo, o que nos possibilita instalar bibliotecas e pacotes.
 
 
 > **Preciso saber linux para poder utilizar o termux?**
-> Depende. Você precisou saber andar de bicleta para aprender a andar de bicicleta? Paradoxal, certo? Em muitas ocasiões da nossa vida aprendemos no **durante**, no **processo**, na **tentativa e erro**. Então respondendo a pergunta: você pode aprender linux enquanto utiliza o termux, enquanto sua curiosidade o leva a se questionar o que cada comando faz. Não precisa ler um livro de mil páginas sobre linux nem nada do genêro, ao menos que você queira.  
+> Depende. Você precisou saber andar de bicleta para aprender a andar de bicicleta? Paradoxal, certo? Em muitas ocasiões da nossa vida aprendemos no **durante**, no **processo**, na **tentativa e erro**. Então respondendo a pergunta: você pode aprender linux enquanto utiliza o termux, enquanto sua curiosidade o leva a se questionar o que cada comando faz. Não precisa ler um livro de mil páginas sobre linux nem nada do genêro, ao menos que você queira.
 
 Vamos começar?
 
@@ -29,10 +29,10 @@ Essa é a tela inicial do termux
 
 ![termux](/img/conteudos-de-artigos/programando-com-o-smartphone-utilizando-o-termux/termux.webp)
 
-Um ambiente linux em linha de comando. Os links no topo são para acessar a documentação, comunidade e donativo para apoiar o projeto caso tenha interesse. Temos algumas instruções de como utilizar o `pkg` e repositórios adicionais. 
+Um ambiente linux em linha de comando. Os links no topo são para acessar a documentação, comunidade e donativo para apoiar o projeto caso tenha interesse. Temos algumas instruções de como utilizar o `pkg` e repositórios adicionais.
 O termux utiliza por padrão o shell `bash`, mas você é livre para instalar o `zsh` ou `fish` em seu ambiente (se você não sabe o que são essas coisas, não precisa se preocupar neste momento)
 
-## Atualizando o sistema e instalando o Git e OpenSSH 
+## Atualizando o sistema e instalando o Git e OpenSSH
 
 O Termux utiliza o `pkg` e `apt` como gerenciadores de pacotes. Na ferramenta ambos são análogos mas utilizarei o `apt` nos exemplos por uma questão didática.
 Faremos a atualização dos repositórios e do sistema com o comando abaixo:
@@ -64,7 +64,7 @@ git config --global user.email "seu_email"
 
 A próxima etapa é gerar nossa chave SSH. Isso é realizado pelo comando ssh-keygen que executaremos em seguida:
 
-```bash 
+```bash
 ssh-keygen
 ```
 
@@ -81,9 +81,9 @@ Após a execução do comando vocẽ será questionado sobre:
 ```bash
 cd $HOME/.ssh
 ```
-- Listamos os arquivos 
+- Listamos os arquivos
 ```bash
-ls 
+ls
 ```
 
 - Identificamos o arquivo com final `.pub`, exibimos o conteúdo dele com o comando `cat` e copiamos a saída contendo a chave SSH.
@@ -91,7 +91,7 @@ ls
 cat id_xpto.pub
 ```
 
-> O comando cat permite criar, exibir ou redirecionar o conteúdo de arquivos. Nesse caso estamos utilizando ele para exibir nossa chave para que possamos copiá-la. Podemos realizar todo esse processo descrito acima em um único comando `cat $HOME/.ssh/id_xpto.pub`. 
+> O comando cat permite criar, exibir ou redirecionar o conteúdo de arquivos. Nesse caso estamos utilizando ele para exibir nossa chave para que possamos copiá-la. Podemos realizar todo esse processo descrito acima em um único comando `cat $HOME/.ssh/id_xpto.pub`.
 
 **Lembrando que nossa chave SSH, mesmo sendo protegida por senha nunca deve ser compartilhada com outras pessoas**
 
@@ -100,11 +100,11 @@ cat id_xpto.pub
 
 1) Navegaremos até as configurações do nosso Github, na seção de [SSH e GPG keys](https://github.com/settings/keys).
 
-2) Clicaremos em **New SSH key** 
+2) Clicaremos em **New SSH key**
 
 3) Escolheremos um titulo para nossa chave. Nesse caso escolhi `termux-ssh-key`. O **key type** podemos manter como `Authentication` e por fim colaremos o conteúdo copiado da nossa chave ssh  no campo **key** e clicaremos em **Add SSH Key**.
 
-![add-new-ssh-key-to-github](/img/conteudos-de-artigos/programando-com-o-smartphone-utilizando-o-termux/add-ssh-key-to-github.webp) 
+![add-new-ssh-key-to-github](/img/conteudos-de-artigos/programando-com-o-smartphone-utilizando-o-termux/add-ssh-key-to-github.webp)
 
 
 ## Verificando a conexão ssh.
