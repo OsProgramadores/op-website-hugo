@@ -21,7 +21,7 @@ Vamos começar?
 
 ## Baixando o Termux
 
-Por uma questão de manutenabilidade da ferramenta eu indico que façao o download do aplicativo pela **F-Droid**. Que é uma loja de aplicativos livres e open-source. Você **não precisa** baixar a F-Droid para baixar o Termux. Basta baixar o Termux acessando [o site da F-droid](https://f-droid.org/pt_BR/packages/com.Termux/) e clicar em **baixar APK**. Após isso basta instalar o APK do Termux em seu smartphone.
+Por uma questão de manutenabilidade da ferramenta eu indico que faça o download do aplicativo pela **F-Droid**. Que é uma loja de aplicativos livres e open-source. Você **não precisa** baixar a F-Droid para baixar o Termux. Basta baixar o Termux acessando [o site da F-droid](https://f-droid.org/pt_BR/packages/com.Termux/) e clicar em **baixar APK**. Após isso basta instalar o APK do Termux em seu smartphone.
 
 ## Conhecendo a ferramenta
 
