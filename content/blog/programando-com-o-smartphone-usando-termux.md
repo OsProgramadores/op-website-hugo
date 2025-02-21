@@ -9,28 +9,28 @@ banner = "img/banners/floating-smartphone.webp"
 ## Introdução
 
 Olá pessoal, me chamo Rubens dos Santos e sou um membro do grupo Os Programadores.
-Neste artigo iremos aprender a configurar o termux com git e github, além de algumas dicas para programar no smartphone.
+Neste artigo iremos aprender a configurar o Termux com git e github, além de algumas dicas para programar no smartphone.
 
 Mas o que é Termux? Termux é um emulador de terminal de código aberto para o sistema operacional Android. Não é o único disponivel, mas o que o difere dos outros aplicativos emuladores de terminal é o fato dele se assimilar a uma distro linux, possuindo um gerenciador de pacotes por exemplo, o que nos possibilita instalar bibliotecas e pacotes.
 
 
-> **Preciso saber linux para poder utilizar o termux?**
-> Depende. Você precisou saber andar de bicleta para aprender a andar de bicicleta? Paradoxal, certo? Em muitas ocasiões da nossa vida aprendemos no **durante**, no **processo**, na **tentativa e erro**. Então respondendo a pergunta: você pode aprender linux enquanto utiliza o termux, enquanto sua curiosidade o leva a se questionar o que cada comando faz. Não precisa ler um livro de mil páginas sobre linux nem nada do genêro, ao menos que você queira.
+> **Preciso saber linux para poder utilizar o Termux?**
+> Depende. Você precisou saber andar de bicleta para aprender a andar de bicicleta? Paradoxal, certo? Em muitas ocasiões da nossa vida aprendemos no **durante**, no **processo**, na **tentativa e erro**. Então respondendo a pergunta: você pode aprender linux enquanto utiliza o Termux, enquanto sua curiosidade o leva a se questionar o que cada comando faz. Não precisa ler um livro de mil páginas sobre linux nem nada do genêro, ao menos que você queira.
 
 Vamos começar?
 
-## Baixando o termux
+## Baixando o Termux
 
-Por uma questão de manutenabilidade da ferramenta eu indico que façao o download do aplicativo pela **F-Droid**. Que é uma loja de aplicativos livres e open-source. Você **não precisa** baixar a F-Droid para baixar o Termux. Basta baixar o Termux acessando [o site da F-droid](https://f-droid.org/pt_BR/packages/com.termux/) e clicar em **baixar APK**. Após isso basta instalar o APK do termux em seu smartphone.
+Por uma questão de manutenabilidade da ferramenta eu indico que façao o download do aplicativo pela **F-Droid**. Que é uma loja de aplicativos livres e open-source. Você **não precisa** baixar a F-Droid para baixar o Termux. Basta baixar o Termux acessando [o site da F-droid](https://f-droid.org/pt_BR/packages/com.Termux/) e clicar em **baixar APK**. Após isso basta instalar o APK do Termux em seu smartphone.
 
 ## Conhecendo a ferramenta
 
-Essa é a tela inicial do termux
+Essa é a tela inicial do Termux
 
 ![termux](/img/conteudos-de-artigos/programando-com-o-smartphone-utilizando-o-termux/termux.webp)
 
 Um ambiente linux em linha de comando. Os links no topo são para acessar a documentação, comunidade e donativo para apoiar o projeto caso tenha interesse. Temos algumas instruções de como utilizar o `pkg` e repositórios adicionais.
-O termux utiliza por padrão o shell `bash`, mas você é livre para instalar o `zsh` ou `fish` em seu ambiente (se você não sabe o que são essas coisas, não precisa se preocupar neste momento)
+O Termux utiliza por padrão o shell `bash`, mas você é livre para instalar o `zsh` ou `fish` em seu ambiente (se você não sabe o que são essas coisas, não precisa se preocupar neste momento)
 
 ## Atualizando o sistema e instalando o Git e OpenSSH
 
@@ -43,7 +43,7 @@ apt update && apt upgrade -y
 
 > A flag `-y` é utilizada quando não queremos que um ou mais comandos precisem de confirmação do usuário.
 
-Agora vamos instalar o `openssh` e o `git`. O git é fundamental para nós desenvolvedores versionarmos nosso código. Também precisaremos de um comando do openssh para gerar uma chave ssh que iremos utilizar para vincular nosso host, o termux, com o github.
+Agora vamos instalar o `openssh` e o `git`. O git é fundamental para nós desenvolvedores versionarmos nosso código. Também precisaremos de um comando do openssh para gerar uma chave ssh que iremos utilizar para vincular nosso host, o Termux, com o github.
 
 Instale os pacotes:
 
@@ -109,7 +109,7 @@ cat id_xpto.pub
 
 ## Verificando a conexão ssh.
 
-A última etapa do processo é verificar se nosso vinculo do termux com o github via ssh foi bem sucedido, faremos isso por meio do comando abaixo (que deve ser executado no Termux):
+A última etapa do processo é verificar se nosso vinculo do Termux com o github via ssh foi bem sucedido, faremos isso por meio do comando abaixo (que deve ser executado no Termux):
 
 ```bash
 ssh -T git@github.com
@@ -119,16 +119,16 @@ Se a saída do comando for:
 
 _Hi [Nome do seu usuário]! You've successfully authenticated, but GitHub does not provide shell access._
 
-Parabéns! Agora você pode utilizar o termux como ferramenta de desenvolvimento podendo trabalhar tanto em seus projetos pessoais como em projetos open-source com o GitHub.
+Parabéns! Agora você pode utilizar o Termux como ferramenta de desenvolvimento podendo trabalhar tanto em seus projetos pessoais como em projetos open-source com o GitHub.
 
 ## Dicas Extras
 
-1) Recomendo fortemente estudar a documentação do termux. Ele é muito mais do que parece ser.
+1) Recomendo fortemente estudar a documentação do Termux. Ele é muito mais do que parece ser.
 
 2) Recomendo estudar alguns comandos básicos de linux, a maioria deles possui um manual próprio integrado mas se o idioma for barreira... há livros, videos e todo tipo de conteúdo sobre linux.
 
 2) O Termux é um projeto comunitário. Descobriu um bug? Abra uma issue no repositório deles (caso não exista). Se você descobrir como resolver o bug, melhor ainda: abre um PR.
 
-3) Este último tópico está relacionado ao uso pessoal de cada um. Nós desenvolvedores precisamos de editores de código para programar, há muitos editores que funcionam dentro do terminal. No contexto do termux isso acaba sendo positivo pois smartphones não possuem a mesma flexibilidade de gerenciar janelas como temos no Desktop/Notebook. Alguns dos editores via linha de comando são o [Nano](https://www.nano-editor.org/), [Vim](https://www.vim.org/), [NeoVim](https://neovim.io/), [Micro](https://micro-editor.github.io/) e [Emacs](https://www.gnu.org/software/emacs/). Minha recomendação — pessoal — para um iniciante é o **Micro**. Apesar dele possuir uma comunidade pequena, seus comandos são muito simples (semelhantes  aos do [VSCode](https://code.visualstudio.com/)) o que o torna amigável e prático, além de suportar plugins assim como o Emacs e o NeoVim. Existem também editores de código na PlayStore (alguns são bem completos). Escolha o que melhor se sentir confortável para utilizar. O importante é aprender.
+3) Este último tópico está relacionado ao uso pessoal de cada um. Nós desenvolvedores precisamos de editores de código para programar, há muitos editores que funcionam dentro do terminal. No contexto do Termux isso acaba sendo positivo pois smartphones não possuem a mesma flexibilidade de gerenciar janelas como temos no Desktop/Notebook. Alguns dos editores via linha de comando são o [Nano](https://www.nano-editor.org/), [Vim](https://www.vim.org/), [NeoVim](https://neovim.io/), [Micro](https://micro-editor.github.io/) e [Emacs](https://www.gnu.org/software/emacs/). Minha recomendação — pessoal — para um iniciante é o **Micro**. Apesar dele possuir uma comunidade pequena, seus comandos são muito simples (semelhantes  aos do [VSCode](https://code.visualstudio.com/)) o que o torna amigável e prático, além de suportar plugins assim como o Emacs e o NeoVim. Existem também editores de código na PlayStore (alguns são bem completos). Escolha o que melhor se sentir confortável para utilizar. O importante é aprender.
 
 > “Se eu vi mais longe, foi por estar sobre ombros de gigantes”_ — Sir Isaac Newton
