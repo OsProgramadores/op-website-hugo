@@ -347,6 +347,7 @@ Ao adicionar o seu nome, por favor observe:
 | Savio S. Gusmão                | saviosg@outlook.com                     | https://github.com/saviosg                |
 | Sergio Herman Bastos Lima      | sergioherman@id.uff.br                  | https://github.com/sergioherman           |
 | Simon James Shurety            | simonjshurety@gmail.com                 | https://github.com/Simonjshurety          |
+| Sofia De Araújo                | sofiamarcelino2804@gmail.com            | https://github.com/sofia-araujo           |
 | Stéfano Tavares Diane          | stefanotd@yahoo.com.br                  | https://github.com/stefanotd              |
 | Suzane da Silva Melo           | melo.suzane.89@gmail.com                | https://github.com/SuzaneMelo             |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                     | https://github.com/taciossbr              |
