@@ -11,17 +11,17 @@ banner = "img/banners/floating-smartphone.webp"
 Olá pessoal, me chamo Rubens dos Santos e sou um membro do grupo Os Programadores.
 Neste artigo iremos aprender a configurar o Termux com git e github, além de algumas dicas para programar no smartphone.
 
-Mas o que é Termux? Termux é um emulador de terminal de código aberto para o sistema operacional Android. Não é o único disponivel, mas o que o difere dos outros aplicativos emuladores de terminal é o fato dele se assimilar a uma distro linux, possuindo um gerenciador de pacotes por exemplo, o que nos possibilita instalar bibliotecas e pacotes.
+Mas o que é Termux? Termux é um emulador de terminal de código aberto para o sistema operacional Android. Não é o único disponível, mas o que o difere dos outros aplicativos emuladores de terminal é o fato dele se assimilar a uma distro linux, possuindo um gerenciador de pacotes por exemplo, o que nos possibilita instalar bibliotecas e pacotes.
 
 
 > **Preciso saber linux para poder utilizar o Termux?**
-> Depende. Você precisou saber andar de bicleta para aprender a andar de bicicleta? Paradoxal, certo? Em muitas ocasiões da nossa vida aprendemos no **durante**, no **processo**, na **tentativa e erro**. Então respondendo a pergunta: você pode aprender linux enquanto utiliza o Termux, enquanto sua curiosidade o leva a se questionar o que cada comando faz. Não precisa ler um livro de mil páginas sobre linux nem nada do genêro, ao menos que você queira.
+> Depende. Você precisou saber andar de bicicleta para aprender a andar de bicicleta? Paradoxal, certo? Em muitas ocasiões da nossa vida aprendemos no **durante**, no **processo**, na **tentativa e erro**. Então respondendo a pergunta: você pode aprender linux enquanto utiliza o Termux, enquanto sua curiosidade o leva a se questionar o que cada comando faz. Não precisa ler um livro de mil páginas sobre linux nem nada do gênero, ao menos que você queira.
 
 Vamos começar?
 
 ## Baixando o Termux
 
-Por uma questão de manutenabilidade da ferramenta eu indico que faça o download do aplicativo pela **F-Droid**. Que é uma loja de aplicativos livres e open-source. Você **não precisa** baixar a F-Droid para baixar o Termux. Basta baixar o Termux acessando [o site da F-droid](https://f-droid.org/pt_BR/packages/com.Termux/) e clicar em **baixar APK**. Após isso basta instalar o APK do Termux em seu smartphone.
+Por uma questão de manutenibilidade da ferramenta eu indico que faça o download do aplicativo pela **F-Droid**. Que é uma loja de aplicativos livres e open-source. Você **não precisa** baixar a F-Droid para baixar o Termux. Basta baixar o Termux acessando [o site da F-droid](https://f-droid.org/pt_BR/packages/com.termux/) e clicar em **baixar APK**. Após isso basta instalar o APK do Termux em seu smartphone.
 
 ## Conhecendo a ferramenta
 
