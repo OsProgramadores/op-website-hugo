@@ -150,6 +150,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gleydson José da Silva         | gleydsonjosewarface@hotmail.com         | https://github.com/gleydsonjose           |
 | Guilherme Ribeiro de Carvalho  | guiribeirodev@gmail.com                 | https://github.com/guiribeirodev          |
 | Gustavo de Almeida             | gustavofcma@gmail.com                   | https://github.com/gustavofcma            |
+| Gutierre Arruda                | garruda@id.uff.br                       | https://github.com/GutierreArruda         |
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                       | https://github.com/hamonCordova           |
 | Heberth Augusto Silva Gomes    | heberth.augusto@gmail.com               | https://github.com/Heberth6               |
 | Heitor Souza                   | sousaheitorcv@outlook.com               | https://github.com/sousaheitorcv          |
