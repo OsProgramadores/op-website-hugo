@@ -177,7 +177,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jefferson Queiroz Venerando    | No Email                                | https://github.com/shamanime              |
 | Jefferson Seraphim             | jseraphim@gmail.com                     | https://github.com/jeffseraphim           |
 | Jefferson Teixeira             | jeffersonads2019@gmail.com              | https://github.com/jeffteixeira           |
-| Jéssica Macedo Rafael          | jessica.crei@gmail.com                  | https://github.com/jessicamacedorafael
+| Jéssica Macedo Rafael          | jessica.crei@gmail.com                  | https://github.com/jessicamacedorafael    |
 | Jessica Zanelato Soares        | jessizanelato@gmail.com                 | https://github.com/jessizanelato          |
 | Jeziel Silva dos Santos        | silvajeziel22@gmail.com                 | https://github.com/jezielsilva            |
 | Jhonatan Carvalho Silva        | srjhonatancarvalho@gmail.com            | https://github.com/Jonhcs                 |
