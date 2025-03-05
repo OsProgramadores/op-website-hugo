@@ -311,7 +311,7 @@ var searchInsert = function(nums, target) {
         // Se o elemento atual for menor que o elemento alvo, o indice do fundo será igual o indice atual que estamos testando (pois como é menor, podemos ignorar a parte inferior, e adicionamos +1 pois é o proprio indice do momento)
         else if (currentTarget < target) {
             bottomIndex = middleIndex + 1
-        } 
+        }
         // Aqui entrará caso o elemento atual for maior que o elemento alvo,seguiremos a lógica reversa do if acima
         else{
             topIndex = middleIndex - 1
