@@ -107,15 +107,13 @@ function pesquisa_simples(lista, item){
 function intervalo(limite) {
   let minhaLista = [];
   let  indice = 0;
-  
+
   while (indice <= limite) {
     minhaLista.push(indice);
     indice++;
   }
-  
   return minhaLista;
-  }
-  
+}
   pesquisa_simples(intervalo(100), 70);
 ```
 
@@ -195,7 +193,7 @@ Vamos falar um pouco de Big O e o que ele tem a ver com isso tudo, Big O é uma 
 Alguns exemplos de complexidade Big O são:
 
 * O(log n): Tempo logarítmico (exemplo: pesquisa binária).
-  
+
 * O(n): Tempo linear (exemplo: pesquisa simples).
 
 * O(n * log n): Tempo linear-logarítmico (exemplo: quicksort).
@@ -335,7 +333,7 @@ E com isso nós conseguimos o seguinte resultado:
   <source media="(max-width: 768px)" srcset="/img/conteudos-de-artigos/introducao-algoritmos/leetcode-result-binary-search-pequena.png">
   <source media="(min-width: 769px)" srcset="/img/conteudos-de-artigos/introducao-algoritmos/leetcode-result-binary-search.png">
   <img src="/img/conteudos-de-artigos/introducao-algoritmos/leetcode-result-binary-search.png" alt="Resultado leetcode">
-</picture>  
+</picture>
 
 ---
 Yeeeeah, desafio concluído e com um tempo de 0ms, um algoritmo de O(log n). Espero que após este artigo vocês tenham compreendido um pouco a respeito de algoritmos, complexidade e tenha te ajudado de alguma forma.
