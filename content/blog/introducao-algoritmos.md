@@ -33,15 +33,14 @@ Algo que poderíamos fazer seria tentar número por número até acertarmos o n�
 Esse é um método funcional, mas se pensarmos bem iremos encontrar um grande problema, pense comigo, se o número escolhido da pessoa for o 70, nós teriamos que ter feito 70 tentativas:
 
 ```mdx
-Tentativa  | Número Escolhido| Resposta  
+Tentativa  | Número Escolhido| Resposta
 -----------|-----------------|------------
-1ª         | 1               | Muito baixo  
-2ª         | 2               | Muito baixo  
-3ª         | 3               | Muito baixo  
-...        | ...             | ...  
-69ª        | 69              | Muito baixo  
-70ª        | 70              | Acertou! 🎯  
-
+1ª         | 1               | Muito baixo
+2ª         | 2               | Muito baixo
+3ª         | 3               | Muito baixo
+...        | ...             | ...
+69ª        | 69              | Muito baixo
+70ª        | 70              | Acertou! 🎯
 ```
 
 Se fosse o número 100, pior ainda, só iriamos acertar na última tentativa, até que funciona mas é uma baita canseira!
@@ -283,9 +282,7 @@ Na plataforma ao escolhermos a linguagem JavaScript, recebemos o seguinte códig
  * @param {number} target
  * @return {number}
  */
-var searchInsert = function(nums, target) {
-    
-};
+var searchInsert = function(nums, target) {};
 ```
 
 É nos dado uma função, que irá receber dois parâmetros, nums sendo a lista de números e target o nosso número alvo, e nós devemos retornar um número. Bora lá começar a resolver:
@@ -313,11 +310,11 @@ var searchInsert = function(nums, target) {
         if (currentTarget == target) {
             return middleIndex
         }
-        // Se o elemento atual for menor que o elemento alvo, o indice do fundo será igual o indice atual que estamos testando (pois como é menor, podemos ignorar a parte inferior, e adicionamos +1 pois é o proprio indice do momento) 
+        // Se o elemento atual for menor que o elemento alvo, o indice do fundo será igual o indice atual que estamos testando (pois como é menor, podemos ignorar a parte inferior, e adicionamos +1 pois é o proprio indice do momento)
         else if (currentTarget < target) {
             bottomIndex = middleIndex + 1
         } 
-        // Aqui entrará caso o elemento atual for maior que o elemento alvo, seguiremos a lógica reversa do if acima
+        // Aqui entrará caso o elemento atual for maior que o elemento alvo,seguiremos a lógica reversa do if acima
         else{
             topIndex = middleIndex - 1
         }
@@ -341,7 +338,7 @@ E com isso nós conseguimos o seguinte resultado:
 </picture>  
 
 ---
-Yeeeeah, desafio concluído e com um tempo de 0ms, um algoritmo de O(log n). Espero que após este artigo vocês tenham compreendido um pouco a respeito de algoritmos, complexidade e tenha te ajudado de alguma forma.  
+Yeeeeah, desafio concluído e com um tempo de 0ms, um algoritmo de O(log n). Espero que após este artigo vocês tenham compreendido um pouco a respeito de algoritmos, complexidade e tenha te ajudado de alguma forma.
 
 Por hoje é isso, vejo vocês no próximo artigo!
 
@@ -349,8 +346,8 @@ Por hoje é isso, vejo vocês no próximo artigo!
 
 ## Referências
 
-[Entendendo algoritmos](https://g.co/kgs/oA1Cfgg) - Livro  
-[Algoritmo](https://pt.wikipedia.org/wiki/Algoritmo) - Wikipedia  
-[Big O](https://www.freecodecamp.org/portuguese/news/o-que-e-a-notacao-big-o-complexidade-de-tempo-e-de-espaco/) - Freecodecamp  
-[Big O](https://pt.wikipedia.org/wiki/Grande-O) - Wikipedia  
-[Logaritmo](https://www.todamateria.com.br/logaritmo/) - Todamateria
+* [Entendendo algoritmos](https://g.co/kgs/oA1Cfgg) - Livro
+* [Algoritmo](https://pt.wikipedia.org/wiki/Algoritmo) - Wikipedia
+* [Big O](https://www.freecodecamp.org/portuguese/news/o-que-e-a-notacao-big-o-complexidade-de-tempo-e-de-espaco/) - Freecodecamp
+* [Big O](https://pt.wikipedia.org/wiki/Grande-O) - Wikipedia
+* [Logaritmo](https://www.todamateria.com.br/logaritmo/) - Todamateria
