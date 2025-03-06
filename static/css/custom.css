@@ -59,3 +59,15 @@ code {
   font-size:52px;
   color: #38a7bb;
 }
+
+/* style for responsive tables */
+.table-wrapper table {
+  width: 100%;
+}
+
+.table-wrapper th,
+.table-wrapper td {
+  font-size: 14px;
+  border: 1px solid #38a7bb;
+  padding: 2px 2.5px;
+}

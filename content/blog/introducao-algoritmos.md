@@ -30,18 +30,23 @@ Algo que poderíamos fazer seria tentar número por número até acertarmos o n�
 2. Perguntamos a pessoa se o número que escolhemos é o numero dela, caso seja nós ganhamos!
 3. Caso não seja o número, nós contamos mais um número e repetimos o passo 2
 
-Esse é um método funcional, mas se pensarmos bem iremos encontrar um grande problema, pense comigo, se o número escolhido da pessoa for o 70, nós teriamos que ter feito 70 tentativas:
+Esse é um método funcional, mas se pensarmos bem iremos encontrar um grande problema, pense comigo, se o número escolhido da pessoa for o 70, nós teríamos que ter feito 70 tentativas:
 
-```mdx
-Tentativa  | Número Escolhido| Resposta
------------|-----------------|------------
-1ª         | 1               | Muito baixo
-2ª         | 2               | Muito baixo
-3ª         | 3               | Muito baixo
-...        | ...             | ...
-69ª        | 69              | Muito baixo
-70ª        | 70              | Acertou! 🎯
-```
+<div class="table-wrapper">
+
+---
+
+Tentativa | N° Escolhido | Resposta
+:--------:|:------------:|:------------:
+1ª        | 1            | Muito baixo
+2ª        | 2            | Muito baixo
+3ª        | 3            | Muito baixo
+...       | ...          | ...
+69ª       | 69           | Muito baixo
+70ª       | 70           | Acertou! 🎯
+
+---
+</div>
 
 Se fosse o número 100, pior ainda, só iriamos acertar na última tentativa, até que funciona mas é uma baita canseira!
 
@@ -57,14 +62,19 @@ Agora, e se nós pudéssemos reduzir esse tempo sempre tentando na metade? nós 
 
 Esse é um método muito mais esperto, pois estamos sempre cortando pela metade ao invés de procurar um por um, se o número escolhido da pessoa for 50, iriamos encontrar na primeira tentativa, caso fosse 25, na segunda tentativa, e caso 70, como no exemplo acima seguiria este formato:
 
-```mdx
-Tentativa | Número Escolhido | Resposta     | Próximo Intervalo
-----------|------------------|--------------|-------------------
-1ª        | 50               | Muito baixo  | 51 a 100
-2ª        | 76               | Muito alto   | 51 a 75
-3ª        | 63               | Muito baixo  | 64 a 75
-4ª        | 70               | Acertou! 🎯  | -
-```
+<div class="table-wrapper">
+
+---
+
+Tentativa | N° Escolhido| Resposta     | Próximo Intervalo
+:--------:|:-----------:|:------------:|:------------:
+1ª        | 50          | Muito baixo  | 51 a 100
+2ª        | 76          | Muito alto   | 51 a 75
+3ª        | 63          | Muito baixo  | 64 a 75
+4ª        | 70          | Acertou! 🎯  | -
+
+---
+</div>
 
 Foram apenas 4 Tentativas contra 70 tentativas do algoritmo anterior, muito mais eficiente.Um detalhe a se observar é que na segunda tentativa ao invés de 75 foi o número 76, isso porque eu decidi uma abordagem de arredondamento para cima, caso arredondasse para baixo também funcionaria porém teria resultados diferentes. Se fosse 1000 números, nós precisaríamos de no máximo apenas 10 tentativas.
 
@@ -84,23 +94,23 @@ Em javascript esta seria uma possível implementação de uma pesquisa simples:
 function pesquisa_simples(lista, item){
   let inicio = 0;
   let fim = lista.length - 1;
-  let indiceCorrente = inicio
+  let indiceCorrente = inicio;
   let contador = 0;
 
   while (indiceCorrente <= fim){
-    contador++
-    let palpite = lista[indiceCorrente]
+    contador++;
+    let palpite = lista[indiceCorrente];
 
     if (palpite == item){
       console.log(`Você acertou! palpite ${palpite}\nForam necessárias: ${contador} tentativas`);
-      return palpite
+      return palpite;
     } else {
-      indiceCorrente++
+      indiceCorrente++;
     }
   }
 
   console.log(`Número não encontrado.\nTentativas realizadas: ${contador}`);
-  return null
+  return null;
 }
 
 //Função simples para gerar uma lista
@@ -217,9 +227,12 @@ No caso é Log₂8 = 3, pois 2³ = 8 (~~e tinham me falado que matemática n ser
 
 Voltando ao nosso exemplo, em um caso aonde temos que procurar 100 itens, a pesquisa binária é O(log₂n)=100, ou seja, eu tenho que elevar 2 a qual número caso eu deseje o resultado de 100? seria aproximadamente 6,64, neste caso 7, portanto na pior hipótese eu precisaria de 7 tentativas, em 10000 seriam apenas 14 tentativas, um baita ganho em comparação a pesquisa simples, segue a tabela abaixo com uma comparação entre os algoritmos:
 
-```
- Tamanho da Lista (n) | Pesquisa Simples (O(n)) | Pesquisa Binária (O(log₂(n)))
-----------------------|-------------------------|-----------------------------
+<div class="table-wrapper">
+
+---
+
+ Tamanho da Lista (n) | Pesquisa Simples O(n)   | Pesquisa Binária O(log₂(n))
+:--------------------:|:-----------------------:|:--------------------------:
  100                  | 100 tentativas          | ~7 tentativas
  1.000                | 1.000 tentativas        | ~10 tentativas
  10.000               | 10.000 tentativas       | ~14 tentativas
@@ -227,7 +240,10 @@ Voltando ao nosso exemplo, em um caso aonde temos que procurar 100 itens, a pesq
  1.000.000            | 1.000.000 tentativas    | ~20 tentativas
  10.000.000           | 10.000.000 tentativas   | ~24 tentativas
  1.000.000.000        | 1.000.000.000 tentativas| ~30 tentativas
-```
+
+---
+
+</div>
 
 Supondo 1ms para cada tentativa, em 1 bilhão usando pesquisa simples levaria 1 bilhão de ms que são 11,5 dias contra 30 milissegundos da pesquisa binária (talvez algoritmo seja um pouquinho importante haha)
 
@@ -295,9 +311,7 @@ var searchInsert = function(nums, target) {
     let bottomIndex = 0
     let topIndex = nums.length - 1
 
-//Até Aqui nós definimos o indíce do fundo, no caso o 0 e o ultimo indice da lista, que é para pegarmos todo a lista
-
-
+//Até Aqui nós definimos o indíce do fundo, no caso o 0 e o ultimo indice da lista, que é para pegarmos toda a lista
 
     while (bottomIndex <= topIndex) {
         //Pegamos em middleIndex o indice **central**, estamos utilizando o Math.ceil para arredondar o número para cima caso o resultado da divisão não seja um número inteíro, e currentTarget é o elemento, o número que estamos testando no momento
@@ -329,11 +343,14 @@ var searchInsert = function(nums, target) {
 
 E com isso nós conseguimos o seguinte resultado:
 
-<picture>
-  <source media="(max-width: 768px)" srcset="/img/conteudos-de-artigos/introducao-algoritmos/leetcode-result-binary-search-pequena.png">
-  <source media="(min-width: 769px)" srcset="/img/conteudos-de-artigos/introducao-algoritmos/leetcode-result-binary-search.png">
-  <img src="/img/conteudos-de-artigos/introducao-algoritmos/leetcode-result-binary-search.png" alt="Resultado leetcode">
-</picture>
+---
+
+{{< img
+    src="/img/conteudos-de-artigos/introducao-algoritmos/leetcode-result-binary-search.png"
+    alt="Resultado do sucesso do LeetCode com tempo de 0ms"
+    width="100%"
+    align="flex-start"
+>}}
 
 ---
 Yeeeeah, desafio concluído e com um tempo de 0ms, um algoritmo de O(log n). Espero que após este artigo vocês tenham compreendido um pouco a respeito de algoritmos, complexidade e tenha te ajudado de alguma forma.
