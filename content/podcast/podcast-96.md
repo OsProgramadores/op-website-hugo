@@ -9,6 +9,8 @@ banner = "img/banners/podcast-400px.png"
 ###  Juliano Souza - Software Engineer at X-Team
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=8GIi1Brz0HM).
 
+{{< spotify type="episode" id="4gEIjDSW08KUlWgeaeHY2E" width="80%">}}
+
 {{< youtube 8GIi1Brz0HM >}}
 
 ___
