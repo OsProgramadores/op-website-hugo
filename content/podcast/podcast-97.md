@@ -9,6 +9,8 @@ banner = "img/banners/podcast-400px.png"
 ### David Zaque - Engenheiro de Qualidade de Software na Radix
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=SsMp8bXRMHY).
 
+{{< spotify type="episode" id="4vkoH8Nvg1YAXguq7v08rq" width="80%">}}
+
 {{< youtube SsMp8bXRMHY >}}
 
 ___
