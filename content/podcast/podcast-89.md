@@ -26,7 +26,7 @@ Se você quer entender mais sobre os bastidores do desenvolvimento de software e
 e-commerce ou busca inspiração para crescer na carreira de tecnologia, este episódio está repleto de dicas e insights
 valiosos.
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do Johnathan Fercher nas redes
 

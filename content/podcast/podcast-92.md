@@ -22,7 +22,7 @@ Neste episódio, conversamos com Cleber Lopes Campomori, um profissional com lar
 
 Durante a conversa, ele compartilha sua trajetória inspiradora, os desafios que enfrentou ao longo de sua carreira e as lições aprendidas no caminho. Cleber também oferece insights valiosos sobre como se destacar no mercado de tecnologia e construir uma carreira sólida e impactante.
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do Cleber Lopes nas redes
 

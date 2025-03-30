@@ -23,7 +23,7 @@ Com Mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia, Ig
 
 Se você quer aprender mais sobre inteligência artificial, aprendizado de máquina ou busca inspiração para se destacar na área de tecnologia, este episódio é imperdível!
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do Igor Costa nas redes
 
