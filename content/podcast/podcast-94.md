@@ -20,7 +20,7 @@ Neste episódio, conversamos com Artur Souza, Vice-Presidente de Business Engine
 Durante a conversa, Artur compartilha sua inspiradora trajetória profissional, desde o início de sua carreira até ocupar um papel de liderança em uma das maiores empresas de tecnologia do mundo. Ele também fala sobre os desafios e aprendizados ao liderar iniciativas globais e oferece conselhos valiosos para quem busca evoluir na área de tecnologia.
 
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do Artur Souza
 

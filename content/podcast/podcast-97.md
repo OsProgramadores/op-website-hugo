@@ -17,7 +17,7 @@ Neste episódio, conversamos com David Zaque, um profissional com ampla experiê
 
 Se você deseja entender mais sobre qualidade de software, automação de testes e  integração de sistemas, este episódio é para você!
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do David Zaque
 

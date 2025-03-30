@@ -24,7 +24,7 @@ Inc. at the Eclipse Foundation, contributes to bndtools.org, and supports numero
 During our conversation, Ray shares insights into his career and provides recommendations to those who wish to follow a
 similar path.
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do Ray Augé nas redes
 

@@ -19,7 +19,7 @@ Neste episódio, conversamos com Dr. André Valdestilhas, Ph.D. in Computer Scie
 
 Durante a conversa, exploramos sua trajetória profissional, os desafios enfrentados e André também compartilha insights e dicas para profissionais que desejam ingressar ou evoluir nessa área.
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do André Valdestilhas
 

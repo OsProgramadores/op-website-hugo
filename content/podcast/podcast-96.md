@@ -19,7 +19,7 @@ Neste episódio, tivemos o prazer de conversar com Juliano Souza, um profissiona
 Ao longo de sua trajetória, Juliano enfrentou desafios complexos de escalabilidade e desempenho, explorando soluções como NewRelic, Application Insights e ELK Stack para monitoramento e logging distribuído. Sua busca por eficiência o levou ao estudo de pipelines de processamento, Microservices, Message Queueing, Docker e DC/OS, aplicando essas tecnologias para melhorar arquiteturas de software em ambientes de alta escala.
 Atualmente, Juliano trabalha com AWS, Go, Jenkins, Cassandra, ElasticSearch, MySQL, Datadog e NewRelic, projetando e desenvolvendo soluções para uma plataforma de streaming de alto tráfego, garantindo alta disponibilidade e tolerância a falhas. Sempre motivado pelo aprendizado contínuo, ele compartilha insights sobre boas práticas, desafios da arquitetura de microservices e ferramentas essenciais para engenharia de software moderna.
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do Juliano Souza
 

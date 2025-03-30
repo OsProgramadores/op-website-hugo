@@ -23,7 +23,7 @@ Neste episódio, conversamos com Daniel Nathan, um profissional de destaque que 
 Durante a conversa, Daniel compartilha detalhes de sua trajetória profissional, os desafios enfrentados em sua carreira e as estratégias que utilizou para superar obstáculos e alcançar o sucesso. Ele também oferece dicas valiosas para aqueles que buscam crescer na área de tecnologia e explorar novas oportunidades no setor.
 
 
-> Junte-se a nós no grupo do Telegram para trocar ideias e acompanhar as novidades da nossa comunidade!
+> Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
 #### Links do Daniel Nathan
 
