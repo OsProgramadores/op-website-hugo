@@ -9,7 +9,7 @@ banner = "img/banners/podcast-400px.png"
 ### Joseph Lee - Director @ Code in Place
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=_8rReTpWLQg).
 
-[//]: # ({{< spotify type="episode" id="PENDENTE" width="80%">}})
+{{< spotify type="episode" id="1wVMN5j3D8p2egpuiC4leL" width="80%">}}
 
 {{< youtube _8rReTpWLQg >}}
 
