@@ -12,7 +12,7 @@ O grupo foi criado por um grupo de amigos, veteranos em diversas áreas de compu
 
 ## Por onde eu começo?
 
-Temos alguns ótimos artigos introdutórios aqui no site! Recomendamos que você comece por [este artigo](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/), leia-o com calma e atenção. Após concluí-lo, continue seus estudos através [deste artigo](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/).
+Temos alguns ótimos artigos introdutórios aqui no site! Recomendamos que você comece por [este artigo](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais), leia-o com calma e atenção. Após concluí-lo, continue seus estudos através [deste artigo](https://osprogramadores.com/blog/2019/03/12/ola-mundo/).
 
 ## Posso fazer perguntas sobre o X?
 
