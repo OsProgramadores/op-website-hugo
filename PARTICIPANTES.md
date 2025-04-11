@@ -133,6 +133,7 @@ Ao adicionar o seu nome, por favor observe:
 | Flávio Júnior Avelino da Silva | flaviojunior.work@gmail.com             | https://github.com/flavio-junior          |
 | Francisco Eduardo P. S. Silva  | sudo.franciscosilva20@gmail.com         | https://github.com/Francisco2002          |
 | Francisco Jose de Assis Cunha  | fjacunha@gmail.com                      | https://github.com/fjoseacunha            |
+| Frank Dantas Cunha             | frank_26@outlook.com                    | https://github.com/frankdantas            |
 | Frederico Gomes de Paiva       | fredericopaiva@gmail.com                | https://github.com/fredpaiva42            |
 | Gabriel Barbosa                | gabrieltads2016@gmail.com               | https://github.com/gabrielrbarbosa        |
 | Gabriel Dos Santos             | gabriel.santosti01@gmail.com            | https://github.com/GabrielDS              |
