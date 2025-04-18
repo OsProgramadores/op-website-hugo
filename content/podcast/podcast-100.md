@@ -1,5 +1,5 @@
 +++
-date = "2025-04-07T00:00:00-00:00"
+date = "2025-04-13T00:00:00-00:00"
 title = "E100 - Marcelo Pinheiro"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
