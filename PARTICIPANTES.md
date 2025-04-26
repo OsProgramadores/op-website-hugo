@@ -216,7 +216,7 @@ Ao adicionar o seu nome, por favor observe:
 | Kézia Ketillen Santos Lima     | k.ketillen@escolar.ifrn.edu.br          | https://github.com/Kk3tillen              |
 | Klisóstom Sousa Da Silva       | klis@pm.me                              | https://github.com/klisostom              |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                  | https://github.com/kyldery                |
-| Karine Ferreira de Brito       | Karineferreiradebrito@gmail.com         | https://github.com/KarineFBrito           |
+| Karine Ferreira de Brito       | karineferreiradebrito@gmail.com         | https://github.com/KarineFBrito           |
 | Lauro Silveira Neto            | laurosn@gmail.com                       | https://github.com/laurosn                |
 | Leandro Guedes                 | leanguedes@icloud.com                   | https://github.com/rocketguedes           |
 | Leo Baiano                     | ljunior2005@gmail.com                   | https://github.com/leobaiano              |
