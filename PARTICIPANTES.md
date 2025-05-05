@@ -1,6 +1,7 @@
 # Participantes do grupo do Telegram que deram fork no projeto
 
 Ao adicionar o seu nome, por favor observe:
+
 * Adicione o seu nome, email e página do github na lista abaixo.
 * A lista é ordenada por *nome*, seguida de *prenome* e *sobrenome*.
 * Emails inválidos serão rejeitados automaticamente.
