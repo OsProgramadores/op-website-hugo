@@ -32,6 +32,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexandre Paloschi Horta       | alexandre.horta@gmail.com               | https://github.com/AlexPHorta             |
 | Alexandre Pierre               | alexandrempierre@gmail.com              | https://github.com/alexandrempierre       |
 | Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com             | https://github.com/apfmiranda             |
+| Alexandre Varga Junior         | alexandrevarga1@gmail.com               | https://github.com/alexandrevarga         |
 | Alexsandro Felix               | felix@ffelix.eti.br                     | https://github.com/asfelix                |
 | Alexsandro Matias              | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
