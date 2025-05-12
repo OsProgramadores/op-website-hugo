@@ -345,6 +345,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ronan Lutiane da Silva         | ronanlutiane@hotmail.com                | https://github.com/ronanlutiane           |
 | Roney Cacau Alves              | roneycacau@gmail.com                    | https://github.com/roneycacau             |
 | Ruan Costa Campos              | ruancostadev@gmail.com                  | https://github.com/ruancostacampos        |
+| Ruan Pablo Nascimento Fernandes| ruanp1530@gmail.com                     | https://github.com/Th3Progr4mm3r
 | Rubens Rodrigues               | rubens17rodrigues@gmail.com             | https://github.com/rubens17rodrigues      |
 | Ruhan Macedo                   | ruhanmacedo@outlook.com                 | https://github.com/ruhanmacedo            |
 | Samuel Evangelista Pereira     | sam.pereirabr@gmail.com                 | https://github.com/SamPereirabr           |
