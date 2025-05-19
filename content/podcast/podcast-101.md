@@ -1,6 +1,6 @@
 +++
 date = "2025-05-12T00:00:00-00:00"
-title = "E101 - Rodrigo Borcat - Head of Technology at Ifood Pago"
+title = "E101 - Rodrigo Borcat"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
 banner = "img/banners/podcast-400px.png"
