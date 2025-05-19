@@ -17,7 +17,7 @@ ___
 
 Neste episódio, conversamos com Rodrigo Borcat, Head of Technology no iFood Pago, a unidade de soluções financeiras do iFood.
 
-Rodrigo compartilhou sua trajetória no mundo da tecnologia, os desafios de escalar sistemas financeiros no Brasil e o papel da engenharia na criação de produtos seguros e confiáveis em um ambiente de alta performance. 
+Rodrigo compartilhou sua trajetória no mundo da tecnologia, os desafios de escalar sistemas financeiros no Brasil e o papel da engenharia na criação de produtos seguros e confiáveis em um ambiente de alta performance.
 
 > Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
