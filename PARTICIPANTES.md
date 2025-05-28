@@ -56,6 +56,7 @@ Ao adicionar o seu nome, por favor observe:
 | Anthony Louis G. Ferreira       | anthony.physis@gmail.com                | https://github.com/anthonylgf             |
 | Antonio Gabriel                 | antonioggca000@gmail.com                | https://github.com/antonioGabrielGomes    |
 | Antonio Lisbôa de Melo Neto     | antonion.2048@gmail.com                 | https://github.com/Note45                 |
+| Aquiles Trindade Ferreira       | trindadedev13@gmail.com                 | https://github.com/trindadedev13          |
 | Ariane Carvalho                 | carvalhobva@gmail.com                   | https://github.com/arianevcarvalho        |
 | Arlesson Jaques                 | No Email                                | https://github.com/Schuarzem              |
 | Arthur Alves Reis               | art4321@outlook.com.br                  | https://github.com/itsArthurAlves         |
