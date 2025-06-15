@@ -8,6 +8,8 @@ banner = "img/banners/girl-using-computer.webp"
 
 Nos últimos três anos, o Grupo OsProgramadores tem desempenhado um papel significativo ao fornecer acesso à tecnologia para aqueles que de outra forma não teriam condições de adquirir um computador. Por meio de doações generosas, o grupo já distribuiu mais de 70 computadores usados para pessoas em todo o Brasil. Essa iniciativa tem como objetivo principal ajudar indivíduos a ingressarem no mundo da programação, abrindo portas para oportunidades educacionais e profissionais.
 
+<!--more-->
+
 As doações de computadores do Grupo OsProgramadores têm alcançado pessoas em todo o país, desde o Acre até o Rio Grande do Sul. Esses computadores têm sido uma ferramenta essencial para muitos que aspiram aprender a programar, mas enfrentam barreiras financeiras para adquirir equipamentos adequados.
 
 Um dos aspectos mais gratificantes dessa iniciativa é o impacto tangível que ela tem na vida das pessoas. Muitos beneficiários das doações relataram como esses computadores os ajudaram a dar os primeiros passos no aprendizado da programação. Além disso, há relatos emocionantes de pessoas que conseguiram empregos graças às habilidades de programação que adquiriram utilizando esses computadores.

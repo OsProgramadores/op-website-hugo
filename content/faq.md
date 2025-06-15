@@ -12,7 +12,7 @@ O grupo foi criado por um grupo de amigos, veteranos em diversas áreas de compu
 
 ## Por onde eu começo?
 
-Temos alguns ótimos artigos introdutórios aqui no site! Recomendamos que você comece por [este artigo](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais-para-come%C3%A7ar/), leia-o com calma e atenção. Após concluí-lo, continue seus estudos através [deste artigo](https://osprogramadores.com/blog/2019/03/12/por-onde-comecar/).
+Temos alguns ótimos artigos introdutórios aqui no site! Recomendamos que você comece por [este artigo](https://osprogramadores.com/blog/2024/02/29/conceitos-essenciais), leia-o com calma e atenção. Após concluí-lo, continue seus estudos através [deste artigo](https://osprogramadores.com/blog/2019/03/12/ola-mundo/).
 
 ## Posso fazer perguntas sobre o X?
 
@@ -38,13 +38,36 @@ O envio de fotos de telas com códigos, em particular sem contexto suficiente, t
 
 ## Posso anunciar o meu grupo Telegram/Facebook?
 
-A promoção de recursos ligados a área de programação, **sem fins lucrativos** é geralmente bem vinda. Aceitamos a disseminação de grupos do Telegram, canais no Whatsapp, grupos no Facebook, blogs, podcasts, canais no Youtube, distribuição (legal) de livros gratuitos, etc.
+A promoção de recursos ligados a área de programação, **sem fins lucrativos** é geralmente bem-vinda. Aceitamos a disseminação de grupos do Telegram, canais no Whatsapp, grupos no Facebook, blogs, podcasts, canais no Youtube, distribuição (legal) de livros gratuitos, etc.
 
-Ao promover algo, mantenha em mente que **o grupo valoriza a participação acima de tudo**.  Uma ocorrência frequente (e infeliz) são aqueles que entram no grupo com a única função de promover o seu grupo ou canal.  Os admins reservam o direito de apagar os posts que considerem "auto promoção sem participação".
+Ao promover algo, mantenha em mente que **o grupo valoriza a participação acima de tudo**. Uma ocorrência frequente (e infeliz) são aqueles que entram no grupo com a única função de promover o seu grupo ou canal.  Os admins reservam o direito de apagar os posts que considerem "auto promoção sem participação".
 
 ## Estou sendo perseguido por outro membro. O que devo fazer?
 
 Se você acredita estar sendo perseguido por outro participante, ou observou qualquer comportamento indiscreto ou inconsistente com um ambiente saudável, entre em contato com um dos administradores em private e explique o problema. Os administradores do grupo estão listados no final da página principal do site [OsProgramadores](https://osprogramadores.com).
+
+# Podcast
+
+## Onde posso assistir/ouvir o Podcast?
+
+No momento há algumas opções:
+
+* [Na sessão de Podcasts em nosso site](https://osprogramadores.com/podcast/)
+* [No Youtube](https://www.youtube.com/@OsProgramadores?sub_confirmation=1)
+  * onde você pode ver os episódios gravados no formato **videocast** ([episódio 80 adiante](https://www.youtube.com/watch?v=4nBKN0eUToI&sub_confirmation=1));
+  * como também pode ouvir o áudio de todos os nossos episódios.
+* [No Spotify](https://open.spotify.com/show/0IrqGbURcNnumdHVkfKIFA)
+  * onde você pode ouvir o áudio de todos os episódios do nosso podcast.
+* [No Tiktok](https://www.tiktok.com/@osprogramadores)
+  * onde recentemente passamos a publicar cortes dos episódios.
+
+## Como faço para participar do Podcast?
+
+Entrando em contato conosco através do [nosso grupo no Telegram](https://t.me/osprogramadores).
+
+## Posso indicar alguém para ser entrevistado?
+
+Pode sim! Recomendamos que você entre em contato conosco através do [nosso grupo no Telegram](https://t.me/osprogramadores) para saber como prosseguir.
 
 # Perguntas técnicas
 

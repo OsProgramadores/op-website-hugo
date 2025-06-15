@@ -6,6 +6,10 @@ sources:
   title: "Os Programadores"
   description: "Grupo que tem como objetivo incentivar o aprendizado de programação. É aberto à conversas sobre programação em geral, de todos os níveis"
 
+- url: "https://t.me/osprogramadores_vagas"
+  title: "OsProgramadores-vagas"
+  description: "Vagas de trabalho divulgadas por participantes do grupo OsProgramadores"
+
 - url: "https://t.me//android_drops"
   title: "Android Dev Drops"
   description: "Grupo sobre desenvolvimento nativo para Android"
@@ -713,7 +717,7 @@ sources:
 - url: "https://t.me/tudosobreti"
   title: "TUDO SOBRE T.I"
   description: "Canal de informações sobre TI"
-  
+
 - url: "https://t.me/typescriptbr"
   title: "TypeScript Brasil"
   description: "Grupo brasileiro dedicado à linguagem de programação TypeScript"
@@ -769,4 +773,3 @@ sources:
 - url: "https://t.me/zimBrasil"
   title: "ZimBrasil"
   description: "Grupo brasileiro de discussão, apoio e idéias sobre Zimbra"
-

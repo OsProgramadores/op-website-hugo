@@ -14,12 +14,12 @@ Trabalha desde 2017 em projetos internacionais e com tecnologias cloud ([⁠AWS�
 É formado em Engenharia de Software pela [⁠UniCesumar](https://www.unicesumar.edu.br/home/) ⁠e  possui certificações [Java ⁠OCAJP](https://education.oracle.com/product/trackp_333)⁠, Google Cloud Security Engineer, Kubernetes Administrator ([⁠CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)⁠) e Kubernetes Application Developer ([⁠CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)⁠). Vive desde 2019 em Londres na Inglaterra onde trabalhou como Dev de Jogos de Cassinos on-line e já conheceu 9 países.
 
 
-**Links**   
-@DevLondres  
-[⁠⁠Youtube⁠⁠](https://www.youtube.com/@devlondres)  
+**Links**
+@DevLondres
+[⁠⁠Youtube⁠⁠](https://www.youtube.com/@devlondres)
 [⁠⁠Instagram⁠](https://www.instagram.com/devlondres/)
 
-**⁠Livros**  
+**⁠Livros**
 - Designing data intensive applications (Martin Kleppmann)
 - Código limpo (Robert Martin)
 - Arquitetura limpa. O guia do artesão para estrutura e design de sofware (Robert Martin) 
@@ -32,4 +32,3 @@ Trabalha desde 2017 em projetos internacionais e com tecnologias cloud ([⁠AWS�
 - [Grupo no Telegram](https://t.me/osprogramadores)
 - [Canal do Youtube do OsProgramadores](https://www.youtube.com/channel/UCt_YNYGl6K5yNXlXEQDdwWg?view_as=subscriber)
 - [Twitter do Marcelo Pinheiro](https://twitter.com/mpinheir)
-

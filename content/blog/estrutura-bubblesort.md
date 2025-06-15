@@ -1,17 +1,17 @@
 +++
 date = "2017-08-24T23:34:06-03:00"
-title = "Ordenação bubble sort"
+title = "Algoritmo de ordenação: bubble sort"
 categories = ["ordenação","algoritmo"]
 tags = ["bubblesort"]
 banner = "img/banners/bubbles.webp"
 
 +++
 
-## Algoritmo de ordenação: _bubble sort_[^fa]
-
 Os dados de um programa podem ser armazenados na memória, porém para que passem a ser considerados informação e ter sentido, muitas vezes é necessário ordená-los. Existem várias formas de ordenar os dados, algumas são mais eficientes do que outras, porém as mais eficientes também podem ser as mais complexas de implementar.
 
 Neste artigo vamos aprender um dos mecanismos de ordenação mais simples para quem está estudando estruturas de dados. O _bubble sort_ é um dos algoritmos menos eficientes, contudo mais fáceis de implementar. O termo _bubble_ advém da forma como o vetor é ordenado, como bolhas[^f1] que vão buscando seu lugar emergindo na ordenação desejada do vetor.
+
+<!--more-->
 
 ## Demonstração
 

@@ -6,7 +6,14 @@ languageCode = "pt_BR"
 defaultContentLanguage = "pt"
 
 # Define the number of posts per page
-paginate = 12
+pagination.PagerSize = 12
+
+# Allow rendering of inline html (hi-scores are merged into scores.md by
+# http://github.com/osprogramadores/op-scoreboard).
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
 
@@ -101,7 +108,7 @@ paginate = 12
     search = true
 
 [params.carousel]
-    enable = false
+    enable = true
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
@@ -143,4 +150,3 @@ paginate = 12
     enable = true
     title = "Artigos Recentes"
     subtitle = ""
-

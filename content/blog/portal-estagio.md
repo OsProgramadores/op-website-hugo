@@ -8,6 +8,8 @@ banner = "img/banners/background-code.webp"
 
 O [Portal Estágio](https://portalestagio.com/) é uma oportunidade para quem quiser aprender a trabalhar em grupo e contribuir com um projeto open source. O projeto está em desenvolvimento e precisamos de pessoas interessadas em colaborar e levar o projeto a frente.
 
+<!--more-->
+
 Objetivos do projeto:
 
 1. Ajudar quem está aprendendo a programar e querendo a experiência de participar de um projeto em equipe, como em um ambiente de trabalho real.

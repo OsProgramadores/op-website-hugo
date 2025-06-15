@@ -8,6 +8,8 @@ banner = "img/banners/visualvm_logo_big.webp"
 
 Neste artigo, vamos fazer uma introdução acerca da técnica de `profiling`. Esta técnica é uma forma de análise dinâmica do código, isto é, que verifica e recolhe informações do programa em tempo de execução.
 
+<!--more-->
+
 Ela é muito importante, pois nos permite ter informações sobre algum programa que às vezes são impossíveis de se perceber apenas lendo o código, como a quantidade de vezes que uma função é executada, quais funções que demoram mais para serem executadas, como a memória é utilizada internamente no código e etc.
 
 Apesar de ser uma técnica importante e bastante útil, ela não é bastante difundida nos cursos para iniciantes e muitos desenvolvedores não sabem tirar proveito dessa ferramenta.
@@ -340,7 +342,7 @@ public class Main {
 
     private static final BufferedWriter WRITER = new BufferedWriter(new OutputStreamWriter(System.out));
 
-    private static final Pattern PATTERN = 
+    private static final Pattern PATTERN =
         Pattern.compile("^(?=.{1,64}@)[A-Za-z0-9_-]+(\\.[A-Za-z0-9_-]+)*@[^-][A-Za-z0-9-]+(\\.[A-Za-z0-9-]+)*(\\.[A-Za-z]{2,})$");
 
     // Os outros métodos não mudam
@@ -361,7 +363,7 @@ Agora, basta executarmos o novo código com essas modificações adicionadas e v
 
 ![optimization-is-valid-email](/img/conteudos-de-artigos/introducao-profiler-java/optimization_isValidEmail.webp)
 
-Pronto, notou-se uma queda de aproximadamente 50% do tempo de execução do método e o aumento da performance do programa. 
+Pronto, notou-se uma queda de aproximadamente 50% do tempo de execução do método e o aumento da performance do programa.
 
 O método *printEmailLine* voltou a ser o método que mais consome tempo do programa, mas não será necessário fazer mais modificações, foi possível abaixar o tempo do programa em 10s, o que é ótimo.
 

@@ -1,14 +1,20 @@
 +++
- categories = ["algoritmo"]
- date = "2017-09-10T19:42:00-03:00"
- tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
- title = "Estrutura de dados: pilha"
- banner = "img/banners/pilha-pratos.jpg"
+categories = ["algoritmo"]
+date = "2017-09-10T19:42:00-03:00"
+tags = ["osprogramadores", "estruturas de dados", "Stack", "Pilhas"]
+title = "Estrutura de dados: pilha"
+banner = "img/banners/pilha-pratos.jpg"
 +++
 
 ## Estruturas de dados: Pilha
 
-Pilha é uma estrutura de dados muito comum em sistemas computacionais. Dentre as várias soluções possíveis que a pilha permite podemos citar:
+Pilha é uma estrutura de dados muito comum em sistemas computacionais. Nesse
+artigo introduziremos o conceito de pilha e as várias soluções possíveis que
+esta estrutura permite.
+
+<!--more-->
+
+Como exemplos, podemos citar:
 
 - Inversão de listas
 - Armazenar dados
@@ -148,7 +154,7 @@ class Program
 
 A grande sacada está na implementação do tipo `StackItem` e no seu constructor que recebe 2 parâmetros. Como o primeiro parâmetro é do tipo `StackItem` fazemos um vinculo entre os tipos, de forma que um `StackItem` sempre tenha outro `StackItem` internamente, aqui fazemos com que o prato do topo conheça o prato abaixo de si, afinal todos os pratos são `StackItem`, além disso um `StackItem` também tem um valor, que é do tipo genérico.
 
-Ao analisarmos a implementação dos métodos Push e Pop veremos como é feito o vinculo e desvinculo entre os `StackItem`. 
+Ao analisarmos a implementação dos métodos Push e Pop veremos como é feito o vinculo e desvinculo entre os `StackItem`.
 
 Ao acrescentar um item criamos um tipo `StackItem` e se a nossa lista estiver vazia podemos colocar o prato em qualquer lugar, se a nossa mesa já tiver pratos temos que ter o cuidado de posicionar o prato sob o anterior, para isso obtemos o `StackItem` anterior, que até então é o topo, fazemos ele se vincular ao novo prato que será empilhado e definimos que o item será o novo topo.
 

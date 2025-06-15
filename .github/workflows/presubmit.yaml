@@ -19,13 +19,19 @@ jobs:
         run: |
           ./ci/utfcheck.sh
 
+      - name: Check files with trailing spaces/lines.
+        uses: marcopaganini/check-trailing-spaces@v2.0.0
+        with:
+          check_all_files: 1
+          ignore_regex: '\./themes/.*'
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.59.1'
+          hugo-version: '0.139.2'
 
       - name: Build Site
-        run: hugo -v
+        run: hugo
 
       - name: Build checkparticipantes
         run: |

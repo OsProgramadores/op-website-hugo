@@ -24,7 +24,7 @@ sources:
 - url: "http://devnaestrada.com.br/"
   title: "DEVNAESTRADA"
   description: "Podcast semanal sobre programação"
-  
+
 - url: "https://diolinux.com.br/diocast"
   title: "Diocast"
   description: "Podcast sobre linux e tecnologia"
@@ -68,5 +68,3 @@ sources:
 - url: "https://quebradev.com.br/"
   title: "QuebraDev"
   description: "Um podcast de origem periférica e com destino voltado à origem"
-
-

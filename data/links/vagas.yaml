@@ -29,11 +29,11 @@ sources:
 - url: "https://t.me/VAGASSERGIPEEMPREGOS"
   title: "Empregos em Sergipe"
   description: "[Telegram] Grupo exclusivo para postar vagas do site vagassergipe.com.br (não exclusivo de TI)"
-  
+
 - url: 'https://twitter.com/frontendbrvagas'
   title: 'Front-End BR Vagas'
   description: '[Twitter] Conta que retuíta automaticamente vagas postadas no repositório do Front-End Brasil no GitHub.'
-  
+
 - url: 'https://github.com/frontendbr/vagas'
   title: 'Front-End Brasil | Vagas'
   description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores front-end via issues do Github.'
@@ -41,6 +41,10 @@ sources:
 - url: "https://t.me/channelitjobspe"
   title: "IT Jobs PE"
   description: "[Telegram] Canal de vagas na área de TI em Pernambuco"
+
+- url: "https://t.me/osprogramadores_vagas"
+  title: "OsProgramadores-vagas"
+  description: "[Telegram] Canal de vagas de trabalho divulgadas por participantes do grupo OsProgramadores"
 
 - url: 'https://github.com/phpdevbr/vagas'
   title: 'PHP-DEV Brasil'
@@ -53,7 +57,7 @@ sources:
 - url: 'https://github.com/react-brasil/vagas'
   title: 'React Brasil'
   description: '[GitHub] Espaço para a divulgação de vagas para desenvolvedores React via issues do Github.'
-  
+
 - url: 'https://twitter.com/RemotarJobs'
   title: 'Remotar'
   description: '[Twitter] Curadoria de vagas e oportunidades para trabalho remoto no Brasil e no mundo.'

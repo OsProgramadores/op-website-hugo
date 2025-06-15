@@ -8,15 +8,17 @@ banner = "img/banners/campsber.webp"
 
 Olá pessoal, tudo bem? Meu nome é Bernardo e vou contar um pouco da minha jornada. Espero que sirva de inspiração para alguém, assim como as histórias que ouvi aqui no grupo me inspiraram.
 
+<!--more-->
+
 #### O início
 Nasci no finalzinho da década de 80 em uma cidade chamada Patos de Minas. Com seus pouco mais de 100.000 habitantes e longe da capital, a internet era a única conexão com o “mundo lá fora”. Meu primeiro contato com computador, um modelo 486, foi por volta dos meus 7-8 anos de idade. Ele veio com alguns jogos instalados e a única forma de instalar outros jogos era através de um disquete de 1.44 MB.
 
 Em 1997 chegou a internet e um mundo de possibilidades se abriu. Mas não o tempo todo como é hoje, apenas aos sábados depois das 14h até domingo à noite. Nessa época, eu apenas consumia conteúdo e nem passava pela minha cabeça que um dia eu poderia programar. No início dos anos 2000 surgiu o blogger, e a produção de conteúdo ficou mais acessível. Não precisava de nenhum conhecimento em programação para fazer o seu site, mas se você curtisse, poderia customizá-lo com scripts e alertas. Esse foi o meu primeiro contato com programação. Comecei lendo uma apostila de HTML e em pouco tempo copiava os scripts que encontrava em uns manuais online para customizar o meu blog.
 
-Se não me falha a memória, em 2002 chegou a banda larga. A partir dali eu podia usar a internet nos dias de semana quando chegava do colégio, olha que luxo! (vale lembrar que nessa época celular era muito caro e não tinha internet) Eu passava horas conversando com meus amigos em um programa chamado MSN, jogava The Sims, Doom, Prince of Persia e lia uns artigos da Wikipedia sobre as missões da NASA. 
+Se não me falha a memória, em 2002 chegou a banda larga. A partir dali eu podia usar a internet nos dias de semana quando chegava do colégio, olha que luxo! (vale lembrar que nessa época celular era muito caro e não tinha internet) Eu passava horas conversando com meus amigos em um programa chamado MSN, jogava The Sims, Doom, Prince of Persia e lia uns artigos da Wikipedia sobre as missões da NASA.
 
 #### Vestibular e o desvio de rota
-Com o vestibular batendo na porta, precisei deixar o computador em segundo plano. Na época eu sabia que queria ser médico e que para conseguir uma vaga em uma universidade pública (pagar estava fora de cogitação), eu precisaria estudar bastante. 
+Com o vestibular batendo na porta, precisei deixar o computador em segundo plano. Na época eu sabia que queria ser médico e que para conseguir uma vaga em uma universidade pública (pagar estava fora de cogitação), eu precisaria estudar bastante.
 
 Em 2007, após dois anos, consegui uma vaga em uma universidade pública e mudei para o Rio de Janeiro. Eu já estava sem ler nada sobre programação e agora, na faculdade de medicina, com menos tempo ainda. Formei em 2012 e não sabia por qual caminho seguir.
 
@@ -41,7 +43,7 @@ Nos meses seguintes fizemos um total de 26 calculadoras; recebemos ótimos feedb
 Surgiram muitas ideias boas, a vontade estava lá, estávamos muito motivados a continuar ajudando aquelas pessoas que agora eram nossos “usuários”! Masss… a vontade de fazer/aprender tudo ao mesmo tempo nos puxou para o vórtex desse buraco negro que é a tecnologia, e… Paralisamos! Dessa experiência veio uma grande lição (um tanto óbvia, mas que às vezes precisa ser vivida): “Não tente abraçar o mundo”.
 
 #### O Grupo
-Após alguns meses perdido, decidi procurar ajuda! Entrei timidamente no grupo OsProgramadores, só acompanhava as discussões como "ouvinte". Nas caminhadas de casa para o trabalho e depois no caminho de volta eu ouvia as entrevistas para o [Podcast](https://anchor.fm/osprogramadores) - histórias incríveis que muito me inspiraram e me fizeram gostar cada vez mais dessa profissão. Comecei a pesquisar na internet os termos que eram mencionados até que surgiram dúvidas e comecei a perguntar também. 
+Após alguns meses perdido, decidi procurar ajuda! Entrei timidamente no grupo OsProgramadores, só acompanhava as discussões como "ouvinte". Nas caminhadas de casa para o trabalho e depois no caminho de volta eu ouvia as entrevistas para o [Podcast](https://anchor.fm/osprogramadores) - histórias incríveis que muito me inspiraram e me fizeram gostar cada vez mais dessa profissão. Comecei a pesquisar na internet os termos que eram mencionados até que surgiram dúvidas e comecei a perguntar também.
 
 De tanto ouvir falar em Node, decidi experimentar. Fiz uma página simples que calculava o IMC e enviava os dados inseridos (Peso, Altura) e o calculado (IMC) para um banco de dados hospedado na nuvem (MongoDB Atlas). É uma ideia simples, mas para mim, foram muitas horas de estudos. Eu não fazia ideia de como era um backend, apanhei da documentação do Express.js e cada tutorial que eu lia ensinava a fazer a mesma coisa de um jeito diferente. Meu código era uma colcha de retalhos.
 
@@ -59,17 +61,17 @@ Não é fácil conciliar a faculdade com trabalho. Tem dias que chego em casa ex
 
 Hoje, após completar um ano do curso e prestes a começar o segundo ano letivo, posso dizer que estou muito feliz com a minha decisão. Aprendi coisas que nunca cogitei estudar, conheci pessoas muito bacanas, fui estimulado a desenvolver a minha carreira e a procurar oportunidades na área.
 
-Com alguns erros e acertos, aprendi muita coisa nessa jornada. Se posso lhe dar algumas dicas: 
+Com alguns erros e acertos, aprendi muita coisa nessa jornada. Se posso lhe dar algumas dicas:
 1. Procure ir na direção daquilo que você quer. (e tudo bem se no momento não puder)
-2. Agarre as oportunidades que surgirem no caminho que possam te conduzir até onde quer chegar. 
-3. Não tente controlar o futuro. 
+2. Agarre as oportunidades que surgirem no caminho que possam te conduzir até onde quer chegar.
+3. Não tente controlar o futuro.
 
 Os caminhos são tantos! Escolha um e vá! Mas não se esqueça de algo muito importante: cuide da sua saúde e aproveite a jornada!
 
 ![Jump](/img/conteudos-de-artigos/campsber_jump.gif)
 ###### E esse sou eu (tentando) enfrentar o medo de altura.
 
-Me chama lá no Twitter: https://twitter.com/campsber 
+Me chama lá no Twitter: https://twitter.com/campsber
 
 Curso de Harvard (CS50): https://www.youtube.com/c/cs50
 

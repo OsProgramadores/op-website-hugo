@@ -8,9 +8,9 @@ banner = "img/banners/podcast-400px.png"
 
 ### Felipe Borges - Senior Software Engineer na Red Hat
 
-Felipe Borges é Senior Software Engineer no Desktop Team da [Red Hat](https://www.redhat.com/en). 
+Felipe Borges é Senior Software Engineer no Desktop Team da [Red Hat](https://www.redhat.com/en).
 
-Ele é responsável por diversos componentes no projeto [GNOME](https://www.gnome.org/) tais como o [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes), [GNOME Connections](https://gitlab.gnome.org/GNOME/connections) e vários dos paineis de configurações no [GNOME Settings](https://gitlab.gnome.org/GNOME/gnome-control-center). 
+Ele é responsável por diversos componentes no projeto [GNOME](https://www.gnome.org/) tais como o [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes), [GNOME Connections](https://gitlab.gnome.org/GNOME/connections) e vários dos paineis de configurações no [GNOME Settings](https://gitlab.gnome.org/GNOME/gnome-control-center).
 
 Interessado na sustentabilidade da comunidades de software livre, Felipe também é membro do Board of Directors da [Fundação GNOME](https://wiki.gnome.org/FoundationBoard) e gerencía a participação do projeto em programas como o [Google Summer of Code](https://summerofcode.withgoogle.com/) e [Outreachy](https://www.outreachy.org/). Além disso, ele colabora para remediar a fragmentação do Linux no desktop participando de projetos como o [Fedora Silverblue](https://silverblue.fedoraproject.org/) e [Flatpak](https://flatpak.org/).
 

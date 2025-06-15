@@ -26,7 +26,7 @@ Tópicos e comportamentos **expressamente proibidos** no grupo (resultam em bani
 * **Qualquer atividade ilegal**, como promoção de pirataria de qualquer forma, estelionato, "hacking", "carding", troca de dados obtidos de forma ilegal, venda ou consumo de drogas, etc (independente da sua opinião sobre o assunto).
 * Ataques pessoais ou perseguição de qualquer forma.
 * Abordar participantes do grupo em privado para oferecer serviços de qualquer tipo.
-* Anúncios de ofertas de emprego. 
+* Anúncios de ofertas de emprego.
 
 Comportamentos não recomendados:
 

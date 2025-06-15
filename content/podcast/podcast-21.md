@@ -10,7 +10,7 @@ banner = "img/banners/podcast-400px.png"
 
 Gilliard Lopes é um game designer, produtor e programador com 22 anos de experiência na indústria de games.
 
-Ele começou sua carreira como sócio da Paralelo Computação, empresa de Niterói - RJ, pioneira no desenvolvimento de [engines](https://en.wikipedia.org/wiki/Game_engine) e ferramentas para games no Brasil, e trabalhou também como produtor do [MMORPG Taikodom](https://www.mmorpg.com/taikodom) na [Hoplon](http://www.hoplon.com/site/), em Florianópolis. 
+Ele começou sua carreira como sócio da Paralelo Computação, empresa de Niterói - RJ, pioneira no desenvolvimento de [engines](https://en.wikipedia.org/wiki/Game_engine) e ferramentas para games no Brasil, e trabalhou também como produtor do [MMORPG Taikodom](https://www.mmorpg.com/taikodom) na [Hoplon](http://www.hoplon.com/site/), em Florianópolis.
 
 Atualmente, Gilliard é Senior Game Designer dos [jogos da série FIFA](https://www.ea.com/games/fifa/fifa-21?setLocale=en-us) na [EA Vancouver](https://www.ea.com/en-ca), tendo participado do desenvolvimento de mais de 15 games da franquia em três diferentes gerações de consoles. Ele compartilha suas experiências com a comunidade brasileira de games no [PodQuest](http://www.podquest.com.br/), um podcast semanal em português sobre games e desenvolvimento na indústria internacional, com mais de 350 episódios publicados.
 

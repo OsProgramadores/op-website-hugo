@@ -10,7 +10,7 @@ banner = "img/banners/podcast-400px.png"
 
 Desenvolvedora de software há 10 anos, palestrante, especialista em PHP e desenvolvimento web, evangelista PHP e [PHPWomen](https://phpwomen.org.br/).
 
-Atualmente mora nos Países Baixos e é Senior Software Engineer na [SurveyMonkey](https://www.surveymonkey.com/). 
+Atualmente mora nos Países Baixos e é Senior Software Engineer na [SurveyMonkey](https://www.surveymonkey.com/).
 
 Apaixonada por open source, performance e qualidade de código.
 
