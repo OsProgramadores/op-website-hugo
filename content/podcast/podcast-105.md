@@ -16,8 +16,7 @@ banner = "img/banners/podcast-400px.png"
 ___
 
 No episódio 105 do podcast OsProgramadores, recebemos Samuel Goto, engenheiro de software com longa experiência no Google, onde atuou em diversos projetos estratégicos relacionados à web.
-
-Samuel compartilhou sua trajetória na indústria de tecnologia, seu envolvimento com padrões web e iniciativas voltadas para melhorar a acessibilidade e usabilidade da web. 
+Samuel compartilhou sua trajetória na indústria de tecnologia, seu envolvimento com padrões web e iniciativas voltadas para melhorar a acessibilidade e usabilidade da web.
 
 Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
