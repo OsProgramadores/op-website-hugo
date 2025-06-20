@@ -86,6 +86,10 @@ sources:
   title: "Python Graph Gallery"
   description: "Coleção de gráficos, divididos pela sua aplicação, implementados em Python."
 
+- url: "https://quickref.me"
+  title: "Quick Reference"
+  description: "Disponibiliza vários exemplos de códigos, ferramentas e comandos ( linux, docker, etc )"
+
 - url: "https://www.r-bloggers.com/"
   title: "R-Blogglers"
   description: "Notícias e tutoriais sobre a linguagem R, contribuída por centenas de blogglers que escrevem sobre esta linguagem"
