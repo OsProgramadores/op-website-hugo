@@ -2,18 +2,17 @@
 
 Ao adicionar o seu nome, por favor observe:
 
-* Adicione o seu nome, email e página do github na lista abaixo.
-* A lista é ordenada por *nome*, seguida de *prenome* e *sobrenome*.
-* Emails inválidos serão rejeitados automaticamente.
-* URLs do github deverão ser no formato: `https://github.com/seu_usuario`
-* Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
-* Se necessário, realinhe as barras verticais de todos os nomes se o seu
+- Adicione o seu nome, email e página do github na lista abaixo.
+- A lista é ordenada por _nome_, seguida de _prenome_ e _sobrenome_.
+- Emails inválidos serão rejeitados automaticamente.
+- URLs do github deverão ser no formato: `https://github.com/seu_usuario`
+- Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
+- Se necessário, realinhe as barras verticais de todos os nomes se o seu
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
 
 | Nome                            | Email                                   | Github Page                               |
 | ------------------------------- | --------------------------------------- | ----------------------------------------- |
-| Alexandre Rodrigues dos Santos  | aleeh.rodrigues92@gmail.com             | https://github.com/aleehblackstar         |
 | Abraão Nascimento Carvalho      | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior    | adboson@gmail.com                       | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto  | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
@@ -33,6 +32,7 @@ Ao adicionar o seu nome, por favor observe:
 | Alexandre Paloschi Horta        | alexandre.horta@gmail.com               | https://github.com/AlexPHorta             |
 | Alexandre Pierre                | alexandrempierre@gmail.com              | https://github.com/alexandrempierre       |
 | Alexandre Pires F. de Miranda   | alexandre.miranda@gmail.com             | https://github.com/apfmiranda             |
+| Alexandre Rodrigues dos Santos  | aleeh.rodrigues92@gmail.com             | https://github.com/aleehblackstar         |
 | Alexandre Varga Junior          | alexandrevarga1@gmail.com               | https://github.com/alexandrevarga         |
 | Alexsandro Felix                | felix@ffelix.eti.br                     | https://github.com/asfelix                |
 | Alexsandro Matias               | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
