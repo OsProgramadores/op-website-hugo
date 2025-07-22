@@ -116,6 +116,7 @@ Ao adicionar o seu nome, por favor observe:
 | Elder Louzada                   | elder_louzada@outlook.com               | https://github.com/reedlex98              |
 | Ênio Vinicius C. dos Santos     | enio.vi.santos@gmail.com                | https://github.com/eniovi                 |
 | Enoque de Sousa Neres           | enoque.sneres@live.com                  | https://github.com/enqneres               |
+| Evaristo Pinto                  | evaristopinto16@gmail.com               | https://github.com/Evaristopinto16        |
 | Everson Alves de Rezende        | rezende.everson@gmail.com               | https://github.com/eversonrezende         |
 | Fabio Americo do Prado          | fpradox@gmail.com                       | https://github.com/fpradox                |
 | Fabio Oliveira                  | fabio20rj@gmail.com                     | https://github.com/ffabiorj               |
