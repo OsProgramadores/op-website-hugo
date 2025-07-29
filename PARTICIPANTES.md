@@ -229,6 +229,7 @@ Ao adicionar o seu nome, por favor observe:
 | Leonardo Henrique               | leo-henrique23@hotmail.com              | https://github.com/LeoyLeo                |
 | Leonardo Hiroshi Silva          | leonardohiroshisilva@gmail.com          | https://github.com/leohiroshi             |
 | Leonardo Steffen                | No Email                                | https://github.com/leonhar001             |
+| Lestter Gabriel                 | lgs.alves@hotmail.com                   | https://github.com/LestterX               |
 | Letícia Fontoura                | leticia.fontoura@live.com               | https://github.com/leticiafontoura        |
 | Letícia Freire                  | leticiafcs4@gmail.com                   | https://github.com/leticia-freire         |
 | Ligia Salzano                   | ligiasalzano@gmail.com                  | https://github.com/ligiasalzano           |
