@@ -162,8 +162,7 @@ Ao adicionar o seu nome, por favor observe:
 | Hemílio Lauro de Araújo Melo    | hemilioaraujo@gmail.com                 | https://github.com/hemilioaraujo          |
 | Henrique G. G. Pereira          | oscoder@henrique.email                  | https://github.com/ikkebr                 |
 | Henrique Ibrahim                | No Email                                | https://github.com/henriqueibrahim        |
-| Heverton Cristyan Neris da Silva| hevertoncristyan5@gmail.com
-https://github.com/Heverton20848018
+| Heverton Cristyan Neris da Silva| hevertoncristyan5@gmail.com            | https://github.com/Heverton20848018
 | Hiago Leres da Costa            | hiagoleres2@gmail.com                   | https://github.com/hiagoleresdev          |
 | Higor Carneiro Passos           | higorcpassos@gmail.com                  | https://github.com/hcpassos               |
 | Hugo Araujo Rodrigues           | o.hugo@outlook.com                      | https://github.com/oohugo                 |
