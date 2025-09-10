@@ -335,6 +335,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rick-oly                        | hoa98hoa@gmail.com                      | https://github.com/pand-oly               |
 | Roberto Arruda                  | roberto0arruda@hotmail.com              | https://github.com/roberto0arruda         |
 | Robson Alexandre A. Santos      | alexandrerobson@gmail.com               | https://github.com/robsonalexandre        |
+| Robson Pinheiro de Almeida      | pinheirorobson7@gmail.com               | https://github.com/PinheiroR90        |
 | Rodinei Costa                   | rodineicosta@physistec.com.br           | https://github.com/rodineicosta           |
 | Rodrigo Aparecido Gomes         | rodrigo.agomes@gmail.com                | https://github.com/rodrigoagomes          |
 | Rodrigo Blaudt Lima da Silva    | rodrigo.blaudt@outlook.com              | https://github.com/RodrigoBlaudt          |
