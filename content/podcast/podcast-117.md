@@ -17,7 +17,7 @@ ___
 
 No episódio 117 do podcast OsProgramadores, entrevistei André Carvalho, Senior Software Engineer na Apple.
 
-André compartilhou sua trajetória, desde os primeiros passos no Brasil até chegar ao Vale do Silício para trabalhar em uma das maiores empresas de tecnologia do mundo. 
+André compartilhou sua trajetória, desde os primeiros passos no Brasil até chegar ao Vale do Silício para trabalhar em uma das maiores empresas de tecnologia do mundo.
 Foi uma conversa rica em aprendizados para quem sonha em trabalhar no exterior.
 
 Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
