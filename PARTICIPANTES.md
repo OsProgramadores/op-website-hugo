@@ -300,6 +300,7 @@ Ao adicionar o seu nome, por favor observe:
 | Miguel Vitta Alcântara Borges   | miguelvittadev@gmail.com                | https://github.com/miguelvitta            |
 | Moises Maia Gomes               | dev.mmaia@gmail.com                     | https://github.com/devmmaia               |
 | Murilo de Andrade Melo          | muriloa.melo01@gmail.com                | https://github.com/MuriloAM               |
+| Nataniel dos Santos Costa       | natanscosta7@gmail.com                  | https://github.com/NatanTheMan            |
 | Nicholas Borba                  | nicholasborba@gmail.com                 | https://github.com/nkborba                |
 | Nilson Henrique Pereira         | nilsonhenrique777@gmail.com             | https://github.com/Parzival871            |
 | Nilson Santos                   | nilsonc.s@outlook.com                   | https://github.com/Nilsonsantos-s         |
