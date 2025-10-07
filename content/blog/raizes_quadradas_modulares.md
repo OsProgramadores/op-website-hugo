@@ -340,7 +340,7 @@ Como observação final destacamos que vários algoritmos similares a este exist
 
 O problema inicial acima e toda discussão realizada mostra a importância da matemática para a área da programação. Sobretudo a utilidade da mesma na elaboração e no aperfeiçoamento do tempo de execução de algoritmos. Tarefas computacionais extremamente dispendiosas podem ser executadas de forma mais eficaz usando-se um formalismo matemático adequado ao problema a ser tratado.
 
-Reduzir o tempo de execução de sub-rotinas frequentemente usadas é extremamente, sobretudo em sistemas e aplicações de grande escala na qual várias tarefas simples (de baixa complexidade) são executadas repetidamente. Esperamos que o texto sirva como exemplo de como a matemática pode ser uma poderosa aliada neste sentido.
+Reduzir o tempo de execução de sub-rotinas frequentemente usadas é extremamente importante, sobretudo em sistemas e aplicações de grande escala na qual várias tarefas simples (de baixa complexidade) são executadas repetidamente. Esperamos que o texto sirva como exemplo de como a matemática pode ser uma poderosa aliada neste sentido.
 
 # 8. Bibliografia{#8-bibliografia}
 
