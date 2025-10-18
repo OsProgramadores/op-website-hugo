@@ -12,7 +12,7 @@ Ao adicionar o seu nome, por favor observe:
   atual.
 
 | Nome                            | Email                                   | Github Page                               |
-| ------------------------------- | --------------------------------------- | ----------------------------------------- |
+|---------------------------------|-----------------------------------------|-------------------------------------------|
 | Abraão Nascimento Carvalho      | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior    | adboson@gmail.com                       | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto  | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
@@ -239,6 +239,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luan Zanetich Acquafreda        | luanzanetich@gmail.com                  | https://github.com/luanzanetich           |
 | Lucas Cegielkowski Guimarães    | Cegielkowski@icloud.com                 | https://github.com/Cegielkowski           |
 | Lucas Dantas de Oliveira        | ldantasdev@gmail.com                    | https://github.com/lucantas               |
+| Lucas De Godoy Chicarelli       | lucasgodoyjor@gmail.com                 | https://github.com/lgjor                  |
 | Lucas Felipe Turos              | lucasturos@gmail.com                    | https://github.com/lucasfturos            |
 | Lucas Gabriel Sotero Silva      | lucas.silva@amazingtec.com.br           | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva            | lucas.harrison@certto.com.br            | https://github.com/Harrisoned             |
