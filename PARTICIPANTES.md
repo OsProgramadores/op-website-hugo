@@ -377,6 +377,7 @@ Ao adicionar o seu nome, por favor observe:
 | Thiago Morette de Oliveira      | thiagomorette@gmail.com                 | https://github.com/Morette                |
 | Thiago Soares da Silva          | thiagosantana12@gmail.com               | https://github.com/Thiago-Soares          |
 | Tiago Dias Batista              | tiago@webdeleve.net                     | https://github.com/tigo-di                |
+| Tiago Luis Borges               | t.i.borges.ll@gmail.com                 | https://github.com/ID-Cosmo               |
 | Tiago Oliveira                  | tiagobarros519@gmail.com                | https://github.com/tiagobarross           |
 | Tsuki A. Garrit dos Santos      | Tsuki52Garrit@gmail.com                 | https://github.com/52Angie52              |
 | Tyrone Macedo Damasceno         | tyronedamasceno@gmail.com               | https://github.com/tyronedamasceno        |
