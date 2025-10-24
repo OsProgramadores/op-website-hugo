@@ -239,6 +239,7 @@ Ao adicionar o seu nome, por favor observe:
 | Luan Zanetich Acquafreda        | luanzanetich@gmail.com                  | https://github.com/luanzanetich           |
 | Lucas Cegielkowski Guimarães    | Cegielkowski@icloud.com                 | https://github.com/Cegielkowski           |
 | Lucas Dantas de Oliveira        | ldantasdev@gmail.com                    | https://github.com/lucantas               |
+| Lucas de Godoy Chicarelli       | lucasgodoyjor@gmail.com                 | https://github.com/lgjor                  |
 | Lucas Felipe Turos              | lucasturos@gmail.com                    | https://github.com/lucasfturos            |
 | Lucas Gabriel Sotero Silva      | lucas.silva@amazingtec.com.br           | https://github.com/lucassilvagc           |
 | Lucas Harrison Silva            | lucas.harrison@certto.com.br            | https://github.com/Harrisoned             |
