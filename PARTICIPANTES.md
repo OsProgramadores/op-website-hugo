@@ -335,6 +335,7 @@ Ao adicionar o seu nome, por favor observe:
 | Renata Miranda Rabelo Nésio     | renata.nesio2@gmail.com                 | https://github.com/renatanesio            |
 | Renato Oliveira da Silva        | renatohanks@gmail.com                   | https://github.com/renatohanks            |
 | Ricardo Severo                  | ricardosilva.official@outlook.com       | https://github.com/ricardosevero          |
+| Richard Santos                  | richardsantosrjs@gmail.com              | https://github.com/ricstn                 |
 | Rick-oly                        | hoa98hoa@gmail.com                      | https://github.com/pand-oly               |
 | Roberto Arruda                  | roberto0arruda@hotmail.com              | https://github.com/roberto0arruda         |
 | Robson Alexandre A. Santos      | alexandrerobson@gmail.com               | https://github.com/robsonalexandre        |
