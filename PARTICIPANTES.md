@@ -2,12 +2,12 @@
 
 Ao adicionar o seu nome, por favor observe:
 
-* Adicione o seu nome, email e página do github na lista abaixo.
-* A lista é ordenada por *nome*, seguida de *prenome* e *sobrenome*.
-* Emails inválidos serão rejeitados automaticamente.
-* URLs do github deverão ser no formato: `https://github.com/seu_usuario`
-* Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
-* Se necessário, realinhe as barras verticais de todos os nomes se o seu
+- Adicione o seu nome, email e página do github na lista abaixo.
+- A lista é ordenada por _nome_, seguida de _prenome_ e _sobrenome_.
+- Emails inválidos serão rejeitados automaticamente.
+- URLs do github deverão ser no formato: `https://github.com/seu_usuario`
+- Observe o formato utilizado pelas entradas abaixo e mantenha o padrão.
+- Se necessário, realinhe as barras verticais de todos os nomes se o seu
   nome, email ou URL do Github pages forem muito longos pro espacejamento
   atual.
 
@@ -335,6 +335,7 @@ Ao adicionar o seu nome, por favor observe:
 | Renata Miranda Rabelo Nésio     | renata.nesio2@gmail.com                 | https://github.com/renatanesio            |
 | Renato Oliveira da Silva        | renatohanks@gmail.com                   | https://github.com/renatohanks            |
 | Ricardo Severo                  | ricardosilva.official@outlook.com       | https://github.com/ricardosevero          |
+| Richard Santos                  | richardsantosrjs@gmail.com              | https://github.com/ricstn                 |
 | Rick-oly                        | hoa98hoa@gmail.com                      | https://github.com/pand-oly               |
 | Roberto Arruda                  | roberto0arruda@hotmail.com              | https://github.com/roberto0arruda         |
 | Robson Alexandre A. Santos      | alexandrerobson@gmail.com               | https://github.com/robsonalexandre        |
