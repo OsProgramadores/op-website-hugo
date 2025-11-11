@@ -21,7 +21,7 @@ Sergio contou sobre sua trajetória, os aprendizados de mais de 15 anos liderand
 
 > Junte-se a nós no [Grupo no Telegram](https://t.me/osprogramadores) para trocar ideias e acompanhar as novidades da nossa comunidade!
 
-#### Links do Rodrigo Borcat
+#### Links mencionados:
 
 * [LinkedIn](https://www.linkedin.com/in/sergioburia/)
 * [Site do Grupo Boticário Tech](https://gb.tech/)
