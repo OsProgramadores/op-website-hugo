@@ -15,7 +15,7 @@ banner = "img/banners/podcast-400px.png"
 
 ___
 
-n this episode of OsProgramadores Podcast, we talk with Jessica Lord, a former architect turned software engineer, designer, and open-source advocate known for her contributions to Electron among others.
+In this episode of OsProgramadores Podcast, we talk with Jessica Lord, a former architect turned software engineer, designer, and open-source advocate known for her contributions to Electron among others.
 
 Jessica shares her story of transitioning from architecture to software, how design thinking shapes her approach to engineering,  open source communities, creativity in tech, and how to build tools that truly empower others.
 
