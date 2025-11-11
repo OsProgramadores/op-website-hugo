@@ -1,6 +1,6 @@
 +++
 date = "2025-10-18T00:00:00-00:00"
-title = "E122 - Thiago Hirai"
+title = "E122 - Daniel Stenberg"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
 banner = "img/banners/podcast-400px.png"
