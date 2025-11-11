@@ -77,6 +77,7 @@ Ao adicionar o seu nome, por favor observe:
 | Carlos Alves                    | cbcalves@gmail.com                      | https://github.com/cbcalves               |
 | Carlos Henrique Leal da cruz    | carloshlc@hotmail.com                   | https://github.com/carloshlc007           |
 | Celina Uemura                   | celina.uemura@gmail.com                 | https://github.com/cezinha                |
+| Clarissa Eri Morita             | clarissamorita1@gmail.com               | https://github.com/cissamil        |
 | Claudenir Ferreira de Assis     | devaspirerklaus@gmail.com               | https://github.com/DevAspirerKlaus        |
 | Clederson Cruz                  | cledersonbc@live.com                    | https://github.com/Cledersonbc            |
 | Cleverton Fernandes Guimarães   | clevertonfernandesguimaraes@gmail.com   | https://github.com/cfguimaraes            |
