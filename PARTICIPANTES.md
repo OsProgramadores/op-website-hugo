@@ -81,7 +81,6 @@ Ao adicionar o seu nome, por favor observe:
 | Claudenir Ferreira de Assis     | devaspirerklaus@gmail.com               | https://github.com/DevAspirerKlaus        |
 | Clederson Cruz                  | cledersonbc@live.com                    | https://github.com/Cledersonbc            |
 | Cleverton Fernandes Guimarães   | clevertonfernandesguimaraes@gmail.com   | https://github.com/cfguimaraes            |
-| Clarissa Morita                 | clarissamorita1@gmail.com               | https://github.com/cissamil               |
 | Daniel Carvalho                 | codecodic7@gmail.com                    | https://github.com/KDEboy                 |
 | Daniel Chaves de Lima           | danielchaves001@gmail.com               | https://github.com/danielcdl              |
 | Daniel Christian de O. Rosa     | daniel.c.rosa@gmail.com                 | https://github.com/DanielRosa74           |
