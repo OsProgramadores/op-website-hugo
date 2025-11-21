@@ -148,6 +148,7 @@ Ao adicionar o seu nome, por favor observe:
 | Gabriel Rocha Ferreira          | osprogramadores@gabrf.com               | https://github.com/GabrielRF              |
 | Gabriel Thiago da S. Ferreira   | gabriel.ferreira@dcomp.ufs.br           | https://github.com/GabrielF9              |
 | Gabriele Campos                 | gabrieleccgomes26@gmail.com             | https://github.com/gabrieleg8             |
+| Gabrielly Cristine da Silva     | gcriseduc@gmail.com                     | https://github.com/GCristineTFox          |
 | Geraldo Júnior                  | geraldo.junior0207@gmail.com            | https://github.com/GeraldinJr             |
 | Giovane Da Silva Sobrinho       | giovane.sobrinho@gmail.com              | https://github.com/silvasobrinho          |
 | Giovanni Martins                | giovannimartins2000@gmail.com           | https://github.com/GiovanniSM20           |
