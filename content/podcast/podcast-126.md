@@ -24,7 +24,7 @@ Também falamos sobre seu trabalho em segurança voltada para games, incluindo a
 
 * Carreira em desenvolvimento de jogos
 * Engenharia de sistemas e performance
-* Engines, rendering pipelines e IA 
+* Engines, rendering pipelines e IA
 * Desenvolvimento com Elixir
 * Engenharia reversa e consoles antigos
 * Segurança, anti-cheat e proteção de integridade
