@@ -192,7 +192,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jeziel Silva dos Santos         | silvajeziel22@gmail.com                 | https://github.com/jezielsilva            |
 | Jhonatan Carvalho Silva         | srjhonatancarvalho@gmail.com            | https://github.com/Jonhcs                 |
 | Joabe Guimaraes Q. Kachorroski  | joabejbk@gmail.com                      | https://github.com/kernelkill             |
-| Joalbo S. do Nascimento Júnior  | joalbosilva301103@gmail.com             | https://github.com/joalbonascimento1      |
+| Joalbo S. do Nascimento Junior  | joalbosilva301103@gmail.com             | https://github.com/joalbonascimento1      |
 | João Guilherme G. de Oliveira   | jguilhermebsb2004@gmail.com             | https://github.com/JGuilhermeBSB          |
 | João José Marques Gonçalves     | jjmg.engenharia@gmail.com               | https://github.com/jjmg-eng               |
 | João Lucas Apolinário Durigan   | jlucasdurigan@gmail.com                 | https://github.com/jldurigan              |
