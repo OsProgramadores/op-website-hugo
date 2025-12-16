@@ -14,7 +14,7 @@ banner = "img/banners/podcast-400px.png"
 {{< youtube h2WZujjO9mY >}}
 
 ___
-In this episode, I speak with Tarek Ziadé, a renowned Software Engineer, currently working at Mozilla building AI in Firefox, author, open-source contributor, and long-time community leader. 
+In this episode, I speak with Tarek Ziadé, a renowned Software Engineer, currently working at Mozilla building AI in Firefox, author, open-source contributor, and long-time community leader.
 Tarek has built large-scale distributed systems, written influential books about Python, and contributed to foundational open-source projects.
 
 #### Links mencionados:
