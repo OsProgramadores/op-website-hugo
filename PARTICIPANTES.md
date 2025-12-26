@@ -202,6 +202,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jonata Meneses Silva            | jholjonata@yahoo.com.br                 | https://github.com/JonataMSilva           |
 | Jonathan B. da Silva Nunes      | jonathanbarreira@gmail.com              | https://github.com/jholl-b                |
 | Jonathan Lopes Pinheiro         | jonathan15989@protonmail.com            | https://github.com/JonathanLopes404       |
+| Jonathan Silva                  | No Email                                | https://github.com/jonathansilva          |
 | Jorge Tarin Ibañez Neto         | jorge.tariin@gmail.com                  | https://github.com/jorge-tarin            |
 | Jose Alison da Silva            | alisondasilva291103@gmail.com           | https://github.com/imalisoon              |
 | José Lucas da S. Marques        | devmarques09@gmail.com                  | https://github.com/marques09              |
