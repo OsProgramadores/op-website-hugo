@@ -14,7 +14,8 @@ banner = "img/banners/podcast-400px.png"
 {{< youtube QS-LbNM1vZk >}}
 
 ___
-Neste episódio, conversamos com Demetrius Costa, Senior Software Engineer na Red Hat. Com uma carreira sólida construída sobre tecnologias fundamentais como Java, Node.js, Go lang e automação. Demetrius compartilha sua experiência trabalhando em projetos de infraestrutura crítica como o OpenShift e Ansible.
+Neste episódio do podcast OsProgramadores, conversamos com Vitor Puente, Diretor de Engenharia no Nubank.
+Com uma carreira que começou na "mão na massa" em startups e passou por empresas com Gympass e Itau. Vitor conta como foi sua evolução profissional e pessoal pelo passar dos anos e compartilha sugestões para os que estão pensando em trilhar caminhos semelhantes.
 
 #### Links mencionados:
 
