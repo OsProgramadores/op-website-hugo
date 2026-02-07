@@ -206,6 +206,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jorge Tarin Ibañez Neto         | jorge.tariin@gmail.com                  | https://github.com/jorge-tarin            |
 | Jose Alison da Silva            | alisondasilva291103@gmail.com           | https://github.com/imalisoon              |
 | José Lucas da S. Marques        | devmarques09@gmail.com                  | https://github.com/marques09              |
+| José Marcos R. Ferreira         | contato.marcosrf@gmail.com              | https://github.com/jmarcos16              |
 | Jose Maria C. de F. Júnior      | jozemariajrr@gmail.com                  | https://github.com/jozemaria              |
 | José Rodrigo de Sousa           | rodrigo.ka1709@gmail.com                | https://github.com/Rodrigo1809            |
 | José Rubens dos S. Oliveira     | rubensdossantos.dev@gmail.com           | https://github.com/kaetaen                |
