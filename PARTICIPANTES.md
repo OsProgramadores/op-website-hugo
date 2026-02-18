@@ -363,6 +363,7 @@ Ao adicionar o seu nome, por favor observe:
 | Ruan Pablo Nascimento Fernandes | ruanp1530@gmail.com                     | https://github.com/Th3Progr4mm3r          |
 | Rubens Rodrigues                | rubens17rodrigues@gmail.com             | https://github.com/rubens17rodrigues      |
 | Ruhan Macedo                    | ruhanmacedo@outlook.com                 | https://github.com/ruhanmacedo            |
+| Samuel dos Santos Silva         | samuelsantossilva.1909@gmail.com        | https://github.com/samuelsantos-ctrl      |
 | Samuel Evangelista Pereira      | sam.pereirabr@gmail.com                 | https://github.com/SamPereirabr           |
 | Samuel Magnun Mota              | smagnun@gmail.com                       | https://github.com/smagnun                |
 | Samuel Martins Vilhalva         | No Email                                | https://github.com/VILHALVA               |
