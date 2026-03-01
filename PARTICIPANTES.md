@@ -419,4 +419,4 @@ Ao adicionar o seu nome, por favor observe:
 | Yago de Matos                   | No Email                                | https://github.com/yagodematos            |
 | Yan Ferreira                    | yanfvc@gmail.com                        | https://github.com/yanvferreira           |
 | Zilton Sales                    | No Email                                | https://github.com/sokolov13              |
-| Fagner dos Santos      | leofagner9@gmail.com         | https://github.com/FagnerDSantos        |
+| Fagner dos Santos    | No Email                                | https://github.com/FagnerDSantos              |
