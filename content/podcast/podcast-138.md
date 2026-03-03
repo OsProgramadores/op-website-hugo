@@ -9,7 +9,7 @@ banner = "img/banners/podcast-400px.png"
 ### Alex Raymond - Technology leader
 > Você pode assistir ao episódio [através deste link](https://www.youtube.com/watch?v=T85DXulOA6A).
 
-{{< spotify type="episode" id="3seCHYZ3LJN6Fc2IMD7Fgh" width="80%">}}
+{{< spotify type="episode" id="5nb4mMTpUlwfyK26xaUNB1" width="80%">}}
 
 {{< youtube T85DXulOA6A >}}
 
