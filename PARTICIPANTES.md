@@ -123,7 +123,7 @@ Ao adicionar o seu nome, por favor observe:
 | Fabio Oliveira                  | fabio20rj@gmail.com                     | https://github.com/ffabiorj               |
 | Fabricio Albuquerque Ribas      | fabricioaribas@gmail.com                | https://github.com/fabricioribas          |
 | Fabricio Henrique da Silva      | fnhs27@outlook.com                      | https://github.com/Fabricio967            |
-| Fagner dos Santos               | leofagner9@gmail.com                    | https://github.com/FagnerDSantos         |
+| Fagner dos Santos               | leofagner9@gmail.com                    | https://github.com/FagnerDSantos          |
 | Felipe Abreu Motta              | flp.motta@hotmail.com                   | https://github.com/Motta-Felipe           |
 | Felipe Alves                    | No Email                                | https://github.com/batocciero             |
 | Felipe Ceglia                   | felipe@dxwatch.com                      | https://github.com/mehale                 |
