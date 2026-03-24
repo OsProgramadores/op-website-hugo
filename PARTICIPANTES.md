@@ -115,6 +115,7 @@ Ao adicionar o seu nome, por favor observe:
 | Elaine Saith Martins            | elainesaith@hotmail.com                 | https://github.com/elainesaith            |
 | Elci Ubarana Junior             | elci.junior@gmail.com                   | https://github.com/JuniorUbarana          |
 | Elder Louzada                   | elder_louzada@outlook.com               | https://github.com/reedlex98              |
+| Elias Victor de Andrade Torres  | evtorres.dev@gmail.com                  | https://github.com/torres-elias           |
 | Ênio Vinicius C. dos Santos     | enio.vi.santos@gmail.com                | https://github.com/eniovi                 |
 | Enoque de Sousa Neres           | enoque.sneres@live.com                  | https://github.com/enqneres               |
 | Evaristo Pinto                  | evaristopinto16@gmail.com               | https://github.com/Evaristopinto16        |
