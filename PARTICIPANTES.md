@@ -386,6 +386,7 @@ Ao adicionar o seu nome, por favor observe:
 | Thiago Costa Barbosa            | prod_t@live.com                         | https://github.com/ThiagoCostaBarbosa     |
 | Thiago Lima de Souza            | thiagolsmail@gmail.com                  | https://github.com/thiagosouzalink        |
 | Thiago Morette de Oliveira      | thiagomorette@gmail.com                 | https://github.com/Morette                |
+| Thiago Rafael Munhoz Barroz     | thiagor4afael@gmail.com                 | https://github.com/churrozz               |
 | Thiago Soares da Silva          | thiagosantana12@gmail.com               | https://github.com/Thiago-Soares          |
 | Tiago Dias Batista              | tiago@webdeleve.net                     | https://github.com/tigo-di                |
 | Tiago Luis Borges               | t.i.borges.ll@gmail.com                 | https://github.com/ID-Cosmo               |
