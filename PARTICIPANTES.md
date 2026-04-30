@@ -99,6 +99,7 @@ Ao adicionar o seu nome, por favor observe:
 | Denis Almeida                   | denis.meida@gmail.com                   | https://github.com/denisvba               |
 | Deyvisson Dias Magalhães        | deyvi0010@gmail.com                     | https://github.com/Deyvi-dev              |
 | Dickson A. de Souza             | No Email                                | https://github.com/disouzam               |
+| Diego Ribeiro Wanderley         | eliwandejp@gmail.com                    | https://github.com/DiegoRibeiroWanderley  |
 | Diego Roberto Silva Nonato      | nonatodiego@hotmail.com                 | https://github.com/nonatodiego            |
 | Diogo Anderson de O. Silva      | diogoaos@gmail.com                      | https://github.com/diogoaos               |
 | Diogo Brito Duque               | duq.diogo@gmail.com                     | https://github.com/Diogo-Duque            |
@@ -425,4 +426,3 @@ Ao adicionar o seu nome, por favor observe:
 | Yago de Matos                   | No Email                                | https://github.com/yagodematos            |
 | Yan Ferreira                    | yanfvc@gmail.com                        | https://github.com/yanvferreira           |
 | Zilton Sales                    | No Email                                | https://github.com/sokolov13              |
-| Diego Ribeiro Wanderley         | eliwandejp@gmail.com                    | https://github.com/DiegoRibeiroWanderley  |
