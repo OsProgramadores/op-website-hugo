@@ -254,6 +254,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Harrison Silva            | lucas.harrison@certto.com.br            | https://github.com/Harrisoned             |
 | Lucas Hyago Fonseca Pimentel    | lucaspimentel436@gmail.com              | https://github.com/strelogg               |
 | Lucas Matheus Gonçalves         | lucas.66matheus@gmail.com               | https://github.com/lucasmgon              |
+| Lucas Nunes Dos Santos Cruz     | lucasnunes78434@gmail.com               | https://github.com/lucasnunes78434-jpg    |
 | Lucas Rodrigues Santos          | rodrigues-i@outlook.com                 | https://github.com/rodrigues-i            |
 | Lucas Santos Souza              | lucas_souzacco@hotmail.com              | https://github.com/Doctor45dev            |
 | Lucas Soares de Brito           | lucasbritodev@gmail.com                 | https://github.com/lucasbrito-dev         |
