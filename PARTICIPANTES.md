@@ -259,6 +259,7 @@ Ao adicionar o seu nome, por favor observe:
 | Lucas Santos Souza              | lucas_souzacco@hotmail.com              | https://github.com/Doctor45dev            |
 | Lucas Soares de Brito           | lucasbritodev@gmail.com                 | https://github.com/lucasbrito-dev         |
 | Lucas Vinicius de Lima Corrêa   | lucascorrea.ads01@gmail.com             | https://github.com/lucascorreaads         |
+| Luciano Ribeiro do Prado        | lucianor.prado@hotmail.com              | https://github.com/LukePrado              |
 | Luigi Bassorici                 | hydraxler@gmail.com                     | https://github.com/hydraxler              |
 | Luis Eduardo Furtado Conde      | luiseduardojp8@gmail.com                | https://github.com/eduardoconde-bit       |
 | Luis Vinicius Borges da Silva   | viniborges@yahoo.com.br                 | https://github.com/viniborges             |
