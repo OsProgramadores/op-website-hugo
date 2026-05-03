@@ -8,3 +8,6 @@ Untitled.ipynb
 .vs
 .idea
 .hugo_build.lock
+#ignore Gemini CLI-related files
+GEMINI.md
+PLAN.md
