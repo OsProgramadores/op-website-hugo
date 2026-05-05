@@ -306,7 +306,7 @@ Ao adicionar o seu nome, por favor observe:
 | Michel Bernardo da Silveira     | No Email                                | https://github.com/michelbernardods       |
 | Miguel Ramos Gil                | miguelramos5gg@gmail.com                | https://github.com/Molgo                  |
 | Miguel Vitta Alcântara Borges   | miguelvittadev@gmail.com                | https://github.com/miguelvitta            |
-| Miracle Temitope Hazzan         | miracle.hazzan@academico.ufpb.br        | https://github.com/bloomingmiracle |
+| Miracle Temitope Hazzan         | bloomingMi01@gmail.com                  | https://github.com/bloomingmiracle        |
 | Moises Maia Gomes               | dev.mmaia@gmail.com                     | https://github.com/devmmaia               |
 | Murilo de Andrade Melo          | muriloa.melo01@gmail.com                | https://github.com/MuriloAM               |
 | Nataniel dos Santos Costa       | natanscosta7@gmail.com                  | https://github.com/NatanTheMan            |
