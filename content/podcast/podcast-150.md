@@ -1,12 +1,12 @@
 +++
-date = "2026-05-04T00:00:00-00:00"
-title = "E150 - Edgar de Farias de Paula"
+date = "2026-05-03T00:00:00-00:00"
+title = "E150 - Edgar Farias de Paula"
 categories = ["Podcast"]
 tags = ["podcast","osprogramadores"]
 banner = "img/banners/podcast-400px.png"
 +++
 
-### Edgar de Farias de Paula
+### Edgar Farias de Paula
 
 > Você pode assistir ao episódio [através deste link](https://youtu.be/dQhLS_np2BM).
 
@@ -16,7 +16,7 @@ banner = "img/banners/podcast-400px.png"
 
 ---
 
-Neste episódio do podcast OsProgramadores, Marcelo conversa com Edgar de Farias de Paula.
+Neste episódio do podcast OsProgramadores, Marcelo conversa com Edgar Farias de Paula.
 
 #### Links mencionados:
 
