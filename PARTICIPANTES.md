@@ -332,6 +332,7 @@ Ao adicionar o seu nome, por favor observe:
 | Paulo Renato Xavier da Silva    | paulorenatoxs@gmail.com                 | https://github.com/paulorenatoxs          |
 | Pedro Antonio Brito Campos      | Sirpedro49@gmail.com                    | https://github.com/Punkuchiha             |
 | Pedro Augusto Oliveira Cruz     | oliveiracruzpedroaugusto@gmail.com      | https://github.com/PedroaocDev            |
+| Pedro Benício Lacet da Silva    | pedrobenicio733@gmail.com               | https://github.com/pedrobenicio2005       |
 | Pedro de Barros Veríssimo       | pedver96@gmail.com                      | https://github.com/pbv2                   |
 | Pedro Expedito De Oliveira      | expeditocaf00@gmail.com                 | https://github.com/pedroexpedito          |
 | Pedro Fonseca Ribeiro           | pedro.fr@estudante.iftm.edu.br          | https://github.com/pedrofnscr             |
