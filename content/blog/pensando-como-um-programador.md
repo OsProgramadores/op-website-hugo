@@ -130,6 +130,6 @@ Boa sorte em sua jornada para se tornar um(a) programador(a)!
 ### Para dar continuidade em seus estudos agora, recomendamos os seguintes passos:
 
 1. Vá para o artigo [Olá Mundo]({{< ref "/blog/ola-mundo.md" >}} ).
-2. **Há um ótimo [material sobre Introdução à Ciência da Computação feito por Harvard](https://youtu.be/SYZkrqW8oJc?si=7In3_gUFxc-8pe1f) que recomendamos.**
+2. **Há um ótimo [material sobre Introdução à Ciência da Computação feito por Harvard](https://youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6&si=TsF4XRIBSthvsP68) que recomendamos.**
 3. Também recomendamos que você faça os [desafios do grupo](https://osprogramadores.com/desafios/) após ter lido os artigos.
 4. Caso tenha dificuldades com os exercícios, ou dúvidas, faça perguntas no [grupo no telegram](https://t.me/osprogramadores).
