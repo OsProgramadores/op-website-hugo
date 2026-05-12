@@ -71,17 +71,12 @@ Os caminhos são tantos! Escolha um e vá! Mas não se esqueça de algo muito im
 ![Jump](/img/conteudos-de-artigos/campsber_jump.gif)
 ###### E esse sou eu (tentando) enfrentar o medo de altura.
 
-Me chama lá no Twitter: https://twitter.com/campsber
+[Curso de Harvard (CS50)](https://youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6&si=TsF4XRIBSthvsP68)
 
-Curso de Harvard (CS50): https://www.youtube.com/c/cs50
+[Podcast OsProgramadores](https://anchor.fm/osprogramadores)
 
-Podcast OsProgramadores: https://anchor.fm/osprogramadores
+[Repositório do Quotes](https://github.com/bernardocamps/quotes)
 
-Quotes inspiracionais: https://bernardocamps.github.io/quotes/
+[Backend do Quotes em Go](https://github.com/mpinheir/quotes-backend)
 
-Repositório do Quotes: https://github.com/bernardocamps/quotes
-
-Backend do Quotes em Go: https://github.com/mpinheir/quotes-backend
-
-Cursos da PUC Minas Virtual:
-https://www.pucminas.br/PucVirtual/Graduacao/Paginas/curso-listagem.aspx?local=7c032ce9-43f6-4571-b72e-674be76a5b62
+[Cursos da PUC Minas Virtual](https://www.pucminas.br/PucVirtual/Graduacao/Paginas/curso-listagem.aspx?local=7c032ce9-43f6-4571-b72e-674be76a5b62)
