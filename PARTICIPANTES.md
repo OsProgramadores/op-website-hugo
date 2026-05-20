@@ -144,6 +144,7 @@ Ao adicionar o seu nome, por favor observe:
 | Frank Dantas Cunha              | frank_26@outlook.com                    | https://github.com/frankdantas            |
 | Frederico Gomes de Paiva        | fredericopaiva@gmail.com                | https://github.com/fredpaiva42            |
 | Gabriel Barbosa                 | gabrieltads2016@gmail.com               | https://github.com/gabrielrbarbosa        |
+| Gabriel De Albuquerque          | simplachb@gmail.com                     | https://github.com/simpgda                |
 | Gabriel Dos Santos              | gabriel.santosti01@gmail.com            | https://github.com/GabrielDS              |
 | Gabriel Galdino                 | gabrielgaldinogomes@gmail.com           | https://github.com/gabogaldino            |
 | Gabriel Lampa da Cunha          | gabriellampa@gmail.com                  | https://github.com/icaroraci/             |
