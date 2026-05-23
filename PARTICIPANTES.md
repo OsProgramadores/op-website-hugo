@@ -324,6 +324,7 @@ Ao adicionar o seu nome, por favor observe:
 | Oberdan Junior                  | oberdan.ads@gmail.com                   | https://github.com/Oberdan198             |
 | Osmar William da S. B. Souza    | osmarwilliam4@gmail.com                 | https://github.com/osmarwilliam           |
 | Otniel dos Santos Silva         | otniel.dss04@gmail.com                  | https://github.com/OtnielSSilva           |
+| Pedro Henrique I. dos Santos    | piterwork3@gmail.com                    | https://github.com/Piterwork              |
 | Paulo Cesar Vieira Junior       | junior.vieira.1990@gmail.com            | https://github.com/vieirajunior-90        |
 | Paulo Cezar Sheliga             | paulosheliga@gmail.com                  | https://github.com/Sheliga                |
 | Paulo Eduardo Cantuária         | padu77@gmail.com                        | https://github.com/paducantuaria          |
