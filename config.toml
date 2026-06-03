@@ -1,7 +1,7 @@
 baseurl = "https://osprogramadores.com/"
 title = "OsProgramadores"
 theme = "hugo-universal-theme"
-languageCode = "pt_BR"
+locale = "pt_BR"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "pt"
 
@@ -99,7 +99,7 @@ pagination.PagerSize = 12
     longitude = "-48.0786626"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

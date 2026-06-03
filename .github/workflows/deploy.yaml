@@ -49,8 +49,8 @@ on:
     branches:
       - master
   schedule:
-    - cron: '7 * * * *'
-    - cron: '37 * * * *'
+    - cron: "7 * * * *"
+    - cron: "37 * * * *"
 
 jobs:
   deploy_op_website:
@@ -66,7 +66,7 @@ jobs:
         with:
           path: op-website-hugo
           persist-credentials: false
-          submodules: true  # Fetch Hugo themes.
+          submodules: true # Fetch Hugo themes.
 
       - name: Checkout op-desafios
         uses: actions/checkout@v3
@@ -83,7 +83,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.139.2'
+          hugo-version: "0.162.0"
 
       - name: Build scoreboard binary
         run: pushd op-scoreboard && go build -v && popd
