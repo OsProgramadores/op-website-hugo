@@ -214,6 +214,7 @@ Ao adicionar o seu nome, por favor observe:
 | José Marcos R. Ferreira         | contato.marcosrf@gmail.com              | https://github.com/jmarcos16              |
 | Jose Maria C. de F. Júnior      | jozemariajrr@gmail.com                  | https://github.com/jozemaria              |
 | José Rodrigo de Sousa           | rodrigo.ka1709@gmail.com                | https://github.com/Rodrigo1809            |
+| Jose Romulo de Oliveira Silva   | josejromulo3@gmail.com                  | https://github.com/josejromulo3-cell      |
 | José Rubens dos S. Oliveira     | rubensdossantos.dev@gmail.com           | https://github.com/kaetaen                |
 | José Thiago dos S. Moreira      | moreira.joset@gmail.com                 | https://github.com/josethiago             |
 | José Ulisses de C. C. Pinto     | joseulisses0@gmail.com                  | https://github.com/Zezola                 |
