@@ -171,7 +171,7 @@ Ao adicionar o seu nome, por favor observe:
 | Henrique Ibrahim                | No Email                                | https://github.com/henriqueibrahim        |
 | Heverton Cristyan N. da Silva   | hevertoncristyan5@gmail.com             | https://github.com/Heverton20848018       |
 | Hiago Leres da Costa            | hiagoleres2@gmail.com                   | https://github.com/hiagoleresdev          |
-| Hilda Gomes.                    | gomeshilda2711@gmail.com                | https://github.com/gomeshilda2711-maker   |                       |
+| Hilda Gomes                     | gomeshilda2711@gmail.com                | https://github.com/gomeshilda2711-maker   |            
 | Higor Carneiro Passos           | higorcpassos@gmail.com                  | https://github.com/hcpassos               |
 | Hugo Araujo Rodrigues           | o.hugo@outlook.com                      | https://github.com/oohugo                 |
 | Igor Lima Mendes                | igorlimamendes@protonmail.com           | https://github.com/igorlimamendes         |
