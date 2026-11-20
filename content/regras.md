@@ -23,6 +23,8 @@ Tópicos e comportamentos **expressamente proibidos** no grupo (resultam em bani
 * Spam de qualquer forma (comercial, religioso, político, etc).
 * Pregação religiosa.
 * Pregação política.
+* Promoção de software proprietário (projetos compartilhados devem ser FOSS).
+* Promoção de “AI slop”, mesmo se FOSS (a classificação fica a critério dos admins).
 * **Qualquer atividade ilegal**, como promoção de pirataria de qualquer forma, estelionato, "hacking", "carding", troca de dados obtidos de forma ilegal, venda ou consumo de drogas, etc (independente da sua opinião sobre o assunto).
 * Ataques pessoais ou perseguição de qualquer forma.
 * Abordar participantes do grupo em privado para oferecer serviços de qualquer tipo.
